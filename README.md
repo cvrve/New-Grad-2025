@@ -15,7 +15,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [Resumes.fy
 			<br>
 			<div>
 			<a href="https://resumes.fyi">
-          <img src="https://i.imgur.com/IT54Gi5.png" width="450" alt="Email">
+          <img src="https://i.imgur.com/5hREqVC.png" width="450" alt="Email">
         </a>
 			</div>
 		<sub><i>Share any other cool projects you make using the repo, and we would love to give you a shoutout!</i></sub>
