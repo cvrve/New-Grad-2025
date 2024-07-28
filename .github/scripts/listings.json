@@ -1,0 +1,52 @@
+[
+    {
+        "date_updated": 1722110312,
+        "url": "https://www.disneycareers.com/en/job/-/-/391/68004930112",
+        "company_name": "The Walt Disney Company",
+        "title": "Software Engineer I",
+        "locations": [
+            "New York, NY",
+            "Santa Monica, CA",
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "a2979e6b-7e34-4538-a0ae-7a55b6f8ef06",
+        "date_posted": 1722110312,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1722110501,
+        "url": "https://boards.greenhouse.io/twilio/jobs/6127332",
+        "company_name": "Twilio",
+        "title": "Software Engineer - New Graduate (2024 Recent Grads)",
+        "locations": [
+            "Remote, US"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "3807beac-056b-4032-af5a-b8c0826131ab",
+        "date_posted": 1722110501,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1722110690,
+        "url": "https://navan.com/careers/openings/5382869?gh_jid=5382869",
+        "company_name": "Navan",
+        "title": "University 2024 Graduate - Software Engineer (Back-End)",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "bd362483-5fce-4c4c-a733-aace3cf76a8d",
+        "date_posted": 1722110690,
+        "company_url": "",
+        "is_visible": true
+    }
+]
