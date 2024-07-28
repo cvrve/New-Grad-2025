@@ -31,7 +31,8 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [Resumes.fy
 [⬇️ Jump to bottom ⬇️](https://github.com/cvrve/New-Grad#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
-
+| Company | Role | Location | Application/Link | Date Posted |
+| --- | --- | --- | :---: | :---: |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
 [⬆️ Back to Top ⬆️](https://github.com/cvrve/New-Grad#the-list-)
