@@ -45,7 +45,7 @@ def getLink(listing):
         return f'<a href="{link}"><img src="{LONG_APPLY_BUTTON}" width="118" alt="Apply"></a>'
     
     simplifyLink = "https://simplify.jobs/p/" + listing["id"] + "?utm_source=GHList"
-    return f'<a href="{link}"><img src="{SHORT_APPLY_BUTTON}" width="84" alt="Apply"></a> <a href="{simplifyLink}"><img src="{LONG_APPLY_BUTTON}" width="30" alt="Simplify"></a>'
+    return f'<a href="{link}"><img src="{SHORT_APPLY_BUTTON}" width="84" alt="Apply"></a>'
  
 
 def create_md_table(listings):
