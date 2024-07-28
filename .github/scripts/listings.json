@@ -1,5 +1,1649 @@
 [
     {
+        "source": "Simplify",
+        "company_name": "Udacity",
+        "id": "17bf7378-c636-4ff0-b210-7f9891cb37ff",
+        "title": "Korean Speaking Mentors - Independent Contractor - : Digital Marketing Mentor & Project Reviewer",
+        "active": false,
+        "date_updated": 1719617666,
+        "date_posted": 1719617666,
+        "url": "https://boards.greenhouse.io/udacity/jobs/6513205002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Udacity",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Udacity",
+        "id": "8df90708-bb86-4bda-b294-cba88c6c26c4",
+        "title": "Korean Speaking Mentors - Independent Contractor - : Deep Learning Mentor & Project Reviewer",
+        "active": false,
+        "date_updated": 1719617665,
+        "date_posted": 1719617665,
+        "url": "https://boards.greenhouse.io/udacity/jobs/6418843002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Udacity",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Udacity",
+        "id": "d2fececf-fae9-4efa-8c5c-893797a14c8d",
+        "title": "Korean Speaking Mentors - Independent Contractor - : C++ Mentor & Project Reviewer",
+        "active": false,
+        "date_updated": 1719617665,
+        "date_posted": 1719617665,
+        "url": "https://boards.greenhouse.io/udacity/jobs/6900075002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Udacity",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Udacity",
+        "id": "db037924-f452-44f6-865a-9f9e580a1dcd",
+        "title": "Korean Speaking Mentors - Independent Contractor - : Business Analytics Mentor & Project Reviewer",
+        "active": false,
+        "date_updated": 1719617664,
+        "date_posted": 1719617664,
+        "url": "https://boards.greenhouse.io/udacity/jobs/6900057002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Udacity",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Udacity",
+        "id": "14cf7eaf-f83b-44a8-bccf-6e896fbec355",
+        "title": "German Speaking Mentors - Independent Contractor - : Data Analytics & Visualization Mentor & Project Reviewer",
+        "active": false,
+        "date_updated": 1719617663,
+        "date_posted": 1719617663,
+        "url": "https://boards.greenhouse.io/udacity/jobs/6837289002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Udacity",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Udacity",
+        "id": "661b867e-9320-4776-9497-7b6e5b53a309",
+        "title": "Korean Speaking Mentors - Independent Contractor - : Intro to Machine Learning w/ Pytorch Mentor & Project Reviewer",
+        "active": false,
+        "date_updated": 1719617666,
+        "date_posted": 1719617666,
+        "url": "https://boards.greenhouse.io/udacity/jobs/6418935002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Udacity",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Axios",
+        "id": "a3dad451-a0c4-447c-b79c-691b756e5cf2",
+        "title": "Data Analyst I",
+        "active": true,
+        "date_updated": 1719617685,
+        "date_posted": 1719617685,
+        "url": "https://boards.greenhouse.io/axios/jobs/5904760",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Axios",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Udacity",
+        "id": "a543db6a-bb69-4a11-9d8b-d383ec793579",
+        "title": "Korean Speaking Mentors - Independent Contractor - : Intro to Programming Mentor & Project Reviewer",
+        "active": false,
+        "date_updated": 1719617666,
+        "date_posted": 1719617666,
+        "url": "https://boards.greenhouse.io/udacity/jobs/6900096002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Udacity",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Udacity",
+        "id": "c4003300-477e-460e-b190-161add1450f2",
+        "title": "Korean Speaking Mentors - Independent Contractor - : AI for Healthcare Mentor & Project Reviewer",
+        "active": false,
+        "date_updated": 1719617665,
+        "date_posted": 1719617665,
+        "url": "https://boards.greenhouse.io/udacity/jobs/6722006002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Udacity",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Optiver",
+        "id": "e8e9aef3-8d3b-4bf7-a253-0f90da0386a3",
+        "title": "Campus: Quantitative Trader - 2024 Start - Chicago",
+        "active": false,
+        "date_updated": 1719617641,
+        "date_posted": 1719617641,
+        "url": "https://boards.greenhouse.io/optiverinternreferralc4/jobs/6782278002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Insider",
+        "id": "3067c2f0-46bd-498e-b0d5-22383913b7d7",
+        "title": "Software Developer - Insider Testinium Tech Hub - Remote",
+        "active": false,
+        "date_updated": 1719617488,
+        "date_posted": 1719617488,
+        "url": "https://jobs.lever.co/useinsider/2daee7a0-a781-4f78-a812-d8d5835cccee/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Insider",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Emsi",
+        "id": "7e4f91ca-2f7e-40fd-a9c4-f57409ea2ec5",
+        "title": "Data Aggregation & Curation Associate",
+        "active": false,
+        "date_updated": 1719617498,
+        "date_posted": 1719617498,
+        "url": "https://jobs.lever.co/economicmodeling/114e0b8f-14ee-4db7-8fd7-92b3f20ccf5f/apply",
+        "locations": [
+            "Cambridge, MA",
+            "Moscow, ID",
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Emsi",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HoYoverse",
+        "id": "1f269ec3-b9d2-4a1f-95a9-8a60a1940cce",
+        "title": "Data Analyst \u2013 Fresh Grad",
+        "active": false,
+        "date_updated": 1719617305,
+        "date_posted": 1719617305,
+        "url": "https://boards.greenhouse.io/hoyoverse/jobs/4271720007",
+        "locations": [
+            "Montreal, QC, Canada",
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ho-Yoverse",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HoYoverse",
+        "id": "37bf266d-7f6a-4d44-ba4e-907cc5d5ddee",
+        "title": "Game Server Developer \u2013 Fresh Grad",
+        "active": false,
+        "date_updated": 1719617313,
+        "date_posted": 1719617313,
+        "url": "https://boards.greenhouse.io/hoyoverse/jobs/4261501007",
+        "locations": [
+            "Montreal, QC, Canada",
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ho-Yoverse",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HoYoverse",
+        "id": "f81ee8e7-1de1-4735-9670-2cfd8ee6a53a",
+        "title": "Data Analyst \u2013 Fresh Grad - Globalization",
+        "active": false,
+        "date_updated": 1719617305,
+        "date_posted": 1719617305,
+        "url": "https://boards.greenhouse.io/hoyoverse/jobs/4271721007",
+        "locations": [
+            "Montreal, QC, Canada",
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ho-Yoverse",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vail Systems",
+        "id": "a2eafbe1-b4eb-4172-97ad-050a51d2a225",
+        "title": "Software Engineer - Ivr",
+        "active": true,
+        "date_updated": 1719616996,
+        "date_posted": 1719616996,
+        "url": "https://jobs.lever.co/vailsys/c2775699-21d7-466b-9eff-1c619efda71b/apply",
+        "locations": [
+            "Chicago, IL",
+            "Highland Park, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Vail-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Meridian Link",
+        "id": "bc64d1f7-04b6-48dc-ae7b-6747f6ef89b2",
+        "title": "Associate Software Instructional Designer",
+        "active": true,
+        "date_updated": 1719616712,
+        "date_posted": 1719616712,
+        "url": "https://jobs.lever.co/meridianlink/36dbad89-2ef1-4a7f-b73c-1964c6a23776/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meridian-Link",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Blanc Labs",
+        "id": "655d6881-952a-4297-896b-893603d74e19",
+        "title": "Join Blanc Labs' Digital Academy Program",
+        "active": false,
+        "date_updated": 1719616690,
+        "date_posted": 1719616690,
+        "url": "https://jobs.lever.co/blanc-labs/b6971ff4-8c2b-47c7-b080-ff4c7ac28e63/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Blanc-Labs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Singularity 6",
+        "id": "844bbb7d-0364-4317-94e2-449bf2d04895",
+        "title": "Data Application Drop Box",
+        "active": true,
+        "date_updated": 1719616038,
+        "date_posted": 1719616038,
+        "url": "https://www.singularity6.com/careers?gh_jid=4930918004",
+        "locations": [
+            "LA",
+            "Irvine, CA",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Singularity6",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Alchemy",
+        "id": "e466e004-6e57-4d38-bb66-1367f180c6d9",
+        "title": "Alchemy Analyst - Technical Writer - Part or Full Time",
+        "active": true,
+        "date_updated": 1719615931,
+        "date_posted": 1719615931,
+        "url": "https://boards.greenhouse.io/alchemy/jobs/4282639005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Alchemy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Level AI",
+        "id": "82618d55-27e8-4e2e-b289-8bb7c8f16b00",
+        "title": "AI Analyst - Delhi - India",
+        "active": false,
+        "date_updated": 1719615428,
+        "date_posted": 1719615428,
+        "url": "https://jobs.lever.co/levelai/e96adb66-218d-46f6-988f-f353bed10830/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Level-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cohere",
+        "id": "2393fef0-ef4f-4575-90b7-87cd5ed1652d",
+        "title": "Data Annotator - Science",
+        "active": true,
+        "date_updated": 1719617135,
+        "date_posted": 1719519150,
+        "url": "https://jobs.lever.co/cohere/2fede710-d8ff-4ccc-af70-094877e7cc58/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cohere",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "ebf96118-757e-4330-8907-6871eeb1650f",
+        "title": "Software Engineer \u2013 New Grad - US Government",
+        "active": true,
+        "date_updated": 1719847228,
+        "date_posted": 1719847228,
+        "url": "https://jobs.lever.co/palantir/a771a3d8-a99f-4df1-b250-a9a30c6dd070/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "4be7508b-9fac-4d68-b61a-d0ea108bdbfb",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": false,
+        "date_updated": 1719847227,
+        "date_posted": 1719847227,
+        "url": "https://jobs.lever.co/palantir/293d3ca4-0908-4ff7-87d6-c1adc066e527/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "e94f5b72-1ca3-4376-8098-a07eacf2d7e1",
+        "title": "Software Engineer \u2013 New Grad - US Government",
+        "active": true,
+        "date_updated": 1719847227,
+        "date_posted": 1719847227,
+        "url": "https://jobs.lever.co/palantir/19d5e5f8-37a6-4a6f-b2ca-423370b3a1c2/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "0a14e404-4828-4af4-bb63-2fb23a5a061f",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": false,
+        "date_updated": 1719847226,
+        "date_posted": 1719847226,
+        "url": "https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "395bbd57-d183-4045-a5a9-d66137760142",
+        "title": "Software Engineer \u2013 New Grad - US Government",
+        "active": true,
+        "date_updated": 1719847226,
+        "date_posted": 1719847226,
+        "url": "https://jobs.lever.co/palantir/000b1a24-4b0f-436f-a6da-9a920e259925/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "f6f83b45-cf4c-4a3e-8f32-4c64672610a1",
+        "title": "Forward Deployed Software Engineer \u2013 New Grad - US Government",
+        "active": true,
+        "date_updated": 1719861792,
+        "date_posted": 1719847211,
+        "url": "https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "1f6bee99-9cca-467c-a0b3-899d61139a03",
+        "title": "Forward Deployed Software Engineer \u2013 New Grad - US Government",
+        "active": true,
+        "date_updated": 1719847210,
+        "date_posted": 1719847210,
+        "url": "https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "629d4b11-0984-442c-b615-51b48771615b",
+        "title": "Forward Deployed Software Engineer \u2013 New Grad",
+        "active": false,
+        "date_updated": 1719847206,
+        "date_posted": 1719847206,
+        "url": "https://jobs.lever.co/palantir/8dcdb586-46ae-4f94-9d05-7f1989400049/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Akuna Capital",
+        "id": "8c2c422f-682a-4e33-98ee-3a969594ebe4",
+        "title": "Akuna Capital\u2019s 2024 Virtual Quant Trading Challenge",
+        "active": true,
+        "date_updated": 1719860685,
+        "date_posted": 1719846633,
+        "url": "https://www.akunacapital.com/job-details?gh_jid=5652055",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tanius Technology",
+        "id": "d049153b-242b-412f-b65d-dfdfdcb625b3",
+        "title": "Junior Trader",
+        "active": true,
+        "date_updated": 1719517863,
+        "date_posted": 1719517863,
+        "url": "https://boards.greenhouse.io/tanius/jobs/7501035002",
+        "locations": [
+            "Danville, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tanius-Tech",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Addepar",
+        "id": "7689a5e9-c7b8-435c-880c-9cac126b9a31",
+        "title": "Full-Stack Software Engineer - Billing",
+        "active": true,
+        "date_updated": 1719861447,
+        "date_posted": 1718696434,
+        "url": "https://boards.greenhouse.io/addepar1/jobs/7285744002",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Addepar",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Salesforce",
+        "id": "0e3999fb-1a40-463c-858d-fc0903e62bc2",
+        "title": "Software Engineering AMTS/MTS \u2013 New Grad",
+        "active": true,
+        "date_updated": 1719875851,
+        "date_posted": 1719875851,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS--New-Grad-_JR244479-1",
+        "locations": [
+            "Cambridge, MA",
+            "Seattle, WA",
+            "Indianapolis, IN",
+            "SF",
+            "Remote in USA",
+            "McLean, VA",
+            "Chicago, IL",
+            "NYC",
+            "Bellevue, WA",
+            "Atlanta, GA",
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Triumvirate Environmental",
+        "id": "fce85f94-cb7d-436e-bc2f-f89af295616e",
+        "title": "Technical Services Associate",
+        "active": true,
+        "date_updated": 1720019859,
+        "date_posted": 1720019859,
+        "url": "https://boards.greenhouse.io/triumvirateenvironmental/jobs/4382923006",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Triumvirate-Environmental",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CesiumAstro",
+        "id": "bab4e6a8-aada-4e99-9e7d-90684e671710",
+        "title": "Embedded Software Engineer I",
+        "active": true,
+        "date_updated": 1719962162,
+        "date_posted": 1719962162,
+        "url": "https://jobs.lever.co/CesiumAstro/a7adad7c-bcf8-4431-b04a-91c7ce005b07/apply",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CesiumAstro",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Veeva Systems",
+        "id": "0ed8b19a-cee7-4d7f-9b54-1c3863536432",
+        "title": "Associate Software Engineer \u2013 Seeking 2024 Grads",
+        "active": false,
+        "date_updated": 1719961909,
+        "date_posted": 1719961909,
+        "url": "https://jobs.lever.co/veeva/689b64ea-1518-483e-9c47-b41fd72fdcfa/apply",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Workrise",
+        "id": "96cfaafe-5617-402c-928d-2c58f034b12f",
+        "title": "Associate \u2013 Health Safety & Environmental",
+        "active": true,
+        "date_updated": 1720033425,
+        "date_posted": 1719520307,
+        "url": "https://boards.greenhouse.io/workrise/jobs/6021743003",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Workrise",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sourcegraph",
+        "id": "e22655d2-f248-4bc6-af2d-f18003895b6a",
+        "title": "Software Engineer - Cloud Ops - Ic3",
+        "active": true,
+        "date_updated": 1719970016,
+        "date_posted": 1719520035,
+        "url": "https://boards.greenhouse.io/sourcegraph91/jobs/5201427004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sourcegraph",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ascend Analytics",
+        "id": "6ffcf3d4-b6fd-43ff-b2fd-a9c8ab4eac57",
+        "title": "Energy Analyst - General Interest",
+        "active": true,
+        "date_updated": 1720034480,
+        "date_posted": 1718965188,
+        "url": "https://boards.greenhouse.io/ascendanalytics/jobs/4384286005",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/AscendAnalytics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Match Group",
+        "id": "c508abbd-a1c9-4d82-b660-d62d3aa04a7e",
+        "title": "Data Scientist I - Marketing Analytics",
+        "active": true,
+        "date_updated": 1720048707,
+        "date_posted": 1720048707,
+        "url": "https://jobs.lever.co/matchgroup/d1083f08-dde7-437b-a922-a40a7bf77cfc/apply",
+        "locations": [
+            "Hollywood, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Match-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Internet Brands",
+        "id": "fb919022-d55e-4303-aecf-bce5b13b1610",
+        "title": "Data Analyst Job ID 2024",
+        "active": true,
+        "date_updated": 1720048310,
+        "date_posted": 1720048310,
+        "url": "https://jobs.jobvite.com/internetbrands/job/oYIZtfwS?nl=1&nl=1&fr=false",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Internet-Brands",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jerry",
+        "id": "fb72e240-9bf3-41f5-b801-a42abe9200aa",
+        "title": "Software Engineer I - Toronto",
+        "active": true,
+        "date_updated": 1720192298,
+        "date_posted": 1720192298,
+        "url": "https://jobs.ashbyhq.com/Jerry/288e3c48-5428-4397-90c9-5448ab57cc27/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1720217188,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210527372",
+        "company_name": "JPMorgan Chase",
+        "title": "2025 Software Engineer Program",
+        "locations": [
+            "Atlanta, GA",
+            "Austin, TX",
+            "Chicago, IL",
+            "Columbus, OH",
+            "Houston, TX",
+            "Jersey City, NJ",
+            "New York, NY",
+            "Palo Alto, CA",
+            "Plano, TX",
+            "Seattle, WA",
+            "Tampa, FL",
+            "Wilmington, DE"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "hsoper",
+        "id": "5b4e70ab-73e3-48d5-9731-fbcc9c989e57",
+        "date_posted": 1720217188,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1720217203,
+        "url": "https://www.citadelsecurities.com/careers/details/software-engineer-2025-university-graduate-us-2/",
+        "company_name": "Citadel Securities",
+        "title": "Software Engineer \u2013 2025 University Graduate (US)",
+        "locations": [
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "DhyeyMavani2003",
+        "id": "99ca086f-7daf-46aa-939b-f5c2db9a24d4",
+        "date_posted": 1720217203,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Regrello",
+        "id": "66043d79-b1e1-42b7-a522-d0ddf82abe52",
+        "title": "Software Engineer - Backend - Forms Engine",
+        "active": true,
+        "date_updated": 1720220836,
+        "date_posted": 1720220836,
+        "url": "https://jobs.lever.co/regrello/466cc193-dc1e-49e0-86e4-8fd4b9b74d6f/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Regrello",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1720360117,
+        "url": "https://jobs.ashbyhq.com/ramp/0ae01d73-3f48-4722-9810-0c6c1940d7bd",
+        "company_name": "Ramp",
+        "title": "Software Engineer - Frontend",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "01a37b54-d08a-4e6c-be20-0f9cd232496d",
+        "date_posted": 1720360117,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1720405860,
+        "url": "https://www.wayfair.com/careers/job/software-engineer-iii/7117686002?gh_src=&source=",
+        "company_name": "Wayfair",
+        "title": "Software Engineer",
+        "locations": [
+            "Boston, Massachusetts"
+        ],
+        "sponsorship": "Other",
+        "active": false,
+        "source": "sgtanvi",
+        "id": "0ee2e986-4cef-437e-bbca-24fa69956ec0",
+        "date_posted": 1720405721,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1720406201,
+        "url": "https://careers.spglobal.com/jobs/304332?lang=en-us&utm_source=linkedin",
+        "company_name": "S&P Global",
+        "title": "Associate Platform Engineer, DevOps Support",
+        "locations": [
+            "Eastover, SC"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "sgtanvi",
+        "id": "ffb746f7-e7a0-4183-ac9c-0814dbcfc274",
+        "date_posted": 1720406201,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1721495775,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1733678/Software-Engineer---OneDrive-and-SharePoint",
+        "company_name": "Microsoft",
+        "title": "Software Engineer - OneDrive and SharePoint",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "sgtanvi",
+        "id": "dbd59c41-c140-4ecb-9ce3-bd372ba6b781",
+        "date_posted": 1720462788,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1721526814,
+        "url": "https://www.allstate.jobs/job/20643947/full-stack-software-engineer-remote-il",
+        "company_name": "Allstate",
+        "title": "Full-Stack Software Engineer",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": false,
+        "source": "sgtanvi",
+        "id": "ee42b0a0-1f78-45ba-ba91-79dfd293152d",
+        "date_posted": 1720468530,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1720468817,
+        "url": "https://www.capitalonecareers.com/job/mclean/business-analyst-associate-2025/31238/67304841584",
+        "company_name": "Capital One",
+        "title": "Business Analyst Associate",
+        "locations": [
+            "McLean, Virginia",
+            "Richmond, Virginia",
+            "Plano, Texas",
+            "New York, New York",
+            "Chicago, Illinois"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "301b3fd1-d3f6-43bc-8af7-96cd6554957b",
+        "date_posted": 1720468817,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1720499020,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/7498618002/",
+        "company_name": "Optiver",
+        "title": "Graduate Software Engineer (2025 Start \u2013 Austin)",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "34b01811-fc00-4ca9-b911-b19259d0befa",
+        "date_posted": 1720499020,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1720500020,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/142022721218192070-user-experience-designer",
+        "company_name": "Google",
+        "title": "User Experience Designer, Early Career",
+        "locations": [
+            "Mountain View, CA",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "74a8c0e7-6e7d-410b-bb3d-c5d17445e097",
+        "date_posted": 1720500020,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1720505285,
+        "url": "https://boards.greenhouse.io/drweng/jobs/5889745",
+        "company_name": "DRW",
+        "title": "Software Developer",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Shadimrad",
+        "id": "637c9e7a-3bd8-47b4-ba76-1c8282f100ea",
+        "date_posted": 1720505285,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1720512318,
+        "url": "https://www.oldmissioncapital.com/careers/?gh_jid=6009326003",
+        "company_name": "Old Mission Capital",
+        "title": "Junior Software Engineer",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "7af38e4e-65bd-40ce-bb1e-4825ce404c4e",
+        "date_posted": 1720512318,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1720512359,
+        "url": "https://www.oldmissioncapital.com/careers/?gh_jid=6009323003",
+        "company_name": "Old Mission Capital",
+        "title": "Junior Quant Trader",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "1b313f9b-0259-448b-bef8-aeff0eacf58d",
+        "date_posted": 1720512359,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1720519109,
+        "url": "https://careers.adobe.com/us/en/job/ADOBUSR146886EXTERNALENUS/Machine-Learning-Engineer",
+        "company_name": "Adobe",
+        "title": "Machine Learning Engineer - Masters/PhD",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "fb36e0ca-453f-411e-a002-904e90e23a69",
+        "date_posted": 1720517390,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1720519558,
+        "url": "https://www.citadel.com/careers/details/software-engineer-2025-university-graduate-us/",
+        "company_name": "Citadel",
+        "title": "Software Engineer",
+        "locations": [
+            "Chicago,IL",
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "c5d49884-c0ce-4f0f-bb3b-32efc47d3b19",
+        "date_posted": 1720519558,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1720580649,
+        "url": "https://boards.greenhouse.io/warp/jobs/4324888004?gh_src=a2e958824us",
+        "company_name": "Warp",
+        "title": "Software Engineer",
+        "locations": [
+            "Remote US & Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "ibrakhimus",
+        "id": "8eaa4eb6-b873-4dd4-9822-5feedb805a98",
+        "date_posted": 1720580649,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1720580962,
+        "url": "https://jobs.ashbyhq.com/openai/75420421-5a2a-4d99-8755-9eeff799de95",
+        "company_name": "OpenAI",
+        "title": "Software Engineer, Backend",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "ibrakhimus",
+        "id": "0140ff9a-bd58-4caa-8d43-bf79db0fa6b9",
+        "date_posted": 1720580962,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1720603029,
+        "url": "https://radleyjames.com/jobs/5341-c-junior-c-engineer-san-francisco/",
+        "company_name": "Radley James",
+        "title": "Junior C++ Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "168f4b9b-5255-4d8b-8c70-69a7d5aac2c8",
+        "date_posted": 1720603029,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1720603515,
+        "url": "https://boards.greenhouse.io/spacex/jobs/7527170002?gh_jid=7527170002&gh_src=3c0864192",
+        "company_name": "SpaceX",
+        "title": "Software Engineer, Flight Software",
+        "locations": [
+            "Hawthorne, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "d7931b40-02c2-4da8-b061-103aeddc51c2",
+        "date_posted": 1720603515,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1720603738,
+        "url": "https://careers.tiktok.com/position/7374936054024161562/detail?spread=5MWH5CQ",
+        "company_name": "TikTok",
+        "title": "iOS Software Engineer",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "35436760-2d22-453a-8546-e0f791b40292",
+        "date_posted": 1720603738,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1720703914,
+        "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25037&siteid=5010&jobId=759270#jobDetails=759270_5010",
+        "company_name": "Lockheed Martin",
+        "title": "Software Engineer",
+        "locations": [
+            "Annapolis, MD"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "vanshb03",
+        "id": "9170eb56-8ec9-4f0d-8ef2-af1492af5cd0",
+        "date_posted": 1720637312,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1720703678,
+        "url": "https://careers.sig.com/job/8423/Network-Engineer-New-Grad",
+        "company_name": "SIG",
+        "title": "Network Engineer",
+        "locations": [
+            "Bala Cynwyd, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "7dbe5857-0654-43ea-b4d0-245c009a86ec",
+        "date_posted": 1720702417,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1720705515,
+        "url": "https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672",
+        "company_name": "ElectronX",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "New York, NY",
+            "Chicago, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "c11a9a3b-f6b3-400c-8ba0-37b0cc9a39af",
+        "date_posted": 1720705515,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1720743844,
+        "url": "https://careers.appliedmaterials.com/careers/job/790293825926",
+        "company_name": "Applied Materials",
+        "title": "2024 Product Marketing - New College Grad Opportunity",
+        "locations": [
+            "Gloucester, MA"
+        ],
+        "sponsorship": "Other",
+        "active": false,
+        "source": "vanshb03",
+        "id": "f3943438-f9b8-4ddb-97ac-9a65fc43edd4",
+        "date_posted": 1720706317,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1720706441,
+        "url": "https://boards.greenhouse.io/purestorage/jobs/6104882",
+        "company_name": "Pure Storage",
+        "title": "Software Engineer Grad, Hyperscale",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "6ff589a2-fef3-4cee-9bbd-15f71445d0e6",
+        "date_posted": 1720706441,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1720706841,
+        "url": "https://boards.greenhouse.io/janestreet/jobs/6184529002",
+        "company_name": "Jane Street",
+        "title": "Front End Software Engineer",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "3ed874f6-9700-46e5-88ec-f026058a5c78",
+        "date_posted": 1720706841,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1720708790,
+        "url": "https://boards.greenhouse.io/janestreet/jobs/7108437002",
+        "company_name": "Jane Street",
+        "title": "Software Engineer",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "f5b9e0f7-6471-4fea-a194-abc7259c0e1a",
+        "date_posted": 1720708790,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1720711474,
+        "url": "https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/CO---Englewood-183-Inverness-Dr-West/Jr-DevOps-Engineer_R385308?q=Jr.%20DevOps%20Engineer&redirect=/Comcast_Careers/job/CO---Englewood-183-Inverness-Dr-West/Jr-DevOps-Engineer_R385308",
+        "company_name": "Comcast",
+        "title": "Jr. DevOps Engineer",
+        "locations": [
+            "Englewood, CO",
+            "Philadelphia, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "eb908cdb-f494-4412-9764-48154f4d4db7",
+        "date_posted": 1720711474,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1720712467,
+        "url": "https://mii.wd5.myworkdayjobs.com/en-US/MiTek/job/Chesterfield-MO-USA/Software-Engineer-I_R04892",
+        "company_name": "MiTek",
+        "title": "Software Engineer I",
+        "locations": [
+            "Chesterfield, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "65bf8876-e21d-4b5d-b7a1-7424c0b99467",
+        "date_posted": 1720712467,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1720828047,
+        "url": "https://careers.homedepot.com/job/20649409/software-engineer-remote-remote/?source=11663",
+        "company_name": "The Home Depot",
+        "title": "Software Engineer",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "c5792fba-48f4-4fc2-baa0-7cd089b2a6be",
+        "date_posted": 1720760261,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1720803294,
+        "url": "https://jobs.dolby.com/careers/job/23457032",
+        "company_name": "Dolby",
+        "title": "New Grad Software Engineer Intern - (Fall 24)",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "97b373be-5760-4e18-968f-d866c65dcf96",
+        "date_posted": 1720791158,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1720819042,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/140166094567416518-early-career-software-engineer-aimachine-learning",
+        "company_name": "Google",
+        "title": "Software Engineer, AI/Machine Learning",
+        "locations": [
+            "Mountain View, CA",
+            "Austin, TX",
+            "Boulder, CO",
+            "Cambridge, MA",
+            "Kirkland, WA",
+            "Los Angeles, CA",
+            "New York, NY",
+            "Raleigh, NC",
+            "Durham, NC",
+            "San Bruno, CA",
+            "Seattle, WA",
+            "San Francisco, CA",
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "8fe1e3e3-aab9-4b19-b8ce-3aeb5c177dcb",
+        "date_posted": 1720819042,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1720902945,
+        "url": "https://aexp.eightfold.ai/careers/job/23584057",
+        "company_name": "American Express",
+        "title": "Software Engineer",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "f2d7639f-36bf-4e14-b1d8-dfaa8d0577ce",
+        "date_posted": 1720902945,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1721495645,
+        "url": "https://jobs.careers.microsoft.com/global/en/share/1736578",
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "949563e0-48a8-4583-96cb-d3cb81472891",
+        "date_posted": 1720907005,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1720979812,
+        "url": "https://jobs.boeing.com/job/-/-/185/67481707328",
+        "company_name": "Boeing",
+        "title": "Software Developer",
+        "locations": [
+            "North Charleston, SC",
+            "Seattle, WA",
+            "Everett, WA",
+            "Kent, WA",
+            "Renton, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "cd65cdd7-c608-4252-bae4-1cd641909667",
+        "date_posted": 1720979812,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1720979990,
+        "url": "https://careers-gdms.icims.com/jobs/63422/job",
+        "company_name": "General Dynamics",
+        "title": "Software Engineer",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "vanshb03",
+        "id": "342a297c-675e-4ea2-85cd-dfba2b4ddb18",
+        "date_posted": 1720979990,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1720980191,
+        "url": "https://careers.amd.com/careers-home/jobs/49996?lang=en-us",
+        "company_name": "AMD",
+        "title": "ML Compiler Software Development Engineer",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "c2698921-94e3-48d3-8ab7-f5859e68a84d",
+        "date_posted": 1720980191,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1720980445,
+        "url": "https://www.tesla.com/careers/search/job/software-engineer-correctness-reliability-dojo-223336",
+        "company_name": "Tesla",
+        "title": "Software Engineer, Correctness & Reliability",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "9715d60e-04ee-4bde-9b67-4a7d81cf8ef7",
+        "date_posted": 1720980445,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1721219535,
+        "url": "https://akunacapital.com/job-details?gh_jid=6066182",
+        "company_name": "Akuna Capital",
+        "title": "Software Engineer (Entry-Level) - C++",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "3a0c916e-8b2c-4189-815e-5347e8e17e20",
+        "date_posted": 1721219535,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1721496144,
+        "url": "https://boards.eu.greenhouse.io/imc/jobs/4347769101",
+        "company_name": "IMC",
+        "title": "Graduate Software Engineer",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "5ebc1a65-fc24-4c6f-a5f0-834cdd54b3fd",
+        "date_posted": 1721496144,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1721526560,
+        "url": "https://boards.greenhouse.io/verkada/jobs/4401751007",
+        "company_name": "Verkada",
+        "title": "Embedded Software Engineer - University Graduate 2024",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "cc743ba1-0e23-4a70-a41f-fad353b675da",
+        "date_posted": 1721526560,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1721541913,
+        "url": "https://boards.greenhouse.io/passes/jobs/4035805008",
+        "company_name": "Passes",
+        "title": "Frontend Engineer",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "673dbc76-f035-4bb2-ac3c-7754b7b653e9",
+        "date_posted": 1721528066,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1721528794,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--AI---New-College-Graduate-2024_JR1984452",
+        "company_name": "NVIDIA",
+        "title": "Developer Technology Engineer, AI - New College Graduate 2024 (MS/PhD Only)",
+        "locations": [
+            "Santa Clara, CA",
+            "Austin, TX",
+            "Durham, NC",
+            "Redmond, WA",
+            "Salt Lake City, UT",
+            "Boulder, CO"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "f4a56108-0fd6-4bc7-9d34-53c31d13bab3",
+        "date_posted": 1721528794,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1721682887,
+        "url": "https://www.workatastartup.com/jobs/68040",
+        "company_name": "Axle Health",
+        "title": "Software Engineer (New Grad)",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "57172297-21c0-488c-86b0-a78a0c982448",
+        "date_posted": 1721682887,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1721733145,
+        "url": "https://careers.tiktok.com/position/7394316025958828325/detail",
+        "company_name": "TikTok",
+        "title": "Software Engineer Graduate (TikTok Short Video) - 2025 Start (Bachelors/Master)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "1c53d32e-96e2-4219-b30e-3a189aabfddf",
+        "date_posted": 1721733145,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1721733282,
+        "url": "https://careers.tiktok.com/position/7394314674919721266",
+        "company_name": "TikTok",
+        "title": "Software Engineer Graduate (TikTok Short Video) - 2025 Start (Bachelors/Master)",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "cbd9cd72-341e-456e-8168-ce70826d95a1",
+        "date_posted": 1721733282,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1721733528,
+        "url": "https://jobs.bytedance.com/en/position/7394555540905036058/detail",
+        "company_name": "ByteDance",
+        "title": "Software Engineer Graduate (AML- Engine) - 2025 Start (BS/MS)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "04e4ed12-2680-40bd-a07b-b7c10ab380d7",
+        "date_posted": 1721733528,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1721733837,
+        "url": "https://jobs.ashbyhq.com/Jerry/1cdd1696-449d-4925-86e5-d09659e5f96c",
+        "company_name": "Jerry",
+        "title": "New Graduate Software Engineer",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "973a52c6-20aa-401d-861e-1b4d63e25554",
+        "date_posted": 1721733837,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1721734010,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/7498615002/",
+        "company_name": "Optiver",
+        "title": "Graduate Software Engineer (2025 Start \u2013 Chicago)",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "b3a84e93-c526-40cc-8743-afeb0ce2da27",
+        "date_posted": 1721734010,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1721742767,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Seattle-WA/Software-Engineer-Early-Career---Verification_R45390",
+        "company_name": "Blue Origin",
+        "title": "Software Engineer Early Career - Verification",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "vanshb03",
+        "id": "7d0e524c-d5d6-4ef4-8c8f-a0b3d0af66cd",
+        "date_posted": 1721742767,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1721845759,
+        "url": "https://careers.tiktok.com/position/7394958206025550089/detail",
+        "company_name": "Tiktok",
+        "title": "Machine Learning Engineer 2025 Start (TikTok Recommendation)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "DonkeyBoy001",
+        "id": "c6b6a796-1391-4df0-95fd-eb9b5bb17484",
+        "date_posted": 1721845759,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1721867513,
+        "url": "https://careers.tiktok.com/position/7394972975772027146/detail",
+        "company_name": "Tiktok",
+        "title": "Software Engineer Graduate (Intelligent Creation Mobile) - 2025 Start (BS/MS)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "DonkeyBoy001",
+        "id": "b7a2c2f6-70cb-4098-b9ff-4d2374be740b",
+        "date_posted": 1721867513,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1721881026,
+        "url": "https://careers.adobe.com/us/en/job/R145890/2025-University-Graduate-Software-Development-Engineer",
+        "company_name": "Adobe",
+        "title": "2025 University Graduate - Software Development Engineer",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "2cda754c-4c9e-4eba-b704-56b3c3e72c7b",
+        "date_posted": 1721881026,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1721886878,
+        "url": "https://careers.tiktok.com/position/7394970016695453990/detail",
+        "company_name": "TikTok",
+        "title": "Software Engineer Graduate (TikTok LIVE Foundation) - 2025 Start",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "7de9dead-378f-43cc-a3ce-1687f7333bcf",
+        "date_posted": 1721886878,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1722007018,
+        "url": "https://ats.rippling.com/medallion-careers/jobs/169e4b7b-cb27-4f5e-970b-9cc27e48f426",
+        "company_name": "Medallion",
+        "title": "Software Engineer, New Grad",
+        "locations": [
+            "Remote, US"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "e8b781a0-a2ca-4501-b015-f9b54398e088",
+        "date_posted": 1722007018,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
         "date_updated": 1722110312,
         "url": "https://www.disneycareers.com/en/job/-/-/391/68004930112",
         "company_name": "The Walt Disney Company",
