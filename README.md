@@ -3,7 +3,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 The list is maintained collaboratively by [Cvrve](https://cvrve.me), [Resumes.fyi](https://resumes.fyi/), and [Headstarter](https://headstarter.co/)!
 
-:warning: Please note that this repository is exclusively for internships/co-ops in the United States, Canada, or Remote positions :earth_americas:
+:warning: Please note that this repository is exclusively for roles in the United States, Canada, or Remote positions :earth_americas:
 
 🙏 **Contribute by submitting an [issue](https://github.com/cvrve/New-Grad/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
@@ -21,3 +21,25 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [Resumes.fy
 		<sub><i>Share any other cool projects you make using the repo, and we would love to give you a shoutout!</i></sub>
 	</p>
 </div>
+
+## The List 🚴🏔
+
+ - 🛂 - Does NOT offer Sponsorship
+ - 🇺🇸 - Requires U.S. Citizenship
+ - 🔒 - Job application is closed
+
+[⬇️ Jump to bottom ⬇️](https://github.com/cvrve/New-Grad#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
+<!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
+
+
+
+<!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
+[⬆️ Back to Top ⬆️](https://github.com/cvrve/New-Grad#the-list-)
+
+## We love our contributors ❤️❤️
+
+Contribute by submitting an [issue](https://github.com/cvrve/New-Grad/new/choose)!
+
+<a href="https://github.com/cvrve/New-Grad/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=cvrve/New-Grad" />
+</a>
