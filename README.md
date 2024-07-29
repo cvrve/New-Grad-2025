@@ -33,6 +33,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [Resumes.fy
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Openeye** | Software Engineer I | Liberty Lake, WA | <a href="https://job-boards.greenhouse.io/openeye/jobs/7460213002?gh_src=a764faad2us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | **TikTok** | ML Engineer | Seattle, WA | <a href="https://careers.tiktok.com/position/7395343587233515827/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | **Jackson** | Software Developer I | Lansing, MI | <a href="https://jackson.wd1.myworkdayjobs.com/Jackson_Careers/job/Lansing-MI/Software-Developer-I_REQ-02873"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | **FIS Global** | Frontend Software Engineer | Seattle, WA | <a href="https://careers.fisglobal.com/us/en/job/FIGLUSJR0273907EXTERNAL/Software-Engineer-Front-End"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
