@@ -1,4 +1,4 @@
-# 2025 New Grad Positions
+# 2025 New Grad Positions(Inspired by [Coder Quad and Simplify Repo](https://github.com/SimplifyJobs/New-Grad-Positions))
 Use this repo to share and keep track of entry-level software, tech, CS, PM, quant jobs for 2024 & 2025 new graduates.
 
 The list is maintained collaboratively by [Cvrve](https://cvrve.me), [Resumes.fyi](https://resumes.fyi/), and [Headstarter](https://headstarter.co/)!
@@ -19,6 +19,25 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [Resumes.fy
         </a>
 			</div>
 		<sub><i>Share any other cool projects you make using the repo, and we would love to give you a shoutout!</i></sub>
+	</p>
+</div>
+
+---
+
+<div align="center">
+	<p>
+		<a href="https://simplify.jobs/?utm_source=GHList&utm_medium=banner">
+			<b>Applying to jobs?</b>
+			<br>
+			Autofill all your applications in a single click.
+			<br>
+			<div>
+				<a href="https://simplify.jobs/?utm_source=GHList&utm_medium=banner">
+          <img src="https://res.cloudinary.com/dpeo4xcnc/image/upload/v1636594918/simplify_pittcsc.png" width="450" alt="Simplify">
+        </a>
+			</div>
+		</a>
+		<sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill job applications on millions of sites.</i></sub>
 	</p>
 </div>
 
