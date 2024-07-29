@@ -1367,5 +1367,21 @@
         "date_posted": 1722211938,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722221470,
+        "url": "https://jackson.wd1.myworkdayjobs.com/Jackson_Careers/job/Lansing-MI/Software-Developer-I_REQ-02873",
+        "company_name": "Jackson",
+        "title": "Software Developer I",
+        "locations": [
+            "Lansing, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "6e8012d5-c249-4cbb-8823-90b3051e02c1",
+        "date_posted": 1722221470,
+        "company_url": "",
+        "is_visible": true
     }
 ]
