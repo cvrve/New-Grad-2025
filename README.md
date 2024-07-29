@@ -33,6 +33,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [Resumes.fy
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **TikTok** | ML Engineer | Seattle, WA | <a href="https://careers.tiktok.com/position/7395343587233515827/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | **Jackson** | Software Developer I | Lansing, MI | <a href="https://jackson.wd1.myworkdayjobs.com/Jackson_Careers/job/Lansing-MI/Software-Developer-I_REQ-02873"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | **FIS Global** | Frontend Software Engineer | Seattle, WA | <a href="https://careers.fisglobal.com/us/en/job/FIGLUSJR0273907EXTERNAL/Software-Engineer-Front-End"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | **Navan** | University 2024 Graduate - Software Engineer (Back-End) | Palo Alto, CA | <a href="https://navan.com/careers/openings/5382869?gh_jid=5382869"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
