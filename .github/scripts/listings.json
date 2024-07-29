@@ -385,8 +385,8 @@
         "company_name": "Jerry",
         "id": "fb72e240-9bf3-41f5-b801-a42abe9200aa",
         "title": "Software Engineer I - Toronto",
-        "active": true,
-        "date_updated": 1720192298,
+        "active": false,
+        "date_updated": 1722227214,
         "date_posted": 1720192298,
         "url": "https://jobs.ashbyhq.com/Jerry/288e3c48-5428-4397-90c9-5448ab57cc27/application",
         "locations": [
