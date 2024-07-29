@@ -1415,5 +1415,21 @@
         "date_posted": 1722221682,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722221814,
+        "url": "https://www.wayfair.com/careers/job/software-engineer-i/7569778002",
+        "company_name": "Wayfair",
+        "title": "Software Engineer I",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "1a565ff7-89ee-431d-9460-66c9ced4ed12",
+        "date_posted": 1722221814,
+        "company_url": "",
+        "is_visible": true
     }
 ]
