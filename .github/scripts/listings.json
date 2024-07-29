@@ -1496,5 +1496,72 @@
         "date_posted": 1722228350,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722263385,
+        "url": "https://careers.tiktok.com/position/7267035371972036919/detail",
+        "company_name": "Tiktok",
+        "title": "Machine Learning Engineer - 2025 Start",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "e8cf3275-5ea4-4283-b419-4b917fd6aacd",
+        "date_posted": 1722263385,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1722263590,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1743922/Software-Engineer",
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "locations": [
+            "Atlanta, GA",
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "8e99bcb6-911c-4f76-804a-01b24ebe9bfc",
+        "date_posted": 1722263590,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1722273587,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/103780715941765830-software-engineer",
+        "company_name": "Google",
+        "title": "Early Career Software Engineer",
+        "locations": [
+            "Mountain View, CA",
+            "Atlanta, GA",
+            "Austin, TX",
+            "Boulder, CO",
+            "Bellevue, WA",
+            "Cambridge, MA",
+            "Irvine, CA",
+            "Kirkland, WA",
+            "Los Angeles, CA",
+            "New York, NY",
+            "Pittsburgh, PA",
+            "Raleigh, NC",
+            "Durham, NC",
+            "Reston, VA",
+            "San Bruno, CA",
+            "Seattle, WA",
+            "San Francisco, CA",
+            "San Jose, CA",
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "ba92c496-8c28-475a-8c70-4e1b6e5a1ab4",
+        "date_posted": 1722273587,
+        "company_url": "",
+        "is_visible": true
     }
 ]
