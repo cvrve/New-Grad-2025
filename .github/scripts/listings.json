@@ -1612,5 +1612,21 @@
         "date_posted": 1722289258,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722295486,
+        "url": "https://careers.sig.com/job/SUSQA004Y8457",
+        "company_name": "SIG",
+        "title": "Quantitative Developer - New Grad",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "454b1cbb-ba98-4458-a112-fd7024747b2c",
+        "date_posted": 1722295486,
+        "company_url": "",
+        "is_visible": true
     }
 ]

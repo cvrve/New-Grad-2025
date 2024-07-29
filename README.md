@@ -52,6 +52,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [Resumes.fy
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **SIG** | Quantitative Developer - New Grad | Philadelphia, PA | <a href="https://careers.sig.com/job/SUSQA004Y8457"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | **Navan** | University Graduate - Software Engineer (Front-End) | Palo Alto, CA | <a href="https://navan.com/careers/openings/6139319?gh_jid=6139319"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | **Amazon** | Software Dev Engineer | Seattle. WA</br>Cupertino, CA | <a href="https://www.amazon.jobs/en/jobs/2577799/software-dev-engineer-ai-ml-aws-neuron-distributed-training"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | **Affirm** | Early Career Software Engineer | Chicago, IL | <a href="https://job-boards.greenhouse.io/affirm/jobs/5794747003?gh_src=689c81d53us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
