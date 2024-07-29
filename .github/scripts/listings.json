@@ -1496,5 +1496,21 @@
         "date_posted": 1722228350,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722263385,
+        "url": "https://careers.tiktok.com/position/7267035371972036919/detail",
+        "company_name": "Tiktok",
+        "title": "Machine Learning Engineer - 2025 Start",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "e8cf3275-5ea4-4283-b419-4b917fd6aacd",
+        "date_posted": 1722263385,
+        "company_url": "",
+        "is_visible": true
     }
 ]
