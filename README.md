@@ -52,6 +52,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [Resumes.fy
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Navan** | University Graduate - Software Engineer (Front-End) | Palo Alto, CA | <a href="https://navan.com/careers/openings/6139319?gh_jid=6139319"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | **Amazon** | Software Dev Engineer | Seattle. WA</br>Cupertino, CA | <a href="https://www.amazon.jobs/en/jobs/2577799/software-dev-engineer-ai-ml-aws-neuron-distributed-training"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | **Affirm** | Early Career Software Engineer | Chicago, IL | <a href="https://job-boards.greenhouse.io/affirm/jobs/5794747003?gh_src=689c81d53us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | **Google** | Early Career Software Engineer | <details><summary>**19 locations**</summary>Mountain View, CA</br>Atlanta, GA</br>Austin, TX</br>Boulder, CO</br>Bellevue, WA</br>Cambridge, MA</br>Irvine, CA</br>Kirkland, WA</br>Los Angeles, CA</br>New York, NY</br>Pittsburgh, PA</br>Raleigh, NC</br>Durham, NC</br>Reston, VA</br>San Bruno, CA</br>Seattle, WA</br>San Francisco, CA</br>San Jose, CA</br>Sunnyvale, CA</details> | <a href="https://www.google.com/about/careers/applications/jobs/results/103780715941765830-software-engineer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |

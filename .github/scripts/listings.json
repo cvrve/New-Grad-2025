@@ -1596,5 +1596,21 @@
         "date_posted": 1722279386,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722289258,
+        "url": "https://navan.com/careers/openings/6139319?gh_jid=6139319",
+        "company_name": "Navan",
+        "title": "University Graduate - Software Engineer (Front-End)",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "2fb7d88f-0ff6-458b-aeb1-65090bedd744",
+        "date_posted": 1722289258,
+        "company_url": "",
+        "is_visible": true
     }
 ]
