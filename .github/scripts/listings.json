@@ -1563,5 +1563,21 @@
         "date_posted": 1722273587,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722279186,
+        "url": "https://job-boards.greenhouse.io/affirm/jobs/5794747003?gh_src=689c81d53us",
+        "company_name": "Affirm",
+        "title": "Early Career Software Engineer",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "bb7f763b-3638-44e3-a433-356a946e1768",
+        "date_posted": 1722279186,
+        "company_url": "",
+        "is_visible": true
     }
 ]
