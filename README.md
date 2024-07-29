@@ -33,6 +33,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [Resumes.fy
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **ByteDance** | Software Engineer Graduate - 2025 Start | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7376504348953970982/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | **Amazon** | Software Dev Engineer I | Seattle, WA</br>Arlington, VA | <a href="https://www.amazon.jobs/en/jobs/2652350/software-dev-engineer-i-front-end-web-mobile-development"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | **Cosco** | Software Developer 1 | Chicago, IL | <a href="https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=8850"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | **TikTok** | New Grad Machine Learning Engineer | San Jose, CA | <a href="https://careers.tiktok.com/position/7395702392933927205/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |

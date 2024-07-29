@@ -1480,5 +1480,21 @@
         "date_posted": 1722223075,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722228350,
+        "url": "https://jobs.bytedance.com/en/position/7376504348953970982/detail",
+        "company_name": "ByteDance",
+        "title": "Software Engineer Graduate - 2025 Start",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "f44e4f7c-47e1-40f6-a533-79951e38ef97",
+        "date_posted": 1722228350,
+        "company_url": "",
+        "is_visible": true
     }
 ]
