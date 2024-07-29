@@ -1351,5 +1351,21 @@
         "date_posted": 1722110690,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722211938,
+        "url": "https://careers.fisglobal.com/us/en/job/FIGLUSJR0273907EXTERNAL/Software-Engineer-Front-End",
+        "company_name": "FIS Global",
+        "title": "Frontend Software Engineer",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "garrgi11",
+        "id": "2a255053-2dca-4f52-88ee-70dbdcd71d00",
+        "date_posted": 1722211938,
+        "company_url": "",
+        "is_visible": true
     }
 ]

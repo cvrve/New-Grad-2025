@@ -33,6 +33,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [Resumes.fy
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **FIS Global** | Frontend Software Engineer | Seattle, WA | <a href="https://careers.fisglobal.com/us/en/job/FIGLUSJR0273907EXTERNAL/Software-Engineer-Front-End"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | **Navan** | University 2024 Graduate - Software Engineer (Back-End) | Palo Alto, CA | <a href="https://navan.com/careers/openings/5382869?gh_jid=5382869"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | **Twilio** | Software Engineer - New Graduate (2024 Recent Grads) | Remote, US | <a href="https://boards.greenhouse.io/twilio/jobs/6127332"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | **The Walt Disney Company** | Software Engineer I | New York, NY</br>Santa Monica, CA</br>Seattle, WA | <a href="https://www.disneycareers.com/en/job/-/-/391/68004930112"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
