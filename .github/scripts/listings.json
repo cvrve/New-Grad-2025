@@ -1431,5 +1431,21 @@
         "date_posted": 1722221814,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722221928,
+        "url": "https://careers.tiktok.com/position/7395702392933927205/detail",
+        "company_name": "TikTok",
+        "title": "New Grad Machine Learning Engineer",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "5214dde6-847e-4196-8873-8db2c1a579b3",
+        "date_posted": 1722221928,
+        "company_url": "",
+        "is_visible": true
     }
 ]

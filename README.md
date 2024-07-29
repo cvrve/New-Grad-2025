@@ -33,6 +33,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [Resumes.fy
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **TikTok** | New Grad Machine Learning Engineer | San Jose, CA | <a href="https://careers.tiktok.com/position/7395702392933927205/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | **Wayfair** | Software Engineer I | Boston, MA | <a href="https://www.wayfair.com/careers/job/software-engineer-i/7569778002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | **Openeye** | Software Engineer I | Liberty Lake, WA | <a href="https://job-boards.greenhouse.io/openeye/jobs/7460213002?gh_src=a764faad2us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | **TikTok** | ML Engineer | Seattle, WA | <a href="https://careers.tiktok.com/position/7395343587233515827/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
