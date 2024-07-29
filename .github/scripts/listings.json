@@ -1579,5 +1579,22 @@
         "date_posted": 1722279186,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722279386,
+        "url": "https://www.amazon.jobs/en/jobs/2577799/software-dev-engineer-ai-ml-aws-neuron-distributed-training",
+        "company_name": "Amazon",
+        "title": "Software Dev Engineer",
+        "locations": [
+            "Seattle. WA",
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "55d684c8-d221-4994-9b56-e386a14a164a",
+        "date_posted": 1722279386,
+        "company_url": "",
+        "is_visible": true
     }
 ]
