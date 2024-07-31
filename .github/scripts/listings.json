@@ -1723,5 +1723,21 @@
         "date_posted": 1722462206,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722462311,
+        "url": "https://careers.tiktok.com/position/7397588344904124722/detail?spread=5MWH5CQ",
+        "company_name": "Tiktok",
+        "title": "New Grad 2025: Software Engineer",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "2f950e91-4b9a-4941-b957-8fde3e95451d",
+        "date_posted": 1722462311,
+        "company_url": "",
+        "is_visible": true
     }
 ]

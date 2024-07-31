@@ -52,6 +52,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [Resumes.fy
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Tiktok** | New Grad 2025: Software Engineer | San Jose, CA | <a href="https://careers.tiktok.com/position/7397588344904124722/detail?spread=5MWH5CQ"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | **Ramp** | New Grad 2025: Software Engineer - Frontend | New York, NY | <a href="https://jobs.ashbyhq.com/ramp/12747eb1-e545-478d-b07c-f27f4a88cc12?departmentId=e9877d64-61b1-4b37-8518-65af0431cd09"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | **Ramp** | New Grad 2025: Software Engineer - Backend | New York, NY | <a href="https://jobs.ashbyhq.com/ramp/29663a4b-c457-4a38-bbdf-069f189b20eb?departmentId=e9877d64-61b1-4b37-8518-65af0431cd09"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | **MTSi** | Software Engineer 🇺🇸 | Chantilly, VA | <a href="https://careers.mtsi-va.com/job/-/-/38810/68169171920"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
