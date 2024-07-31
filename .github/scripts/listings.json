@@ -1739,5 +1739,21 @@
         "date_posted": 1722462311,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722462346,
+        "url": "https://jobs.ashbyhq.com/pylon-labs/ecf0d509-cfb9-43c6-b628-1e685d6f5f42",
+        "company_name": "Pylon",
+        "title": "New Grad Software Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "a017bce7-d855-468b-802c-aae32e579f58",
+        "date_posted": 1722462346,
+        "company_url": "",
+        "is_visible": true
     }
 ]
