@@ -1819,5 +1819,21 @@
         "date_posted": 1722485720,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722488858,
+        "url": "https://careers.tiktok.com/position/7397567418497861939/detail",
+        "company_name": "Tiktok",
+        "title": "New Grad 2025: Frontend Engineer",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "b5a1b19f-ee1a-4aa5-980c-fff9426e6065",
+        "date_posted": 1722488858,
+        "company_url": "",
+        "is_visible": true
     }
 ]

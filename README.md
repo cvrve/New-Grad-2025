@@ -52,6 +52,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Tiktok** | New Grad 2025: Frontend Engineer | San Jose, CA | <a href="https://careers.tiktok.com/position/7397567418497861939/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 01 |
 | **Confluent** | New Grad 2025: Software Engineer | Austin, TX | <a href="https://careers.confluent.io/jobs/14738286-2025-software-engineer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 01 |
 | **NVIDIA** | New Grad 2024: Software Engineer | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Chip-Design-Tools---New-College-Grad-2024_JR1978759"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 01 |
 | **Teradyne** | New Graduate Software Engineer 🛂 | North Reading, MA | <a href="https://jobs.teradyne.com/Teradyne/job/North-Reading-Software-Engineer-New-College-Graduate-MA/1197517500/?feedId=320000"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 01 |
