@@ -52,6 +52,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Vanguard** | Entry Level 2025: Application Engineer | Malvern, PA | <a href="https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/Entry-Level-Application-Engineer---2025-Start-Date_162144-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 01 |
 | **Sentry** | New Grad 2025: Software Engineer | San Francisco, CA | <a href="https://boards.greenhouse.io/sentry/jobs/6145165"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 01 |
 | **Tiktok** | New Grad 2025: Frontend Engineer | San Jose, CA | <a href="https://careers.tiktok.com/position/7397567418497861939/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 01 |
 | **Confluent** | New Grad 2025: Software Engineer | Austin, TX | <a href="https://careers.confluent.io/jobs/14738286-2025-software-engineer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 01 |
