@@ -1803,5 +1803,21 @@
         "date_posted": 1722482639,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722485720,
+        "url": "https://careers.confluent.io/jobs/14738286-2025-software-engineer",
+        "company_name": "Confluent",
+        "title": "New Grad 2025: Software Engineer",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "289da79c-ad5e-4639-9b51-8f796ec9d3f4",
+        "date_posted": 1722485720,
+        "company_url": "",
+        "is_visible": true
     }
 ]
