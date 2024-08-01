@@ -457,7 +457,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1720360117,
+        "date_updated": 1722473837,
         "url": "https://jobs.ashbyhq.com/ramp/0ae01d73-3f48-4722-9810-0c6c1940d7bd",
         "company_name": "Ramp",
         "title": "Software Engineer - Frontend",
@@ -465,7 +465,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "01a37b54-d08a-4e6c-be20-0f9cd232496d",
         "date_posted": 1720360117,
