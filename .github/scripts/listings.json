@@ -1771,5 +1771,21 @@
         "date_posted": 1722462944,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722482523,
+        "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Software-Engineer-New-College-Graduate-MA/1197517500/?feedId=320000",
+        "company_name": "Teradyne",
+        "title": "New Graduate Software Engineer",
+        "locations": [
+            "North Reading, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "652c7c1e-5e64-44fa-b6df-4a0c049a9a2b",
+        "date_posted": 1722482523,
+        "company_url": "",
+        "is_visible": true
     }
 ]
