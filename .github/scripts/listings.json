@@ -1787,5 +1787,21 @@
         "date_posted": 1722482523,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722482639,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Chip-Design-Tools---New-College-Grad-2024_JR1978759",
+        "company_name": "NVIDIA",
+        "title": "New Grad 2024: Software Engineer",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "63740ffb-1cd3-4d7c-b989-16d131e04aab",
+        "date_posted": 1722482639,
+        "company_url": "",
+        "is_visible": true
     }
 ]
