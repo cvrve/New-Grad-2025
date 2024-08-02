@@ -1963,5 +1963,21 @@
         "date_posted": 1722637571,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722638107,
+        "url": "https://careers.servicenow.com/en/jobs/744000004506726/assoc-software-engineer/",
+        "company_name": "ServiceNow",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "6538a5ab-df8e-4066-9711-1a0d1de7764d",
+        "date_posted": 1722638107,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **ServiceNow** | Associate Software Engineer | San Diego, CA | <a href="https://careers.servicenow.com/en/jobs/744000004506726/assoc-software-engineer/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |
 | **Five Rings** | New Grad: Quantitative Researcher - MS/PhD | New York, NY | <a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/4092835008"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |
 | **Johnson & Johnson** | New Grad 2025: Technology Program 🛂 | Too many | <a href="https://jobs.jnj.com/en/jobs/2406197155w/class-of-2025-technology-leadership-development-program-tldp-full-time/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |
 | **Five Rings** | Quantitative Trader | Boca Raton, FL | <a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/4090119008?gh_src=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |
