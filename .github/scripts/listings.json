@@ -1931,5 +1931,21 @@
         "date_posted": 1722618322,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722618405,
+        "url": "https://jobs.jnj.com/en/jobs/2406197155w/class-of-2025-technology-leadership-development-program-tldp-full-time/",
+        "company_name": "Johnson & Johnson",
+        "title": "New Grad 2025: Technology Program",
+        "locations": [
+            "Too many"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "beakae",
+        "id": "c62e8c4e-3970-4596-b9e6-34e0327d4974",
+        "date_posted": 1722618405,
+        "company_url": "",
+        "is_visible": true
     }
 ]
