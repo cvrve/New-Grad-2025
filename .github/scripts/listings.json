@@ -1899,5 +1899,21 @@
         "date_posted": 1722578132,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722578210,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4090994008",
+        "company_name": "Five Rings",
+        "title": "New Grad 2025: Software Developer",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "4cd8d7ef-f6aa-4264-bb9c-1036a480d0ab",
+        "date_posted": 1722578210,
+        "company_url": "",
+        "is_visible": true
     }
 ]
