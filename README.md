@@ -52,6 +52,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Five Rings** | Quantitative Trader | Boca Raton, FL | <a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/4090119008?gh_src=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |
 | **Five Rings** | New Grad 2025: Software Developer | New York, NY | <a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/4090994008"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |
 | **Five Rings** | New Grad 2025: Quantitative Trader | New York, NY | <a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/4090061008"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |
 | **Vanguard** | Entry Level 2025: Application Engineer | Charlotte, NC | <a href="https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/Entry-Level-Application-Engineer---2025-Start-Date_162145-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 01 |

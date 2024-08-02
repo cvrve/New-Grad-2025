@@ -1915,5 +1915,21 @@
         "date_posted": 1722578210,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722618322,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4090119008?gh_src=Simplify",
+        "company_name": "Five Rings",
+        "title": "Quantitative Trader",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "beakae",
+        "id": "f3253f12-3ace-45ca-80c3-7fd675c978b3",
+        "date_posted": 1722618322,
+        "company_url": "",
+        "is_visible": true
     }
 ]
