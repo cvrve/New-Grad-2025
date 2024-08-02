@@ -1947,5 +1947,21 @@
         "date_posted": 1722618405,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722637571,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4092835008",
+        "company_name": "Five Rings",
+        "title": "New Grad: Quantitative Researcher - MS/PhD",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "beakae",
+        "id": "0a7a8227-46ba-4fae-965e-9ab4b4690ddc",
+        "date_posted": 1722637571,
+        "company_url": "",
+        "is_visible": true
     }
 ]
