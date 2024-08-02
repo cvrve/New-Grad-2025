@@ -1883,5 +1883,21 @@
         "date_posted": 1722537770,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722578132,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4090061008",
+        "company_name": "Five Rings",
+        "title": "New Grad 2025: Quantitative Trader",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "f7746366-4b77-4cc8-b75a-78aa970889c0",
+        "date_posted": 1722578132,
+        "company_url": "",
+        "is_visible": true
     }
 ]
