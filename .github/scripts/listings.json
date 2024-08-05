@@ -2014,5 +2014,21 @@
         "date_posted": 1722885850,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722885951,
+        "url": "https://amazon.jobs/en/jobs/2705626/software-dev-engineer-special-projects",
+        "company_name": "Amazon",
+        "title": "New Grad 2024: Software Dev Engineer",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "ac5a4b87-7d5f-4304-913e-b0f175babe1b",
+        "date_posted": 1722885951,
+        "company_url": "",
+        "is_visible": true
     }
 ]
