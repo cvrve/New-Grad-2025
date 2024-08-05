@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Databricks** | New Grad 2025: Software Engineer, Distributed Data Systems | Bellevue, WA | <a href="https://www.databricks.com/company/careers/university-recruiting/software-engineer---new-grad-distributed-data-systems-2025-start-6866556002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
 | **Databricks** | New Grad 2025: Software Engineer | Mountain View, CA | <a href="https://www.databricks.com/company/careers/university-recruiting/software-engineer---new-grad-2025-start-6865698002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
 | **Amazon** | New Grad 2024: Software Dev Engineer | <details><summary>**5 locations**</summary>Seattle, WA</br>Santa Clara, CA</br>Arlington, VA</br>Denver, CO</br>Herndon, VA</details> | <a href="https://amazon.jobs/en/jobs/2688831/software-dev-engineer-computer-science"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
 | **Amazon** | New Grad 2024: Software Dev Engineer | <details><summary>**7 locations**</summary>Seattle, WA</br>Santa Clara, CA</br>Redmond, WA</br>Bellevue, WA</br>New York, NY</br>Palo Alto, CA</br>Vancouver, WA</details> | <a href="https://amazon.jobs/en/jobs/2715216/software-dev-engineer-ml"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
