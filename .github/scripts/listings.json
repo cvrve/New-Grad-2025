@@ -1995,5 +1995,24 @@
         "date_posted": 1722809433,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722885850,
+        "url": "https://amazon.jobs/en/jobs/2721341/software-development-engineer-amazon-dedicated-cloud-region-services",
+        "company_name": "Amazon",
+        "title": "New Grad: Software Development Engineer",
+        "locations": [
+            "Arlington, VA",
+            "Seattle, WA",
+            "Denver, CO",
+            "Herndon, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "vanshb03",
+        "id": "5d0bac4d-da7f-45de-bb1b-b31ca045da98",
+        "date_posted": 1722885850,
+        "company_url": "",
+        "is_visible": true
     }
 ]
