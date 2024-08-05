@@ -2030,5 +2030,27 @@
         "date_posted": 1722885951,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722886130,
+        "url": "https://amazon.jobs/en/jobs/2715216/software-dev-engineer-ml",
+        "company_name": "Amazon",
+        "title": "New Grad 2024: Software Dev Engineer",
+        "locations": [
+            "Seattle, WA",
+            "Santa Clara, CA",
+            "Redmond, WA",
+            "Bellevue, WA",
+            "New York, NY",
+            "Palo Alto, CA",
+            "Vancouver, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "75ebfacb-9b16-47a0-88bb-8483d7350037",
+        "date_posted": 1722886130,
+        "company_url": "",
+        "is_visible": true
     }
 ]
