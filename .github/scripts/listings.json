@@ -2152,5 +2152,21 @@
         "date_posted": 1722950743,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722982975,
+        "url": "https://careers.roblox.com/jobs/6086753?gh_jid=6086753&gh_src=71e9c9571us",
+        "company_name": "Roblox",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "fdd836a5-743a-40b1-910b-ba091678d071",
+        "date_posted": 1722982975,
+        "company_url": "",
+        "is_visible": true
     }
 ]
