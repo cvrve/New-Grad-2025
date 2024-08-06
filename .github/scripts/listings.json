@@ -2168,5 +2168,21 @@
         "date_posted": 1722982975,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722984677,
+        "url": "https://www.konrad.com/careers/job/5893276003?gh_jid=5893276003",
+        "company_name": "Konrad",
+        "title": "New Grad: Software Developer",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "867c8f7b-6546-4ef5-9250-d11be339b054",
+        "date_posted": 1722984677,
+        "company_url": "",
+        "is_visible": true
     }
 ]

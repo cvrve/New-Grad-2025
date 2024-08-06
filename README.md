@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Konrad** | New Grad: Software Developer | Vancouver, Canada | <a href="https://www.konrad.com/careers/job/5893276003?gh_jid=5893276003"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
 | **Roblox** | New Grad: Software Engineer 🛂 | San Mateo, CA | <a href="https://careers.roblox.com/jobs/6086753?gh_jid=6086753&gh_src=71e9c9571us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
 | **Sentry** | New Grad 2025: Software Engineer 🛂 | Toronto, Canada | <a href="https://sentry.io/careers/6145443/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
 | **Databricks** | New Grad 2025: Software Engineer | Bellevue, WA | <a href="https://www.databricks.com/company/careers/university-recruiting/software-engineer---new-grad-2025-start-6866542002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
