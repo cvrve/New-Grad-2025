@@ -2136,5 +2136,21 @@
         "date_posted": 1722889920,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722950743,
+        "url": "https://sentry.io/careers/6145443/",
+        "company_name": "Sentry",
+        "title": "New Grad 2025: Software Engineer",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "f924cea5-6eb4-4e17-8bbc-521b77e57c28",
+        "date_posted": 1722950743,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Sentry** | New Grad 2025: Software Engineer 🛂 | Toronto, Canada | <a href="https://sentry.io/careers/6145443/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
 | **Databricks** | New Grad 2025: Software Engineer | Bellevue, WA | <a href="https://www.databricks.com/company/careers/university-recruiting/software-engineer---new-grad-2025-start-6866542002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
 | **Databricks** | New Grad 2025: Software Engineer, Distributed Data Systems | Mountain View, CA | <a href="https://www.databricks.com/company/careers/university-recruiting/software-engineer---new-grad-distributed-data-systems-2025-start-6865704002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
 | **Databricks** | New Grad 2025: Software Engineer, Distributed Data Systems | Bellevue, WA | <a href="https://www.databricks.com/company/careers/university-recruiting/software-engineer---new-grad-distributed-data-systems-2025-start-6866556002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
