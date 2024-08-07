@@ -2184,5 +2184,32 @@
         "date_posted": 1722984677,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723003477,
+        "url": "https://careers.bcg.com/job/BCG1US36468EXTERNALENUS/AI-Software-Engineer-Campus-United-States-BCG-X",
+        "company_name": "Boston Consulting Group",
+        "title": "New Grad 2025: AI Software Engineer",
+        "locations": [
+            "Boston, MA",
+            "Los Angeles, CA",
+            "Seattle, WA",
+            "San Francisco, CA",
+            "Manhattan Beach, CA",
+            "Dallas, TX",
+            "Miami, FL",
+            "Brooklyn, NY",
+            "New York, NY",
+            "Pittsburgh, PA",
+            "Washington, DC",
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "6f3f4d36-09c6-4ce3-bc7c-05984589cd85",
+        "date_posted": 1723003477,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Boston Consulting Group** | New Grad 2025: AI Software Engineer | <details><summary>**12 locations**</summary>Boston, MA</br>Los Angeles, CA</br>Seattle, WA</br>San Francisco, CA</br>Manhattan Beach, CA</br>Dallas, TX</br>Miami, FL</br>Brooklyn, NY</br>New York, NY</br>Pittsburgh, PA</br>Washington, DC</br>Chicago, IL</details> | <a href="https://careers.bcg.com/job/BCG1US36468EXTERNALENUS/AI-Software-Engineer-Campus-United-States-BCG-X"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
 | **Konrad** | New Grad: Software Developer | Vancouver, Canada | <a href="https://www.konrad.com/careers/job/5893276003?gh_jid=5893276003"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
 | **Roblox** | New Grad: Software Engineer 🛂 | San Mateo, CA | <a href="https://careers.roblox.com/jobs/6086753?gh_jid=6086753&gh_src=71e9c9571us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
 | **Sentry** | New Grad 2025: Software Engineer 🛂 | Toronto, Canada | <a href="https://sentry.io/careers/6145443/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
