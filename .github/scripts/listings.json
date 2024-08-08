@@ -2262,5 +2262,25 @@
         "date_posted": 1723158759,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723158937,
+        "url": "https://www.wellsfargojobs.com/en/jobs/r-389141/2025-analytics-and-data-development-program-early-careers/",
+        "company_name": "Wells Fargo",
+        "title": "New Grad 2025: Analytics and Data Development Program",
+        "locations": [
+            "Charlotte, NC",
+            "Minneapolis, MN",
+            "West Des Moines, IA",
+            "Chandler, AZ",
+            "Dallas, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "bf2a876c-41a5-4afb-9348-a7435e8cdc13",
+        "date_posted": 1723158937,
+        "company_url": "",
+        "is_visible": true
     }
 ]
