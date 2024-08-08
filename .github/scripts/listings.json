@@ -2282,5 +2282,21 @@
         "date_posted": 1723158937,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723159383,
+        "url": "https://www.neocis.com/about-us/careers/?gnk=job&gni=8a7885a8910ff31101912dd353816bde&lang=en",
+        "company_name": "Neocis",
+        "title": "New Grad 2025: Software Engineer",
+        "locations": [
+            "Miami, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "723188bd-09cf-41d4-8f4c-5994ff0c5236",
+        "date_posted": 1723159383,
+        "company_url": "",
+        "is_visible": true
     }
 ]

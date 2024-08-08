@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Neocis** | New Grad 2025: Software Engineer | Miami, FL | <a href="https://www.neocis.com/about-us/careers/?gnk=job&gni=8a7885a8910ff31101912dd353816bde&lang=en"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 08 |
 | **Wells Fargo** | New Grad 2025: Analytics and Data Development Program 🛂 | <details><summary>**5 locations**</summary>Charlotte, NC</br>Minneapolis, MN</br>West Des Moines, IA</br>Chandler, AZ</br>Dallas, TX</details> | <a href="https://www.wellsfargojobs.com/en/jobs/r-389141/2025-analytics-and-data-development-program-early-careers/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 08 |
 | **Meta** | New Grad: Production Engineer | <details><summary>**4 locations**</summary>Sunnyvale, CA</br>Bellevue, WA</br>Menlo Park, CA</br>New York, NY</details> | <a href="https://www.metacareers.com/v2/jobs/477195844990625/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 08 |
 | **Uber** | New Grad 2024: Applied Scientist I | San Francisco, CA | <a href="https://university-uber.icims.com/jobs/133665/job?mobile=false&width=941&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
