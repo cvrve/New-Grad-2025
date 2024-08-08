@@ -2243,5 +2243,24 @@
         "date_posted": 1723008245,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723158759,
+        "url": "https://www.metacareers.com/v2/jobs/477195844990625/",
+        "company_name": "Meta",
+        "title": "New Grad: Production Engineer",
+        "locations": [
+            "Sunnyvale, CA",
+            "Bellevue, WA",
+            "Menlo Park, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "4070d958-b6f8-46c5-89a2-f9a95ecd6e67",
+        "date_posted": 1723158759,
+        "company_url": "",
+        "is_visible": true
     }
 ]
