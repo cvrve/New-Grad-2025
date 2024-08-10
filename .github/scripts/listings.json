@@ -898,7 +898,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1720819042,
+        "date_updated": 1723305141,
         "url": "https://www.google.com/about/careers/applications/jobs/results/140166094567416518-early-career-software-engineer-aimachine-learning",
         "company_name": "Google",
         "title": "Software Engineer, AI/Machine Learning",
@@ -918,7 +918,7 @@
             "Sunnyvale, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "8fe1e3e3-aab9-4b19-b8ce-3aeb5c177dcb",
         "date_posted": 1720819042,
