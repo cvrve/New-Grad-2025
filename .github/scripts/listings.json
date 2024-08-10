@@ -1321,15 +1321,15 @@
         "is_visible": true
     },
     {
-        "date_updated": 1722110501,
+        "date_updated": 1723303944,
         "url": "https://boards.greenhouse.io/twilio/jobs/6127332",
         "company_name": "Twilio",
         "title": "Software Engineer - New Graduate (2024 Recent Grads)",
         "locations": [
             "Remote, US"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "vanshb03",
         "id": "3807beac-056b-4032-af5a-b8c0826131ab",
         "date_posted": 1722110501,
