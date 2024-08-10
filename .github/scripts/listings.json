@@ -2348,5 +2348,21 @@
         "date_posted": 1723302037,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723302517,
+        "url": "https://careers.cargill.com/en/job/-/-/23251/68562401376",
+        "company_name": "Cargill",
+        "title": "New Grad 2025: Associate Software Engineer",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "a11311b0-0c8d-4bb0-b59d-42a060f614d0",
+        "date_posted": 1723302517,
+        "company_url": "",
+        "is_visible": true
     }
 ]
