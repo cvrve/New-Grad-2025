@@ -2314,5 +2314,21 @@
         "date_posted": 1723301654,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723301743,
+        "url": "https://jobs.lever.co/belvederetrading/f994033f-80f7-4f1d-afdf-a0ada8ed9a8b",
+        "company_name": "Belvedere Trading",
+        "title": "New Grad 2025: Software Engineer",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "304836b8-079f-40ba-abef-171775eefd5d",
+        "date_posted": 1723301743,
+        "company_url": "",
+        "is_visible": true
     }
 ]
