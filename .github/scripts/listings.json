@@ -2298,5 +2298,21 @@
         "date_posted": 1723159383,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723301654,
+        "url": "https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-4a4032eced60/candidate/so/pm/1/pl/1/opp/8161-2025-Full-Time-Analyst-Program-AMERS/en-GB",
+        "company_name": "Blackrock",
+        "title": "New Grad 2025: Analyst Program",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "a23456f2-3ba3-497c-9c7a-9ee80e3b3554",
+        "date_posted": 1723301654,
+        "company_url": "",
+        "is_visible": true
     }
 ]
