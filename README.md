@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **VectorShift - YC** | New Grad: Frontend Engineer | New York, NY | <a href="https://www.workatastartup.com/jobs/68567"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 10 |
 | **Cargill** | New Grad 2025: Associate Software Engineer 🛂 | Atlanta, GA | <a href="https://careers.cargill.com/en/job/-/-/23251/68562401376"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 10 |
 | **Amazon** | New Grad 2024: Software Dev Engineer I - Masters | Seattle, WA</br>Redmond, WA</br>Palo Alto, CA | <a href="https://www.amazon.jobs/en/jobs/2636224/software-dev-engineer-i-redshift"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 10 |
 | **Belvedere Trading** | New Grad 2025: Software Engineer | Chicago, IL | <a href="https://jobs.lever.co/belvederetrading/f994033f-80f7-4f1d-afdf-a0ada8ed9a8b"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 10 |

@@ -2364,5 +2364,21 @@
         "date_posted": 1723302517,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723304278,
+        "url": "https://www.workatastartup.com/jobs/68567",
+        "company_name": "VectorShift - YC",
+        "title": "New Grad: Frontend Engineer",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "01320973-76b1-462c-be93-b9aabb26df9b",
+        "date_posted": 1723304278,
+        "company_url": "",
+        "is_visible": true
     }
 ]
