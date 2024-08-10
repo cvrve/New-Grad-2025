@@ -2380,5 +2380,21 @@
         "date_posted": 1723304278,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723304391,
+        "url": "https://www.workatastartup.com/jobs/63762",
+        "company_name": "Airgoods - YC",
+        "title": "New Grad: Full-Stack Engineer",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "575c2f3d-72c8-4005-97a7-afa0091fd7f5",
+        "date_posted": 1723304391,
+        "company_url": "",
+        "is_visible": true
     }
 ]
