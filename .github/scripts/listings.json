@@ -1255,15 +1255,15 @@
         "is_visible": true
     },
     {
-        "date_updated": 1721881026,
+        "date_updated": 1723304006,
         "url": "https://careers.adobe.com/us/en/job/R145890/2025-University-Graduate-Software-Development-Engineer",
         "company_name": "Adobe",
         "title": "2025 University Graduate - Software Development Engineer",
         "locations": [
             "San Jose, CA"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "vanshb03",
         "id": "2cda754c-4c9e-4eba-b704-56b3c3e72c7b",
         "date_posted": 1721881026,

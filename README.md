@@ -116,7 +116,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **The Walt Disney Company** | Software Engineer I | New York, NY</br>Santa Monica, CA</br>Seattle, WA | 🔒 | Jul 27 |
 | **Medallion** | Software Engineer, New Grad | Remote, US | <a href="https://ats.rippling.com/medallion-careers/jobs/169e4b7b-cb27-4f5e-970b-9cc27e48f426"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
 | **TikTok** | Software Engineer Graduate (TikTok LIVE Foundation) - 2025 Start | San Jose, CA | <a href="https://careers.tiktok.com/position/7394970016695453990/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 25 |
-| **Adobe** | 2025 University Graduate - Software Development Engineer | San Jose, CA | <a href="https://careers.adobe.com/us/en/job/R145890/2025-University-Graduate-Software-Development-Engineer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 25 |
+| **Adobe** | 2025 University Graduate - Software Development Engineer | San Jose, CA | 🔒 | Jul 25 |
 | **Tiktok** | Software Engineer Graduate (Intelligent Creation Mobile) - 2025 Start (BS/MS) | San Jose, CA | <a href="https://careers.tiktok.com/position/7394972975772027146/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 25 |
 | **Tiktok** | Machine Learning Engineer 2025 Start (TikTok Recommendation) | San Jose, CA | <a href="https://careers.tiktok.com/position/7394958206025550089/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | **Blue Origin** | Software Engineer Early Career - Verification | Seattle, WA | 🔒 | Jul 23 |
