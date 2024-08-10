@@ -1175,15 +1175,15 @@
         "is_visible": true
     },
     {
-        "date_updated": 1721733837,
+        "date_updated": 1723304114,
         "url": "https://jobs.ashbyhq.com/Jerry/1cdd1696-449d-4925-86e5-d09659e5f96c",
         "company_name": "Jerry",
         "title": "New Graduate Software Engineer",
         "locations": [
             "Palo Alto, CA"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "vanshb03",
         "id": "973a52c6-20aa-401d-861e-1b4d63e25554",
         "date_posted": 1721733837,

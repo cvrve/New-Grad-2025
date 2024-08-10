@@ -121,7 +121,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **Tiktok** | Machine Learning Engineer 2025 Start (TikTok Recommendation) | San Jose, CA | <a href="https://careers.tiktok.com/position/7394958206025550089/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | **Blue Origin** | Software Engineer Early Career - Verification | Seattle, WA | 🔒 | Jul 23 |
 | **Optiver** | Graduate Software Engineer (2025 Start – Chicago) | Chicago, IL | <a href="https://optiver.com/working-at-optiver/career-opportunities/7498615002/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
-| **Jerry** | New Graduate Software Engineer | Palo Alto, CA | <a href="https://jobs.ashbyhq.com/Jerry/1cdd1696-449d-4925-86e5-d09659e5f96c"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
+| **Jerry** | New Graduate Software Engineer | Palo Alto, CA | 🔒 | Jul 23 |
 | **ByteDance** | Software Engineer Graduate (AML- Engine) - 2025 Start (BS/MS) | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7394555540905036058/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | **TikTok** | Software Engineer Graduate (TikTok Short Video) - 2025 Start (Bachelors/Master) | Seattle, WA | <a href="https://careers.tiktok.com/position/7394314674919721266"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | **TikTok** | Software Engineer Graduate (TikTok Short Video) - 2025 Start (Bachelors/Master) | San Jose, CA | <a href="https://careers.tiktok.com/position/7394316025958828325/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
