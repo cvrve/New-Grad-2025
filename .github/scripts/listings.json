@@ -1090,7 +1090,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1721528794,
+        "date_updated": 1723304426,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--AI---New-College-Graduate-2024_JR1984452",
         "company_name": "NVIDIA",
         "title": "Developer Technology Engineer, AI - New College Graduate 2024 (MS/PhD Only)",
@@ -1102,8 +1102,8 @@
             "Salt Lake City, UT",
             "Boulder, CO"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "vanshb03",
         "id": "f4a56108-0fd6-4bc7-9d34-53c31d13bab3",
         "date_posted": 1721528794,
