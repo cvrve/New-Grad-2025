@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Geico** | New Grad: Technology Development Program 🛂 | <details><summary>**16 locations**</summary>Chevy Chase, MD</br>Virginia Beach, VA</br>Poway, CA</br>North Liberty, IA</br>Katy, TX</br>Lakeland, FL</br>Fredericksburg, VA</br>Melville, NY</br>Lenexa, KS</br>Renton, WA</br>Anchorage, AK</br>Jacksonville, FL</br>Indianapolis, IN</br>Tucson, AZ</br>Macon, GA</br>Springfield, VA</details> | <a href="https://geico.wd1.myworkdayjobs.com/en-US/External/job/Chevy-Chase-MD/Technology-Development-Program---Software-Engineering_R0051974?jobFamilyGroup=895c9dc2a05701737efe7899a6017bc0"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 11 |
 | **Prelim** | New Grad: Software Engineer 🛂 | Remote | <a href="https://www.workatastartup.com/jobs/68522"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 10 |
 | **Airgoods - YC** | New Grad: Full-Stack Engineer | New York, NY | <a href="https://www.workatastartup.com/jobs/63762"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 10 |
 | **VectorShift - YC** | New Grad: Frontend Engineer | New York, NY | <a href="https://www.workatastartup.com/jobs/68567"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 10 |

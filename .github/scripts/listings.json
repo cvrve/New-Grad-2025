@@ -2412,5 +2412,36 @@
         "date_posted": 1723307062,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723340422,
+        "url": "https://geico.wd1.myworkdayjobs.com/en-US/External/job/Chevy-Chase-MD/Technology-Development-Program---Software-Engineering_R0051974?jobFamilyGroup=895c9dc2a05701737efe7899a6017bc0",
+        "company_name": "Geico",
+        "title": "New Grad: Technology Development Program",
+        "locations": [
+            "Chevy Chase, MD",
+            "Virginia Beach, VA",
+            "Poway, CA",
+            "North Liberty, IA",
+            "Katy, TX",
+            "Lakeland, FL",
+            "Fredericksburg, VA",
+            "Melville, NY",
+            "Lenexa, KS",
+            "Renton, WA",
+            "Anchorage, AK",
+            "Jacksonville, FL",
+            "Indianapolis, IN",
+            "Tucson, AZ",
+            "Macon, GA",
+            "Springfield, VA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "6fb50115-716d-4e41-a788-8d7db32deb50",
+        "date_posted": 1723340422,
+        "company_url": "",
+        "is_visible": true
     }
 ]
