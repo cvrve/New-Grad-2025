@@ -2443,5 +2443,21 @@
         "date_posted": 1723340422,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723342383,
+        "url": "https://www.northropgrumman.com/jobs/Engineering/Software/United-States-of-America/Maryland/Linthicum/R10167251/2024-associate-software-engineer-linthicum-md?code=JB-18202&rx_campaign=Linkedin1&rx_ch=connector&rx_group=375073&rx_job=R10167251&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20240810T184802Z&rx_vp=slots&source=JB-18202&utm_audience=prospectivetalentemployees&utm_campaign=ta-general&utm_content=jobfeed&utm_format=cpl&utm_medium=jobboard&utm_network=partnerdirect",
+        "company_name": "Northrop Grumman",
+        "title": "New Grad 2024: Associate Software Engineer",
+        "locations": [
+            "Linthicum, MD"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "vanshb03",
+        "id": "ad7ff9e9-1516-41ba-a678-9b87abdf770a",
+        "date_posted": 1723342383,
+        "company_url": "",
+        "is_visible": true
     }
 ]
