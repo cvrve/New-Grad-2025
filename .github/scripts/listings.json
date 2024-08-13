@@ -2475,5 +2475,21 @@
         "date_posted": 1723592818,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723592943,
+        "url": "https://careers.usbank.com/global/en/job/UBNAGLOBAL20240015883EXTERNALENGLOBAL/2025-Engineering-Rotational-Program",
+        "company_name": "US Bank",
+        "title": "New Grad 2025: Engineering Rotational Program",
+        "locations": [
+            "Hopkins, MN"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "ead37d8d-f232-480a-9639-de33e553c63f",
+        "date_posted": 1723592943,
+        "company_url": "",
+        "is_visible": true
     }
 ]
