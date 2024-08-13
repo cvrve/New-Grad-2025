@@ -2459,5 +2459,21 @@
         "date_posted": 1723342383,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723592818,
+        "url": "https://careers.abbvie.com/en/job/2025-bts-early-talent-program-technical-in-north-chicago-il-jid-6454",
+        "company_name": "abbvie",
+        "title": "New Grad 2025: Technical Early Talent Program",
+        "locations": [
+            "North Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "06a19c43-be21-4944-a594-3ee8ac6eba96",
+        "date_posted": 1723592818,
+        "company_url": "",
+        "is_visible": true
     }
 ]
