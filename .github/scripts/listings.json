@@ -2229,20 +2229,20 @@
         "is_visible": true
     },
     {
-        "date_updated": 1723215668,
+        "date_updated": 1723592712,
         "url": "https://university-uber.icims.com/jobs/133665/job?mobile=false&width=941&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
         "company_name": "Uber",
-        "title": "New Grad 2024: Applied Scientist I",
+        "title": "Applied Scientist I",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "404014a8-63df-46c8-93a5-35fa4153b6fc",
         "date_posted": 1723008245,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1723158759,
