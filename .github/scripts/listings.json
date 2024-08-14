@@ -2545,5 +2545,21 @@
         "date_posted": 1723670112,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723670204,
+        "url": "https://jobs.lever.co/belvederetrading/69de6697-e9d4-426e-ae22-bad4c6e04cf8",
+        "company_name": "Belvedere Trading",
+        "title": "New Grad 2025: Quantitative Trader",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "4ca565d9-aca7-4657-ac78-cf4ddb02ff42",
+        "date_posted": 1723670204,
+        "company_url": "",
+        "is_visible": true
     }
 ]
