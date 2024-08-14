@@ -2620,5 +2620,21 @@
         "date_posted": 1723671679,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723675899,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Novi-MI-USA/Software-Engineer_24WD80650",
+        "company_name": "Autodesk",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Novi, MI"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "e0cecc13-1054-45db-90c6-e81e5809bedd",
+        "date_posted": 1723675899,
+        "company_url": "",
+        "is_visible": true
     }
 ]
