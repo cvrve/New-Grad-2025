@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **IBM** | New Grad 2025: Product Manager | <details><summary>**5 locations**</summary>Austin, TX</br>Lowell, MA</br>Durham, NC</br>Research Triangle Park, NC</br>Dallas, TX</details> | <a href="https://careers.ibm.com/job/20863344/entry-level-product-manager-2025-remote/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | **Belvedere Trading** | New Grad 2025: Quantitative Trader 🛂 | Chicago, IL | <a href="https://jobs.lever.co/belvederetrading/69de6697-e9d4-426e-ae22-bad4c6e04cf8"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | **Databricks** | New Grad 2025: Data Scientist | Mountain View, CA | <a href="https://www.databricks.com/company/careers/university-recruiting/data-scientist---new-grad-2025-start-6866554002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | **NVIDIA** | New Grad 2025: Physical Design Engineer | Westford, MA</br>Westborough, MA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-MA-Westford/Physical-Design-Engineer---New-College-Grad-2025_JR1979789-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |

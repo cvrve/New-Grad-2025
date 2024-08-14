@@ -2561,5 +2561,25 @@
         "date_posted": 1723670204,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723670335,
+        "url": "https://careers.ibm.com/job/20863344/entry-level-product-manager-2025-remote/",
+        "company_name": "IBM",
+        "title": "New Grad 2025: Product Manager",
+        "locations": [
+            "Austin, TX",
+            "Lowell, MA",
+            "Durham, NC",
+            "Research Triangle Park, NC",
+            "Dallas, TX"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "1b10340a-028d-4d7a-8194-cb66fa30ac35",
+        "date_posted": 1723670335,
+        "company_url": "",
+        "is_visible": true
     }
 ]
