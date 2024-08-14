@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Bose** | New Grad: Machine Learning Engineer - Masters/PhD | Framingham, MA | <a href="https://boseallaboutme.wd1.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Machine-Learning-Engineer---Efficient-Machine-Learning_R27193"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | **Autodesk** | New Grad: Software Engineer | Novi, MI | <a href="https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Novi-MI-USA/Software-Engineer_24WD80650"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | **Meta** | New Grad: Security Engineer | <details><summary>**4 locations**</summary>Location pin icon Bellevue, WA</br>Menlo Park, CA</br>Washington, DC</br>New York, NY</details> | <a href="https://www.metacareers.com/v2/jobs/522395143779549/?location=Menlo%20Park%2C%20CA"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | **IBM** | New Grad 2025: Back End Developer | <details><summary>**5 locations**</summary>Tucson, AZ</br>San Jose, CA</br>Rochester, NY</br>Poughkeepsie, NY</br>Research Triangle Park, NC</details> | <a href="https://careers.ibm.com/job/20864776/entry-level-back-end-developer-2025-remote/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
