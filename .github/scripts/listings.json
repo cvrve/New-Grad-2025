@@ -2491,5 +2491,26 @@
         "date_posted": 1723592943,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723669850,
+        "url": "https://paypal.eightfold.ai/careers/job?domain=paypal.com&pid=274901907358&query=R0114388&domain=paypal.com&sort_by=relevance&jobIndex=0&job_index=0",
+        "company_name": "PayPal",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "San Jose, CA",
+            "Chicago, IL",
+            "Omaha, NE",
+            "Scottsdale, AZ",
+            "New York City, NY",
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "ef0c6e10-0be8-4516-bbda-588e1843f90f",
+        "date_posted": 1723669850,
+        "company_url": "",
+        "is_visible": true
     }
 ]
