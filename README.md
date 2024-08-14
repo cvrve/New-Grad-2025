@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Meta** | New Grad: Security Engineer | <details><summary>**4 locations**</summary>Location pin icon Bellevue, WA</br>Menlo Park, CA</br>Washington, DC</br>New York, NY</details> | <a href="https://www.metacareers.com/v2/jobs/522395143779549/?location=Menlo%20Park%2C%20CA"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | **IBM** | New Grad 2025: Back End Developer | <details><summary>**5 locations**</summary>Tucson, AZ</br>San Jose, CA</br>Rochester, NY</br>Poughkeepsie, NY</br>Research Triangle Park, NC</details> | <a href="https://careers.ibm.com/job/20864776/entry-level-back-end-developer-2025-remote/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | **IBM** | New Grad 2025: Product Manager | <details><summary>**5 locations**</summary>Austin, TX</br>Lowell, MA</br>Durham, NC</br>Research Triangle Park, NC</br>Dallas, TX</details> | <a href="https://careers.ibm.com/job/20863344/entry-level-product-manager-2025-remote/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | **Belvedere Trading** | New Grad 2025: Quantitative Trader 🛂 | Chicago, IL | <a href="https://jobs.lever.co/belvederetrading/69de6697-e9d4-426e-ae22-bad4c6e04cf8"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |

@@ -2601,5 +2601,24 @@
         "date_posted": 1723670503,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723671679,
+        "url": "https://www.metacareers.com/v2/jobs/522395143779549/?location=Menlo%20Park%2C%20CA",
+        "company_name": "Meta",
+        "title": "New Grad: Security Engineer",
+        "locations": [
+            "Location pin icon Bellevue, WA",
+            "Menlo Park, CA",
+            "Washington, DC",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "d4b61252-7b76-40e8-84c3-9bc932d53188",
+        "date_posted": 1723671679,
+        "company_url": "",
+        "is_visible": true
     }
 ]
