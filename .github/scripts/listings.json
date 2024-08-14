@@ -2512,5 +2512,22 @@
         "date_posted": 1723669850,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723670056,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-MA-Westford/Physical-Design-Engineer---New-College-Grad-2025_JR1979789-1",
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: Physical Design Engineer",
+        "locations": [
+            "Westford, MA",
+            "Westborough, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "aa387ced-bdc0-4f5c-a6e0-b8448130c1bf",
+        "date_posted": 1723670056,
+        "company_url": "",
+        "is_visible": true
     }
 ]

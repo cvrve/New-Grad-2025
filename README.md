@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **NVIDIA** | New Grad 2025: Physical Design Engineer | Westford, MA</br>Westborough, MA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-MA-Westford/Physical-Design-Engineer---New-College-Grad-2025_JR1979789-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | **PayPal** | New Grad: Software Engineer | <details><summary>**6 locations**</summary>San Jose, CA</br>Chicago, IL</br>Omaha, NE</br>Scottsdale, AZ</br>New York City, NY</br>Austin, TX</details> | <a href="https://paypal.eightfold.ai/careers/job?domain=paypal.com&pid=274901907358&query=R0114388&domain=paypal.com&sort_by=relevance&jobIndex=0&job_index=0"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | **US Bank** | New Grad 2025: Engineering Rotational Program | Hopkins, MN | <a href="https://careers.usbank.com/global/en/job/UBNAGLOBAL20240015883EXTERNALENGLOBAL/2025-Engineering-Rotational-Program"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | **abbvie** | New Grad 2025: Technical Early Talent Program | North Chicago, IL | <a href="https://careers.abbvie.com/en/job/2025-bts-early-talent-program-technical-in-north-chicago-il-jid-6454"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
