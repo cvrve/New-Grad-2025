@@ -2652,5 +2652,21 @@
         "date_posted": 1723675947,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723699024,
+        "url": "https://boards.greenhouse.io/thetradedesk/jobs/4480439007",
+        "company_name": "The Trade Desk",
+        "title": "New Grad 2025: Software Engineer",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "7ad7752f-8cd4-4959-a4be-d9643dd1f49e",
+        "date_posted": 1723699024,
+        "company_url": "",
+        "is_visible": true
     }
 ]
