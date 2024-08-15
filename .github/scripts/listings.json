@@ -2668,5 +2668,21 @@
         "date_posted": 1723699024,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723699071,
+        "url": "https://www.linkedin.com/jobs/view/4000100097/",
+        "company_name": "The Trade Desk",
+        "title": "New Grad 2025: Software Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "b8b68619-9b7a-473d-851c-02a44732acbd",
+        "date_posted": 1723699071,
+        "company_url": "",
+        "is_visible": true
     }
 ]
