@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **NVIDIA** | New Grad 2024: Deep Learning Compiler Engineer | Santa Clara, CA</br>Austin, TX</br>Redmond, WA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Deep-Learning-Compiler-Engineer--Autonomous-Vehicles---New-College-Grad-2024_JR1986018"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | **Meta** | New Grad: Product Security Engineer | Bellevue, WA</br>Menlo Park, CA | <a href="https://www.metacareers.com/jobs/2081252505580632"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | **Navan** | New Grad: Back-End Software Engineer | Palo Alto, CA | <a href="https://navan.com/careers/openings/5382869?gh_jid=5382869&gh_src=b13de4e21"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | **The Trade Desk** | New Grad 2025: Software Engineer | San Francisco, CA | <a href="https://www.linkedin.com/jobs/view/4000100097/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |

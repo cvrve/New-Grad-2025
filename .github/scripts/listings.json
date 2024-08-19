@@ -2717,5 +2717,23 @@
         "date_posted": 1724027455,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724027713,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Deep-Learning-Compiler-Engineer--Autonomous-Vehicles---New-College-Grad-2024_JR1986018",
+        "company_name": "NVIDIA",
+        "title": "New Grad 2024: Deep Learning Compiler Engineer",
+        "locations": [
+            "Santa Clara, CA",
+            "Austin, TX",
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "0542a4d0-3f41-4071-a40a-dbabdcaf7ee9",
+        "date_posted": 1724027713,
+        "company_url": "",
+        "is_visible": true
     }
 ]
