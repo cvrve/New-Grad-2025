@@ -2684,5 +2684,21 @@
         "date_posted": 1723699071,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724027030,
+        "url": "https://navan.com/careers/openings/5382869?gh_jid=5382869&gh_src=b13de4e21",
+        "company_name": "Navan",
+        "title": "New Grad: Back-End Software Engineer",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "7a233982-a3ac-4b9f-b74e-e173f8bf57d6",
+        "date_posted": 1724027030,
+        "company_url": "",
+        "is_visible": true
     }
 ]

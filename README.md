@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Navan** | New Grad: Back-End Software Engineer | Palo Alto, CA | <a href="https://navan.com/careers/openings/5382869?gh_jid=5382869&gh_src=b13de4e21"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | **The Trade Desk** | New Grad 2025: Software Engineer | San Francisco, CA | <a href="https://www.linkedin.com/jobs/view/4000100097/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | **The Trade Desk** | New Grad 2025: Software Engineer | Bellevue, WA | <a href="https://boards.greenhouse.io/thetradedesk/jobs/4480439007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | **Bose** | New Grad: Machine Learning Engineer - Masters/PhD | Framingham, MA | <a href="https://boseallaboutme.wd1.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Machine-Learning-Engineer---Efficient-Machine-Learning_R27193"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
