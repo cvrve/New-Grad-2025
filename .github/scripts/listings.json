@@ -2832,5 +2832,21 @@
         "date_posted": 1724120445,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724120503,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4471860007",
+        "company_name": "Verkada",
+        "title": "New Grad 2025: iOS Software Engineer",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "3a888e27-5830-42ee-915e-d2242fb339b5",
+        "date_posted": 1724120503,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Verkada** | New Grad 2025: iOS Software Engineer | San Mateo, CA | <a href="https://job-boards.greenhouse.io/verkada/jobs/4471860007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | **Verkada** | New Grad 2025: Frontend Software Engineer | San Mateo, CA | <a href="https://job-boards.greenhouse.io/verkada/jobs/4471635007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | **Verkada** | New Grad 2025: Embedded Software Engineer | San Mateo, CA | <a href="https://job-boards.greenhouse.io/verkada/jobs/4471668007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | **Verkada** | New Grad 2025: Backend Software Engineer | San Mateo, CA | <a href="https://job-boards.greenhouse.io/verkada/jobs/4471600007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
