@@ -2912,5 +2912,21 @@
         "date_posted": 1724121182,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724121255,
+        "url": "https://boards.greenhouse.io/canonicaljobs/jobs/6185294",
+        "company_name": "Canonical",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "0cadc5aa-71e4-4f21-9f70-1fb6c50d091c",
+        "date_posted": 1724121255,
+        "company_url": "",
+        "is_visible": true
     }
 ]
