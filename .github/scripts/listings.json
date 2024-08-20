@@ -2816,5 +2816,21 @@
         "date_posted": 1724120333,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724120445,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4471635007",
+        "company_name": "Verkada",
+        "title": "New Grad 2025: Frontend Software Engineer",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "25df2b2c-4bce-46f8-a805-24af94cf9fbd",
+        "date_posted": 1724120445,
+        "company_url": "",
+        "is_visible": true
     }
 ]
