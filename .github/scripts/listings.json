@@ -2735,5 +2735,22 @@
         "date_posted": 1724027713,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724119709,
+        "url": "https://job-boards.greenhouse.io/figma/jobs/5227935004",
+        "company_name": "Figma",
+        "title": "New Grad 2025: Software Engineer",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "NotJerwee",
+        "id": "e3795c02-3558-439c-a9c8-ffacd412b898",
+        "date_posted": 1724119709,
+        "company_url": "",
+        "is_visible": true
     }
 ]
