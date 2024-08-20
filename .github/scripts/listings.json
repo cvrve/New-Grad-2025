@@ -353,8 +353,8 @@
         "company_name": "Match Group",
         "id": "c508abbd-a1c9-4d82-b660-d62d3aa04a7e",
         "title": "Data Scientist I - Marketing Analytics",
-        "active": true,
-        "date_updated": 1720048707,
+        "active": false,
+        "date_updated": 1724135981,
         "date_posted": 1720048707,
         "url": "https://jobs.lever.co/matchgroup/d1083f08-dde7-437b-a922-a40a7bf77cfc/apply",
         "locations": [
