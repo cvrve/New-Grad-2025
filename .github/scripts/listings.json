@@ -2800,5 +2800,21 @@
         "date_posted": 1724120289,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724120333,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4471668007",
+        "company_name": "Verkada",
+        "title": "New Grad 2025: Embedded Software Engineer",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "6dd335a1-eb8f-45a3-a11e-5cfca9123e24",
+        "date_posted": 1724120333,
+        "company_url": "",
+        "is_visible": true
     }
 ]
