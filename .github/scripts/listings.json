@@ -2880,5 +2880,21 @@
         "date_posted": 1724120974,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724121028,
+        "url": "https://boards.greenhouse.io/wehrtyou/jobs/6139135",
+        "company_name": "Hudson River Trading",
+        "title": "New Grad 2025: Algorithm Developer",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "8aa1b3ff-370b-484b-8d91-f1431836ba1f",
+        "date_posted": 1724121028,
+        "company_url": "",
+        "is_visible": true
     }
 ]
