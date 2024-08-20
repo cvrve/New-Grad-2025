@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **BostonDynamics** | New Grad: Software Engineer | Waltham, MA | <a href="https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Software-Engineer_R1481"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | **Canonical** | New Grad: Software Engineer | Vancouver, Canada | <a href="https://boards.greenhouse.io/canonicaljobs/jobs/6185294"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | **Microsoft** | New Grad: Software Engineer | Multiple Locations | <a href="https://jobs.careers.microsoft.com/us/en/job/1750679/Software-Engineer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | **Hudson River Trading** | New Grad 2025: Algorithm Developer | New York, NY | <a href="https://boards.greenhouse.io/wehrtyou/jobs/6139135"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
