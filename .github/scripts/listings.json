@@ -2864,5 +2864,21 @@
         "date_posted": 1724120544,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724120974,
+        "url": "https://boards.greenhouse.io/wehrtyou/jobs/6139130",
+        "company_name": "Hudson River Trading",
+        "title": "New Grad 2025: Software Engineer (C++)",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "ca620399-0643-4fc8-9d80-c46e86536fc3",
+        "date_posted": 1724120974,
+        "company_url": "",
+        "is_visible": true
     }
 ]
