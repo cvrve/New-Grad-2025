@@ -2896,5 +2896,21 @@
         "date_posted": 1724121028,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724121182,
+        "url": "https://jobs.careers.microsoft.com/us/en/job/1750679/Software-Engineer",
+        "company_name": "Microsoft",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Multiple Locations"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "5a6461c8-f6ae-4c99-b828-961e1d2cebb7",
+        "date_posted": 1724121182,
+        "company_url": "",
+        "is_visible": true
     }
 ]
