@@ -2960,5 +2960,21 @@
         "date_posted": 1724207802,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724209484,
+        "url": "https://job-boards.greenhouse.io/vectara/jobs/4002302008?gh_src=12989e178us",
+        "company_name": "Vectara",
+        "title": "New Grad: ML Engineer",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "168adf84-c554-4546-ba52-26be44941e56",
+        "date_posted": 1724209484,
+        "company_url": "",
+        "is_visible": true
     }
 ]

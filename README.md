@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Vectara** | New Grad: ML Engineer | Palo Alto, CA | <a href="https://job-boards.greenhouse.io/vectara/jobs/4002302008?gh_src=12989e178us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
 | **Tiktok** | New Grad: Machine Learning Engineer | San Jose, CA | <a href="https://careers.tiktok.com/position/7397933618406033702/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
 | **BostonDynamics** | New Grad: Software Engineer 🛂 | Waltham, MA | <a href="https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Software-Engineer_R1481"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | **Canonical** | New Grad: Software Engineer | Vancouver, Canada | <a href="https://boards.greenhouse.io/canonicaljobs/jobs/6185294"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
