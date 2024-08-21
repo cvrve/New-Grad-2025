@@ -2992,5 +2992,21 @@
         "date_posted": 1724209567,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724260396,
+        "url": "https://boards.greenhouse.io/strava/jobs/6193950",
+        "company_name": "Strava",
+        "title": "New Grad: Machine Learning Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "84b3271f-af95-4f8a-954f-7e6844f90d28",
+        "date_posted": 1724260396,
+        "company_url": "",
+        "is_visible": true
     }
 ]
