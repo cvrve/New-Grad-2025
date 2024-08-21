@@ -3008,5 +3008,21 @@
         "date_posted": 1724260396,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724274433,
+        "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-Palo-Alto/XMLNAME--2025-Graduate--Data-Scientist---Machine-Learning-and-Analytics_R103982-1",
+        "company_name": "Tencent",
+        "title": "New Grad 2025: Data Scientist",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "ac6c53c8-7848-4adf-8b21-91be67e920d2",
+        "date_posted": 1724274433,
+        "company_url": "",
+        "is_visible": true
     }
 ]
