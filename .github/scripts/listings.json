@@ -3044,5 +3044,21 @@
         "date_posted": 1724274542,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724336247,
+        "url": "https://boards.greenhouse.io/vectranetworks/jobs/6142089?gh_src=60ccc7d91us",
+        "company_name": "Vectra",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "9d1a0b80-3354-4ef8-a483-2c3ea0b8d81b",
+        "date_posted": 1724336247,
+        "company_url": "",
+        "is_visible": true
     }
 ]
