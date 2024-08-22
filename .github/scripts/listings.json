@@ -1465,7 +1465,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1722223075,
+        "date_updated": 1724292620,
         "url": "https://www.amazon.jobs/en/jobs/2652350/software-dev-engineer-i-front-end-web-mobile-development",
         "company_name": "Amazon",
         "title": "Software Dev Engineer I",
@@ -1474,7 +1474,7 @@
             "Arlington, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "646e5688-7863-4ad4-93d9-60c7bf36e8a2",
         "date_posted": 1722223075,
