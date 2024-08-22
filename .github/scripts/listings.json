@@ -785,7 +785,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1720706441,
+        "date_updated": 1724289092,
         "url": "https://boards.greenhouse.io/purestorage/jobs/6104882",
         "company_name": "Pure Storage",
         "title": "Software Engineer Grad, Hyperscale",
@@ -793,7 +793,7 @@
             "Santa Clara, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "6ff589a2-fef3-4cee-9bbd-15f71445d0e6",
         "date_posted": 1720706441,
