@@ -3078,5 +3078,21 @@
         "date_posted": 1724381543,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724383136,
+        "url": "https://jobs.lever.co/whoop/eda29f76-1da9-45bb-a822-f616011f3bb7",
+        "company_name": "Whoop",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "8c2afaa3-a24a-4087-941a-dd3342509a6d",
+        "date_posted": 1724383136,
+        "company_url": "",
+        "is_visible": true
     }
 ]

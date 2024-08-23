@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Whoop** | New Grad: Software Engineer | Boston, MA | <a href="https://jobs.lever.co/whoop/eda29f76-1da9-45bb-a822-f616011f3bb7"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
 | **Gecko Robotics** | New Grad: Forward Deployed Engineer 🛂 | Pittsburgh, PA</br>Boston, MA</br>New York, NY | <a href="https://www.geckorobotics.com/careers?utm_medium=jobboard&ashby_jid=37a18535-7fd9-4491-a8a0-d567adc30e03"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
 | **Vectra** | New Grad: Software Engineer | Austin, TX | <a href="https://boards.greenhouse.io/vectranetworks/jobs/6142089?gh_src=60ccc7d91us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 22 |
 | **Meta** | New Grad:  Production Engineer | <details><summary>**5 locations**</summary>Location pin icon Sunnyvale, CA</br>Bellevue, WA</br>Menlo Park, CA</br>New York, NY</br>Fremont, CA</details> | <a href="https://www.metacareers.com/jobs/477195844990625"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
