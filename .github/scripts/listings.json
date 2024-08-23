@@ -3126,5 +3126,21 @@
         "date_posted": 1724385155,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724385249,
+        "url": "https://www.janestreet.com/join-jane-street/position/7546051002/",
+        "company_name": "Jane Street",
+        "title": "New Grad 2025: Linux Engineer",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "df101d29-48bd-4707-ab2d-59eb01454646",
+        "date_posted": 1724385249,
+        "company_url": "",
+        "is_visible": true
     }
 ]
