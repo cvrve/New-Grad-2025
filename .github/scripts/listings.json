@@ -3142,5 +3142,23 @@
         "date_posted": 1724385249,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724429342,
+        "url": "https://stripe.com/jobs/listing/software-engineer-new-grad/6142741",
+        "company_name": "Stripe",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Seattle, WA",
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "84be9b2a-9b04-4c87-a197-fe9f100dbcad",
+        "date_posted": 1724429342,
+        "company_url": "",
+        "is_visible": true
     }
 ]

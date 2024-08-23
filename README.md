@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Stripe** | New Grad: Software Engineer | Seattle, WA</br>New York, NY</br>San Francisco, CA | <a href="https://stripe.com/jobs/listing/software-engineer-new-grad/6142741"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
 | **Jane Street** | New Grad 2025: Linux Engineer | New York, NY | <a href="https://www.janestreet.com/join-jane-street/position/7546051002/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
 | **Jane Street** | New Grad 2025: FPGA Engineer | New York, NY | <a href="https://www.janestreet.com/join-jane-street/position/7546237002/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
 | **Jane Street** | New Grad: Software Engineer | New York, NY | <a href="https://www.janestreet.com/join-jane-street/position/7528962002/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
