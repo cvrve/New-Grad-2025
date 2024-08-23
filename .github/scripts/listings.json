@@ -3060,5 +3060,23 @@
         "date_posted": 1724336247,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724381543,
+        "url": "https://www.geckorobotics.com/careers?utm_medium=jobboard&ashby_jid=37a18535-7fd9-4491-a8a0-d567adc30e03",
+        "company_name": "Gecko Robotics",
+        "title": "New Grad: Forward Deployed Engineer",
+        "locations": [
+            "Pittsburgh, PA",
+            "Boston, MA",
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "halaway",
+        "id": "f2db1130-fad9-4da5-b321-db4fe0c06fe0",
+        "date_posted": 1724381543,
+        "company_url": "",
+        "is_visible": true
     }
 ]
