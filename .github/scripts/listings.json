@@ -3094,5 +3094,21 @@
         "date_posted": 1724383136,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724385065,
+        "url": "https://www.janestreet.com/join-jane-street/position/7528962002/",
+        "company_name": "Jane Street",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "e6fb0a12-9f5d-41f5-82e0-4a3cfbc48b4b",
+        "date_posted": 1724385065,
+        "company_url": "",
+        "is_visible": true
     }
 ]

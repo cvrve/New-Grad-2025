@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Jane Street** | New Grad: Software Engineer | New York, NY | <a href="https://www.janestreet.com/join-jane-street/position/7528962002/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
 | **Whoop** | New Grad: Software Engineer | Boston, MA | <a href="https://jobs.lever.co/whoop/eda29f76-1da9-45bb-a822-f616011f3bb7"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
 | **Gecko Robotics** | New Grad: Forward Deployed Engineer 🛂 | Pittsburgh, PA</br>Boston, MA</br>New York, NY | <a href="https://www.geckorobotics.com/careers?utm_medium=jobboard&ashby_jid=37a18535-7fd9-4491-a8a0-d567adc30e03"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
 | **Vectra** | New Grad: Software Engineer | Austin, TX | <a href="https://boards.greenhouse.io/vectranetworks/jobs/6142089?gh_src=60ccc7d91us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 22 |
