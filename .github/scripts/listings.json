@@ -3110,5 +3110,21 @@
         "date_posted": 1724385065,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724385155,
+        "url": "https://www.janestreet.com/join-jane-street/position/7546237002/",
+        "company_name": "Jane Street",
+        "title": "New Grad 2025: FPGA Engineer",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "d24e1e9d-75af-4bbe-9822-a5492cef2a7b",
+        "date_posted": 1724385155,
+        "company_url": "",
+        "is_visible": true
     }
 ]
