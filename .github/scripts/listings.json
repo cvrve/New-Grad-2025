@@ -3485,5 +3485,21 @@
         "date_posted": 1724605387,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724610698,
+        "url": "https://careers.adobe.com/us/en/job/R147863/2025-University-Graduate-Software-Engineer",
+        "company_name": "Adobe",
+        "title": "New Grad 2025: Software Engineer",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "beakae",
+        "id": "1f4856fe-e528-4340-82d7-45f050a6ad94",
+        "date_posted": 1724610698,
+        "company_url": "",
+        "is_visible": true
     }
 ]
