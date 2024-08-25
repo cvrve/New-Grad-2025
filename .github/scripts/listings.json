@@ -3293,5 +3293,21 @@
         "date_posted": 1724544535,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724546883,
+        "url": "https://jobs.bytedance.com/en/position/7396945647146076453/detail",
+        "company_name": "ByteDance",
+        "title": "New Grad 2025: Mobile Software Engineer",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "beakae",
+        "id": "39e61ee0-57ac-4f9f-9f77-9489ffd93597",
+        "date_posted": 1724546883,
+        "company_url": "",
+        "is_visible": true
     }
 ]
