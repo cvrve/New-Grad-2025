@@ -3437,5 +3437,21 @@
         "date_posted": 1724568537,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724573816,
+        "url": "https://careers.netapp.com/job/-/-/27600/69094587232",
+        "company_name": "NetApp",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "San Jose, California"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "ajain02",
+        "id": "10ec5796-21fb-496a-a456-8f3c6e03de6b",
+        "date_posted": 1724573816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
