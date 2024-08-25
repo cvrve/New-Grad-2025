@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Mastercard** | New Grad 2025: Software Engineer - Launch Program | O'Fallon, MO | <a href="https://careers.mastercard.com/us/en/job/R-228341/Software-Engineer-Launch-Program-2025-United-States"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Meta** | New Grad: Network Production Engineer | <details><summary>**5 locations**</summary>Sunnyvale, CA</br>Menlo Park, CA</br>Seattle, WA</br>Boston, MA</br>New York, NY</details> | <a href="https://www.metacareers.com/v2/jobs/520974660595763/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Stripe** | New Grad: Software Engineer | Seattle, WA</br>New York, NY</br>San Francisco, CA | <a href="https://stripe.com/jobs/listing/software-engineer-new-grad/6142741"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
 | **Jane Street** | New Grad 2025: Linux Engineer | New York, NY | <a href="https://www.janestreet.com/join-jane-street/position/7546051002/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
