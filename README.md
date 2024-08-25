@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Figma** | New Grad: Data Scientist | San Francisco, CA</br>New York, NY | <a href="https://job-boards.greenhouse.io/figma/jobs/5227981004?gh_src=28109e334us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Capital One** | New Grad: Associate Data Analyst | Toronto, ON | <a href="https://capitalone.wd1.myworkdayjobs.com/en-US/Capital_One/details/Associate--Data-Analyst--Full-Time-2025_R194545?q=data%20analyst"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Mastercard** | New Grad 2025: Software Engineer - Launch Program | O'Fallon, MO | <a href="https://careers.mastercard.com/us/en/job/R-228341/Software-Engineer-Launch-Program-2025-United-States"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Meta** | New Grad: Network Production Engineer | <details><summary>**5 locations**</summary>Sunnyvale, CA</br>Menlo Park, CA</br>Seattle, WA</br>Boston, MA</br>New York, NY</details> | <a href="https://www.metacareers.com/v2/jobs/520974660595763/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |

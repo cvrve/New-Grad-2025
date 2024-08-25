@@ -3212,5 +3212,22 @@
         "date_posted": 1724544293,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724544323,
+        "url": "https://job-boards.greenhouse.io/figma/jobs/5227981004?gh_src=28109e334us",
+        "company_name": "Figma",
+        "title": "New Grad: Data Scientist",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "beakae",
+        "id": "368807c3-11ff-4546-b4b9-fd1943387486",
+        "date_posted": 1724544323,
+        "company_url": "",
+        "is_visible": true
     }
 ]
