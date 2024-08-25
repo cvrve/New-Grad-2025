@@ -3405,5 +3405,21 @@
         "date_posted": 1724561552,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724568501,
+        "url": "https://careers.mastercard.com/us/en/job/R-228645/Data-Engineer-Launch-Program-2025-United-States",
+        "company_name": "Mastercard",
+        "title": "New Grad 2025: Data Engineer - Launch Program",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "beakae",
+        "id": "76b603bf-8cfb-4d72-8951-2c825069ff11",
+        "date_posted": 1724568501,
+        "company_url": "",
+        "is_visible": true
     }
 ]
