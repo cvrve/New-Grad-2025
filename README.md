@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Nextdoor** | New Grad 2025: Software Engineer | San Francisco, CA | <a href="https://about.nextdoor.com/careers-list/?gh_jid=6202947"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Adobe** | New Grad 2025: Software Engineer | New York, NY</br>San Jose, CA | <a href="https://careers.adobe.com/us/en/job/R147864/2025-University-Graduate-Software-Engineer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Adobe** | New Grad 2025: Software Engineer | New York, NY | <a href="https://careers.adobe.com/us/en/job/R147863/2025-University-Graduate-Software-Engineer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Boeing** | New Grad: Software Engineer | Washington DC | <a href="https://jobs.boeing.com/job/-/-/185/69092153824"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |

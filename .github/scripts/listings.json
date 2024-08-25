@@ -3518,5 +3518,21 @@
         "date_posted": 1724610715,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724612400,
+        "url": "https://about.nextdoor.com/careers-list/?gh_jid=6202947",
+        "company_name": "Nextdoor",
+        "title": "New Grad 2025: Software Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "beakae",
+        "id": "1d2ce3fd-607d-40dd-b607-c15ca1d13b20",
+        "date_posted": 1724612400,
+        "company_url": "",
+        "is_visible": true
     }
 ]
