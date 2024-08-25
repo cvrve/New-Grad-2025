@@ -3357,5 +3357,21 @@
         "date_posted": 1724547222,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724547414,
+        "url": "https://boards.greenhouse.io/appliedintuition/jobs/4248379005?gh_jid=4248379005",
+        "company_name": "Applied Intuition",
+        "title": "New Grad: Software Engineer - Autonomous Vehicles - PHD",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "beakae",
+        "id": "8345399e-0a51-4a87-afce-3a6d4acb9426",
+        "date_posted": 1724547414,
+        "company_url": "",
+        "is_visible": true
     }
 ]
