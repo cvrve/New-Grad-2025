@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Applied Intuition** | New Grad: Software Engineer - PHD | Mountain View, CA | <a href="https://boards.greenhouse.io/appliedintuition/jobs/4045225005?gh_jid=4045225005"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Applied Intuition** | New Grad: Software Engineer | Mountain View, CA | <a href="https://boards.greenhouse.io/appliedintuition/jobs/4420849005?gh_jid=4420849005"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **ByteDance** | New Grad 2025: Backend Software Engineer | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7396812738201061669/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **ByteDance** | New Grad 2025: Mobile Software Engineer | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7396945647146076453/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
