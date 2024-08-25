@@ -3566,5 +3566,21 @@
         "date_posted": 1724612516,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724612565,
+        "url": "https://jobs.bytedance.com/en/position/7396821576484555046/detail",
+        "company_name": "ByteDance",
+        "title": "New Grad 2025: Frontend Software Engineer",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "beakae",
+        "id": "59cf4145-90a6-4e92-9db6-12eb729f31e8",
+        "date_posted": 1724612565,
+        "company_url": "",
+        "is_visible": true
     }
 ]
