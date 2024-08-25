@@ -3389,5 +3389,21 @@
         "date_posted": 1724547460,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724561552,
+        "url": "https://careers.mastercard.com/us/en/job/R-227405/Data-Scientist-I-Launch-Program-2025-United-States",
+        "company_name": "Mastercard",
+        "title": "New Grad 2025: Data Scientist I - Launch Program",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "beakae",
+        "id": "3c271228-a28d-4d93-90bf-0e88d4578efc",
+        "date_posted": 1724561552,
+        "company_url": "",
+        "is_visible": true
     }
 ]
