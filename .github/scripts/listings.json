@@ -3421,5 +3421,21 @@
         "date_posted": 1724568501,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724568537,
+        "url": "https://about.nextdoor.com/careers-list/?gh_jid=6202943",
+        "company_name": "Nextdoor",
+        "title": "New Grad 2025: Machine Learning Engineer - MS/PHD",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "beakae",
+        "id": "f99f1a60-6fa4-4f66-a5ae-018549acb00f",
+        "date_posted": 1724568537,
+        "company_url": "",
+        "is_visible": true
     }
 ]

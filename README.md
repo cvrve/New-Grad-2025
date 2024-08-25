@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Nextdoor** | New Grad 2025: Machine Learning Engineer - MS/PHD | San Francisco, CA | <a href="https://about.nextdoor.com/careers-list/?gh_jid=6202943"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Mastercard** | New Grad 2025: Data Engineer - Launch Program | Arlington, VA | <a href="https://careers.mastercard.com/us/en/job/R-228645/Data-Engineer-Launch-Program-2025-United-States"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Mastercard** | New Grad 2025: Data Scientist I - Launch Program | Salt Lake City, UT | <a href="https://careers.mastercard.com/us/en/job/R-227405/Data-Scientist-I-Launch-Program-2025-United-States"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Adobe** | New Grad 2025: Research Scientist - PHD | San Francisco, CA | <a href="https://careers.adobe.com/us/en/job/R147652/2025-University-Graduate-Research-Scientist-Engineer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
