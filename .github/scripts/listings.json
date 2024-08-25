@@ -3373,5 +3373,21 @@
         "date_posted": 1724547414,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724547460,
+        "url": "https://careers.adobe.com/us/en/job/R147652/2025-University-Graduate-Research-Scientist-Engineer",
+        "company_name": "Adobe",
+        "title": "New Grad 2025: Research Scientist - PHD",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "beakae",
+        "id": "c308833b-d19f-48d6-b41b-e93cebf44b66",
+        "date_posted": 1724547460,
+        "company_url": "",
+        "is_visible": true
     }
 ]
