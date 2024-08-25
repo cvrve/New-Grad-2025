@@ -3309,5 +3309,21 @@
         "date_posted": 1724546883,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724546973,
+        "url": "https://jobs.bytedance.com/en/position/7396812738201061669/detail",
+        "company_name": "ByteDance",
+        "title": "New Grad 2025: Backend Software Engineer",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "beakae",
+        "id": "fbbf0789-707d-4564-86f3-cde31ddb75ac",
+        "date_posted": 1724546973,
+        "company_url": "",
+        "is_visible": true
     }
 ]

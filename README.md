@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **ByteDance** | New Grad 2025: Backend Software Engineer | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7396812738201061669/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **ByteDance** | New Grad 2025: Mobile Software Engineer | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7396945647146076453/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Gecko Robotics** | New Grad: Field Software Engineer | Pittsburg, PA | <a href="https://www.geckorobotics.com/careers?ashby_jid=456af2b4-804c-4fc5-95c3-01d6539cdc0e"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Gecko Robotics** | New Grad: Embedded Software Engineer | Pittsburg, PA | <a href="https://www.geckorobotics.com/careers?ashby_jid=c161948f-001d-45e4-a340-776cfccc1ff2"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
