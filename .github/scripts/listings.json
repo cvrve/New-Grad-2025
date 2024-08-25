@@ -3534,5 +3534,21 @@
         "date_posted": 1724612400,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724612469,
+        "url": "https://travelhrportal.wd1.myworkdayjobs.com/Jobs/job/Chicago-Illinois-United-States/Software-Development-Engineer-I_J-69143",
+        "company_name": "Amex GBT",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Chicago, Illinois"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "ajain02",
+        "id": "9c7a14be-11e3-457b-b358-5543de60647c",
+        "date_posted": 1724612469,
+        "company_url": "",
+        "is_visible": true
     }
 ]
