@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Bank of America** | New Grad: Software Engineer I | New York | <a href="https://careers.bankofamerica.com/en-us/job-detail/24033609/software-engineer-i-new-york-new-york-united-states"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **NetApp** | New Grad: Software Engineer | San Jose, California | <a href="https://careers.netapp.com/job/-/-/27600/69094587232"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Nextdoor** | New Grad 2025: Machine Learning Engineer - MS/PHD | San Francisco, CA | <a href="https://about.nextdoor.com/careers-list/?gh_jid=6202943"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Mastercard** | New Grad 2025: Data Engineer - Launch Program | Arlington, VA | <a href="https://careers.mastercard.com/us/en/job/R-228645/Data-Engineer-Launch-Program-2025-United-States"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |

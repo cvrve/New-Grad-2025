@@ -3453,5 +3453,21 @@
         "date_posted": 1724573816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724573875,
+        "url": "https://careers.bankofamerica.com/en-us/job-detail/24033609/software-engineer-i-new-york-new-york-united-states",
+        "company_name": "Bank of America",
+        "title": "New Grad: Software Engineer I",
+        "locations": [
+            "New York"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "ajain02",
+        "id": "2242b7a9-4d98-47a6-97d7-a21377c7bfa3",
+        "date_posted": 1724573875,
+        "company_url": "",
+        "is_visible": true
     }
 ]
