@@ -3196,5 +3196,21 @@
         "date_posted": 1724544268,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724544293,
+        "url": "https://capitalone.wd1.myworkdayjobs.com/en-US/Capital_One/details/Associate--Data-Analyst--Full-Time-2025_R194545?q=data%20analyst",
+        "company_name": "Capital One",
+        "title": "New Grad: Associate Data Analyst",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "beakae",
+        "id": "5e001e96-c14c-4e6d-9703-72ded0cda08e",
+        "date_posted": 1724544293,
+        "company_url": "",
+        "is_visible": true
     }
 ]
