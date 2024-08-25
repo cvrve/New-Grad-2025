@@ -3160,5 +3160,25 @@
         "date_posted": 1724429342,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724544223,
+        "url": "https://www.metacareers.com/v2/jobs/520974660595763/",
+        "company_name": "Meta",
+        "title": "New Grad: Network Production Engineer",
+        "locations": [
+            "Sunnyvale, CA",
+            "Menlo Park, CA",
+            "Seattle, WA",
+            "Boston, MA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "beakae",
+        "id": "17994585-c39a-43cf-a6bb-7e622d7bd9b5",
+        "date_posted": 1724544223,
+        "company_url": "",
+        "is_visible": true
     }
 ]
