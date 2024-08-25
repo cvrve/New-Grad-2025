@@ -3582,5 +3582,21 @@
         "date_posted": 1724612565,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724612705,
+        "url": "https://jobs.bytedance.com/en/position/7399738686366042377/detail",
+        "company_name": "ByteDance",
+        "title": "New Grad 2025: Machine Learning Engineer",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "beakae",
+        "id": "eedbe02e-a581-485a-8849-7f988feb488e",
+        "date_posted": 1724612705,
+        "company_url": "",
+        "is_visible": true
     }
 ]
