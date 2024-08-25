@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Gecko Robotics** | New Grad: Software Engineer | Boston, MA | <a href="https://www.geckorobotics.com/careers?ashby_jid=34464bf6-1c55-4aed-8d08-ac43c7c965d1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Figma** | New Grad: Data Scientist | San Francisco, CA</br>New York, NY | <a href="https://job-boards.greenhouse.io/figma/jobs/5227981004?gh_src=28109e334us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Capital One** | New Grad: Associate Data Analyst | Toronto, ON | <a href="https://capitalone.wd1.myworkdayjobs.com/en-US/Capital_One/details/Associate--Data-Analyst--Full-Time-2025_R194545?q=data%20analyst"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Mastercard** | New Grad 2025: Software Engineer - Launch Program | O'Fallon, MO | <a href="https://careers.mastercard.com/us/en/job/R-228341/Software-Engineer-Launch-Program-2025-United-States"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
