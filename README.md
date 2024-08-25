@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Gecko Robotics** | New Grad: Embedded Software Engineer | Pittsburg, PA | <a href="https://www.geckorobotics.com/careers?ashby_jid=c161948f-001d-45e4-a340-776cfccc1ff2"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Gecko Robotics** | New Grad: Localization Engineer | Pittsburg, PA | <a href="https://www.geckorobotics.com/careers?ashby_jid=ad2f924f-79fd-4dea-875b-a5a4b911d17e"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Gecko Robotics** | New Grad: Software Engineer | Boston, MA | <a href="https://www.geckorobotics.com/careers?ashby_jid=34464bf6-1c55-4aed-8d08-ac43c7c965d1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Figma** | New Grad: Data Scientist | San Francisco, CA</br>New York, NY | <a href="https://job-boards.greenhouse.io/figma/jobs/5227981004?gh_src=28109e334us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
