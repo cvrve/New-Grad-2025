@@ -3277,5 +3277,21 @@
         "date_posted": 1724544505,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724544535,
+        "url": "https://www.geckorobotics.com/careers?ashby_jid=456af2b4-804c-4fc5-95c3-01d6539cdc0e",
+        "company_name": "Gecko Robotics",
+        "title": "New Grad: Field Software Engineer",
+        "locations": [
+            "Pittsburg, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "beakae",
+        "id": "8eccd3d5-cd4a-4a00-b6dc-34220d3284e6",
+        "date_posted": 1724544535,
+        "company_url": "",
+        "is_visible": true
     }
 ]
