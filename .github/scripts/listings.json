@@ -3245,5 +3245,21 @@
         "date_posted": 1724544387,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724544470,
+        "url": "https://www.geckorobotics.com/careers?ashby_jid=ad2f924f-79fd-4dea-875b-a5a4b911d17e",
+        "company_name": "Gecko Robotics",
+        "title": "New Grad: Localization Engineer",
+        "locations": [
+            "Pittsburg, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "beakae",
+        "id": "d33af66e-53b2-4ac7-8605-1fbeb8ca3920",
+        "date_posted": 1724544470,
+        "company_url": "",
+        "is_visible": true
     }
 ]
