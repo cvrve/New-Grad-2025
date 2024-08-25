@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **ByteDance** | New Grad 2025: Software Engineer | Seattle, WA | <a href="https://jobs.bytedance.com/en/position/7405726137865177371/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Amex GBT** | New Grad: Software Engineer | Chicago, Illinois | <a href="https://travelhrportal.wd1.myworkdayjobs.com/Jobs/job/Chicago-Illinois-United-States/Software-Development-Engineer-I_J-69143"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Nextdoor** | New Grad 2025: Software Engineer | San Francisco, CA | <a href="https://about.nextdoor.com/careers-list/?gh_jid=6202947"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Adobe** | New Grad 2025: Software Engineer | New York, NY</br>San Jose, CA | <a href="https://careers.adobe.com/us/en/job/R147864/2025-University-Graduate-Software-Engineer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |

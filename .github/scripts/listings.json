@@ -3550,5 +3550,21 @@
         "date_posted": 1724612469,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724612516,
+        "url": "https://jobs.bytedance.com/en/position/7405726137865177371/detail",
+        "company_name": "ByteDance",
+        "title": "New Grad 2025: Software Engineer",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "beakae",
+        "id": "6de3c4bd-5d61-4913-92cd-6fb46177949a",
+        "date_posted": 1724612516,
+        "company_url": "",
+        "is_visible": true
     }
 ]
