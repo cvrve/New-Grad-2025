@@ -3598,5 +3598,21 @@
         "date_posted": 1724612705,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724645026,
+        "url": "https://stripe.com/jobs/listing/software-engineer-intern/6172089",
+        "company_name": "Stripe",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "beakae",
+        "id": "2105fba2-625e-460d-a20a-364c37465c96",
+        "date_posted": 1724645026,
+        "company_url": "",
+        "is_visible": true
     }
 ]
