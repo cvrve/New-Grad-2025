@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Shein** | New Grad: Software Engineer | Bellevue, WA | <a href="https://fa-exjq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/SHEIN/job/USA12460234"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
 | **Microsoft** | New Grad: Software Engineer | Redmond, WA | <a href="https://jobs.careers.microsoft.com/us/en/job/1738705/Software-Engineer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
 | **NVIDIA** | New Grad 2024: Artificial Intelligence Algorithms Engineer | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Artificial-Intelligence-Algorithms-Engineer---New-College-Grad-2024_JR1986339?q=College&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
 | **Stripe** | New Grad: Software Engineer | Toronto, ON | <a href="https://stripe.com/jobs/listing/software-engineer-intern/6172089"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
