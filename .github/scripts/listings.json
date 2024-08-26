@@ -3630,5 +3630,21 @@
         "date_posted": 1724671872,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724681371,
+        "url": "https://jobs.careers.microsoft.com/us/en/job/1738705/Software-Engineer",
+        "company_name": "Microsoft",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "f83817ba-9c27-4a0c-8b67-1f785f5e2984",
+        "date_posted": 1724681371,
+        "company_url": "",
+        "is_visible": true
     }
 ]
