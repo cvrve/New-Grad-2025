@@ -3614,5 +3614,21 @@
         "date_posted": 1724645026,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724671872,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Artificial-Intelligence-Algorithms-Engineer---New-College-Grad-2024_JR1986339?q=College&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+        "company_name": "NVIDIA",
+        "title": "New Grad 2024: Artificial Intelligence Algorithms Engineer",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "7789c27d-4bd4-4c8e-9ce4-ca46f58a49a3",
+        "date_posted": 1724671872,
+        "company_url": "",
+        "is_visible": true
     }
 ]

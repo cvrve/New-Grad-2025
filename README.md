@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **NVIDIA** | New Grad 2024: Artificial Intelligence Algorithms Engineer | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Artificial-Intelligence-Algorithms-Engineer---New-College-Grad-2024_JR1986339?q=College&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
 | **Stripe** | New Grad: Software Engineer | Toronto, ON | <a href="https://stripe.com/jobs/listing/software-engineer-intern/6172089"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
 | **ByteDance** | New Grad 2025: Machine Learning Engineer | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7399738686366042377/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **ByteDance** | New Grad 2025: Frontend Software Engineer | Seattle, WA | <a href="https://jobs.bytedance.com/en/position/7396821576484555046/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
