@@ -3662,5 +3662,21 @@
         "date_posted": 1724716429,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724775135,
+        "url": "https://www.drivewealth.com/company/jobs/?gh_jid=6100508003%3Fgh_jid%3D6100508003",
+        "company_name": "DriveWealth",
+        "title": "New Grad: Software Engineer - Masters",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ajain02",
+        "id": "aed3ab4d-3be1-41b3-bdbe-f94c4b79999b",
+        "date_posted": 1724775135,
+        "company_url": "",
+        "is_visible": true
     }
 ]
