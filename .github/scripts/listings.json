@@ -3870,5 +3870,21 @@
         "date_posted": 1724802894,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724802933,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1755481/Software-Engineer---Fullstack%2C-Atlanta",
+        "company_name": "Microsoft",
+        "title": "New Grad: Software Engineer, Fullstack",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "e08add44-a3d1-4e1d-a2ed-d58c095540a9",
+        "date_posted": 1724802933,
+        "company_url": "",
+        "is_visible": true
     }
 ]
