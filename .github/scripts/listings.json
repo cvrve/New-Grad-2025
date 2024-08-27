@@ -3726,5 +3726,21 @@
         "date_posted": 1724776425,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724776512,
+        "url": "https://careers.honeywell.com/us/en/job/HONEUSREQ460335EXTERNALENUS/Information-Systems-IT-Cyber-Engineer-Data-Science-Recent-Grad-Full-Time",
+        "company_name": "Honeywell",
+        "title": "New Grad 2025: IT/Cyber/DS Engineer",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "9f954363-f06a-4892-96c4-f919953d94f4",
+        "date_posted": 1724776512,
+        "company_url": "",
+        "is_visible": true
     }
 ]
