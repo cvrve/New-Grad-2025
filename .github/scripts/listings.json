@@ -3854,5 +3854,21 @@
         "date_posted": 1724802849,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724802894,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1755480/Software-Engineer---Fullstack%2C-Mountain-View",
+        "company_name": "Microsoft",
+        "title": "New Grad: Software Engineer, Fullstack",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "ffcebe4c-af1f-4a75-908f-aada19dacfb0",
+        "date_posted": 1724802894,
+        "company_url": "",
+        "is_visible": true
     }
 ]
