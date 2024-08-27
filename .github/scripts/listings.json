@@ -3694,5 +3694,21 @@
         "date_posted": 1724775866,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724776118,
+        "url": "https://careers.honeywell.com/us/en/job/HONEUSREQ460344EXTERNALENUS/Software-Engineer-Computer-Science-Recent-Grad-Full-Time",
+        "company_name": "Honeywell",
+        "title": "New Grad 2025: Software Engineer",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "abbdd0e7-d85a-4f73-aff7-a11fbdd0cc41",
+        "date_posted": 1724776118,
+        "company_url": "",
+        "is_visible": true
     }
 ]

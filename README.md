@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Honeywell** | New Grad 2025: Software Engineer | United States | <a href="https://careers.honeywell.com/us/en/job/HONEUSREQ460344EXTERNALENUS/Software-Engineer-Computer-Science-Recent-Grad-Full-Time"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | **Github** | New Grad: Software Engineer I | Remote | <a href="https://githubinc.jibeapply.com/jobs/3041"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | **DriveWealth** | New Grad: Software Engineer - Masters | New York, NY | <a href="https://www.drivewealth.com/company/jobs/?gh_jid=6100508003%3Fgh_jid%3D6100508003"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | **Shein** | New Grad: Software Engineer | Bellevue, WA | <a href="https://fa-exjq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/SHEIN/job/USA12460234"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
