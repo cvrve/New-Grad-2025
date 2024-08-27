@@ -3742,5 +3742,21 @@
         "date_posted": 1724776512,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724776599,
+        "url": "https://cgi.njoyn.com/corp/xweb/xweb.asp?CLID=21001&page=jobdetails&JobID=J0824-1667",
+        "company_name": "CGI",
+        "title": "New Grad: Cyber Security Engineer",
+        "locations": [
+            "Fairfax, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "1cb4ad28-0c57-4c14-942d-c8821086a67a",
+        "date_posted": 1724776599,
+        "company_url": "",
+        "is_visible": true
     }
 ]

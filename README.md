@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **CGI** | New Grad: Cyber Security Engineer | Fairfax, VA | <a href="https://cgi.njoyn.com/corp/xweb/xweb.asp?CLID=21001&page=jobdetails&JobID=J0824-1667"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | **Honeywell** | New Grad 2025: IT/Cyber/DS Engineer | United States | <a href="https://careers.honeywell.com/us/en/job/HONEUSREQ460335EXTERNALENUS/Information-Systems-IT-Cyber-Engineer-Data-Science-Recent-Grad-Full-Time"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | **Honeywell** | New Grad 2025: AI/ML Engineer | United States | <a href="https://careers.honeywell.com/us/en/job/HONEUSREQ460305EXTERNALENUS/Artificial-Intelligence-Machine-Learning-Recent-Grad-Full-Time"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | **Honeywell** | New Grad 2025: Software Engineer | United States | <a href="https://careers.honeywell.com/us/en/job/HONEUSREQ460344EXTERNALENUS/Software-Engineer-Computer-Science-Recent-Grad-Full-Time"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
