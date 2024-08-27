@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Github** | New Grad: Software Engineer I | Remote | <a href="https://githubinc.jibeapply.com/jobs/3041?iis=Job+Board&utm_medium=jobboard&iisn=LinkedIn&lever-source=LinkedinPosting&lang=en-us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | **DriveWealth** | New Grad: Software Engineer - Masters | New York, NY | <a href="https://www.drivewealth.com/company/jobs/?gh_jid=6100508003%3Fgh_jid%3D6100508003"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | **Shein** | New Grad: Software Engineer | Bellevue, WA | <a href="https://fa-exjq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/SHEIN/job/USA12460234"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
 | **Microsoft** | New Grad: Software Engineer | Redmond, WA | <a href="https://jobs.careers.microsoft.com/us/en/job/1738705/Software-Engineer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |

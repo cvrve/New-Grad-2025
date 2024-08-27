@@ -3678,5 +3678,21 @@
         "date_posted": 1724775135,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724775866,
+        "url": "https://githubinc.jibeapply.com/jobs/3041?iis=Job+Board&utm_medium=jobboard&iisn=LinkedIn&lever-source=LinkedinPosting&lang=en-us",
+        "company_name": "Github",
+        "title": "New Grad: Software Engineer I",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "21c75950-7f62-4454-ba4a-0b2d083f2b4f",
+        "date_posted": 1724775866,
+        "company_url": "",
+        "is_visible": true
     }
 ]
