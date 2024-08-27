@@ -3806,5 +3806,21 @@
         "date_posted": 1724776948,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724777124,
+        "url": "https://jobs.bytedance.com/en/position/7397367274900211977/detail",
+        "company_name": "ByteDance",
+        "title": "New Grad 2025: Research Scientist",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "beakae",
+        "id": "1c8c3b27-c5f1-40c5-9ca5-ec2768d25d87",
+        "date_posted": 1724777124,
+        "company_url": "",
+        "is_visible": true
     }
 ]
