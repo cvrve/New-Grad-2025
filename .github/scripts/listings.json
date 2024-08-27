@@ -3758,5 +3758,21 @@
         "date_posted": 1724776599,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724776715,
+        "url": "https://imanagecom.applytojob.com/apply/jobs/details/GK24yec0X4?&",
+        "company_name": "iManage",
+        "title": "New Grad: Technical Support Engineer",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "974f5dc9-e808-4695-a9ab-358427f1d2ea",
+        "date_posted": 1724776715,
+        "company_url": "",
+        "is_visible": true
     }
 ]
