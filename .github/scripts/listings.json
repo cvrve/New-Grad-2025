@@ -3838,5 +3838,21 @@
         "date_posted": 1724802786,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724802849,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1755482/Software-Engineer---Fullstack%2C-Cambridge",
+        "company_name": "Microsoft",
+        "title": "New Grad: Software Engineer, Fullstack",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "8c4bec76-048e-42cb-8125-8407d90c7e85",
+        "date_posted": 1724802849,
+        "company_url": "",
+        "is_visible": true
     }
 ]
