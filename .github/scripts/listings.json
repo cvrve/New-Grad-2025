@@ -3822,5 +3822,21 @@
         "date_posted": 1724777124,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724802786,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1753930",
+        "company_name": "Microsoft",
+        "title": "New Grad: Software Engineer, Fullstack",
+        "locations": [
+            "Multiple"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "fb1938fb-c67f-4788-8b06-dd0613466f82",
+        "date_posted": 1724802786,
+        "company_url": "",
+        "is_visible": true
     }
 ]

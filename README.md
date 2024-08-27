@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Microsoft** | New Grad: Software Engineer, Fullstack | Multiple | <a href="https://jobs.careers.microsoft.com/global/en/job/1753930"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | **ByteDance** | New Grad 2025: Research Scientist | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7397367274900211977/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | **ByteDance** | New Grad 2025: QA Engineer | Seattle, WA | <a href="https://jobs.bytedance.com/en/position/7397268878131497226/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | **Reynolds and Reynolds** | New Grad: Site Reliability Engineer | Dayton, OH | <a href="https://www.reyrey.com/company/careers/job-openings/post/4580"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
