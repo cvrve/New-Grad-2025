@@ -3710,5 +3710,21 @@
         "date_posted": 1724776118,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724776425,
+        "url": "https://careers.honeywell.com/us/en/job/HONEUSREQ460305EXTERNALENUS/Artificial-Intelligence-Machine-Learning-Recent-Grad-Full-Time",
+        "company_name": "Honeywell",
+        "title": "New Grad 2025: AI/ML Engineer",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "fd623b8f-ab9b-442f-b1d2-ab00c9cfcef3",
+        "date_posted": 1724776425,
+        "company_url": "",
+        "is_visible": true
     }
 ]
