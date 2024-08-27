@@ -3790,5 +3790,21 @@
         "date_posted": 1724776854,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724776948,
+        "url": "https://jobs.bytedance.com/en/position/7397268878131497226/detail",
+        "company_name": "ByteDance",
+        "title": "New Grad 2025: QA Engineer",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "beakae",
+        "id": "97f2bd31-be71-4e21-ac11-252ef4d587ff",
+        "date_posted": 1724776948,
+        "company_url": "",
+        "is_visible": true
     }
 ]
