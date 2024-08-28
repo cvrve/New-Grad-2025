@@ -3902,5 +3902,21 @@
         "date_posted": 1724802986,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724805939,
+        "url": "https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Software-Engineer-I--Mobile_JR3792-1",
+        "company_name": "Etsy",
+        "title": "New Grad: Software Engineer, Mobile",
+        "locations": [
+            "Brooklyn, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "e95ade99-75bc-4aa1-9fa2-44204c9ed6df",
+        "date_posted": 1724805939,
+        "company_url": "",
+        "is_visible": true
     }
 ]
