@@ -3918,5 +3918,21 @@
         "date_posted": 1724805939,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724869673,
+        "url": "https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ-USA/Software-Engineer_R-118475-1?source=LinkedIn",
+        "company_name": "Prudential",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Newark, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "ajain02",
+        "id": "52fa8e72-1e5f-41b8-9eef-7057b57f2122",
+        "date_posted": 1724869673,
+        "company_url": "",
+        "is_visible": true
     }
 ]
