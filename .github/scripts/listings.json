@@ -3934,5 +3934,23 @@
         "date_posted": 1724869673,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724873019,
+        "url": "https://www.metacareers.com/jobs/1680851879404795/",
+        "company_name": "Meta",
+        "title": "New Grad: Rotational Product Manager",
+        "locations": [
+            "Menlo Park, CA",
+            "Seattle, WA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "fad649e3-d6d4-42f9-90e1-b9045c0625e2",
+        "date_posted": 1724873019,
+        "company_url": "",
+        "is_visible": true
     }
 ]

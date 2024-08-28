@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Meta** | New Grad: Rotational Product Manager | Menlo Park, CA</br>Seattle, WA</br>New York, NY | <a href="https://www.metacareers.com/jobs/1680851879404795/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | **Prudential** | New Grad: Software Engineer | Newark, NJ | <a href="https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ-USA/Software-Engineer_R-118475-1?source=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | **Etsy** | New Grad: Software Engineer, Mobile | Brooklyn, NY | <a href="https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Software-Engineer-I--Mobile_JR3792-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | **Microsoft** | New Grad: Software Engineer, Fullstack | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1747253/Software-Engineer---Fullstack%2C-Redmond"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
