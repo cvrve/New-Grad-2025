@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Amazon** | New Grad 2024: Software Dev Engineer | Seattle, WA</br>Cupertino, CA | <a href="https://www.amazon.jobs/en/jobs/2577803/software-dev-engineer-compiler-annapurna-labs"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | **Amazon** | New Grad: Associate Solutions Architect | Austin, TX</br>Arlington, VA</br>Seattle, WA | <a href="https://www.amazon.jobs/en/jobs/2726006/associate-solutions-architect"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | **Amazon** | New Grad 2024: Software Dev Engineer | Palo Alto, CA | <a href="https://www.amazon.jobs/en/jobs/2607701/software-dev-engineer-high-performance-query-processing"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | **Amazon** | New Grad 2024: Software Dev Engineer | <details><summary>**4 locations**</summary>Boston, NA</br>Sunnyvale, CA</br>Seattle, WA</br>San Diego, CA</details> | <a href="https://www.amazon.jobs/en/jobs/2607619/software-dev-engineer-software-and-networking-developer-sdn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |

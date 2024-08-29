@@ -4312,5 +4312,22 @@
         "date_posted": 1724960661,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724960742,
+        "url": "https://www.amazon.jobs/en/jobs/2577803/software-dev-engineer-compiler-annapurna-labs",
+        "company_name": "Amazon",
+        "title": "New Grad 2024: Software Dev Engineer",
+        "locations": [
+            "Seattle, WA",
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "958f5fbf-30d5-4daa-9c50-520287f80df8",
+        "date_posted": 1724960742,
+        "company_url": "",
+        "is_visible": true
     }
 ]
