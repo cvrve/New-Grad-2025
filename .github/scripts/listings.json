@@ -3952,5 +3952,24 @@
         "date_posted": 1724873019,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724905462,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/255948",
+        "company_name": "Oracle",
+        "title": "Software Engineer - Corporate Architecture",
+        "locations": [
+            "Austin, TX",
+            "Seattle, WA",
+            "Nashville, TN",
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "Ashishjob",
+        "id": "8a102c0f-1ecf-47b6-b525-3a2971c68a8d",
+        "date_posted": 1724905462,
+        "company_url": "",
+        "is_visible": true
     }
 ]
