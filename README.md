@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Adobe** | New Grad 2025: Data Engineer | Lehi, UT | <a href="https://careers.adobe.com/us/en/job/ADOBUSR148231EXTERNALENUS/2025-University-Graduate-Data-Engineer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | **Seagate** | HDD Product Manager | Shakopee, MN | <a href="https://seagatecareers.com/job/Shakopee-HDD-Product-Manager-%2528Entry-Level%2529-MN/1205799800"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | **ByteDance** | New Grad 2025: Site Reliability Engineer | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7392685389754550578/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | **Oracle** | New Grad 2025: Software Engineer - Fusion Applications Development 🛂 | Redwood City, CA</br>Pleasanton, CA</br>Santa Clara, CA | <a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/255788/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |

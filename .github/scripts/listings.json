@@ -4161,5 +4161,21 @@
         "date_posted": 1724945671,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724946119,
+        "url": "https://careers.adobe.com/us/en/job/ADOBUSR148231EXTERNALENUS/2025-University-Graduate-Data-Engineer",
+        "company_name": "Adobe",
+        "title": "New Grad 2025: Data Engineer",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "6c2e543f-85e3-4513-9354-1bad434a844b",
+        "date_posted": 1724946119,
+        "company_url": "",
+        "is_visible": true
     }
 ]
