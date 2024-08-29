@@ -4226,5 +4226,21 @@
         "date_posted": 1724946449,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724947070,
+        "url": "https://boards.greenhouse.io/spacex/jobs/7579803002?gh_jid=7579803002&gh_src=3c0864192&source=LinkedIn",
+        "company_name": "SpaceX",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Starbase, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "ed0c4357-c0cd-48d2-bca7-d4e3df275698",
+        "date_posted": 1724947070,
+        "company_url": "",
+        "is_visible": true
     }
 ]
