@@ -4025,5 +4025,21 @@
         "date_posted": 1724905787,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724905812,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/255993",
+        "company_name": "Oracle",
+        "title": "New Grad 2025: Software Engineer - OCI",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "Ashishjob",
+        "id": "6bda6e2d-b6e0-4ef5-b4a9-0d979af3239e",
+        "date_posted": 1724905812,
+        "company_url": "",
+        "is_visible": true
     }
 ]
