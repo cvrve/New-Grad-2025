@@ -4095,5 +4095,21 @@
         "date_posted": 1724905873,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724905891,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/255992/",
+        "company_name": "Oracle",
+        "title": "New Grad 2025: Software Engineer - OCI",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "Ashishjob",
+        "id": "48515ca0-a49a-4ed8-ba0e-6266c0f4f571",
+        "date_posted": 1724905891,
+        "company_url": "",
+        "is_visible": true
     }
 ]
