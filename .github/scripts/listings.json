@@ -4006,5 +4006,24 @@
         "date_posted": 1724905733,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724905787,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/255972",
+        "company_name": "Oracle",
+        "title": "New Grad 2025: Software Engineer - Database Technologies",
+        "locations": [
+            "Austin, TX",
+            "Seattle, WA",
+            "Nashville, TN",
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "Ashishjob",
+        "id": "8d259551-0b23-4681-843b-ba23d3e365e5",
+        "date_posted": 1724905787,
+        "company_url": "",
+        "is_visible": true
     }
 ]
