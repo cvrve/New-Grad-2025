@@ -4193,5 +4193,21 @@
         "date_posted": 1724946310,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724946413,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer---New-College-Grad_JR1986807?q=new%20grad",
+        "company_name": "NVIDIA",
+        "title": "New Grad: Developer Technology Engineer - Masters/PhD",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "cbfab9f1-310c-4a58-94d4-b4b7279cad50",
+        "date_posted": 1724946413,
+        "company_url": "",
+        "is_visible": true
     }
 ]
