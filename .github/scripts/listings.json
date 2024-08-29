@@ -4278,5 +4278,21 @@
         "date_posted": 1724960517,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724960586,
+        "url": "https://www.amazon.jobs/en/jobs/2607701/software-dev-engineer-high-performance-query-processing",
+        "company_name": "Amazon",
+        "title": "New Grad 2024: Software Dev Engineer",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "8fdaa1fe-6f1f-4eb3-92f8-be0fed722f81",
+        "date_posted": 1724960586,
+        "company_url": "",
+        "is_visible": true
     }
 ]
