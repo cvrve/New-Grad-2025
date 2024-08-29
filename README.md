@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Amazon** | New Grad 2024: Software Dev Engineer | <details><summary>**4 locations**</summary>Boston, NA</br>Sunnyvale, CA</br>Seattle, WA</br>San Diego, CA</details> | <a href="https://www.amazon.jobs/en/jobs/2607619/software-dev-engineer-software-and-networking-developer-sdn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | **Amazon** | New Grad 2024: Software Dev Engineer | Seattle, WA</br>Cupertino, CA | <a href="https://www.amazon.jobs/en/jobs/2727596/software-dev-engineer-machine-learning-apps-accelerator"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | **SpaceX** | New Grad: Software Engineer | Starbase, TX | <a href="https://boards.greenhouse.io/spacex/jobs/7579803002?gh_jid=7579803002&gh_src=3c0864192&source=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | **NVIDIA** | New Grad: Deep Learning Algorithm Engineer | Santa Clara, CA</br>Remote | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Algorithm-Engineer--Agentic-LLM-Inference---New-College-Grad-2024_JR1986312-1?q=new%20grad"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
