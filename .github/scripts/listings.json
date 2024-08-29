@@ -4060,5 +4060,24 @@
         "date_posted": 1724905834,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724905853,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/256018/",
+        "company_name": "Oracle",
+        "title": "New Grad 2025: Software Engineer - NetSuite",
+        "locations": [
+            "Austin, TX",
+            "Seattle, WA",
+            "Nashville, TN",
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "Ashishjob",
+        "id": "a0b2b77d-9ec3-4fe4-89f9-c9fb4b0d5bf9",
+        "date_posted": 1724905853,
+        "company_url": "",
+        "is_visible": true
     }
 ]
