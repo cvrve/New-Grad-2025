@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Garmin** | New Grad: Software Engineer I | Salem, OR | <a href="https://careers.garmin.com/careers-home/jobs/13998?lang=en-us&previousLocale=en-US"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | **Adobe** | New Grad 2025: Data Engineer | Lehi, UT | <a href="https://careers.adobe.com/us/en/job/ADOBUSR148231EXTERNALENUS/2025-University-Graduate-Data-Engineer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | **Seagate** | HDD Product Manager | Shakopee, MN | <a href="https://seagatecareers.com/job/Shakopee-HDD-Product-Manager-%2528Entry-Level%2529-MN/1205799800"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | **ByteDance** | New Grad 2025: Site Reliability Engineer | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7392685389754550578/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |

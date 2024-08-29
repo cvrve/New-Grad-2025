@@ -4177,5 +4177,21 @@
         "date_posted": 1724946119,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724946310,
+        "url": "https://careers.garmin.com/careers-home/jobs/13998?lang=en-us&previousLocale=en-US",
+        "company_name": "Garmin",
+        "title": "New Grad: Software Engineer I",
+        "locations": [
+            "Salem, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "6cfad42d-9312-4eeb-bc2c-ea18a6c3d2e6",
+        "date_posted": 1724946310,
+        "company_url": "",
+        "is_visible": true
     }
 ]
