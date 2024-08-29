@@ -4111,5 +4111,23 @@
         "date_posted": 1724905891,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724905914,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/255788/",
+        "company_name": "Oracle",
+        "title": "New Grad 2025: Software Engineer - Fusion Applications Development",
+        "locations": [
+            "Redwood City, CA",
+            "Pleasanton, CA",
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "Ashishjob",
+        "id": "939022ba-0d9c-4862-8dfd-f48fc60a86f7",
+        "date_posted": 1724905914,
+        "company_url": "",
+        "is_visible": true
     }
 ]
