@@ -4079,5 +4079,21 @@
         "date_posted": 1724905853,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724905873,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/255994/",
+        "company_name": "Oracle",
+        "title": "New Grad 2025: Software Engineer - OCI",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "Ashishjob",
+        "id": "fc720b79-a630-4152-972b-84cdfac6e463",
+        "date_posted": 1724905873,
+        "company_url": "",
+        "is_visible": true
     }
 ]
