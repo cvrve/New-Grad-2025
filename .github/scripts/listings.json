@@ -4041,5 +4041,24 @@
         "date_posted": 1724905812,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724905834,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/256009",
+        "company_name": "Oracle",
+        "title": "New Grad 2025: Software Engineer - Global Industries",
+        "locations": [
+            "Austin, TX",
+            "Seattle, WA",
+            "Nashville, TN",
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "Ashishjob",
+        "id": "d9898dd6-4587-4f44-9c1f-132c601c8494",
+        "date_posted": 1724905834,
+        "company_url": "",
+        "is_visible": true
     }
 ]
