@@ -4294,5 +4294,23 @@
         "date_posted": 1724960586,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724960661,
+        "url": "https://www.amazon.jobs/en/jobs/2726006/associate-solutions-architect",
+        "company_name": "Amazon",
+        "title": "New Grad: Associate Solutions Architect",
+        "locations": [
+            "Austin, TX",
+            "Arlington, VA",
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "e3fa7578-834a-4ced-bf2b-c060c4eab938",
+        "date_posted": 1724960661,
+        "company_url": "",
+        "is_visible": true
     }
 ]
