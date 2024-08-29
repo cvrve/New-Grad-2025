@@ -3990,5 +3990,21 @@
         "date_posted": 1724905503,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724905733,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/255984",
+        "company_name": "Oracle",
+        "title": "New Grad 2025: Software Engineer - OCI",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "Ashishjob",
+        "id": "618fc7e6-500f-4a3e-b3b6-7364f8f32a7a",
+        "date_posted": 1724905733,
+        "company_url": "",
+        "is_visible": true
     }
 ]

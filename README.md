@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Oracle** | New Grad 2025: Software Engineer - OCI 🛂 | Seattle, WA | <a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/255984"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | **Oracle** | Software Engineer - Analytics Cloud 🛂 | <details><summary>**4 locations**</summary>Austin, TX</br>Seattle, WA</br>Nashville, TN</br>Santa Clara, CA</details> | <a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/255975"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | **Oracle** | Software Engineer - Corporate Architecture 🛂 | <details><summary>**4 locations**</summary>Austin, TX</br>Seattle, WA</br>Nashville, TN</br>Santa Clara, CA</details> | <a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/255948"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | **Meta** | New Grad: Rotational Product Manager | Menlo Park, CA</br>Seattle, WA</br>New York, NY | <a href="https://www.metacareers.com/jobs/1680851879404795/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
