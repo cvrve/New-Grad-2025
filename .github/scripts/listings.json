@@ -4242,5 +4242,22 @@
         "date_posted": 1724947070,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724960388,
+        "url": "https://www.amazon.jobs/en/jobs/2727596/software-dev-engineer-machine-learning-apps-accelerator",
+        "company_name": "Amazon",
+        "title": "New Grad 2024: Software Dev Engineer",
+        "locations": [
+            "Seattle, WA",
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "46e11acc-20d0-4e41-9839-5d9d1790afbc",
+        "date_posted": 1724960388,
+        "company_url": "",
+        "is_visible": true
     }
 ]
