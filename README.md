@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **NVIDIA** | New Grad: Deep Learning Algorithm Engineer | Santa Clara, CA</br>Remote | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Algorithm-Engineer--Agentic-LLM-Inference---New-College-Grad-2024_JR1986312-1?q=new%20grad"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | **NVIDIA** | New Grad: Developer Technology Engineer - Masters/PhD | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer---New-College-Grad_JR1986807?q=new%20grad"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | **Garmin** | New Grad: Software Engineer I | Salem, OR | <a href="https://careers.garmin.com/careers-home/jobs/13998?lang=en-us&previousLocale=en-US"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | **Adobe** | New Grad 2025: Data Engineer | Lehi, UT | <a href="https://careers.adobe.com/us/en/job/ADOBUSR148231EXTERNALENUS/2025-University-Graduate-Data-Engineer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |

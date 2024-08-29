@@ -4209,5 +4209,22 @@
         "date_posted": 1724946413,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724946449,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Algorithm-Engineer--Agentic-LLM-Inference---New-College-Grad-2024_JR1986312-1?q=new%20grad",
+        "company_name": "NVIDIA",
+        "title": "New Grad: Deep Learning Algorithm Engineer",
+        "locations": [
+            "Santa Clara, CA",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "44b3c79d-6458-47c3-8702-03fa6ac69fb2",
+        "date_posted": 1724946449,
+        "company_url": "",
+        "is_visible": true
     }
 ]
