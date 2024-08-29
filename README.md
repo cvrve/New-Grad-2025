@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **ByteDance** | New Grad 2025: Site Reliability Engineer | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7392685389754550578/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | **Oracle** | New Grad 2025: Software Engineer - Fusion Applications Development 🛂 | Redwood City, CA</br>Pleasanton, CA</br>Santa Clara, CA | <a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/255788/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | **Oracle** | New Grad 2025: Software Engineer - OCI 🛂 | Santa Clara, CA | <a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/255992/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | **Oracle** | New Grad 2025: Software Engineer - OCI 🛂 | Nashville, TN | <a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/255994/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |

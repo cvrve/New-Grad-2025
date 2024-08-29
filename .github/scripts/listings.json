@@ -4129,5 +4129,21 @@
         "date_posted": 1724905914,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724911169,
+        "url": "https://jobs.bytedance.com/en/position/7392685389754550578/detail",
+        "company_name": "ByteDance",
+        "title": "New Grad 2025: Site Reliability Engineer",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "beakae",
+        "id": "c7b5db34-e966-4a3a-9d13-462e70fed7b2",
+        "date_posted": 1724911169,
+        "company_url": "",
+        "is_visible": true
     }
 ]
