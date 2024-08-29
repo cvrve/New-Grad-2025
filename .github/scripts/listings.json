@@ -3971,5 +3971,24 @@
         "date_posted": 1724905462,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724905503,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/255975",
+        "company_name": "Oracle",
+        "title": "Software Engineer - Analytics Cloud",
+        "locations": [
+            "Austin, TX",
+            "Seattle, WA",
+            "Nashville, TN",
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "Ashishjob",
+        "id": "68e25c12-4b31-4b29-85a1-3f43fb3d648e",
+        "date_posted": 1724905503,
+        "company_url": "",
+        "is_visible": true
     }
 ]
