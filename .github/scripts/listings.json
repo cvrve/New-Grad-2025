@@ -4145,5 +4145,21 @@
         "date_posted": 1724911169,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724945671,
+        "url": "https://seagatecareers.com/job/Shakopee-HDD-Product-Manager-%2528Entry-Level%2529-MN/1205799800",
+        "company_name": "Seagate",
+        "title": "HDD Product Manager",
+        "locations": [
+            "Shakopee, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "bcd1e64f-40b6-487b-8a7c-d90bd8cd123b",
+        "date_posted": 1724945671,
+        "company_url": "",
+        "is_visible": true
     }
 ]
