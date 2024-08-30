@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Accenture** | New Grad: Software Engineer 🇺🇸 | Annapolis Junction, MD | <a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4398316006"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | **Jane Street** | New Grad: Domain Specific Language Engineer | New York, NY | <a href="https://job-boards.greenhouse.io/janestreet/jobs/7616537002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | **Amazon** | New Grad 2024: Software Dev Engineer | Seattle, WA</br>Cupertino, CA | <a href="https://www.amazon.jobs/en/jobs/2577803/software-dev-engineer-compiler-annapurna-labs"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | **Amazon** | New Grad: Associate Solutions Architect | Austin, TX</br>Arlington, VA</br>Seattle, WA | <a href="https://www.amazon.jobs/en/jobs/2726006/associate-solutions-architect"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
