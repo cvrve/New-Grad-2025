@@ -4361,5 +4361,21 @@
         "date_posted": 1724993540,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724994582,
+        "url": "https://www.tesla.com/careers/search/job/226115",
+        "company_name": "Tesla",
+        "title": "New Grad: Backend Software Engineer",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "987e709e-91c5-48b4-a840-3d372ed28ddf",
+        "date_posted": 1724994582,
+        "company_url": "",
+        "is_visible": true
     }
 ]
