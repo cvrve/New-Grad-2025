@@ -4393,5 +4393,21 @@
         "date_posted": 1724994644,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725069760,
+        "url": "https://job-boards.greenhouse.io/zip/jobs/5234060004",
+        "company_name": "Zip",
+        "title": "New Grad 2025: Software Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "2fdd18c5-4b4a-42e7-a8d7-397d15578d9a",
+        "date_posted": 1725069760,
+        "company_url": "",
+        "is_visible": true
     }
 ]

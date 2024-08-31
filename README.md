@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Zip** | New Grad 2025: Software Engineer | San Francisco, CA | <a href="https://job-boards.greenhouse.io/zip/jobs/5234060004"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |
 | **Tesla** | New Grad: Software Engineer, Backend | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/226406"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | **Tesla** | New Grad: Backend Software Engineer | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/226115"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | **Accenture** | New Grad: Software Engineer 🇺🇸 | Annapolis Junction, MD | <a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4398316006"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
