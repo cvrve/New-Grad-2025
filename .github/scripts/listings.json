@@ -4409,5 +4409,21 @@
         "date_posted": 1725069760,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725069837,
+        "url": "https://boards.greenhouse.io/spacex/jobs/7435724002",
+        "company_name": "SpaceX",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "aebe8ecd-698a-44d0-b98e-04031e3a2e35",
+        "date_posted": 1725069837,
+        "company_url": "",
+        "is_visible": true
     }
 ]
