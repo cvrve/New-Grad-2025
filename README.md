@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Waystar** | New Grad: Application Engineer | Louisville, KY</br>Atlanta, GA | <a href="https://waystar.wd1.myworkdayjobs.com/Waystar/job/Louisville-KY/Application-Engineer_R1961"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |
 | **SpaceX** | New Grad: Software Engineer | Sunnyvale, CA | <a href="https://boards.greenhouse.io/spacex/jobs/7521259002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |
 | **SpaceX** | New Grad: Software Engineer | Redmond, WA | <a href="https://boards.greenhouse.io/spacex/jobs/7435724002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |
 | **Zip** | New Grad 2025: Software Engineer | San Francisco, CA | <a href="https://job-boards.greenhouse.io/zip/jobs/5234060004"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |

@@ -4441,5 +4441,22 @@
         "date_posted": 1725069892,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725069983,
+        "url": "https://waystar.wd1.myworkdayjobs.com/Waystar/job/Louisville-KY/Application-Engineer_R1961",
+        "company_name": "Waystar",
+        "title": "New Grad: Application Engineer",
+        "locations": [
+            "Louisville, KY",
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "ebd07757-b91c-4c05-a339-9b50fe5251dc",
+        "date_posted": 1725069983,
+        "company_url": "",
+        "is_visible": true
     }
 ]
