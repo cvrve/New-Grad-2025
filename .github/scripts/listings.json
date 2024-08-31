@@ -4490,5 +4490,21 @@
         "date_posted": 1725141847,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725141897,
+        "url": "https://codeium.com/careers/cb10c443-7e5b-44ac-8b21-0edd60b22095",
+        "company_name": "Codeium",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "f95b616b-ddb2-40fe-9032-f10359ffdccf",
+        "date_posted": 1725141897,
+        "company_url": "",
+        "is_visible": true
     }
 ]
