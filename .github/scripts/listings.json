@@ -4474,5 +4474,21 @@
         "date_posted": 1725080937,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725141847,
+        "url": "https://codeium.com/careers/558657be-5082-4e97-8509-d49f5c25bf5b",
+        "company_name": "Codeium",
+        "title": "New Grad: AI Product Engineer",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "953d706a-d356-493a-bd44-62f15df813b5",
+        "date_posted": 1725141847,
+        "company_url": "",
+        "is_visible": true
     }
 ]
