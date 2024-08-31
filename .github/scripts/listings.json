@@ -4458,5 +4458,21 @@
         "date_posted": 1725069983,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725080937,
+        "url": "https://capitalone.wd1.myworkdayjobs.com/en-US/Capital_One/job/Associate--Software-Engineer---New-Grad--OR049152-_R195487?redirect=%252FCapital_One%252Fjob%252FToronto-ON%252FAssociate--Software-Engineer---New-Grad--OR049152-_R195487%252F",
+        "company_name": "Capital One",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "3bdfda68-4362-4aaf-9fbe-e244c0accb3c",
+        "date_posted": 1725080937,
+        "company_url": "",
+        "is_visible": true
     }
 ]
