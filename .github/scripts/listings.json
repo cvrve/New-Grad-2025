@@ -4425,5 +4425,21 @@
         "date_posted": 1725069837,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725069892,
+        "url": "https://boards.greenhouse.io/spacex/jobs/7521259002",
+        "company_name": "SpaceX",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "a3bcefe0-9987-405e-80c9-f0f6babef7c6",
+        "date_posted": 1725069892,
+        "company_url": "",
+        "is_visible": true
     }
 ]
