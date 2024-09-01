@@ -4570,5 +4570,21 @@
         "date_posted": 1725202098,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725202390,
+        "url": "https://careers.rtx.com/global/en/job/01723816?rx_a=1&rx_c=raytheon-engineering---tucson-2024&rx_ch=jobp4p&rx_group=325182&rx_job=01723816",
+        "company_name": "Raytheon",
+        "title": "New Grad: Information Systems Engineer",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "3b36a75a-66d6-48e6-8600-301827cecbf6",
+        "date_posted": 1725202390,
+        "company_url": "",
+        "is_visible": true
     }
 ]
