@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Watershed** | New Grad: Software Engineer | San Francisco, CA | <a href="https://job-boards.greenhouse.io/watershedclimate/jobs/4091574004"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | **Replicant** | New Grad: Software Engineer I | Canada | <a href="https://jobs.lever.co/replicant/714624fe-123b-452c-bd63-ea707e2c0ba6"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | **Codeium** | New Grad: Software Engineer | Mountain View, CA | <a href="https://codeium.com/careers/cb10c443-7e5b-44ac-8b21-0edd60b22095"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |
 | **Codeium** | New Grad: AI Product Engineer | Mountain View, CA | <a href="https://codeium.com/careers/558657be-5082-4e97-8509-d49f5c25bf5b"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |

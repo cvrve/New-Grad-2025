@@ -4522,5 +4522,21 @@
         "date_posted": 1725201924,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725201993,
+        "url": "https://job-boards.greenhouse.io/watershedclimate/jobs/4091574004",
+        "company_name": "Watershed",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "04e94430-b5af-49ef-abf3-24a631aa1878",
+        "date_posted": 1725201993,
+        "company_url": "",
+        "is_visible": true
     }
 ]
