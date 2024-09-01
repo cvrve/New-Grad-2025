@@ -4618,5 +4618,21 @@
         "date_posted": 1725202566,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725202652,
+        "url": "https://aexp.eightfold.ai/careers/job/24619689",
+        "company_name": "American Express",
+        "title": "New Grad 2025: Information Security Analyst",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "ae77ba3c-1398-4359-a7cd-1e0a0a405b4f",
+        "date_posted": 1725202652,
+        "company_url": "",
+        "is_visible": true
     }
 ]
