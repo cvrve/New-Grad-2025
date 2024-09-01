@@ -4683,5 +4683,21 @@
         "date_posted": 1725231207,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725231578,
+        "url": "https://careers.adobe.com/us/en/job/ADOBUSR147886EXTERNALENUS/2025-University-Graduate-Data-Scientist",
+        "company_name": "Adobe",
+        "title": "New Grad 2025: Data Scientist",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "24c719b5-28fd-48dc-b7b9-341747b84ec5",
+        "date_posted": 1725231578,
+        "company_url": "",
+        "is_visible": true
     }
 ]
