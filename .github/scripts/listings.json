@@ -4586,5 +4586,21 @@
         "date_posted": 1725202390,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725202461,
+        "url": "https://careers.ibm.com/job/20954172/entry-level-user-experience-ux-designer-2025-cloud-austin-tx",
+        "company_name": "IBM",
+        "title": "New Grad 2025: User Experience (UX) Designer",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "2f3a2c84-5c2f-45a1-b8b8-848a52b57d41",
+        "date_posted": 1725202461,
+        "company_url": "",
+        "is_visible": true
     }
 ]

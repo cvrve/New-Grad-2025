@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **IBM** | New Grad 2025: User Experience (UX) Designer | Austin, TX | <a href="https://careers.ibm.com/job/20954172/entry-level-user-experience-ux-designer-2025-cloud-austin-tx"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | **Raytheon** | New Grad: Information Systems Engineer 🇺🇸 | Tucson, AZ | <a href="https://careers.rtx.com/global/en/job/01723816?rx_a=1&rx_c=raytheon-engineering---tucson-2024&rx_ch=jobp4p&rx_group=325182&rx_job=01723816"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | **Glean** | New Grad: Software Engineer | Palo Alto, CA | <a href="https://boards.greenhouse.io/gleanwork/jobs/4449298005"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | **Qualtrics** | New Grad: Software Developer Engineer I | Provo, UT | <a href="https://www.qualtrics.com/careers/us/en/job/6199280?gh_jid=6199280"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
