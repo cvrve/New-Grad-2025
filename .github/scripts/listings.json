@@ -4666,5 +4666,22 @@
         "date_posted": 1725231123,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725231207,
+        "url": "https://careers.adobe.com/us/en/job/ADOBUSR148230EXTERNALENUS/2025-University-Graduate-Alert-Aggregation-Automation",
+        "company_name": "Adobe",
+        "title": "New Grad 2025: Alert Aggregation & Automation Engineer",
+        "locations": [
+            "San Jose, CA",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "38cc6ec7-a607-49b8-a8d0-86d345876fe7",
+        "date_posted": 1725231207,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Adobe** | New Grad 2025: Alert Aggregation & Automation Engineer | San Jose, CA</br>San Francisco, CA | <a href="https://careers.adobe.com/us/en/job/ADOBUSR148230EXTERNALENUS/2025-University-Graduate-Alert-Aggregation-Automation"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | **Adobe** | New Grad 2025: Quality Engineering Developer | San Jose, CA | <a href="https://careers.adobe.com/us/en/job/ADOBUSR148196EXTERNALENUS/2025-University-Graduate-Quality-Engineering-Developer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | **Autodesk** | New Grad: Software Development Engineer | Toronto, Canada | <a href="https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Development-Engineer--Full-Stack_24WD81088-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | **American Express** | New Grad 2025: Information Security Analyst | New York, NY | <a href="https://aexp.eightfold.ai/careers/job/24619689"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
