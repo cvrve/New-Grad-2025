@@ -4554,5 +4554,21 @@
         "date_posted": 1725202060,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725202098,
+        "url": "https://boards.greenhouse.io/gleanwork/jobs/4449298005",
+        "company_name": "Glean",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "8562cf79-0a17-4185-91c4-e56bd791f381",
+        "date_posted": 1725202098,
+        "company_url": "",
+        "is_visible": true
     }
 ]
