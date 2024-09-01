@@ -4602,5 +4602,21 @@
         "date_posted": 1725202461,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725202566,
+        "url": "https://www.northropgrumman.com/jobs/Engineering/General/United-States-of-America/Maryland/Baltimore/R10169606/2025-associate-computer-engineercomputer-engineer-pathways-program-baltimore-md?code=JB-18020&rx_a=1&rx_c=engineering-priority-one-cleared&rx_ch=jobp4p&rx_group=346892&rx_job=R10169606",
+        "company_name": "Northrop Grumman",
+        "title": "New Grad 2025: Associate Computer Engineer",
+        "locations": [
+            "Baltimore, ML"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "db22fd72-2b3d-4fd8-9161-4a9073856c5e",
+        "date_posted": 1725202566,
+        "company_url": "",
+        "is_visible": true
     }
 ]
