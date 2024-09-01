@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Replicant** | New Grad: Software Engineer I | Canada | <a href="https://jobs.lever.co/replicant/714624fe-123b-452c-bd63-ea707e2c0ba6"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | **Codeium** | New Grad: Software Engineer | Mountain View, CA | <a href="https://codeium.com/careers/cb10c443-7e5b-44ac-8b21-0edd60b22095"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |
 | **Codeium** | New Grad: AI Product Engineer | Mountain View, CA | <a href="https://codeium.com/careers/558657be-5082-4e97-8509-d49f5c25bf5b"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |
 | **Capital One** | New Grad: Software Engineer | Toronto, Canada | <a href="https://capitalone.wd1.myworkdayjobs.com/en-US/Capital_One/job/Associate--Software-Engineer---New-Grad--OR049152-_R195487?redirect=%252FCapital_One%252Fjob%252FToronto-ON%252FAssociate--Software-Engineer---New-Grad--OR049152-_R195487%252F"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |

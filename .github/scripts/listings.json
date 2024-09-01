@@ -4506,5 +4506,21 @@
         "date_posted": 1725141897,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725201924,
+        "url": "https://jobs.lever.co/replicant/714624fe-123b-452c-bd63-ea707e2c0ba6",
+        "company_name": "Replicant",
+        "title": "New Grad: Software Engineer I",
+        "locations": [
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "f461f0ea-2562-4251-9263-c7a81bc822d2",
+        "date_posted": 1725201924,
+        "company_url": "",
+        "is_visible": true
     }
 ]
