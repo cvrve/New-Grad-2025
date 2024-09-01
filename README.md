@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Autodesk** | New Grad: Software Development Engineer | Toronto, Canada | <a href="https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Development-Engineer--Full-Stack_24WD81088-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | **American Express** | New Grad 2025: Information Security Analyst | New York, NY | <a href="https://aexp.eightfold.ai/careers/job/24619689"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | **Northrop Grumman** | New Grad 2025: Associate Computer Engineer 🇺🇸 | Baltimore, ML | <a href="https://www.northropgrumman.com/jobs/Engineering/General/United-States-of-America/Maryland/Baltimore/R10169606/2025-associate-computer-engineercomputer-engineer-pathways-program-baltimore-md?code=JB-18020&rx_a=1&rx_c=engineering-priority-one-cleared&rx_ch=jobp4p&rx_group=346892&rx_job=R10169606"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | **IBM** | New Grad 2025: User Experience (UX) Designer | Austin, TX | <a href="https://careers.ibm.com/job/20954172/entry-level-user-experience-ux-designer-2025-cloud-austin-tx"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |

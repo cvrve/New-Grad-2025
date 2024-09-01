@@ -4634,5 +4634,21 @@
         "date_posted": 1725202652,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725203127,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Development-Engineer--Full-Stack_24WD81088-1",
+        "company_name": "Autodesk",
+        "title": "New Grad: Software Development Engineer",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "ecb7b66d-cb85-45b0-b5d0-809a35719e3e",
+        "date_posted": 1725203127,
+        "company_url": "",
+        "is_visible": true
     }
 ]
