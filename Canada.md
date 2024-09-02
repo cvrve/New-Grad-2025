@@ -4,7 +4,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked](https://wecracked.com/), [Tech Career North](https://discord.gg/96rkQyC5rX) and [Resumes.fyi](https://resumes.fyi/)!
 
 
-:warning: Please note that this repository is exclusively for roles in the United States, Canada, or Remote positions :earth_americas:
+:warning: Please note that this page is exclusively for roles in Canada, or Remote positions :earth_americas:
 
 🙏 **Contribute by submitting an [issue](https://github.com/cvrve/New-Grad/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
