@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Adobe** | 2025 University Graduate - Software Engineer | San Jose, CA | <a href="https://careers.adobe.com/us/en/job/R148158/2025-University-Graduate-Software-Engineer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
 | **Adobe** | New Grad 2025: Data Scientist | San Jose, CA | <a href="https://careers.adobe.com/us/en/job/ADOBUSR147886EXTERNALENUS/2025-University-Graduate-Data-Scientist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | **Adobe** | New Grad 2025: Alert Aggregation & Automation Engineer | San Jose, CA</br>San Francisco, CA | <a href="https://careers.adobe.com/us/en/job/ADOBUSR148230EXTERNALENUS/2025-University-Graduate-Alert-Aggregation-Automation"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | **Adobe** | New Grad 2025: Quality Engineering Developer | San Jose, CA | <a href="https://careers.adobe.com/us/en/job/ADOBUSR148196EXTERNALENUS/2025-University-Graduate-Quality-Engineering-Developer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
