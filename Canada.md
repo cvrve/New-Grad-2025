@@ -53,6 +53,15 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Autodesk** | New Grad: Software Development Engineer | Toronto, Canada | <a href="https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Development-Engineer--Full-Stack_24WD81088-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
+| **Replicant** | New Grad: Software Engineer I | Canada | <a href="https://jobs.lever.co/replicant/714624fe-123b-452c-bd63-ea707e2c0ba6"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
+| **Capital One** | New Grad: Software Engineer | Toronto, Canada | <a href="https://capitalone.wd1.myworkdayjobs.com/en-US/Capital_One/job/Associate--Software-Engineer---New-Grad--OR049152-_R195487?redirect=%252FCapital_One%252Fjob%252FToronto-ON%252FAssociate--Software-Engineer---New-Grad--OR049152-_R195487%252F"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |
+| **Intelliware** | New Grad: Junior Software Developer | Toronto, Canada | <a href="https://jobs.lever.co/intelliware/759b57c3-a5c3-4698-af78-66b3591bb936?applicant_guid=1a26e138-602c-4352-ab77-4ef92c12a04e&lever-origin=applied&lever-source%5B%5D=JobTarget%2CJobTarget%20Organic%20Sites%20Bundle"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
+| **Canonical** | New Grad: Software Engineer | Vancouver, Canada | <a href="https://boards.greenhouse.io/canonicaljobs/jobs/6185294"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
+| **Konrad** | New Grad: Software Developer | Vancouver, Canada | <a href="https://www.konrad.com/careers/job/5893276003?gh_jid=5893276003"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
+| **Sentry** | New Grad 2025: Software Engineer 🛂 | Toronto, Canada | <a href="https://sentry.io/careers/6145443/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
+| **Warp** | Software Engineer | Remote US & Canada | <a href="https://boards.greenhouse.io/warp/jobs/4324888004?gh_src=a2e958824us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
+| **Jerry** | Software Engineer I - Toronto | Toronto, ON, Canada | 🔒 | Jul 05 |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
 [⬆️ Back to Top ⬆️](https://github.com/cvrve/New-Grad#the-list-)
