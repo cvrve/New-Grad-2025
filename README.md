@@ -48,6 +48,8 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
  - 🇺🇸 - Requires U.S. Citizenship
  - 🔒 - Job application is closed
 
+ > For Canadian new-grad roles, check out [Canada-New-Grad](https://github.com/cvrve/New-Grad/blob/dev/Canada.md).
+
 [⬇️ Jump to bottom ⬇️](https://github.com/cvrve/New-Grad#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
