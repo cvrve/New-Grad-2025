@@ -87,6 +87,30 @@ def getListingsFromJSON(filename=".github/scripts/listings.json"):
 
 
 def embedTable(listings):
+    canada_listings = [listing for listing in listings if "Canada" in getLocations(listing)]
+    other_listings = [listing for listing in listings if "Canada" not in getLocations(listing)]
+
+    # Write to Canada.md
+    if canada_listings:
+        filepath = "Canada.md"
+        newText = ""
+        readingTable = False
+        with open(filepath, "r") as f:
+            for line in f.readlines():
+                if readingTable:
+                    if "|" not in line and "TABLE_END" in line:
+                        newText += line
+                        readingTable = False
+                    continue
+                else:
+                    newText += line
+                    if "TABLE_START" in line:
+                        readingTable = True
+                        newText += "\n" + create_md_table(canada_listings) + "\n"
+        with open(filepath, "w") as f:
+            f.write(newText)
+
+    # Write to README.md
     filepath = "README.md"
     newText = ""
     readingTable = False
@@ -101,8 +125,7 @@ def embedTable(listings):
                 newText += line
                 if "TABLE_START" in line:
                     readingTable = True
-                    newText += "\n" + \
-                        create_md_table(listings) + "\n"
+                    newText += "\n" + create_md_table(other_listings) + "\n"
     with open(filepath, "w") as f:
         f.write(newText)
 
