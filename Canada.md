@@ -16,7 +16,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 			<br>
 			<div>
 			<a href="https://discord.gg/96rkQyC5rX" target="_blank" rel="noopener noreferrer">
-		  <img src="https://github.com/user-attachments/assets/70b5815a-82b5-411f-92d5-a2a741081071" width="450" alt="Tech Career North">
+		  <img src="./assets/TCN-banner.png" width="450" alt="Tech Career North">
 		</a>
 			</div>
   <sub><i>Join our <a href="https://discord.gg/96rkQyC5rX" target="_blank" rel="noopener noreferrer">discord community</a> or the next <a href="https://www.youtube.com/@techcareernorth/streams" target="_blank" rel="noopener noreferrer">live event!</a></i></sub>
