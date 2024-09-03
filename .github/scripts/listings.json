@@ -4733,5 +4733,25 @@
         "date_posted": 1725305705,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725364562,
+        "url": "https://jobs.bell.ca/ca/en/job/420067/2025-Graduate-Program-Cyber-Security",
+        "company_name": "Bell",
+        "title": "New Grad 2025: Cyber Security Engineer",
+        "locations": [
+            "Halifax, Canada",
+            "Ottawa, Canada",
+            "Montreal, Canada",
+            "Toronto, Canada",
+            "Bedford, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "1d918942-be20-4402-9316-19d5c1f158b2",
+        "date_posted": 1725364562,
+        "company_url": "",
+        "is_visible": true
     }
 ]

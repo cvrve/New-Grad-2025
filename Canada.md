@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Bell** | New Grad 2025: Cyber Security Engineer | <details><summary>**5 locations**</summary>Halifax, Canada</br>Ottawa, Canada</br>Montreal, Canada</br>Toronto, Canada</br>Bedford, Canada</details> | <a href="https://jobs.bell.ca/ca/en/job/420067/2025-Graduate-Program-Cyber-Security"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | **Autodesk** | New Grad: Software Development Engineer | Toronto, Canada | <a href="https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Development-Engineer--Full-Stack_24WD81088-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | **Replicant** | New Grad: Software Engineer I | Canada | <a href="https://jobs.lever.co/replicant/714624fe-123b-452c-bd63-ea707e2c0ba6"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | **Capital One** | New Grad: Software Engineer | Toronto, Canada | <a href="https://capitalone.wd1.myworkdayjobs.com/en-US/Capital_One/job/Associate--Software-Engineer---New-Grad--OR049152-_R195487?redirect=%252FCapital_One%252Fjob%252FToronto-ON%252FAssociate--Software-Engineer---New-Grad--OR049152-_R195487%252F"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |
