@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **ZipRecruiter** | New Grad: Software Engineer | Santa Monica, CA | <a href="https://job-boards.greenhouse.io/ziprecruiter/jobs/6165341"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | **Datadog** | New Grad 2025: Software Engineer | New York, NY</br>Boston, MA | <a href="https://careers.datadoghq.com/detail/6182685/?gh_jid=6182685"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | **Datadog** | New Grad 2025: Data Scientist | New York, NY | <a href="https://careers.datadoghq.com/detail/6209265/?gh_jid=6209265"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | **Oracle** | New Grad 2025: Software Engineer | Multiple | <a href="https://careers.oracle.com/jobs/#en/sites/jobsearch/job/255948/?utm_medium=Job%20aggregator"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |

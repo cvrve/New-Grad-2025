@@ -4869,5 +4869,21 @@
         "date_posted": 1725381786,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725405921,
+        "url": "https://job-boards.greenhouse.io/ziprecruiter/jobs/6165341",
+        "company_name": "ZipRecruiter",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Santa Monica, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "275febb3-f566-4d51-8983-615eb375a73d",
+        "date_posted": 1725405921,
+        "company_url": "",
+        "is_visible": true
     }
 ]
