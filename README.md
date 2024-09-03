@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Cisco** | New Grad: Data Analyst 🛂 | San Jose, CA | <a href="https://jobs.cisco.com/jobs/ProjectDetail/Data-Analyst-I-Full-Time-United-States/1426653"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | **IBM** | New Grad: Software Developer | Austin, TX | <a href="https://careers.ibm.com/job/20957942/software-developer-austin-tx"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | **Travelers** | New Grad: Engineering Development Program | <details><summary>**4 locations**</summary>Hartford, CT</br>Atlanta, GA</br>St. Paul, MN</br>Hunt Valley, MN</details> | <a href="https://travelers.wd5.myworkdayjobs.com/en-US/External/job/CT---Hartford/Engineering-Development-Program--EDP----Software-Engineering_R-38937?source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | **Whatnot** | New Grad 2025: Software Engineer | San Francisco, CA</br>Los Angeles, CA</br>New York, NY | <a href="https://job-boards.greenhouse.io/whatnot/jobs/5247525004?+gh_src=d18daf814us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |

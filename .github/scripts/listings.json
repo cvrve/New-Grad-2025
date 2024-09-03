@@ -4788,5 +4788,21 @@
         "date_posted": 1725367356,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725367435,
+        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Data-Analyst-I-Full-Time-United-States/1426653",
+        "company_name": "Cisco",
+        "title": "New Grad: Data Analyst",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "80ab08da-779f-49d9-b488-eca82ed27f5c",
+        "date_posted": 1725367435,
+        "company_url": "",
+        "is_visible": true
     }
 ]
