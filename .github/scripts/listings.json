@@ -4753,5 +4753,24 @@
         "date_posted": 1725364562,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725367224,
+        "url": "https://travelers.wd5.myworkdayjobs.com/en-US/External/job/CT---Hartford/Engineering-Development-Program--EDP----Software-Engineering_R-38937?source=cvrve",
+        "company_name": "Travelers",
+        "title": "New Grad: Engineering Development Program",
+        "locations": [
+            "Hartford, CT",
+            "Atlanta, GA",
+            "St. Paul, MN",
+            "Hunt Valley, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "e971990e-782f-455b-90f7-73ee8657b525",
+        "date_posted": 1725367224,
+        "company_url": "",
+        "is_visible": true
     }
 ]
