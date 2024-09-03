@@ -4852,5 +4852,22 @@
         "date_posted": 1725381164,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725381786,
+        "url": "https://careers.datadoghq.com/detail/6182685/?gh_jid=6182685",
+        "company_name": "Datadog",
+        "title": "New Grad 2025: Software Engineer",
+        "locations": [
+            "New York, NY",
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "beakae",
+        "id": "1e39bc20-69fc-4ca4-a436-76a7e24d7f0f",
+        "date_posted": 1725381786,
+        "company_url": "",
+        "is_visible": true
     }
 ]
