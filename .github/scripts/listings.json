@@ -4836,5 +4836,21 @@
         "date_posted": 1725369594,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725381164,
+        "url": "https://careers.datadoghq.com/detail/6209265/?gh_jid=6209265",
+        "company_name": "Datadog",
+        "title": "New Grad 2025: Data Scientist",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "beakae",
+        "id": "42962777-5a51-4626-b1b6-693e86aa421c",
+        "date_posted": 1725381164,
+        "company_url": "",
+        "is_visible": true
     }
 ]
