@@ -4772,5 +4772,21 @@
         "date_posted": 1725367224,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725367356,
+        "url": "https://careers.ibm.com/job/20957942/software-developer-austin-tx",
+        "company_name": "IBM",
+        "title": "New Grad: Software Developer",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "9662845e-3a6c-4ae3-ad06-41e178d53e71",
+        "date_posted": 1725367356,
+        "company_url": "",
+        "is_visible": true
     }
 ]
