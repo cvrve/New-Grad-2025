@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Oracle** | New Grad 2025: Software Engineer | San Francisco, CA | <a href="https://careers.oracle.com/jobs/#en/sites/jobsearch/job/255972/?utm_medium=Job%20aggregator"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | **Cisco** | New Grad: Data Analyst 🛂 | San Jose, CA | <a href="https://jobs.cisco.com/jobs/ProjectDetail/Data-Analyst-I-Full-Time-United-States/1426653"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | **IBM** | New Grad: Software Developer | Austin, TX | <a href="https://careers.ibm.com/job/20957942/software-developer-austin-tx"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | **Travelers** | New Grad: Engineering Development Program | <details><summary>**4 locations**</summary>Hartford, CT</br>Atlanta, GA</br>St. Paul, MN</br>Hunt Valley, MN</details> | <a href="https://travelers.wd5.myworkdayjobs.com/en-US/External/job/CT---Hartford/Engineering-Development-Program--EDP----Software-Engineering_R-38937?source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
