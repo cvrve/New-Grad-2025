@@ -4820,5 +4820,21 @@
         "date_posted": 1725369514,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725369594,
+        "url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/job/255948/?utm_medium=Job%20aggregator",
+        "company_name": "Oracle",
+        "title": "New Grad 2025: Software Engineer",
+        "locations": [
+            "Multiple"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "fa931831-2edd-4bb9-924b-0366992d7eb2",
+        "date_posted": 1725369594,
+        "company_url": "",
+        "is_visible": true
     }
 ]
