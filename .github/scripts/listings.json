@@ -5046,5 +5046,22 @@
         "date_posted": 1725425629,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725425696,
+        "url": "https://silabs.wd1.myworkdayjobs.com/en-US/SiliconlabsCareers/job/Austin/Design-Engineer---New-College-Graduate_20087?q=New%20Graduate",
+        "company_name": "Silicon Labs",
+        "title": "New Grad: Design Engineer",
+        "locations": [
+            "Austin, TX",
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "a43e7f4a-50fa-4feb-b7b8-cc7404a8a324",
+        "date_posted": 1725425696,
+        "company_url": "",
+        "is_visible": true
     }
 ]

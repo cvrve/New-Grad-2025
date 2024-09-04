@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Silicon Labs** | New Grad: Design Engineer | Austin, TX</br>Boston, MA | <a href="https://silabs.wd1.myworkdayjobs.com/en-US/SiliconlabsCareers/job/Austin/Design-Engineer---New-College-Graduate_20087?q=New%20Graduate"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 04 |
 | **Silicon Labs** | New Grad: Software Engineer | Austin, TX</br>Boston, MA | <a href="https://silabs.wd1.myworkdayjobs.com/en-US/SiliconlabsCareers/job/Austin/Software-Engineer---New-College-Graduate_20085?q=New%20Graduate"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 04 |
 | **Microsoft** | New Grad: Software Engineer, Fullstack | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1763382/Software-Engineer---Fullstack%2C-Redmond"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 04 |
 | **Groq** | New Grad: Software Engineer | Mountain View, CA | <a href="https://groq.com/careers/?gh_jid=5913274003"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 04 |
