@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Circle** | New Grad: Software Engineer | Remote | <a href="https://boards.greenhouse.io/circlereferrals/jobs/7254061002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 04 |
 | **Sunshine** | New Grad: Software Engineer | Palo Alto, CA | <a href="https://job-boards.greenhouse.io/sunshine/jobs/4041479005"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 04 |
 | **Nextdoor** | New Grad 2025: Software Engineer | San Francisco, CA | <a href="https://job-boards.greenhouse.io/nextdoorcampus/jobs/6065493"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 04 |
 | **Magna** | New Grad: Software Engineer | New York, NY | <a href="https://job-boards.greenhouse.io/magna/jobs/4382449007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 04 |
