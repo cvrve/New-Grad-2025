@@ -4981,5 +4981,21 @@
         "date_posted": 1725418174,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725418261,
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4463083005",
+        "company_name": "Scale AI",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "65f8ea76-e8a7-42a2-a7a5-a319b0fbf86b",
+        "date_posted": 1725418261,
+        "company_url": "",
+        "is_visible": true
     }
 ]
