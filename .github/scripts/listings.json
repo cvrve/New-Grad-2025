@@ -5029,5 +5029,22 @@
         "date_posted": 1725424839,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725425629,
+        "url": "https://silabs.wd1.myworkdayjobs.com/en-US/SiliconlabsCareers/job/Austin/Software-Engineer---New-College-Graduate_20085?q=New%20Graduate",
+        "company_name": "Silicon Labs",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Austin, TX",
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "419875ee-ad57-4958-8493-9add0eb2fff4",
+        "date_posted": 1725425629,
+        "company_url": "",
+        "is_visible": true
     }
 ]
