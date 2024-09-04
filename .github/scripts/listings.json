@@ -5013,5 +5013,21 @@
         "date_posted": 1725418517,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725424839,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1763382/Software-Engineer---Fullstack%2C-Redmond",
+        "company_name": "Microsoft",
+        "title": "New Grad: Software Engineer, Fullstack",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "165060b9-dd94-479b-ad88-df585c772377",
+        "date_posted": 1725424839,
+        "company_url": "",
+        "is_visible": true
     }
 ]
