@@ -4949,5 +4949,21 @@
         "date_posted": 1725417706,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725417979,
+        "url": "https://broadinstitute.avature.net/en_US/careers/JobDetail/Early-Career-Researchers-Computational-Associate-I-Broad-wide-openings/18857",
+        "company_name": "Broad Institute",
+        "title": "New Grad: Computational Research",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "138cd603-c54c-48a5-a951-fc45469ac720",
+        "date_posted": 1725417979,
+        "company_url": "",
+        "is_visible": true
     }
 ]
