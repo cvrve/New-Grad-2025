@@ -4997,5 +4997,21 @@
         "date_posted": 1725418261,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725418517,
+        "url": "https://groq.com/careers/?gh_jid=5913274003",
+        "company_name": "Groq",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "58e99686-bab0-4f25-ad9c-2790de94def6",
+        "date_posted": 1725418517,
+        "company_url": "",
+        "is_visible": true
     }
 ]

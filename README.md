@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Groq** | New Grad: Software Engineer | Mountain View, CA | <a href="https://groq.com/careers/?gh_jid=5913274003"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 04 |
 | **Scale AI** | New Grad: Software Engineer | San Francisco, CA | <a href="https://job-boards.greenhouse.io/scaleai/jobs/4463083005"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 04 |
 | **Radiant** | New Grad: Software Engineer 🛂 | El Segundo, CA | <a href="https://job-boards.greenhouse.io/radiant/jobs/4460385005"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 04 |
 | **Broad Institute** | New Grad: Computational Research | Cambridge, MA | <a href="https://broadinstitute.avature.net/en_US/careers/JobDetail/Early-Career-Researchers-Computational-Associate-I-Broad-wide-openings/18857"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 04 |
