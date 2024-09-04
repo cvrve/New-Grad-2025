@@ -4885,5 +4885,21 @@
         "date_posted": 1725405921,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725415311,
+        "url": "https://job-boards.greenhouse.io/magna/jobs/4382449007",
+        "company_name": "Magna",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "f2c43457-bdcd-4747-8dc3-9b9820635c13",
+        "date_posted": 1725415311,
+        "company_url": "",
+        "is_visible": true
     }
 ]
