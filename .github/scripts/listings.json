@@ -5063,5 +5063,22 @@
         "date_posted": 1725425696,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725425811,
+        "url": "https://silabs.wd1.myworkdayjobs.com/en-US/SiliconlabsCareers/job/Austin/Applications-Engineer---New-College-Graduate_20089?q=New%20Graduate",
+        "company_name": "Silicon Labs",
+        "title": "New Grad: Applications Engineer",
+        "locations": [
+            "Austin, TX",
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "4ee92ab1-55de-4e77-9bc0-fca6ef1efe88",
+        "date_posted": 1725425811,
+        "company_url": "",
+        "is_visible": true
     }
 ]
