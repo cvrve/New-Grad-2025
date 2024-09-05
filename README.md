@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **ServiceNow** | New Grad 2025: UTG - Software Engineer | Santa Clara, CA | <a href="https://careers.servicenow.com/en/jobs/744000011667145/utg-software-engineer-new-college-grad/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 05 |
 | **Silicon Labs** | New Grad: Applications Engineer | Austin, TX</br>Boston, MA | <a href="https://silabs.wd1.myworkdayjobs.com/en-US/SiliconlabsCareers/job/Austin/Applications-Engineer---New-College-Graduate_20089?q=New%20Graduate"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 04 |
 | **Silicon Labs** | New Grad: Design Engineer | Austin, TX</br>Boston, MA | <a href="https://silabs.wd1.myworkdayjobs.com/en-US/SiliconlabsCareers/job/Austin/Design-Engineer---New-College-Graduate_20087?q=New%20Graduate"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 04 |
 | **Silicon Labs** | New Grad: Software Engineer | Austin, TX</br>Boston, MA | <a href="https://silabs.wd1.myworkdayjobs.com/en-US/SiliconlabsCareers/job/Austin/Software-Engineer---New-College-Graduate_20085?q=New%20Graduate"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 04 |

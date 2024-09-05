@@ -5080,5 +5080,21 @@
         "date_posted": 1725425811,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725509275,
+        "url": "https://careers.servicenow.com/en/jobs/744000011667145/utg-software-engineer-new-college-grad/",
+        "company_name": "ServiceNow",
+        "title": "New Grad 2025: UTG - Software Engineer",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "Ashishjob",
+        "id": "10194c71-097c-4b76-929c-36fc3f4e41f8",
+        "date_posted": 1725509275,
+        "company_url": "",
+        "is_visible": true
     }
 ]
