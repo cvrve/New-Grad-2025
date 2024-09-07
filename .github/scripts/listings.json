@@ -5160,5 +5160,21 @@
         "date_posted": 1725742973,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725743038,
+        "url": "https://jobs.careers.microsoft.com/us/en/job/1750061/Software-Engineer-Microsoft-AI-Development-Acceleration-Program-Cambridge",
+        "company_name": "Microsoft",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "66129eac-c1d9-4c02-83bb-3dd8566c7c90",
+        "date_posted": 1725743038,
+        "company_url": "",
+        "is_visible": true
     }
 ]
