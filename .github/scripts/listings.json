@@ -5176,5 +5176,22 @@
         "date_posted": 1725743038,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725743285,
+        "url": "https://careers.adobe.com/us/en/job/ADOBUSR148197EXTERNALENUS/2025-University-Graduate-Quality-Engineering-Developer",
+        "company_name": "Adobe",
+        "title": "New Grad 2025: Quality Engineering Developer",
+        "locations": [
+            "San Jose, CA",
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "9d58b6bd-d57c-4b5d-bc20-0726165b3eaa",
+        "date_posted": 1725743285,
+        "company_url": "",
+        "is_visible": true
     }
 ]
