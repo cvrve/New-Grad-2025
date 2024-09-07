@@ -5195,7 +5195,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1725744227,
+        "date_updated": 1725744293,
         "url": "https://boards.greenhouse.io/drweng/jobs/6235376",
         "company_name": "DRW",
         "title": "New Grad: Software Engineer",
@@ -5203,7 +5203,7 @@
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "5f394549-641a-490c-8f3f-b3e2369797bb",
         "date_posted": 1725744227,
