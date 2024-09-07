@@ -5128,5 +5128,21 @@
         "date_posted": 1725742616,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725742707,
+        "url": "https://jobs.lever.co/demiurgestudios/d073d7e2-a049-4b7c-9266-1c3344ca18fa",
+        "company_name": "Demiurge",
+        "title": "New Grad 2025: Associate Software Engineer",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "6dabcb07-2699-431e-972f-a1abb058f9a4",
+        "date_posted": 1725742707,
+        "company_url": "",
+        "is_visible": true
     }
 ]
