@@ -5144,5 +5144,21 @@
         "date_posted": 1725742707,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725742973,
+        "url": "https://jobs.careers.microsoft.com/us/en/job/1750059/Software-Engineer-Microsoft-AI-Development-Acceleration-Program-Redmond",
+        "company_name": "Microsoft",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "094e99b4-7f28-4b81-9898-df8307f08093",
+        "date_posted": 1725742973,
+        "company_url": "",
+        "is_visible": true
     }
 ]
