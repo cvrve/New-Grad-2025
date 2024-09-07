@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Scale AI** | New Grad: Machine Learning Research Engineer | San Francisco, CA | <a href="https://job-boards.greenhouse.io/scaleai/jobs/4466125005"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 07 |
 | **Salesforce** | New Grad: Software Engineering AMTS/MTS | Multiple | <a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--New-Grad-_JR264567-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 07 |
 | **ServiceNow** | New Grad 2025: UTG - Software Engineer | Santa Clara, CA | <a href="https://careers.servicenow.com/en/jobs/744000011667145/utg-software-engineer-new-college-grad/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 05 |
 | **Silicon Labs** | New Grad: Applications Engineer | Austin, TX</br>Boston, MA | <a href="https://silabs.wd1.myworkdayjobs.com/en-US/SiliconlabsCareers/job/Austin/Applications-Engineer---New-College-Graduate_20089?q=New%20Graduate"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 04 |

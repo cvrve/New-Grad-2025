@@ -5112,5 +5112,21 @@
         "date_posted": 1725695995,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725742616,
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4466125005",
+        "company_name": "Scale AI",
+        "title": "New Grad: Machine Learning Research Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "8ca079c0-b336-4004-ac18-ed483bf8b398",
+        "date_posted": 1725742616,
+        "company_url": "",
+        "is_visible": true
     }
 ]
