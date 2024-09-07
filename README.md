@@ -83,7 +83,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **IBM** | New Grad: Software Developer | Austin, TX | 🔒 | Sep 03 |
 | **Travelers** | New Grad: Engineering Development Program | <details><summary>**4 locations**</summary>Hartford, CT</br>Atlanta, GA</br>St. Paul, MN</br>Hunt Valley, MN</details> | <a href="https://travelers.wd5.myworkdayjobs.com/en-US/External/job/CT---Hartford/Engineering-Development-Program--EDP----Software-Engineering_R-38937?source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | **Whatnot** | New Grad 2025: Software Engineer | San Francisco, CA</br>Los Angeles, CA</br>New York, NY | <a href="https://job-boards.greenhouse.io/whatnot/jobs/5247525004?+gh_src=d18daf814us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
-| **Adobe** | 2025 University Graduate - Software Engineer | San Jose, CA | <a href="https://careers.adobe.com/us/en/job/R148158/2025-University-Graduate-Software-Engineer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
+| **Adobe** | 2025 University Graduate - Software Engineer | San Jose, CA | 🔒 | Sep 02 |
 | **Adobe** | New Grad 2025: Data Scientist | San Jose, CA | <a href="https://careers.adobe.com/us/en/job/ADOBUSR147886EXTERNALENUS/2025-University-Graduate-Data-Scientist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | **Adobe** | New Grad 2025: Alert Aggregation & Automation Engineer | San Jose, CA</br>San Francisco, CA | 🔒 | Sep 01 |
 | **Adobe** | New Grad 2025: Quality Engineering Developer | San Jose, CA | 🔒 | Sep 01 |
