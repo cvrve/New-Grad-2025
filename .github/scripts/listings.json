@@ -5492,5 +5492,21 @@
         "date_posted": 1725820881,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725820941,
+        "url": "https://jobs.apple.com/en-us/details/200566163/software-quality-engineer-retail-engineering-early-career?team=SFTWR",
+        "company_name": "Apple",
+        "title": "New Grad: Software Quality Engineer",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "5057f914-4222-4070-affd-12c3848e16c2",
+        "date_posted": 1725820941,
+        "company_url": "",
+        "is_visible": true
     }
 ]
