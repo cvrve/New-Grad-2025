@@ -5263,5 +5263,21 @@
         "date_posted": 1725818056,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725818085,
+        "url": "https://recruitment.macquarie.com/en_US/careers/JobDetail",
+        "company_name": "Macquarie",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "638caa7e-0bc2-4e5b-aa96-5af851f592ca",
+        "date_posted": 1725818085,
+        "company_url": "",
+        "is_visible": true
     }
 ]
