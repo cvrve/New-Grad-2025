@@ -5701,5 +5701,25 @@
         "date_posted": 1725823921,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725824037,
+        "url": "https://careers.wexinc.com/us/en/job/WEXWEXUSR16128EXTERNALENUS/Software-Development-Engineer-1",
+        "company_name": "Wex",
+        "title": "New Grad: Software Development Engineer",
+        "locations": [
+            "Chicago, IL",
+            "Boston, MA",
+            "Washington DC",
+            "Portland, ME",
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "83698dab-d0b9-46c6-8d6e-6544df9ee10d",
+        "date_posted": 1725824037,
+        "company_url": "",
+        "is_visible": true
     }
 ]
