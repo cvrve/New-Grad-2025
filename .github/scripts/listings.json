@@ -5604,5 +5604,21 @@
         "date_posted": 1725822685,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725822791,
+        "url": "https://www.roberthalf.com/us/en/job/pittsburgh-pa/software-engineer/03730-0013046566-usen",
+        "company_name": "Robert Half",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "38aadd57-e431-43e0-a275-a163f1946420",
+        "date_posted": 1725822791,
+        "company_url": "",
+        "is_visible": true
     }
 ]
