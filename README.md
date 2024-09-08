@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **ICF** | New Grad: Software Developer 🇺🇸 | Arlington, VA | <a href="https://careers.icf.com/us/en/job/IIIIIIUSR2403430EXTERNALENUS/Software-Developer-Hybrid-Work-Schedule-Security-Clearance-Required"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Adobe** | New Grad 2025: Enterprise Architecture Analyst | New York, NY | <a href="https://careers.adobe.com/us/en/job/ADOBUSR148881EXTERNALENUS/2025-University-Graduate-Enterprise-Architecture-Analyst"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Adobe** | New Grad: Full Stack Developer | San Jose, CA | <a href="https://careers.adobe.com/us/en/job/ADOBUSR148311EXTERNALENUS/Full-Stack-Developer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Anheuser-Busch** | New Grad: Technology Specialist, Operations | St. Louis, MI | <a href="https://wd1.myworkdaysite.com/en-US/recruiting/abinbev/USA/job/St-Louis-Missouri/Technology-Specialist---Operations_30070495"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
