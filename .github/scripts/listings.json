@@ -5226,5 +5226,26 @@
         "date_posted": 1725817147,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725817640,
+        "url": "https://careers.breadfinancial.com/us/en/job/R1009796/Engineer-I",
+        "company_name": "Bread Financial",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Columbus, OH",
+            "Chadds Ford, PA",
+            "Coeur D'Alene, ID",
+            "Draper, UT",
+            "Plano, TX",
+            "Wilmington, DE"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "e67b8aee-1e17-4606-b37a-afe371c8a12f",
+        "date_posted": 1725817640,
+        "company_url": "",
+        "is_visible": true
     }
 ]

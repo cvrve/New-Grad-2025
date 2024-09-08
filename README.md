@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Bread Financial** | New Grad: Software Engineer | <details><summary>**6 locations**</summary>Columbus, OH</br>Chadds Ford, PA</br>Coeur D'Alene, ID</br>Draper, UT</br>Plano, TX</br>Wilmington, DE</details> | <a href="https://careers.breadfinancial.com/us/en/job/R1009796/Engineer-I"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Disney** | New Grad: Software Engineer I | Santa Monica, CA</br>Bristol, CT | <a href="https://www.disneycareers.com/en/job/-/-/391/69640056896"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **DRW** | New Grad: Software Engineer | Austin, TX | 🔒 | Sep 07 |
 | **Adobe** | New Grad 2025: Quality Engineering Developer | San Jose, CA</br>Seattle, WA | <a href="https://careers.adobe.com/us/en/job/ADOBUSR148197EXTERNALENUS/2025-University-Graduate-Quality-Engineering-Developer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 07 |
