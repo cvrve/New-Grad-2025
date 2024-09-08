@@ -5412,5 +5412,21 @@
         "date_posted": 1725819093,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725819258,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1752115/Software-Engineer-I",
+        "company_name": "Microsoft",
+        "title": "New Grad: Software Engineer I",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "9773f48c-8e02-4a38-8693-11e98dfa2a28",
+        "date_posted": 1725819258,
+        "company_url": "",
+        "is_visible": true
     }
 ]
