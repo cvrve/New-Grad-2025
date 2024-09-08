@@ -5685,5 +5685,21 @@
         "date_posted": 1725823865,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725823921,
+        "url": "https://careers.thomsonreuters.com/us/en/job/THTTRUUSJREQ182115EXTERNALENUS/Software-Engineer",
+        "company_name": "Thomson Reuters",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Eagan, MN"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "7cba3a40-1e27-434a-b3c8-ff3b3e349cbd",
+        "date_posted": 1725823921,
+        "company_url": "",
+        "is_visible": true
     }
 ]
