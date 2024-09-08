@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Disney** | New Grad: Software Engineer I | Santa Monica, CA</br>Bristol, CT | <a href="https://www.disneycareers.com/en/job/-/-/391/69640056896"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **DRW** | New Grad: Software Engineer | Austin, TX | 🔒 | Sep 07 |
 | **Adobe** | New Grad 2025: Quality Engineering Developer | San Jose, CA</br>Seattle, WA | <a href="https://careers.adobe.com/us/en/job/ADOBUSR148197EXTERNALENUS/2025-University-Graduate-Quality-Engineering-Developer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 07 |
 | **Microsoft** | New Grad: Software Engineer | Cambridge, MA | <a href="https://jobs.careers.microsoft.com/us/en/job/1750061/Software-Engineer-Microsoft-AI-Development-Acceleration-Program-Cambridge"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 07 |
