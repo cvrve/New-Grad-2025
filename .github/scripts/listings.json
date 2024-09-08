@@ -5476,5 +5476,21 @@
         "date_posted": 1725820181,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725820881,
+        "url": "https://jobs.apple.com/en-us/details/200565189/software-quality-engineer-retail-engineering-early-career",
+        "company_name": "Apple",
+        "title": "New Grad: Software Quality Engineer",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "dc8cc79e-a7ee-4179-8f5b-e1a40b860085",
+        "date_posted": 1725820881,
+        "company_url": "",
+        "is_visible": true
     }
 ]

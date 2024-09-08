@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Apple** | New Grad: Software Quality Engineer | Sunnyvale, CA | <a href="https://jobs.apple.com/en-us/details/200565189/software-quality-engineer-retail-engineering-early-career"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Accenture Federal Services** | New Grad 2025: Software Engineering Analyst | Washington, DC | <a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4400733006"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Bae Systems** | New Grad: Software Engineer 🇺🇸 | Rome, NY | <a href="https://jobs.baesystems.com/global/en/job/BAE1US105251BREXTERNAL/Software-Engineer-Onsite"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Microsoft** | New Grad: Software Engineer 🇺🇸 | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1754426/Software-Engineer---CTJ---Poly"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
