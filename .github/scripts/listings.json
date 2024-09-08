@@ -5636,5 +5636,21 @@
         "date_posted": 1725822868,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725822972,
+        "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4268734007",
+        "company_name": "Anduril",
+        "title": "New Grad: Gimbal Software Engineer",
+        "locations": [
+            "Costa Mesa, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "ed23d624-fe74-4387-9627-7a3dbd50c55a",
+        "date_posted": 1725822972,
+        "company_url": "",
+        "is_visible": true
     }
 ]
