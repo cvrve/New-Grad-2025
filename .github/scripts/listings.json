@@ -5460,5 +5460,21 @@
         "date_posted": 1725820034,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725820181,
+        "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4400733006",
+        "company_name": "Accenture Federal Services",
+        "title": "New Grad 2025: Software Engineering Analyst",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "c018fc48-312c-4c55-a374-a2be6de63aed",
+        "date_posted": 1725820181,
+        "company_url": "",
+        "is_visible": true
     }
 ]
