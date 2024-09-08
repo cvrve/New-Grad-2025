@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Apple** | New Grad: Developer IS&T Retail Engineering | Austin, TX | <a href="https://jobs.apple.com/en-us/details/200562044/developer-is-t-retail-retail-engineering-early-career?team=SFTWR"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Apple** | New Grad: Software Quality Engineer | Austin, TX | <a href="https://jobs.apple.com/en-us/details/200566163/software-quality-engineer-retail-engineering-early-career?team=SFTWR"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Apple** | New Grad: Software Quality Engineer | Sunnyvale, CA | <a href="https://jobs.apple.com/en-us/details/200565189/software-quality-engineer-retail-engineering-early-career"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Accenture Federal Services** | New Grad 2025: Software Engineering Analyst | Washington, DC | <a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4400733006"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |

@@ -5508,5 +5508,21 @@
         "date_posted": 1725820941,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725821039,
+        "url": "https://jobs.apple.com/en-us/details/200562044/developer-is-t-retail-retail-engineering-early-career?team=SFTWR",
+        "company_name": "Apple",
+        "title": "New Grad: Developer IS&T Retail Engineering",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "e0bd184a-fac5-4b24-9d45-41c5df81df17",
+        "date_posted": 1725821039,
+        "company_url": "",
+        "is_visible": true
     }
 ]
