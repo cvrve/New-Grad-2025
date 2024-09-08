@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Marigold** | New Grad: Software Engineer | Remote | <a href="https://campaignmonitor.wd5.myworkdayjobs.com/marigold/job/Remote-United-States/Software-Engineer_R1773"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Robert Half** | New Grad: Software Engineer | Pittsburgh, PA | <a href="https://www.roberthalf.com/us/en/job/pittsburgh-pa/software-engineer/03730-0013046566-usen"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Pearson** | New Grad: Software Developer | Remote | <a href="https://pearson.jobs/virtual-usa/software-developer/A02B6A028A5447CE91AA1BFC15ECFC18/job"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Service Now** | New Grad 2025: Software Quality Engineer | Santa Clara, CA | <a href="https://careers.servicenow.com/en/jobs/744000011973797/software-quality-engineer-new-college-grad"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
