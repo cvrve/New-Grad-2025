@@ -5348,5 +5348,21 @@
         "date_posted": 1725818515,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725818669,
+        "url": "https://wd1.myworkdaysite.com/en-US/recruiting/abinbev/USA/job/St-Louis-Missouri/Technology-Specialist---Operations_30070495",
+        "company_name": "Anheuser-Busch",
+        "title": "New Grad: Technology Specialist, Operations",
+        "locations": [
+            "St. Louis, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "da5905f8-a8f6-4d85-90e1-ec9ca9de3638",
+        "date_posted": 1725818669,
+        "company_url": "",
+        "is_visible": true
     }
 ]
