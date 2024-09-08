@@ -5314,5 +5314,23 @@
         "date_posted": 1725818339,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725818440,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I---Business-Insurance--MERN-AWS-_R-38832",
+        "company_name": "Travelers",
+        "title": "New Grad: Software Engineer I",
+        "locations": [
+            "Hartford, CT",
+            "St. Paul, MN",
+            "Hunt Valley, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "539518e4-71dd-4a37-a6c7-875b08d75273",
+        "date_posted": 1725818440,
+        "company_url": "",
+        "is_visible": true
     }
 ]

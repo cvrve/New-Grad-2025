@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Travelers** | New Grad: Software Engineer I | Hartford, CT</br>St. Paul, MN</br>Hunt Valley, MD | <a href="https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I---Business-Insurance--MERN-AWS-_R-38832"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **GE** | New Grad: Software Engineering Specialist | Bothell, WA | <a href="https://jobs.gecareers.com/vernova/global/en/job/GE11GLOBALR3780698EXTERNALENGLOBAL/Software-Engineering-Specialist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Doordash** | New Grad: Software Engineer, Frontend | <details><summary>**4 locations**</summary>New York, NY</br>San Francisco, CA</br>Sunnyvale, CA</br>Seattle, WA</details> | <a href="https://boards.greenhouse.io/doordash/jobs/5630448"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Macquarie** | New Grad: Software Engineer | New York, NY | <a href="https://recruitment.macquarie.com/en_US/careers/JobDetail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
