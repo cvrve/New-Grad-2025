@@ -5588,5 +5588,21 @@
         "date_posted": 1725822471,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725822685,
+        "url": "https://pearson.jobs/virtual-usa/software-developer/A02B6A028A5447CE91AA1BFC15ECFC18/job",
+        "company_name": "Pearson",
+        "title": "New Grad: Software Developer",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "f75f46af-37d7-430c-9d27-668a91c9e061",
+        "date_posted": 1725822685,
+        "company_url": "",
+        "is_visible": true
     }
 ]
