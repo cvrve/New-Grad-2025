@@ -5721,5 +5721,21 @@
         "date_posted": 1725824037,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725824082,
+        "url": "https://jobs.baesystems.com/global/en/job/BAE1US105022BREXTERNAL/Test-Design-Engineer-I",
+        "company_name": "Bae Systems",
+        "title": "New Grad: Test Design Engineer",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "702e3d11-a7a1-430f-aaf6-5a4949e27bb2",
+        "date_posted": 1725824082,
+        "company_url": "",
+        "is_visible": true
     }
 ]
