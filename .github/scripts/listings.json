@@ -5556,5 +5556,21 @@
         "date_posted": 1725821580,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725821607,
+        "url": "https://careers.tiktok.com/position/7395664078364723507/detail?spread=5MWH5CQ",
+        "company_name": "Tiktok",
+        "title": "New Grad 2025: Test Engineer",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "56c71e7c-406e-4aed-b1cb-7832e6b02cd9",
+        "date_posted": 1725821607,
+        "company_url": "",
+        "is_visible": true
     }
 ]

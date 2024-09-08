@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Tiktok** | New Grad 2025: Test Engineer | San Jose, CA | <a href="https://careers.tiktok.com/position/7395664078364723507/detail?spread=5MWH5CQ"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **OKX** | New Grad: Product Manager | San Jose, CA | <a href="https://job-boards.greenhouse.io/okx/jobs/6082309003"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **SpaceX** | New Grad: Software Engineer | Starbase, TX | <a href="https://boards.greenhouse.io/spacex/jobs/7627218002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Apple** | New Grad: Developer IS&T Retail Engineering | Austin, TX | <a href="https://jobs.apple.com/en-us/details/200562044/developer-is-t-retail-retail-engineering-early-career?team=SFTWR"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
