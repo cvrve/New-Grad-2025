@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Microsoft** | New Grad: Software Engineer 🇺🇸 | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1754426/Software-Engineer---CTJ---Poly"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Microsoft** | New Grad: Software Engineer I 🛂 | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1752115/Software-Engineer-I"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **ICF** | New Grad: Software Developer 🇺🇸 | Arlington, VA | <a href="https://careers.icf.com/us/en/job/IIIIIIUSR2403430EXTERNALENUS/Software-Developer-Hybrid-Work-Schedule-Security-Clearance-Required"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Adobe** | New Grad 2025: Enterprise Architecture Analyst | New York, NY | <a href="https://careers.adobe.com/us/en/job/ADOBUSR148881EXTERNALENUS/2025-University-Graduate-Enterprise-Architecture-Analyst"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |

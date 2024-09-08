@@ -5428,5 +5428,21 @@
         "date_posted": 1725819258,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725819572,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1754426/Software-Engineer---CTJ---Poly",
+        "company_name": "Microsoft",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "32e68ed9-6cf9-4bf8-a478-b2f6c081a37b",
+        "date_posted": 1725819572,
+        "company_url": "",
+        "is_visible": true
     }
 ]
