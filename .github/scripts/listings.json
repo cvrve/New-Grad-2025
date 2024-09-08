@@ -5444,5 +5444,21 @@
         "date_posted": 1725819572,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725820034,
+        "url": "https://jobs.baesystems.com/global/en/job/BAE1US105251BREXTERNAL/Software-Engineer-Onsite",
+        "company_name": "Bae Systems",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Rome, NY"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "fa9bb48d-57c1-4087-97dd-a373c8d18fdb",
+        "date_posted": 1725820034,
+        "company_url": "",
+        "is_visible": true
     }
 ]
