@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **GE** | New Grad: Software Engineering Specialist | Bothell, WA | <a href="https://jobs.gecareers.com/vernova/global/en/job/GE11GLOBALR3780698EXTERNALENGLOBAL/Software-Engineering-Specialist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Doordash** | New Grad: Software Engineer, Frontend | <details><summary>**4 locations**</summary>New York, NY</br>San Francisco, CA</br>Sunnyvale, CA</br>Seattle, WA</details> | <a href="https://boards.greenhouse.io/doordash/jobs/5630448"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Macquarie** | New Grad: Software Engineer | New York, NY | <a href="https://recruitment.macquarie.com/en_US/careers/JobDetail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Rubrik** | New Grad: Software Engineer | Palo Alto, CA | <a href="https://www.rubrik.com/ja/company/careers/departments/job.6152175.1929"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |

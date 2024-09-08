@@ -5298,5 +5298,21 @@
         "date_posted": 1725818262,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725818339,
+        "url": "https://jobs.gecareers.com/vernova/global/en/job/GE11GLOBALR3780698EXTERNALENGLOBAL/Software-Engineering-Specialist",
+        "company_name": "GE",
+        "title": "New Grad: Software Engineering Specialist",
+        "locations": [
+            "Bothell, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "71997a6c-f919-498d-9605-dd2a83694ae6",
+        "date_posted": 1725818339,
+        "company_url": "",
+        "is_visible": true
     }
 ]
