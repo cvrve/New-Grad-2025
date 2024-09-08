@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Service Now** | New Grad 2025: Software Quality Engineer | Santa Clara, CA | <a href="https://careers.servicenow.com/en/jobs/744000011973797/software-quality-engineer-new-college-grad"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Tiktok** | New Grad 2025: Test Engineer | San Jose, CA | <a href="https://careers.tiktok.com/position/7395664078364723507/detail?spread=5MWH5CQ"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **OKX** | New Grad: Product Manager | San Jose, CA | <a href="https://job-boards.greenhouse.io/okx/jobs/6082309003"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **SpaceX** | New Grad: Software Engineer | Starbase, TX | <a href="https://boards.greenhouse.io/spacex/jobs/7627218002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |

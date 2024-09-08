@@ -5572,5 +5572,21 @@
         "date_posted": 1725821607,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725822471,
+        "url": "https://careers.servicenow.com/en/jobs/744000011973797/software-quality-engineer-new-college-grad",
+        "company_name": "Service Now",
+        "title": "New Grad 2025: Software Quality Engineer",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "7850ac52-6f6a-4aa4-a1e9-f407ec19e6c8",
+        "date_posted": 1725822471,
+        "company_url": "",
+        "is_visible": true
     }
 ]
