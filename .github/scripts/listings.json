@@ -5540,5 +5540,21 @@
         "date_posted": 1725821177,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725821580,
+        "url": "https://job-boards.greenhouse.io/okx/jobs/6082309003",
+        "company_name": "OKX",
+        "title": "New Grad: Product Manager",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "2b60ff33-43e7-4c81-afd9-da25fc4fbb4f",
+        "date_posted": 1725821580,
+        "company_url": "",
+        "is_visible": true
     }
 ]
