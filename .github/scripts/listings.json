@@ -5652,5 +5652,22 @@
         "date_posted": 1725822972,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725823558,
+        "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7624703002",
+        "company_name": "Aquatic",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "eeaa6eeb-fcad-430a-9bae-e7cb7541f789",
+        "date_posted": 1725823558,
+        "company_url": "",
+        "is_visible": true
     }
 ]
