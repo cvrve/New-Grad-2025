@@ -5332,5 +5332,21 @@
         "date_posted": 1725818440,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725818515,
+        "url": "https://wd1.myworkdaysite.com/en-US/recruiting/abinbev/USA/job/St-Louis-Missouri/Technology-Specialist---Engineering_30070493",
+        "company_name": "Anheuser-Busch",
+        "title": "New Grad: Technology Specialist",
+        "locations": [
+            "locations St. Louis, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "aae49770-0389-4e33-a466-db1bd0a06793",
+        "date_posted": 1725818515,
+        "company_url": "",
+        "is_visible": true
     }
 ]
