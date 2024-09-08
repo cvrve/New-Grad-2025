@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Doordash** | New Grad: Software Engineer, Frontend | <details><summary>**4 locations**</summary>New York, NY</br>San Francisco, CA</br>Sunnyvale, CA</br>Seattle, WA</details> | <a href="https://boards.greenhouse.io/doordash/jobs/5630448"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Macquarie** | New Grad: Software Engineer | New York, NY | <a href="https://recruitment.macquarie.com/en_US/careers/JobDetail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Rubrik** | New Grad: Software Engineer | Palo Alto, CA | <a href="https://www.rubrik.com/ja/company/careers/departments/job.6152175.1929"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Bread Financial** | New Grad: Software Engineer | <details><summary>**6 locations**</summary>Columbus, OH</br>Chadds Ford, PA</br>Coeur D'Alene, ID</br>Draper, UT</br>Plano, TX</br>Wilmington, DE</details> | <a href="https://careers.breadfinancial.com/us/en/job/R1009796/Engineer-I"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |

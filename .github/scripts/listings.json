@@ -5279,5 +5279,24 @@
         "date_posted": 1725818085,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725818262,
+        "url": "https://boards.greenhouse.io/doordash/jobs/5630448",
+        "company_name": "Doordash",
+        "title": "New Grad: Software Engineer, Frontend",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA",
+            "Sunnyvale, CA",
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "c74e309e-f7ca-4733-8b07-3d8360f997e1",
+        "date_posted": 1725818262,
+        "company_url": "",
+        "is_visible": true
     }
 ]
