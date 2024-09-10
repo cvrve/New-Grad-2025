@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Adobe** | New Grad 2025: Software Engineer | New York, NY | <a href="https://careers.adobe.com/us/en/job/ADOBUSR148217EXTERNALENUS/2025-University-Graduate-Software-Engineer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | **Capital One** | New Grad: Technology Development Program Associate | Mclean, VA</br>Plano, TX</br>Richmond, VA | <a href="https://www.capitalonecareers.com/job/mclean/technology-development-program-associate-february-2025/31238/69740859456"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | **Bae Systems** | New Grad: Test Design Engineer 🇺🇸 | Austin, TX | <a href="https://jobs.baesystems.com/global/en/job/BAE1US105022BREXTERNAL/Test-Design-Engineer-I"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Wex** | New Grad: Software Development Engineer | <details><summary>**5 locations**</summary>Chicago, IL</br>Boston, MA</br>Washington DC</br>Portland, ME</br>Dallas, TX</details> | <a href="https://careers.wexinc.com/us/en/job/WEXWEXUSR16128EXTERNALENUS/Software-Development-Engineer-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
