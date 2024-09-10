@@ -5366,7 +5366,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1725818852,
+        "date_updated": 1725932810,
         "url": "https://careers.adobe.com/us/en/job/ADOBUSR148311EXTERNALENUS/Full-Stack-Developer",
         "company_name": "Adobe",
         "title": "New Grad: Full Stack Developer",
@@ -5374,7 +5374,7 @@
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "946ab5f9-f117-43ca-ad52-239fcb18cc1e",
         "date_posted": 1725818852,
