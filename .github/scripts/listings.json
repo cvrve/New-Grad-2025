@@ -5228,7 +5228,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1725817640,
+        "date_updated": 1725953203,
         "url": "https://careers.breadfinancial.com/us/en/job/R1009796/Engineer-I",
         "company_name": "Bread Financial",
         "title": "New Grad: Software Engineer",
@@ -5241,7 +5241,7 @@
             "Wilmington, DE"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "e67b8aee-1e17-4606-b37a-afe371c8a12f",
         "date_posted": 1725817640,
