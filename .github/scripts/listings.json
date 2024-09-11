@@ -5789,5 +5789,21 @@
         "date_posted": 1726025843,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726096340,
+        "url": "https://bambusdev.my.site.com/s/details?jobReq=Commodities-Quantitative-Analyst---Fulltime-Grad-Opportunity-_REQ6084",
+        "company_name": "Balyasny Asset Management",
+        "title": "New Grad: Commodities Quantitative Analyst",
+        "locations": [
+            "Calgary, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "ajain02",
+        "id": "f3cecd54-dfeb-412c-81ed-ff496b689a55",
+        "date_posted": 1726096340,
+        "company_url": "",
+        "is_visible": true
     }
 ]
