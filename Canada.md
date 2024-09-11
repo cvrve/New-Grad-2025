@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Clio** | New Grad: Software Developer | Toronto</br>Calgary</br>Vancouver, Canada | <a href="https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Remote---Canada/Software-Developer--Backend-Infrastructure-Team_BF-REQ-2244"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | **Bell** | New Grad 2025: Cyber Security Engineer | <details><summary>**5 locations**</summary>Halifax, Canada</br>Ottawa, Canada</br>Montreal, Canada</br>Toronto, Canada</br>Bedford, Canada</details> | <a href="https://jobs.bell.ca/ca/en/job/420067/2025-Graduate-Program-Cyber-Security"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | **Autodesk** | New Grad: Software Development Engineer | Toronto, Canada | <a href="https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Development-Engineer--Full-Stack_24WD81088-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | **Replicant** | New Grad: Software Engineer I | Canada | 🔒 | Sep 01 |
