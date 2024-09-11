@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Empover** | New Grad 2025: Associate Software Engineer | Greenwood, CO | <a href="https://jobs.empower.com/job/-/-/42743/69800462176"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | **Adobe** | New Grad 2025: Software Engineer | New York, NY | <a href="https://careers.adobe.com/us/en/job/ADOBUSR148217EXTERNALENUS/2025-University-Graduate-Software-Engineer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | **Capital One** | New Grad: Technology Development Program Associate 🛂 | Mclean, VA</br>Plano, TX</br>Richmond, VA | <a href="https://www.capitalonecareers.com/job/mclean/technology-development-program-associate-february-2025/31238/69740859456"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | **Bae Systems** | New Grad: Test Design Engineer 🇺🇸 | Austin, TX | <a href="https://jobs.baesystems.com/global/en/job/BAE1US105022BREXTERNAL/Test-Design-Engineer-I"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |

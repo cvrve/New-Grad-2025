@@ -5805,5 +5805,21 @@
         "date_posted": 1726096340,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726096378,
+        "url": "https://jobs.empower.com/job/-/-/42743/69800462176",
+        "company_name": "Empover",
+        "title": "New Grad 2025: Associate Software Engineer",
+        "locations": [
+            "Greenwood, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "de53f448-d3c1-43ec-aea5-88029fddcef0",
+        "date_posted": 1726096378,
+        "company_url": "",
+        "is_visible": true
     }
 ]
