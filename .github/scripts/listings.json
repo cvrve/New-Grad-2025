@@ -6016,5 +6016,22 @@
         "date_posted": 1726114818,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726114881,
+        "url": "https://boards.greenhouse.io/robinhood/jobs/6249911?t=gh_src%3D&gh_jid=6249911&gh_src=ed898e781us",
+        "company_name": "Robinhood",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Menlo Park, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "4ded2ad2-5cee-4b06-9a04-f546698b3dba",
+        "date_posted": 1726114881,
+        "company_url": "",
+        "is_visible": true
     }
 ]
