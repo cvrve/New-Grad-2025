@@ -56,7 +56,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **Zoom** | New Grad: Software Engineer | San Jose, CA | 🔒 | Sep 12 |
-| **Zoom** | New Grad: Software Engineer | San Jose, CA | <a href="https://zoom.wd5.myworkdayjobs.com/Zoom/job/San-Jose-CA/Software-Engineer_R14787?source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
+| **Zoom** | New Grad: Software Engineer | San Jose, CA | 🔒 | Sep 12 |
 | **Robinhood** | New Grad: Software Engineer | Menlo Park, CA</br>New York, NY | <a href="https://boards.greenhouse.io/robinhood/jobs/6249911?t=gh_src%3D&gh_jid=6249911&gh_src=ed898e781us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | **Waabi** | New Grad: Software Engineer | Remote</br>US | <a href="https://jobs.lever.co/waabi/9bcf52fc-482e-4404-8399-2a90d63c86f9"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | **Autodesk** | New Grad: Software Engineer | Portland, OR | <a href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Portland-OR-USA/Software-Engineer_24WD80619-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
