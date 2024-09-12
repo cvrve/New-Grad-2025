@@ -5982,5 +5982,22 @@
         "date_posted": 1726114470,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726114697,
+        "url": "https://jobs.lever.co/waabi/9bcf52fc-482e-4404-8399-2a90d63c86f9",
+        "company_name": "Waabi",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "1d8f438a-2abd-4c8a-bcb7-8901615acf40",
+        "date_posted": 1726114697,
+        "company_url": "",
+        "is_visible": true
     }
 ]
