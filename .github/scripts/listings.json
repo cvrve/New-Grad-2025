@@ -5870,5 +5870,21 @@
         "date_posted": 1726113777,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726113862,
+        "url": "https://careers.adobe.com/us/en/job/ADOBUSR148163EXTERNALENUS/2025-University-Graduate-Software-Engineer",
+        "company_name": "Adobe",
+        "title": "New Grad 2025: Software Engineer",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "4ae62565-c417-4ec9-af79-9eab02e971e0",
+        "date_posted": 1726113862,
+        "company_url": "",
+        "is_visible": true
     }
 ]
