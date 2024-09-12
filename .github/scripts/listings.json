@@ -5950,5 +5950,21 @@
         "date_posted": 1726114089,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726114178,
+        "url": "https://githubinc.jibeapply.com/jobs/3345",
+        "company_name": "Github",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "4a87f0c6-65df-4982-ab92-306f78267c85",
+        "date_posted": 1726114178,
+        "company_url": "",
+        "is_visible": true
     }
 ]
