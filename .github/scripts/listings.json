@@ -5854,5 +5854,21 @@
         "date_posted": 1726113739,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726113777,
+        "url": "https://www.tesla.com/careers/search/job/226769",
+        "company_name": "Tesla",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "578e0b4f-afb7-42fa-b44f-bec629bc8417",
+        "date_posted": 1726113777,
+        "company_url": "",
+        "is_visible": true
     }
 ]

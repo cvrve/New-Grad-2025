@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Tesla** | New Grad: Software Engineer | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/226769"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | **Disney** | New Grad: Software Engineer I | Santa Monica, CA</br>New York, NY | <a href="https://www.disneycareers.com/en/job/-/-/391/69796011040"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | **MLB** | New Grad: Associate Software Engineer | New York, NY | <a href="https://www.mlb.com/careers/opportunities?gh_jid=6244846"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | **Empover** | New Grad 2025: Associate Software Engineer 🛂 | Greenwood, CO | <a href="https://jobs.empower.com/job/-/-/42743/69800462176"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
