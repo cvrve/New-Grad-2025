@@ -6049,5 +6049,21 @@
         "date_posted": 1726114999,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726115041,
+        "url": "https://zoom.wd5.myworkdayjobs.com/Zoom/job/San-Jose-CA/Software-Engineer_R14788?source=cvrve",
+        "company_name": "Zoom",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "6dd5d29e-cb29-4703-9d31-d582b13dd394",
+        "date_posted": 1726115041,
+        "company_url": "",
+        "is_visible": true
     }
 ]
