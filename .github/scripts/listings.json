@@ -6081,5 +6081,21 @@
         "date_posted": 1726179458,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726182512,
+        "url": "https://explore.jobs.netflix.net/careers/job?domain=netflix.com&pid=790298755510",
+        "company_name": "Netflix",
+        "title": "New Grad 2025: Software Engineer",
+        "locations": [
+            "Los Gatos, California"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "ajain02",
+        "id": "8e195ee8-5860-400f-b947-4957b18c3bb0",
+        "date_posted": 1726182512,
+        "company_url": "",
+        "is_visible": true
     }
 ]
