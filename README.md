@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Tesla** | New Grad: Software Engineer | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/226922"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | **Adobe** | New Grad 2025: Software Engineer | San Jose, CA | <a href="https://careers.adobe.com/us/en/job/ADOBUSR148163EXTERNALENUS/2025-University-Graduate-Software-Engineer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | **Tesla** | New Grad: Software Engineer | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/226769"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | **Disney** | New Grad: Software Engineer I | Santa Monica, CA</br>New York, NY | <a href="https://www.disneycareers.com/en/job/-/-/391/69796011040"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |

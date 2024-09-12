@@ -5886,5 +5886,21 @@
         "date_posted": 1726113862,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726113924,
+        "url": "https://www.tesla.com/careers/search/job/226922",
+        "company_name": "Tesla",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "5d129061-a13a-4fc3-8b07-64e877b2fa59",
+        "date_posted": 1726113924,
+        "company_url": "",
+        "is_visible": true
     }
 ]
