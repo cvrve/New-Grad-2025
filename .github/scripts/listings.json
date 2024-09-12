@@ -5966,5 +5966,21 @@
         "date_posted": 1726114178,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726114470,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Portland-OR-USA/Software-Engineer_24WD80619-1",
+        "company_name": "Autodesk",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Portland, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "df8965b2-1e39-4746-8b6d-11c1670d1846",
+        "date_posted": 1726114470,
+        "company_url": "",
+        "is_visible": true
     }
 ]
