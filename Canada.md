@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Waabi** | New Grad: Software Engineer | Remote</br>Canada | <a href="http://jobs.lever.co/waabi/9bcf52fc-482e-4404-8399-2a90d63c86f9"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | **Balyasny Asset Management** | New Grad: Commodities Quantitative Analyst | Calgary, Canada | <a href="https://bambusdev.my.site.com/s/details?jobReq=Commodities-Quantitative-Analyst---Fulltime-Grad-Opportunity-_REQ6084"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | **Clio** | New Grad: Software Developer | Toronto</br>Calgary</br>Vancouver, Canada | <a href="https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Remote---Canada/Software-Developer--Backend-Infrastructure-Team_BF-REQ-2244"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | **Bell** | New Grad 2025: Cyber Security Engineer | <details><summary>**5 locations**</summary>Halifax, Canada</br>Ottawa, Canada</br>Montreal, Canada</br>Toronto, Canada</br>Bedford, Canada</details> | <a href="https://jobs.bell.ca/ca/en/job/420067/2025-Graduate-Program-Cyber-Security"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
