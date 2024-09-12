@@ -130,24 +130,31 @@ def embedTable(listings):
         f.write(newText)
 
 def sortListings(listings):
-
+    oldestListingFromCompany = {}
     linkForCompany = {}
     for listing in listings:
+        date_posted = listing["date_posted"]
+        if listing["company_name"].lower() not in oldestListingFromCompany or oldestListingFromCompany[listing["company_name"].lower()] > date_posted:
+            oldestListingFromCompany[listing["company_name"].lower()] = date_posted
         if listing["company_name"] not in linkForCompany or len(listing["company_url"]) > 0:
             linkForCompany[listing["company_name"]] = listing["company_url"]
-
-    def getKey(listing):
-        date_posted = listing["date_posted"]
-        date_updated = listing["date_updated"]
-        return str(date_posted) + listing["company_name"].lower() + str(date_updated)
-
-    listings.sort(key=getKey, reverse=True)
-
+            
+    listings.sort(
+        key=lambda x: (
+            x["active"],  # Active listings first
+            datetime(
+                datetime.fromtimestamp(x["date_posted"]).year,
+                datetime.fromtimestamp(x["date_posted"]).month,
+                datetime.fromtimestamp(x["date_posted"]).day
+            ),
+            x['company_name'].lower(),
+            x['date_updated']
+        ),
+        reverse=True
+    )
     for listing in listings:
         listing["company_url"] = linkForCompany[listing["company_name"]]
-
     return listings
-
 
 def checkSchema(listings):
     props = ["source", "company_name",
