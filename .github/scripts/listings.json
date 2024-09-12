@@ -5821,5 +5821,21 @@
         "date_posted": 1726096378,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726113661,
+        "url": "https://www.mlb.com/careers/opportunities?gh_jid=6244846",
+        "company_name": "MLB",
+        "title": "New Grad: Associate Software Engineer",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "e00e587f-fa64-423c-9908-061840c32ee5",
+        "date_posted": 1726113661,
+        "company_url": "",
+        "is_visible": true
     }
 ]
