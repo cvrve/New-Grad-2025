@@ -5902,5 +5902,21 @@
         "date_posted": 1726113924,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726113969,
+        "url": "https://www.amazon.jobs/en/jobs/2738467/front-end-engineer-2024-us",
+        "company_name": "Amazon",
+        "title": "New Grad: Front-End Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "7be7afc9-9e86-493a-bc41-88f0217714c9",
+        "date_posted": 1726113969,
+        "company_url": "",
+        "is_visible": true
     }
 ]
