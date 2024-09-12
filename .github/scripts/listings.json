@@ -5837,5 +5837,22 @@
         "date_posted": 1726113661,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726113739,
+        "url": "https://www.disneycareers.com/en/job/-/-/391/69796011040",
+        "company_name": "Disney",
+        "title": "New Grad: Software Engineer I",
+        "locations": [
+            "Santa Monica, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "1faf3104-d499-42f6-b730-debda6dbe50a",
+        "date_posted": 1726113739,
+        "company_url": "",
+        "is_visible": true
     }
 ]
