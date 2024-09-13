@@ -6257,5 +6257,21 @@
         "date_posted": 1726260321,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726260407,
+        "url": "https://jobs.sap.com/job/Palo-Alto-Software-Engineer-CA-94304/1119977001",
+        "company_name": "SAP",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "ba0a513b-68f4-49e8-bd4a-0c3c47330ff4",
+        "date_posted": 1726260407,
+        "company_url": "",
+        "is_visible": true
     }
 ]
