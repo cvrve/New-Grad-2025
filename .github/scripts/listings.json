@@ -6193,5 +6193,21 @@
         "date_posted": 1726260095,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726260137,
+        "url": "https://careers.tiktok.com/position/7397092118239545638/detail",
+        "company_name": "Tiktok",
+        "title": "New Grad 2025: Frontend Software Engineer",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "2b9f53c5-a979-463b-9ba0-962c4b1c0527",
+        "date_posted": 1726260137,
+        "company_url": "",
+        "is_visible": true
     }
 ]
