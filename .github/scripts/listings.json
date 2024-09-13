@@ -6146,5 +6146,22 @@
         "date_posted": 1726189168,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726189228,
+        "url": "https://jobs.lever.co/SymmetrySystems/0b0641c0-b639-4d95-a871-98b80eaed1a6",
+        "company_name": "Symmetry",
+        "title": "Full Stack Software Engineer Intern",
+        "locations": [
+            "Austin, TX",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "85423b7c-b8c1-4a63-ad17-b75c227ca31d",
+        "date_posted": 1726189228,
+        "company_url": "",
+        "is_visible": true
     }
 ]
