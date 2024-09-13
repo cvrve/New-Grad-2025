@@ -6340,5 +6340,21 @@
         "date_posted": 1726260947,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726261342,
+        "url": "https://careers.adobe.com/us/en/job/ADOBUSR148209EXTERNALENUS/2025-University-Graduate-Software-Development-Engineer",
+        "company_name": "Adobe",
+        "title": "New Grad 2025: Software Development Engineer",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "893b7855-812d-42cb-8080-dd53521cd830",
+        "date_posted": 1726261342,
+        "company_url": "",
+        "is_visible": true
     }
 ]
