@@ -6356,5 +6356,21 @@
         "date_posted": 1726261342,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726261453,
+        "url": "https://careers.mastercard.com/us/en/job/R-227151/Data-Scientist-I",
+        "company_name": "Mastercard",
+        "title": "Data Scientist I",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "75da048a-5838-4252-bc69-0bab74ff65a7",
+        "date_posted": 1726261453,
+        "company_url": "",
+        "is_visible": true
     }
 ]

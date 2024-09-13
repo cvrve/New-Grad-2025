@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Mastercard** | Data Scientist I | Vancouver, Canada | <a href="https://careers.mastercard.com/us/en/job/R-227151/Data-Scientist-I"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
 | **Waabi** | New Grad: Software Engineer | Remote</br>Canada | <a href="http://jobs.lever.co/waabi/9bcf52fc-482e-4404-8399-2a90d63c86f9"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | **Github** | New Grad: Software Engineer | Remote, Canada | <a href="https://githubinc.jibeapply.com/jobs/3345"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | **Clio** | New Grad: Software Developer | Toronto</br>Calgary</br>Vancouver, Canada | <a href="https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Remote---Canada/Software-Developer--Backend-Infrastructure-Team_BF-REQ-2244"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
