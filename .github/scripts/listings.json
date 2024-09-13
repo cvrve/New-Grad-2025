@@ -6241,5 +6241,21 @@
         "date_posted": 1726260267,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726260321,
+        "url": "https://careers.tiktok.com/position/7397888713688647945/detail",
+        "company_name": "Tiktok",
+        "title": "New Grad 2025: Frontend Software Engineer",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "9d05975d-66dd-41d1-a4c3-6b33e949b982",
+        "date_posted": 1726260321,
+        "company_url": "",
+        "is_visible": true
     }
 ]
