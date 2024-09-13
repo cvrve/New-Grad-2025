@@ -6097,5 +6097,21 @@
         "date_posted": 1726182512,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726187549,
+        "url": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Full-Time-Campus-Hire/12686",
+        "company_name": "Two Sigma",
+        "title": "New Grad: Quantitative Researcher",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "9e457a57-f00f-4473-ba68-ae8559e9bdde",
+        "date_posted": 1726187549,
+        "company_url": "",
+        "is_visible": true
     }
 ]
