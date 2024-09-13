@@ -6306,5 +6306,23 @@
         "date_posted": 1726260583,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726260729,
+        "url": "https://careers.infor.com/en_US/careers/JobDetail/Software-Engineer-Associate/14952",
+        "company_name": "Infor",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Dallas, TX",
+            "St. Paul, MN",
+            "Alpharetta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "be54a258-36d2-410c-870d-48410be26688",
+        "date_posted": 1726260729,
+        "company_url": "",
+        "is_visible": true
     }
 ]
