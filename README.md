@@ -62,7 +62,6 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **Tesla** | New Grad: Software Engineer | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/227124"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | **Tesla** | New Grad: Software Engineer | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/226922"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | **Tesla** | New Grad: Software Engineer | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/226769"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
-| **Robinhood** | New Grad: Software Engineer | Menlo Park, CA</br>New York, NY | <a href="https://boards.greenhouse.io/robinhood/jobs/6249911?t=gh_src%3D&gh_jid=6249911&gh_src=ed898e781us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | **Netflix** | New Grad 2025: Software Engineer | Los Gatos, California | <a href="https://explore.jobs.netflix.net/careers/job?domain=netflix.com&pid=790298755510"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | **Motorola Solutions** | New Grad: Software Engineer 🛂 | locations Champaign, IL | <a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Champaign-IL-IL169/Software-Engineer_R49818"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | **MLB** | New Grad: Associate Software Engineer | New York, NY | <a href="https://www.mlb.com/careers/opportunities?gh_jid=6244846"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
@@ -341,6 +340,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **Palantir** | Forward Deployed Software Engineer – New Grad - US Government | NYC | <a href="https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | **Zoom** | New Grad: Software Engineer | San Jose, CA | 🔒 | Sep 12 |
 | **Zoom** | New Grad: Software Engineer | San Jose, CA | 🔒 | Sep 12 |
+| **Robinhood** | New Grad: Software Engineer | Menlo Park, CA</br>New York, NY | 🔒 | Sep 12 |
 | **Marigold** | New Grad: Software Engineer | Remote | 🔒 | Sep 08 |
 | **Bread Financial** | New Grad: Software Engineer | <details><summary>**6 locations**</summary>Columbus, OH</br>Chadds Ford, PA</br>Coeur D'Alene, ID</br>Draper, UT</br>Plano, TX</br>Wilmington, DE</details> | 🔒 | Sep 08 |
 | **Adobe** | New Grad: Full Stack Developer | San Jose, CA | 🔒 | Sep 08 |
