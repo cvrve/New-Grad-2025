@@ -57,6 +57,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | --- | --- | --- | :---: | :---: |
 | **Two Sigma** | New Grad: Quantitative Researcher | New York, NY | <a href="https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Full-Time-Campus-Hire/12686"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
 | **Tiktok** | New Grad: Backend Software Engineer | Seattle, WA | <a href="https://careers.tiktok.com/position/7397188298157164838/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
+| **Ramp** | New Grad 2025: Frontend Software Engineer | New York, NY | <a href="https://jobs.ashbyhq.com/ramp/12747eb1-e545-478d-b07c-f27f4a88cc12"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
 | **Qumulo** | New Grad 2025: Software Development Engineer | Seattle, WA | <a href="https://boards.greenhouse.io/qumulo/jobs/6252282"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
 | **PayPal** | New Grad: Software Engineer | San Jose, CA | <a href="https://paypal.eightfold.ai/careers/job?domain=paypal.com&pid=274895475228"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
 | **Applied Intuition** | New Grad: Software Engineer | Mountain View, CA | <a href="https://boards.greenhouse.io/appliedintuition/jobs/4420849005"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
