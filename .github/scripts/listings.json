@@ -6324,5 +6324,21 @@
         "date_posted": 1726260729,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726260947,
+        "url": "https://boards.greenhouse.io/canonicaljobs/jobs/6244934",
+        "company_name": "Canonical",
+        "title": "Software Engineer",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "7f59fe73-ed11-4c0b-a5ea-a43abafbf7fe",
+        "date_posted": 1726260947,
+        "company_url": "",
+        "is_visible": true
     }
 ]
