@@ -6161,5 +6161,21 @@
         "date_posted": 1726259834,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726259940,
+        "url": "https://careers.tiktok.com/position/7397188298157164838/detail",
+        "company_name": "Tiktok",
+        "title": "New Grad: Backend Software Engineer",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "774f6880-3aa3-4317-85ba-def972fa7554",
+        "date_posted": 1726259940,
+        "company_url": "",
+        "is_visible": true
     }
 ]
