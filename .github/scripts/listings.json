@@ -5622,7 +5622,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1725822868,
+        "date_updated": 1726253633,
         "url": "https://campaignmonitor.wd5.myworkdayjobs.com/marigold/job/Remote-United-States/Software-Engineer_R1773",
         "company_name": "Marigold",
         "title": "New Grad: Software Engineer",
@@ -5630,7 +5630,7 @@
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "0a3782a9-e4d7-4e23-8c65-4ab3ea5077d0",
         "date_posted": 1725822868,
