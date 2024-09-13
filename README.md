@@ -56,6 +56,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **Two Sigma** | New Grad: Quantitative Researcher | New York, NY | <a href="https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Full-Time-Campus-Hire/12686"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
+| **Symmetry** | Full Stack Software Engineer Intern | San Francisco, CA</br>Remote | <a href="https://jobs.lever.co/SymmetrySystems/1c1ae2af-95c1-4299-b6d7-b539188dafe7"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
 | **Qumulo** | New Grad 2025: Software Development Engineer | Seattle, WA | <a href="https://boards.greenhouse.io/qumulo/jobs/6252282"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
 | **Waabi** | New Grad: Software Engineer | Remote</br>US | <a href="https://jobs.lever.co/waabi/9bcf52fc-482e-4404-8399-2a90d63c86f9"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | **Tesla** | New Grad: Software Engineer | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/226925"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |

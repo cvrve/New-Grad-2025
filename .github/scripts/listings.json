@@ -6129,5 +6129,22 @@
         "date_posted": 1726189103,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726189168,
+        "url": "https://jobs.lever.co/SymmetrySystems/1c1ae2af-95c1-4299-b6d7-b539188dafe7",
+        "company_name": "Symmetry",
+        "title": "Full Stack Software Engineer Intern",
+        "locations": [
+            "San Francisco, CA",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "91c54708-95a4-4fe6-bf46-0dc9ebf2d9ec",
+        "date_posted": 1726189168,
+        "company_url": "",
+        "is_visible": true
     }
 ]
