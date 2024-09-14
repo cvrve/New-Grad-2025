@@ -64,7 +64,6 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **Duolingo** | New Grad: Software Engineer | Pittsburgh, PA | <a href="https://job-boards.greenhouse.io/duolingouniversityrecruitment/jobs/7636432002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
 | **Chime** | New Grad: Software Engineer | San Francisco, CA | <a href="https://boards.greenhouse.io/chime/jobs/7626713002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
 | **Amazon** | New Grad: Software Development Engineer 🇺🇸 | <details><summary>**4 locations**</summary>Arlington, VA</br>Seattle, WA</br>Denver, CO</br>Herndon, VA</details> | <a href="https://www.amazon.jobs/jobs/2721341/software-development-engineer--amazon-dedicated-cloud-region-services"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
-| **Uber** | New Grad 2024: Software Engineer I | San Francisco, CA | <a href="https://university-uber.icims.com/jobs/134010/job"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
 | **Two Sigma** | New Grad: Quantitative Researcher | New York, NY | <a href="https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Full-Time-Campus-Hire/12686"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
 | **Tiktok** | New Grad 2025: Frontend Software Engineer | San Jose, CA | <a href="https://careers.tiktok.com/position/7397888713688647945/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
 | **Tiktok** | New Grad 2025: Software Engineer | San Jose, CA | <a href="https://careers.tiktok.com/position/7397572290010433818/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
@@ -360,6 +359,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **Palantir** | Software Engineer – New Grad - US Government | Washington, DC | <a href="https://jobs.lever.co/palantir/19d5e5f8-37a6-4a6f-b2ca-423370b3a1c2/apply"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | **Palantir** | Software Engineer – New Grad - US Government | NYC | <a href="https://jobs.lever.co/palantir/000b1a24-4b0f-436f-a6da-9a920e259925/apply"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | **Palantir** | Forward Deployed Software Engineer – New Grad - US Government | NYC | <a href="https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
+| **Uber** | New Grad 2024: Software Engineer I | San Francisco, CA | 🔒 | Sep 13 |
 | **Zoom** | New Grad: Software Engineer | San Jose, CA | 🔒 | Sep 12 |
 | **Zoom** | New Grad: Software Engineer | San Jose, CA | 🔒 | Sep 12 |
 | **Robinhood** | New Grad: Software Engineer | Menlo Park, CA</br>New York, NY | 🔒 | Sep 12 |

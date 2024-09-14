@@ -6292,7 +6292,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1726260583,
+        "date_updated": 1726351045,
         "url": "https://university-uber.icims.com/jobs/134010/job",
         "company_name": "Uber",
         "title": "New Grad 2024: Software Engineer I",
@@ -6300,7 +6300,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "3a84f511-e78a-431c-a5f4-d9485350445c",
         "date_posted": 1726260583,
