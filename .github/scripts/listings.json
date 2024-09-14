@@ -6455,5 +6455,21 @@
         "date_posted": 1726349631,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726349786,
+        "url": "https://job-boards.greenhouse.io/jungroup/jobs/7586285002",
+        "company_name": "Jun Group",
+        "title": "Software Engineer, Data",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "bb55525e-bb55-4d00-8a8b-841731c64ba5",
+        "date_posted": 1726349786,
+        "company_url": "",
+        "is_visible": true
     }
 ]
