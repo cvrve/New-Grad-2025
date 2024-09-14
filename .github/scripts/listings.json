@@ -6404,5 +6404,21 @@
         "date_posted": 1726348670,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726349456,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4128663007",
+        "company_name": "Verkada",
+        "title": "Frontend Engineer",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "af4a6b71-86dd-402c-b6a2-d9a60b7fe705",
+        "date_posted": 1726349456,
+        "company_url": "",
+        "is_visible": true
     }
 ]
