@@ -6471,5 +6471,23 @@
         "date_posted": 1726349786,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726350140,
+        "url": "https://www.splunk.com/en_us/careers/jobs/software-engineer-early-in-29740.html",
+        "company_name": "Splunk",
+        "title": "Software Engineer - Early Career",
+        "locations": [
+            "Colorado",
+            "North Carolina",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "a56403cc-642b-4b40-b4e9-e8bdac71398e",
+        "date_posted": 1726350140,
+        "company_url": "",
+        "is_visible": true
     }
 ]
