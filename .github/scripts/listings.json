@@ -6372,5 +6372,21 @@
         "date_posted": 1726261453,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726341440,
+        "url": "https://job-boards.greenhouse.io/duolingouniversityrecruitment/jobs/7636432002",
+        "company_name": "Duolingo",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "e8148c05-0594-4715-a196-83bb1bd79542",
+        "date_posted": 1726341440,
+        "company_url": "",
+        "is_visible": true
     }
 ]
