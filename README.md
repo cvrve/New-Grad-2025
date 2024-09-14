@@ -56,6 +56,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **Verkada** | Frontend Engineer | San Mateo, CA | <a href="https://job-boards.greenhouse.io/verkada/jobs/4128663007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
+| **Tiktok** | New Grad 2025: Software Engineer | San Jose, CA | <a href="https://careers.tiktok.com/position/7397873333113866534/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
 | **Magna** | New Grad: Software Engineer | New York, NY | <a href="https://boards.greenhouse.io/embed/job_app?for=magna&token=4382449007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
 | **Duolingo** | New Grad: Software Engineer | Pittsburgh, PA | <a href="https://job-boards.greenhouse.io/duolingouniversityrecruitment/jobs/7636432002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
 | **Uber** | New Grad 2024: Software Engineer I | San Francisco, CA | <a href="https://university-uber.icims.com/jobs/134010/job"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
