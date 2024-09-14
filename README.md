@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Magna** | New Grad: Software Engineer | New York, NY | <a href="https://boards.greenhouse.io/embed/job_app?for=magna&token=4382449007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
 | **Duolingo** | New Grad: Software Engineer | Pittsburgh, PA | <a href="https://job-boards.greenhouse.io/duolingouniversityrecruitment/jobs/7636432002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
 | **Uber** | New Grad 2024: Software Engineer I | San Francisco, CA | <a href="https://university-uber.icims.com/jobs/134010/job"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
 | **Two Sigma** | New Grad: Quantitative Researcher | New York, NY | <a href="https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Full-Time-Campus-Hire/12686"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |

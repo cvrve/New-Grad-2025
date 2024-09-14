@@ -6388,5 +6388,21 @@
         "date_posted": 1726341440,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726348670,
+        "url": "https://boards.greenhouse.io/embed/job_app?for=magna&token=4382449007",
+        "company_name": "Magna",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "d2f5a2cb-03d4-420a-85bf-e30ffb541ab2",
+        "date_posted": 1726348670,
+        "company_url": "",
+        "is_visible": true
     }
 ]
