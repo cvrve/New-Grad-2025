@@ -6489,5 +6489,21 @@
         "date_posted": 1726350140,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726350181,
+        "url": "https://boards.greenhouse.io/chime/jobs/7626713002",
+        "company_name": "Chime",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "4753647b-2733-47c7-849b-ad1321be4221",
+        "date_posted": 1726350181,
+        "company_url": "",
+        "is_visible": true
     }
 ]
