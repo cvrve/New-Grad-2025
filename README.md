@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **https://jobs.careers.microsoft.com/global/en/share/1766760** | Software Engineer, AI&ML | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1766760/Software-Engineer---AI%2FML%2C-Redmond"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | **Verkada** | Frontend Engineer | San Mateo, CA | <a href="https://job-boards.greenhouse.io/verkada/jobs/4128663007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
 | **Tiktok** | New Grad 2025: Software Engineer | San Jose, CA | <a href="https://careers.tiktok.com/position/7397873333113866534/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
 | **Splunk** | Software Engineer - Early Career | Colorado</br>North Carolina</br>Remote | <a href="https://www.splunk.com/en_us/careers/jobs/software-engineer-early-in-29740.html"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |

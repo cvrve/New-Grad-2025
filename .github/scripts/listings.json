@@ -6521,5 +6521,21 @@
         "date_posted": 1726350229,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726379922,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1766760/Software-Engineer---AI%2FML%2C-Redmond",
+        "company_name": "https://jobs.careers.microsoft.com/global/en/share/1766760",
+        "title": "Software Engineer, AI&ML",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "11031985-43e8-4446-b082-ea5fda2e1d09",
+        "date_posted": 1726379922,
+        "company_url": "",
+        "is_visible": true
     }
 ]
