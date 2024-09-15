@@ -6537,5 +6537,22 @@
         "date_posted": 1726379922,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726380361,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1765141/Software-Engineer",
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "locations": [
+            "Redmond, WA",
+            "Atlanta, GA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "vanshb03",
+        "id": "670e5b1c-d264-4a31-8cec-2b66f2c1e289",
+        "date_posted": 1726380361,
+        "company_url": "",
+        "is_visible": true
     }
 ]
