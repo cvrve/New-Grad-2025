@@ -6587,5 +6587,21 @@
         "date_posted": 1726541528,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726541565,
+        "url": "https://jobs.lever.co/persona/70dd3239-d020-4035-aaab-16bd289642f7",
+        "company_name": "Persona",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "San Francisco"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "eneief",
+        "id": "07aaf75a-30ae-4c74-9edb-573a2810c9a5",
+        "date_posted": 1726541565,
+        "company_url": "",
+        "is_visible": true
     }
 ]
