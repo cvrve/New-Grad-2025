@@ -6619,5 +6619,21 @@
         "date_posted": 1726579278,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726579332,
+        "url": "https://careers.spglobal.com/jobs/307184",
+        "company_name": "S&P Global",
+        "title": "New Grad 2025: Software Engineer",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "5960f56f-4fba-41bc-ac05-63a710bb4ffb",
+        "date_posted": 1726579332,
+        "company_url": "",
+        "is_visible": true
     }
 ]
