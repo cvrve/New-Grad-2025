@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Visa** | New Grad 2025: Software Engineer | Austin, TX | <a href="https://corporate.visa.com/en/jobs/REF77329N"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | **Microsoft** | Software Engineer 🇺🇸 | Redmond, WA</br>Atlanta, GA | <a href="https://jobs.careers.microsoft.com/global/en/job/1765141/Software-Engineer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | **Microsoft** | Software Engineer, AI&ML | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1766760/Software-Engineer---AI%2FML%2C-Redmond"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | **Verkada** | Frontend Engineer | San Mateo, CA | <a href="https://job-boards.greenhouse.io/verkada/jobs/4128663007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |

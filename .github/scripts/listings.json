@@ -6554,5 +6554,21 @@
         "date_posted": 1726380361,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726541438,
+        "url": "https://corporate.visa.com/en/jobs/REF77329N",
+        "company_name": "Visa",
+        "title": "New Grad 2025: Software Engineer",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "ajain02",
+        "id": "96ac6700-3862-45d2-9918-66d7f8596fc9",
+        "date_posted": 1726541438,
+        "company_url": "",
+        "is_visible": true
     }
 ]
