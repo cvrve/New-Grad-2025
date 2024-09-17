@@ -6570,5 +6570,22 @@
         "date_posted": 1726541438,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726541528,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Technology-Development-Program-Associate---August-2025_R189786",
+        "company_name": "Capital One",
+        "title": "Technology Development Program Associate - August 2025",
+        "locations": [
+            "Richmond, VA",
+            "Plano, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "eneief",
+        "id": "53063e21-c2fa-4d5a-9683-631a3e53d06c",
+        "date_posted": 1726541528,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -56,6 +56,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **Visa** | New Grad 2025: Software Engineer | Austin, TX | <a href="https://corporate.visa.com/en/jobs/REF77329N"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
+| **Capital One** | Technology Development Program Associate - August 2025 🛂 | Richmond, VA</br>Plano, TX | <a href="https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Technology-Development-Program-Associate---August-2025_R189786"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | **Microsoft** | Software Engineer 🇺🇸 | Redmond, WA</br>Atlanta, GA | <a href="https://jobs.careers.microsoft.com/global/en/job/1765141/Software-Engineer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | **Microsoft** | Software Engineer, AI&ML | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1766760/Software-Engineer---AI%2FML%2C-Redmond"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | **Verkada** | Frontend Engineer | San Mateo, CA | <a href="https://job-boards.greenhouse.io/verkada/jobs/4128663007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
