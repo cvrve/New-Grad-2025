@@ -6635,5 +6635,21 @@
         "date_posted": 1726579332,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726579613,
+        "url": "https://careers.garmin.com/careers-home/jobs/14481/job",
+        "company_name": "Garmin",
+        "title": "Software Engineer I",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "76cc9367-4ace-40d3-8b38-2f517544af6d",
+        "date_posted": 1726579613,
+        "company_url": "",
+        "is_visible": true
     }
 ]
