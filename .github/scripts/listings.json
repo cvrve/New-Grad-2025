@@ -6735,5 +6735,27 @@
         "date_posted": 1726628634,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726653771,
+        "url": "http://redirect.cvrve.me/fc903e6bb18d83b98f57",
+        "company_name": "Meta",
+        "title": "Data Engineer",
+        "locations": [
+            "Bellevue, WA",
+            "Redmond, WA",
+            "Menlo Park, CA",
+            "Seattle, WA",
+            "Burlingame, CA",
+            "Washington, DC",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "f9482b9d-b213-4299-bac9-d852a8543c90",
+        "date_posted": 1726653771,
+        "company_url": "",
+        "is_visible": true
     }
 ]
