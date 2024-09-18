@@ -6671,5 +6671,21 @@
         "date_posted": 1726597659,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726626764,
+        "url": "https://jobs.boeing.com/job/-/-/185/68472702976",
+        "company_name": "Boeing",
+        "title": "Software Engineer - Entry Level",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "eneief",
+        "id": "726fdafc-9ff8-4e5b-945b-68e0ed1eaedc",
+        "date_posted": 1726626764,
+        "company_url": "",
+        "is_visible": true
     }
 ]

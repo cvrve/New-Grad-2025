@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Boeing** | Software Engineer - Entry Level 🇺🇸 | Annapolis Junction, MD | <a href="https://jobs.boeing.com/job/-/-/185/68472702976"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | **Visa** | New Grad 2025: Software Engineer | Austin, TX | <a href="https://corporate.visa.com/en/jobs/REF77329N"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | **S&P Global** | New Grad 2025: Software Engineer | Cambridge, MA | <a href="https://careers.spglobal.com/jobs/307184"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | **Persona** | New Grad: Software Engineer | San Francisco | <a href="https://jobs.lever.co/persona/70dd3239-d020-4035-aaab-16bd289642f7"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
