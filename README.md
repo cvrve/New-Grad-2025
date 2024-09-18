@@ -67,6 +67,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **Datadog** | Software Engineer 🇺🇸 | Boston, MA</br>New York, NY | <a href="http://redirect.cvrve.me/4cafbb2ff939c8341d68"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | **Boeing** | Software Engineer - Entry Level 🇺🇸 | Annapolis Junction, MD | <a href="https://jobs.boeing.com/job/-/-/185/68472702976"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | **Bloomberg** | New Grad 2025: Software Engineer | New York, NY | <a href="http://redirect.cvrve.me/a957b35bc7fe4371d470"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
+| **Apple** | Software Engineer, Education and Enterprise Technologies | Cupertino, CA | <a href="http://redirect.cvrve.me/5f494d297a536d117fc9"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | **Apple** | Emoji UI Engineer | Cupertino, CA | <a href="http://redirect.cvrve.me/0503a84c5555b668f5ec"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | **Visa** | New Grad 2025: Software Engineer | Austin, TX | <a href="https://corporate.visa.com/en/jobs/REF77329N"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | **S&P Global** | New Grad 2025: Software Engineer | Cambridge, MA | <a href="https://careers.spglobal.com/jobs/307184"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |

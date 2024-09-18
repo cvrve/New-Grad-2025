@@ -6904,5 +6904,21 @@
         "date_posted": 1726690693,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726690741,
+        "url": "http://redirect.cvrve.me/5f494d297a536d117fc9",
+        "company_name": "Apple",
+        "title": "Software Engineer, Education and Enterprise Technologies",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "eneief",
+        "id": "63014e5c-e3dc-4015-9b2d-8a7a1b66c2f1",
+        "date_posted": 1726690741,
+        "company_url": "",
+        "is_visible": true
     }
 ]
