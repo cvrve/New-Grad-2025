@@ -6839,5 +6839,21 @@
         "date_posted": 1726654291,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726654412,
+        "url": "http://redirect.cvrve.me/dc50441df1d0a48a28b8",
+        "company_name": "Radley James",
+        "title": "Graduate Software Engineer",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "b1af5c16-2d20-4f52-a67a-6632ac5b26e8",
+        "date_posted": 1726654412,
+        "company_url": "",
+        "is_visible": true
     }
 ]
