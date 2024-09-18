@@ -6719,5 +6719,21 @@
         "date_posted": 1726626851,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726628634,
+        "url": "http://redirect.cvrve.me/a957b35bc7fe4371d470",
+        "company_name": "Bloomberg",
+        "title": "New Grad 2025: Software Engineer",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "d29fed70-63b6-498d-adcc-e84332273023",
+        "date_posted": 1726628634,
+        "company_url": "",
+        "is_visible": true
     }
 ]
