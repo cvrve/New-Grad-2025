@@ -6703,5 +6703,21 @@
         "date_posted": 1726626803,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726626851,
+        "url": "http://redirect.cvrve.me/4fdd57194a6ed0bcaa87",
+        "company_name": "Pinterest",
+        "title": "University Grad Software Engineer (USA)",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "eneief",
+        "id": "8a32de84-2f7b-4dfc-b205-9f3d62d3ab23",
+        "date_posted": 1726626851,
+        "company_url": "",
+        "is_visible": true
     }
 ]
