@@ -6888,5 +6888,21 @@
         "date_posted": 1726690661,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726690693,
+        "url": "http://redirect.cvrve.me/0503a84c5555b668f5ec",
+        "company_name": "Apple",
+        "title": "Emoji UI Engineer",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "eneief",
+        "id": "e49fac67-a464-4af5-8006-eab1b89a2f28",
+        "date_posted": 1726690693,
+        "company_url": "",
+        "is_visible": true
     }
 ]
