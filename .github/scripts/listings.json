@@ -6687,5 +6687,21 @@
         "date_posted": 1726626764,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726626803,
+        "url": "http://redirect.cvrve.me/7dd501764897198f976b",
+        "company_name": "Ciena",
+        "title": "Software Performance Engineer",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "f7f03026-0eaf-4090-96b5-2e512dd2a994",
+        "date_posted": 1726626803,
+        "company_url": "",
+        "is_visible": true
     }
 ]
