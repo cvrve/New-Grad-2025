@@ -6936,5 +6936,21 @@
         "date_posted": 1726690901,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726691136,
+        "url": "http://redirect.cvrve.me/483f3ad7228a19ee3c17",
+        "company_name": "Precisely",
+        "title": "Associate Data Engineer",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "d1c30f55-7723-41b4-a8a7-2f9974a7d5a3",
+        "date_posted": 1726691136,
+        "company_url": "",
+        "is_visible": true
     }
 ]
