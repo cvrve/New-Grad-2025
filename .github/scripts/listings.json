@@ -6790,5 +6790,22 @@
         "date_posted": 1726653896,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726653973,
+        "url": "http://redirect.cvrve.me/69609c7ef42c37e5aa6d",
+        "company_name": "Genesis Therapeutics",
+        "title": "New Grad: ML Research Engineer",
+        "locations": [
+            "Burlingame, CA",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "34023662-50d0-4f6b-9d03-3701a94f5ca7",
+        "date_posted": 1726653973,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -57,6 +57,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | --- | --- | --- | :---: | :---: |
 | **Pinterest** | University Grad Software Engineer (USA) | Remote | <a href="http://redirect.cvrve.me/4fdd57194a6ed0bcaa87"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | **Meta** | Data Engineer | <details><summary>**7 locations**</summary>Bellevue, WA</br>Redmond, WA</br>Menlo Park, CA</br>Seattle, WA</br>Burlingame, CA</br>Washington, DC</br>New York, NY</details> | <a href="http://redirect.cvrve.me/fc903e6bb18d83b98f57"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
+| **Genesis Therapeutics** | New Grad: ML Research Engineer | Burlingame, CA</br>Remote | <a href="http://redirect.cvrve.me/69609c7ef42c37e5aa6d"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | **Genesis Therapeutics** | New Grad: Software Engineer | Burlingame, CA</br>Remote | <a href="http://redirect.cvrve.me/bb83a8d169f9518cd37c"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | **Five Rings** | New Grad 2025: Software Developer | New York, NY | <a href="http://redirect.cvrve.me/6d52720418bb8d883017"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | **Boeing** | Software Engineer - Entry Level 🇺🇸 | Annapolis Junction, MD | <a href="https://jobs.boeing.com/job/-/-/185/68472702976"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
