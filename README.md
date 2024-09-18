@@ -65,6 +65,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **Genesis Therapeutics** | New Grad: ML Research Engineer | Burlingame, CA</br>Remote | <a href="http://redirect.cvrve.me/69609c7ef42c37e5aa6d"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | **Genesis Therapeutics** | New Grad: Software Engineer | Burlingame, CA</br>Remote | <a href="http://redirect.cvrve.me/bb83a8d169f9518cd37c"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | **Five Rings** | New Grad 2025: Software Developer | New York, NY | <a href="http://redirect.cvrve.me/6d52720418bb8d883017"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
+| **Duolingo** | New Grad: Data Scientist I | New York, NY | <a href="http://redirect.cvrve.me/025bf027db1a86ff8bf4"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | **Datadog** | Software Engineer 🇺🇸 | Boston, MA</br>New York, NY | <a href="http://redirect.cvrve.me/4cafbb2ff939c8341d68"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | **Coinbase** | Data Engineer | New York, NY | <a href="http://redirect.cvrve.me/b0d2a0a695ef85babe5d"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | **Boeing** | Software Engineer - Entry Level 🇺🇸 | Annapolis Junction, MD | <a href="https://jobs.boeing.com/job/-/-/185/68472702976"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |

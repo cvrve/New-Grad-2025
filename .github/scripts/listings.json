@@ -6968,5 +6968,21 @@
         "date_posted": 1726691225,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726691303,
+        "url": "http://redirect.cvrve.me/025bf027db1a86ff8bf4",
+        "company_name": "Duolingo",
+        "title": "New Grad: Data Scientist I",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "37f5e7e2-27cc-4c30-9fbf-9ad89cfce4e8",
+        "date_posted": 1726691303,
+        "company_url": "",
+        "is_visible": true
     }
 ]
