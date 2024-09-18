@@ -6984,5 +6984,21 @@
         "date_posted": 1726691303,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726691371,
+        "url": "http://redirect.cvrve.me/e95112646bde34722ab8",
+        "company_name": "Duolingo",
+        "title": "New Grad: Data Scientist I",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "8a33a28b-08e2-4e8e-b362-9e9bd14b86a2",
+        "date_posted": 1726691371,
+        "company_url": "",
+        "is_visible": true
     }
 ]
