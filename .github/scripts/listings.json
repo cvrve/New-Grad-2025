@@ -6774,5 +6774,21 @@
         "date_posted": 1726653865,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726653896,
+        "url": "http://redirect.cvrve.me/6d52720418bb8d883017",
+        "company_name": "Five Rings",
+        "title": "New Grad 2025: Software Developer",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ajain02",
+        "id": "e260045f-947c-48a0-b613-c95cc297f186",
+        "date_posted": 1726653896,
+        "company_url": "",
+        "is_visible": true
     }
 ]
