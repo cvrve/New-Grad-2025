@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Tesla** | Product Engineer | Fremont, CA | <a href="http://redirect.cvrve.me/d482e10bd6c18f6401b5"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | **HPE** | Software Engineer | <details><summary>**9 locations**</summary>Spring, TX</br>Bloomington, MN</br>Chippewa Falls, WI</br>Andover, MA</br>Durham, NC</br>Ft. Collins, CO</br>Milpitas, CA</br>Roseville, CA</br>San Jose, CA</details> | <a href="http://redirect.cvrve.me/a0698b5c90d5805068d9"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | **HomePro** | Production Support Software Engineer | Carrollton, TX | <a href="http://redirect.cvrve.me/721f135eeefaf8deb034"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | **Bloomberg** | Software Engineer, Associate | Arlington, VA | <a href="http://redirect.cvrve.me/378883ed3091d50ebcdf"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |

@@ -7072,5 +7072,21 @@
         "date_posted": 1726742722,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726742780,
+        "url": "http://redirect.cvrve.me/d482e10bd6c18f6401b5",
+        "company_name": "Tesla",
+        "title": "Product Engineer",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "2650e874-4c91-42ce-a694-d0ad2b87a52e",
+        "date_posted": 1726742780,
+        "company_url": "",
+        "is_visible": true
     }
 ]
