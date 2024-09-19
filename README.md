@@ -60,6 +60,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **HomePro** | Production Support Software Engineer | Carrollton, TX | <a href="http://redirect.cvrve.me/721f135eeefaf8deb034"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | **Bloomberg** | Software Engineer, Associate | Arlington, VA | <a href="http://redirect.cvrve.me/378883ed3091d50ebcdf"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | **Apple** | AIML - Software Engineer, Search Experience - SII | Cupertino, CA | <a href="http://redirect.cvrve.me/024952244d5dcf427d4e"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
+| **Adobe** | New Grad 2025: Software Development Engineer | San Jose, CA | <a href="http://redirect.cvrve.me/9a9a4a825c1c5111ce71"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | **Service Now** | Software Engineer | San Francisco, CA | <a href="http://redirect.cvrve.me/f6d5b1e34b6d03735d57"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | **Radley James** | Graduate Software Engineer | New York, NY | <a href="http://redirect.cvrve.me/dc50441df1d0a48a28b8"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | **Precisely** | Associate Data Engineer | United States | <a href="http://redirect.cvrve.me/483f3ad7228a19ee3c17"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
