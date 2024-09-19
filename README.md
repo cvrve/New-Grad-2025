@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Bloomberg** | Software Engineer, Associate | Arlington, VA | <a href="http://redirect.cvrve.me/378883ed3091d50ebcdf"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | **Apple** | AIML - Software Engineer, Search Experience - SII | Cupertino, CA | <a href="http://redirect.cvrve.me/024952244d5dcf427d4e"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | **Service Now** | Software Engineer | San Francisco, CA | <a href="http://redirect.cvrve.me/f6d5b1e34b6d03735d57"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | **Radley James** | Graduate Software Engineer | New York, NY | <a href="http://redirect.cvrve.me/dc50441df1d0a48a28b8"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |

@@ -7016,5 +7016,21 @@
         "date_posted": 1726720901,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726721065,
+        "url": "http://redirect.cvrve.me/378883ed3091d50ebcdf",
+        "company_name": "Bloomberg",
+        "title": "Software Engineer, Associate",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "caa18e06-d920-4d0e-b5ce-c2a29a230bc1",
+        "date_posted": 1726721065,
+        "company_url": "",
+        "is_visible": true
     }
 ]
