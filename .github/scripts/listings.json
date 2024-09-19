@@ -7000,5 +7000,21 @@
         "date_posted": 1726691371,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726720901,
+        "url": "http://redirect.cvrve.me/024952244d5dcf427d4e",
+        "company_name": "Apple",
+        "title": "AIML - Software Engineer, Search Experience - SII",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "eneief",
+        "id": "98557d70-53fa-4c94-9126-b574cb8ae9e3",
+        "date_posted": 1726720901,
+        "company_url": "",
+        "is_visible": true
     }
 ]
