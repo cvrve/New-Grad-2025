@@ -7104,5 +7104,21 @@
         "date_posted": 1726742843,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726789469,
+        "url": "http://redirect.cvrve.me/6e485dcedab9a5fae09e",
+        "company_name": "Microsoft",
+        "title": "Software Engineer - Frontend",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "eneief",
+        "id": "3a0eaf27-7076-4ac3-805c-d260d5438a1c",
+        "date_posted": 1726789469,
+        "company_url": "",
+        "is_visible": true
     }
 ]
