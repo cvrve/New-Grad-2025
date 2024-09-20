@@ -7136,5 +7136,21 @@
         "date_posted": 1726812999,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726813653,
+        "url": "http://redirect.cvrve.me/0ef9c5b6324f4a147c3d",
+        "company_name": "Microsoft",
+        "title": "Software Engineer AI/ML",
+        "locations": [
+            "Multiple Locations"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "b002e5c4-8917-4fc0-860e-2dfdbc80f58d",
+        "date_posted": 1726813653,
+        "company_url": "",
+        "is_visible": true
     }
 ]

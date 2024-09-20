@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Microsoft** | Software Engineer AI/ML | Multiple Locations | <a href="http://redirect.cvrve.me/0ef9c5b6324f4a147c3d"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | **Microsoft** | Data Engineer | Redmond, WA | <a href="http://redirect.cvrve.me/903debef65650f6417f7"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | **Tesla** | Product Engineer | Fremont, CA | <a href="http://redirect.cvrve.me/d482e10bd6c18f6401b5"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | **Microsoft** | Software Engineer - Frontend | Redmond, WA | <a href="http://redirect.cvrve.me/6e485dcedab9a5fae09e"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
