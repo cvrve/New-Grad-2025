@@ -7120,5 +7120,21 @@
         "date_posted": 1726789469,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726812999,
+        "url": "http://redirect.cvrve.me/903debef65650f6417f7",
+        "company_name": "Microsoft",
+        "title": "Data Engineer",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "c80b8eb0-8371-4a3d-be16-2d817a5421eb",
+        "date_posted": 1726812999,
+        "company_url": "",
+        "is_visible": true
     }
 ]
