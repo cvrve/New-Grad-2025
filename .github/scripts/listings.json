@@ -7237,5 +7237,21 @@
         "date_posted": 1726912152,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726912232,
+        "url": "https://redirect.cvrve.me/f90027b90b0d5bf6f685",
+        "company_name": "Microsoft",
+        "title": "Platform Software Engineer",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "79e00f0b-3f98-4390-b70b-7f9059c9d4dd",
+        "date_posted": 1726912232,
+        "company_url": "",
+        "is_visible": true
     }
 ]
