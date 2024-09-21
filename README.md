@@ -56,6 +56,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **Zoom** | AI Software Engineer | Remote | <a href="https://redirect.cvrve.me/ef4e90c449f8f1f23ba5"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
+| **Singlestore** | New Grad: Software Engineer | San Francisco, CA</br>Seattle, WA</br>Raleigh, NC | <a href="https://redirect.cvrve.me/968bb2fc66665c548cde"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
 | **SingleStore** | New Grad: Software Engineer | San Francisco, CA</br>Seattle, WA</br>Raleigh, NC | <a href="https://redirect.cvrve.me/1f07cb943cee11ab9de5"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
 | **Redhat** | Associate Software Engineer | Raleigh, NC | <a href="https://redirect.cvrve.me/666859dd24104e5ad546"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
 | **Microsoft** | Platform Software Engineer | Redmond, WA | <a href="https://redirect.cvrve.me/f90027b90b0d5bf6f685"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
