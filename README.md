@@ -61,6 +61,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **Microsoft** | Platform Software Engineer | Redmond, WA | <a href="https://redirect.cvrve.me/f90027b90b0d5bf6f685"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
 | **Meta** | New Grad: Business Engineer | <details><summary>**4 locations**</summary>Menlo Park, CA</br>Seattle, WA</br>New York, NY</br>San Francisco, CA</details> | <a href="https://redirect.cvrve.me/f4b7e41ccf15622c7ffa"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
 | **Cloudflare** | Software Engineer | Austin, TX | <a href="https://redirect.cvrve.me/1c1de9f7a945e553e6be"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
+| **Blackrock** | Associate Software Engineer | New York, NY | <a href="https://redirect.cvrve.me/8d9a140518dfc21ea0e8"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
 | **Microsoft** | Software Engineer | Redmond, WA | <a href="http://redirect.cvrve.me/22ea97165b591e60845d"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | **Microsoft** | Software Engineer AI/ML | Multiple Locations | <a href="http://redirect.cvrve.me/0ef9c5b6324f4a147c3d"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | **Microsoft** | Data Engineer | Redmond, WA | <a href="http://redirect.cvrve.me/903debef65650f6417f7"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |

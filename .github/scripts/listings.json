@@ -7269,5 +7269,21 @@
         "date_posted": 1726912287,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726912365,
+        "url": "https://redirect.cvrve.me/8d9a140518dfc21ea0e8",
+        "company_name": "Blackrock",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "3a8cd98d-046b-4127-a3ea-6b0d9f7f5f9b",
+        "date_posted": 1726912365,
+        "company_url": "",
+        "is_visible": true
     }
 ]
