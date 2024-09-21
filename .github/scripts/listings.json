@@ -7253,5 +7253,21 @@
         "date_posted": 1726912232,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726912287,
+        "url": "https://redirect.cvrve.me/666859dd24104e5ad546",
+        "company_name": "Redhat",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "8919bbd7-03e1-42f1-ab98-ef0d496ca25e",
+        "date_posted": 1726912287,
+        "company_url": "",
+        "is_visible": true
     }
 ]
