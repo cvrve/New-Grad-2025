@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Zoom** | AI Software Engineer | Remote | <a href="https://redirect.cvrve.me/ef4e90c449f8f1f23ba5"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
 | **SingleStore** | New Grad: Software Engineer | San Francisco, CA</br>Seattle, WA</br>Raleigh, NC | <a href="https://redirect.cvrve.me/1f07cb943cee11ab9de5"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
 | **Meta** | New Grad: Business Engineer | <details><summary>**4 locations**</summary>Menlo Park, CA</br>Seattle, WA</br>New York, NY</br>San Francisco, CA</details> | <a href="https://redirect.cvrve.me/f4b7e41ccf15622c7ffa"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
 | **Microsoft** | Software Engineer | Redmond, WA | <a href="http://redirect.cvrve.me/22ea97165b591e60845d"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |

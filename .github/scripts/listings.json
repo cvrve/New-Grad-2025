@@ -7205,5 +7205,21 @@
         "date_posted": 1726911928,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726912040,
+        "url": "https://redirect.cvrve.me/ef4e90c449f8f1f23ba5",
+        "company_name": "Zoom",
+        "title": "AI Software Engineer",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "d04ce970-48bc-4875-b83e-512361543bf7",
+        "date_posted": 1726912040,
+        "company_url": "",
+        "is_visible": true
     }
 ]
