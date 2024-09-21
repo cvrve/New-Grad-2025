@@ -7168,5 +7168,24 @@
         "date_posted": 1726813763,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726911814,
+        "url": "https://redirect.cvrve.me/f4b7e41ccf15622c7ffa",
+        "company_name": "Meta",
+        "title": "New Grad: Business Engineer",
+        "locations": [
+            "Menlo Park, CA",
+            "Seattle, WA",
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "09b98c83-7bbb-4eec-bfd9-1d5087f51d5f",
+        "date_posted": 1726911814,
+        "company_url": "",
+        "is_visible": true
     }
 ]
