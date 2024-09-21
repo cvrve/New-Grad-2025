@@ -7187,5 +7187,23 @@
         "date_posted": 1726911814,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726911928,
+        "url": "https://redirect.cvrve.me/1f07cb943cee11ab9de5",
+        "company_name": "SingleStore",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "San Francisco, CA",
+            "Seattle, WA",
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "31d2c43e-35e6-4905-ad5c-2a53d3a7e034",
+        "date_posted": 1726911928,
+        "company_url": "",
+        "is_visible": true
     }
 ]
