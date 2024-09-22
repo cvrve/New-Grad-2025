@@ -7303,5 +7303,21 @@
         "date_posted": 1726912430,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727036661,
+        "url": "https://grove-ai.notion.site/Grove-Full-Stack-AI-Software-Engineer-Internship-Full-time-6e968945f0184cb29366ec20436732c9?pvs=4",
+        "company_name": "Grove AI",
+        "title": "Full Stack/AI Software Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "trannble",
+        "id": "ca97cfff-0d7b-4830-8f23-4321d82270d2",
+        "date_posted": 1727036661,
+        "company_url": "",
+        "is_visible": true
     }
 ]
