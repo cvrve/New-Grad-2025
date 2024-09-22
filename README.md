@@ -71,7 +71,6 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **HPE** | Software Engineer | <details><summary>**9 locations**</summary>Spring, TX</br>Bloomington, MN</br>Chippewa Falls, WI</br>Andover, MA</br>Durham, NC</br>Ft. Collins, CO</br>Milpitas, CA</br>Roseville, CA</br>San Jose, CA</details> | <a href="http://redirect.cvrve.me/a0698b5c90d5805068d9"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | **HomePro** | Production Support Software Engineer | Carrollton, TX | <a href="http://redirect.cvrve.me/721f135eeefaf8deb034"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | **Bloomberg** | Software Engineer, Associate | Arlington, VA | <a href="http://redirect.cvrve.me/378883ed3091d50ebcdf"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
-| **Apple** | AIML - Software Engineer, Search Experience - SII | Cupertino, CA | <a href="http://redirect.cvrve.me/024952244d5dcf427d4e"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | **Adobe** | New Grad 2025: Software Development Engineer | San Jose, CA | <a href="http://redirect.cvrve.me/9a9a4a825c1c5111ce71"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | **Service Now** | Software Engineer | San Francisco, CA | <a href="http://redirect.cvrve.me/f6d5b1e34b6d03735d57"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | **Radley James** | Graduate Software Engineer | New York, NY | <a href="http://redirect.cvrve.me/dc50441df1d0a48a28b8"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
@@ -404,6 +403,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **Palantir** | Software Engineer – New Grad - US Government | Washington, DC | <a href="https://jobs.lever.co/palantir/19d5e5f8-37a6-4a6f-b2ca-423370b3a1c2/apply"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | **Palantir** | Software Engineer – New Grad - US Government | NYC | <a href="https://jobs.lever.co/palantir/000b1a24-4b0f-436f-a6da-9a920e259925/apply"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | **Palantir** | Forward Deployed Software Engineer – New Grad - US Government | NYC | <a href="https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
+| **Apple** | AIML - Software Engineer, Search Experience - SII | Cupertino, CA | 🔒 | Sep 19 |
 | **Uber** | New Grad 2024: Software Engineer I | San Francisco, CA | 🔒 | Sep 13 |
 | **Zoom** | New Grad: Software Engineer | San Jose, CA | 🔒 | Sep 12 |
 | **Zoom** | New Grad: Software Engineer | San Jose, CA | 🔒 | Sep 12 |
