@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **OpenAI** | Software Engineer, Applied Emerging Talent | San Francisco, CA | <a href="http://redirect.cvrve.me/e091cfd4d33016eb3051"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | **Grove AI** | Full Stack/AI Software Engineer 🛂 | San Francisco, CA | <a href="https://grove-ai.notion.site/Grove-Full-Stack-AI-Software-Engineer-Internship-Full-time-6e968945f0184cb29366ec20436732c9?pvs=4"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 22 |
 | **Zoom** | AI Software Engineer | Remote | <a href="https://redirect.cvrve.me/ef4e90c449f8f1f23ba5"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
 | **Singlestore** | New Grad: Software Engineer | San Francisco, CA</br>Seattle, WA</br>Raleigh, NC | <a href="https://redirect.cvrve.me/968bb2fc66665c548cde"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
