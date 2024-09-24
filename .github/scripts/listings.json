@@ -7383,5 +7383,21 @@
         "date_posted": 1727187616,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727187698,
+        "url": "http://redirect.cvrve.me/dcb36b6fb3474162c4a6",
+        "company_name": "Penguin Random House",
+        "title": "Associate Developer, Full Stack",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "7cda64a3-79ad-4d64-99e9-4056401b7ce5",
+        "date_posted": 1727187698,
+        "company_url": "",
+        "is_visible": true
     }
 ]
