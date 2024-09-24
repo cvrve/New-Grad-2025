@@ -7367,5 +7367,21 @@
         "date_posted": 1727121543,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727187616,
+        "url": "http://redirect.cvrve.me/334f568e529d66ec19f5",
+        "company_name": "Blackhawk Network",
+        "title": "Software Engineer",
+        "locations": [
+            "Coppell, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "eb4a29cc-efb4-4194-97a0-5fde67bcd15e",
+        "date_posted": 1727187616,
+        "company_url": "",
+        "is_visible": true
     }
 ]
