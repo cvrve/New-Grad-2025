@@ -7399,5 +7399,21 @@
         "date_posted": 1727187698,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727244122,
+        "url": "http://redirect.cvrve.me/2a1a46145b9eaf561860",
+        "company_name": "Wyetech",
+        "title": "Software Engineer",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "f4fcafa9-7f54-4f8a-a8b7-7a798a2d28c8",
+        "date_posted": 1727244122,
+        "company_url": "",
+        "is_visible": true
     }
 ]
