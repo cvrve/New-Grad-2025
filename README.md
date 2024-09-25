@@ -159,7 +159,6 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **Adobe** | New Grad 2025: Software Engineer | San Jose, CA | <a href="https://careers.adobe.com/us/en/job/ADOBUSR148163EXTERNALENUS/2025-University-Graduate-Software-Engineer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | **Empover** | New Grad 2025: Associate Software Engineer 🛂 | Greenwood, CO | <a href="https://jobs.empower.com/job/-/-/42743/69800462176"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | **Capital One** | New Grad: Technology Development Program Associate 🛂 | Mclean, VA</br>Plano, TX</br>Richmond, VA | <a href="https://www.capitalonecareers.com/job/mclean/technology-development-program-associate-february-2025/31238/69740859456"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
-| **Adobe** | New Grad 2025: Software Engineer | New York, NY | <a href="https://careers.adobe.com/us/en/job/ADOBUSR148217EXTERNALENUS/2025-University-Graduate-Software-Engineer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | **Wex** | New Grad: Software Development Engineer | <details><summary>**5 locations**</summary>Chicago, IL</br>Boston, MA</br>Washington DC</br>Portland, ME</br>Dallas, TX</details> | <a href="https://careers.wexinc.com/us/en/job/WEXWEXUSR16128EXTERNALENUS/Software-Development-Engineer-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Travelers** | New Grad: Software Engineer I | Hartford, CT</br>St. Paul, MN</br>Hunt Valley, MD | <a href="https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I---Business-Insurance--MERN-AWS-_R-38832"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Tiktok** | New Grad 2025: Test Engineer | San Jose, CA | <a href="https://careers.tiktok.com/position/7395664078364723507/detail?spread=5MWH5CQ"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
@@ -432,6 +431,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **Zoom** | New Grad: Software Engineer | San Jose, CA | 🔒 | Sep 12 |
 | **Zoom** | New Grad: Software Engineer | San Jose, CA | 🔒 | Sep 12 |
 | **Robinhood** | New Grad: Software Engineer | Menlo Park, CA</br>New York, NY | 🔒 | Sep 12 |
+| **Adobe** | New Grad 2025: Software Engineer | New York, NY | 🔒 | Sep 10 |
 | **Marigold** | New Grad: Software Engineer | Remote | 🔒 | Sep 08 |
 | **Macquarie** | New Grad: Software Engineer | New York, NY | 🔒 | Sep 08 |
 | **Bread Financial** | New Grad: Software Engineer | <details><summary>**6 locations**</summary>Columbus, OH</br>Chadds Ford, PA</br>Coeur D'Alene, ID</br>Draper, UT</br>Plano, TX</br>Wilmington, DE</details> | 🔒 | Sep 08 |
