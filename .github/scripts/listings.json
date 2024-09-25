@@ -7678,5 +7678,21 @@
         "date_posted": 1727289377,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727289680,
+        "url": "http://redirect.cvrve.me/eef7c3c099bc617cffa5",
+        "company_name": "C3.ai",
+        "title": "Software Engineer",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "8a65c750-53ab-4dba-b07d-87e8142641d9",
+        "date_posted": 1727289680,
+        "company_url": "",
+        "is_visible": true
     }
 ]
