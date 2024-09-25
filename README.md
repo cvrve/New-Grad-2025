@@ -65,6 +65,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **Cloudflare** | Software Engineer, Kubernetes | Remote</br>US | <a href="http://redirect.cvrve.me/aa97d0fb8c854765cca6"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | **Cloudflare** | Software Engineer, Client-Desktop & Mobile | Remote</br>US | <a href="http://redirect.cvrve.me/f835ef267a4cd3a00f25"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | **Cloudflare** | Software Engineer, Durable Objects | Hybrid | <a href="http://redirect.cvrve.me/8ea4108a4a6fb74513a8"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
+| **Apple** | Silicon Validation Software Engineer | Cupertino, CA | <a href="http://redirect.cvrve.me/b33cc21ba1190e1cdedb"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | **Penguin Random House** | Associate Developer, Full Stack | New York, NY | <a href="http://redirect.cvrve.me/dcb36b6fb3474162c4a6"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
 | **Blackhawk Network** | Software Engineer | Coppell, TX | <a href="http://redirect.cvrve.me/334f568e529d66ec19f5"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
 | **OpenAI** | Software Engineer, Applied Emerging Talent | San Francisco, CA | <a href="http://redirect.cvrve.me/e091cfd4d33016eb3051"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
