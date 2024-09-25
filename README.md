@@ -107,7 +107,6 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **Duolingo** | New Grad: Data Scientist I | Pittsburgh, PA | <a href="http://redirect.cvrve.me/e95112646bde34722ab8"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | **Duolingo** | New Grad: Data Scientist I | New York, NY | <a href="http://redirect.cvrve.me/025bf027db1a86ff8bf4"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | **Datadog** | Software Engineer 🇺🇸 | Boston, MA</br>New York, NY | <a href="http://redirect.cvrve.me/4cafbb2ff939c8341d68"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
-| **Coinbase** | Data Engineer | New York, NY | <a href="http://redirect.cvrve.me/b0d2a0a695ef85babe5d"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | **Boeing** | Software Engineer - Entry Level 🇺🇸 | Annapolis Junction, MD | <a href="https://jobs.boeing.com/job/-/-/185/68472702976"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | **Bloomberg** | New Grad 2025: Software Engineer | New York, NY | <a href="http://redirect.cvrve.me/a957b35bc7fe4371d470"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | **Apple** | Software Engineer, Education and Enterprise Technologies | Cupertino, CA | <a href="http://redirect.cvrve.me/5f494d297a536d117fc9"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
@@ -426,6 +425,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **NVIDIA** | New Grad 2025: Software Engineer | Santa Clara, CA | 🔒 | Sep 23 |
 | **Apple** | AIML - Software Engineer, Search Experience - SII | Cupertino, CA | 🔒 | Sep 19 |
 | **Adobe** | New Grad 2025: Software Development Engineer | San Jose, CA | 🔒 | Sep 19 |
+| **Coinbase** | Data Engineer | New York, NY | 🔒 | Sep 18 |
 | **Uber** | New Grad 2024: Software Engineer I | San Francisco, CA | 🔒 | Sep 13 |
 | **Zoom** | New Grad: Software Engineer | San Jose, CA | 🔒 | Sep 12 |
 | **Zoom** | New Grad: Software Engineer | San Jose, CA | 🔒 | Sep 12 |
