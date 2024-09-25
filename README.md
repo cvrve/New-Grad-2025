@@ -60,6 +60,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **Nominal** | New Grad 2024: Software Engineer | Los Angeles, CA | <a href="http://redirect.cvrve.me/a9fd3ee1e06164512571"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | **Nominal** | New Grad 2024: Software Engineer | SoHo, NY | <a href="http://redirect.cvrve.me/05f0ad7a303bf11539f2"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | **Nominal** | New Grad 2024: Software Engineer | Austin, TX | <a href="http://redirect.cvrve.me/8879e6d5c40bd7647e73"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
+| **Duolingo** | New Grad: Software Engineer | Pittsburgh, PA | <a href="http://redirect.cvrve.me/211f55d0debf9a2289a6"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | **Penguin Random House** | Associate Developer, Full Stack | New York, NY | <a href="http://redirect.cvrve.me/dcb36b6fb3474162c4a6"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
 | **Blackhawk Network** | Software Engineer | Coppell, TX | <a href="http://redirect.cvrve.me/334f568e529d66ec19f5"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
 | **OpenAI** | Software Engineer, Applied Emerging Talent | San Francisco, CA | <a href="http://redirect.cvrve.me/e091cfd4d33016eb3051"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |

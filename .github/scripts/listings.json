@@ -7479,5 +7479,21 @@
         "date_posted": 1727244484,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727287395,
+        "url": "http://redirect.cvrve.me/211f55d0debf9a2289a6",
+        "company_name": "Duolingo",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "77ec99c2-d34e-4c7f-b104-570329e53ec7",
+        "date_posted": 1727287395,
+        "company_url": "",
+        "is_visible": true
     }
 ]
