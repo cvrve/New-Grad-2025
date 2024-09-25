@@ -7447,5 +7447,21 @@
         "date_posted": 1727244298,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727244354,
+        "url": "http://redirect.cvrve.me/a9fd3ee1e06164512571",
+        "company_name": "Nominal",
+        "title": "New Grad 2024: Software Engineer",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "c657183f-32d8-4d74-bd8f-4be13b05bc4c",
+        "date_posted": 1727244354,
+        "company_url": "",
+        "is_visible": true
     }
 ]
