@@ -7528,5 +7528,22 @@
         "date_posted": 1727287695,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727287747,
+        "url": "http://redirect.cvrve.me/aa97d0fb8c854765cca6",
+        "company_name": "Cloudflare",
+        "title": "Software Engineer, Kubernetes",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "bb5cc21d-25fe-47df-9ea7-faffa99bd07a",
+        "date_posted": 1727287747,
+        "company_url": "",
+        "is_visible": true
     }
 ]
