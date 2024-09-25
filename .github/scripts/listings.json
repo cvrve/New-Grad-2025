@@ -7431,5 +7431,21 @@
         "date_posted": 1727244225,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727244298,
+        "url": "http://redirect.cvrve.me/05f0ad7a303bf11539f2",
+        "company_name": "Nominal",
+        "title": "New Grad 2024: Software Engineer",
+        "locations": [
+            "SoHo, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "65906157-ff12-405c-a8f3-d8c2af740fa7",
+        "date_posted": 1727244298,
+        "company_url": "",
+        "is_visible": true
     }
 ]
