@@ -55,7 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
-| **Wyetech** | Software Engineer | Annapolis Junction, MD | <a href="http://redirect.cvrve.me/2a1a46145b9eaf561860"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
+| **Wyetech** | Software Engineer 🇺🇸 | Annapolis Junction, MD | <a href="http://redirect.cvrve.me/2a1a46145b9eaf561860"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | **Subsplash** | Software Development Engineer I | Remote | <a href="http://redirect.cvrve.me/5b043e16cc55b5a00066"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | **OKX** | New Grad: Software Engineer | San Jose, CA | <a href="http://redirect.cvrve.me/2d2c5878f07b949d452b"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | **Nominal** | New Grad 2024: Software Engineer | Los Angeles, CA | <a href="http://redirect.cvrve.me/a9fd3ee1e06164512571"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
