@@ -67,6 +67,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **Cloudflare** | Software Engineer, Kubernetes | Remote</br>US | <a href="http://redirect.cvrve.me/aa97d0fb8c854765cca6"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | **Cloudflare** | Software Engineer, Client-Desktop & Mobile | Remote</br>US | <a href="http://redirect.cvrve.me/f835ef267a4cd3a00f25"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | **Cloudflare** | Software Engineer, Durable Objects | Hybrid | <a href="http://redirect.cvrve.me/8ea4108a4a6fb74513a8"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
+| **Chime** | Software Engineer, | Chicago, IL | <a href="http://redirect.cvrve.me/6cd17a985f2180d7e445"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | **CGI** | Entry Level Software Developer | Knoxville, TN | <a href="http://redirect.cvrve.me/2e0b03163827dcc5b837"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | **C3.ai** | Software Engineer | Redwood City, CA | <a href="http://redirect.cvrve.me/eef7c3c099bc617cffa5"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | **C3.ai** | Software Engineer, Platform | Redwood City, CA | <a href="http://redirect.cvrve.me/9caf43f93d0b33f1fd9a"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
