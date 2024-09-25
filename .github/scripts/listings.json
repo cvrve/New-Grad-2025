@@ -7545,5 +7545,22 @@
         "date_posted": 1727287747,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727287800,
+        "url": "http://redirect.cvrve.me/2af4b2eb71bf2563c779",
+        "company_name": "Cloudflare",
+        "title": "Software Engineer, TaS",
+        "locations": [
+            "Austin, TX",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "d0890385-efae-4e7b-87b2-083dfe4f0a65",
+        "date_posted": 1727287800,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -61,6 +61,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **Nominal** | New Grad 2024: Software Engineer | SoHo, NY | <a href="http://redirect.cvrve.me/05f0ad7a303bf11539f2"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | **Nominal** | New Grad 2024: Software Engineer | Austin, TX | <a href="http://redirect.cvrve.me/8879e6d5c40bd7647e73"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | **Duolingo** | New Grad: Software Engineer | Pittsburgh, PA | <a href="http://redirect.cvrve.me/211f55d0debf9a2289a6"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
+| **Cloudflare** | Software Engineer, TaS | Austin, TX</br>Remote | <a href="http://redirect.cvrve.me/2af4b2eb71bf2563c779"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | **Cloudflare** | Software Engineer, Kubernetes | Remote</br>US | <a href="http://redirect.cvrve.me/aa97d0fb8c854765cca6"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | **Cloudflare** | Software Engineer, Client-Desktop & Mobile | Remote</br>US | <a href="http://redirect.cvrve.me/f835ef267a4cd3a00f25"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | **Cloudflare** | Software Engineer, Durable Objects | Hybrid | <a href="http://redirect.cvrve.me/8ea4108a4a6fb74513a8"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
