@@ -7726,5 +7726,21 @@
         "date_posted": 1727384543,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727384815,
+        "url": "http://redirect.cvrve.me/eada2a1a99175ebc3b1d",
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: Developer Technology Engineer",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "fa06a7ad-27dc-4f60-9d39-420ec2ee7947",
+        "date_posted": 1727384815,
+        "company_url": "",
+        "is_visible": true
     }
 ]
