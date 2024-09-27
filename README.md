@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Spotify** | Full Stack Engineer | New York, NY | <a href="http://redirect.cvrve.me/ad44d7599530431b2c4a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
 | **Snap** | New Grad: Software Engineer, Full Stack | Seattle, WA | <a href="http://redirect.cvrve.me/27d0a62dbfd41da9a723?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
 | **Chime** | New Grad: Software Engineer | San Francisco, CA | <a href="http://redirect.cvrve.me/59b4af21c8a5bf22e67c?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
 | **NVIDIA** | New Grad 2025: Developer Technology Engineer | Santa Clara, CA | <a href="http://redirect.cvrve.me/eada2a1a99175ebc3b1d?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
