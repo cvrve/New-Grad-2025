@@ -41,7 +41,7 @@ def getLink(listing):
         link += "&utm_source=cvrve&ref=cvrve"
     # return f'<a href="{link}" style="display: inline-block;"><img src="{SHORT_APPLY_BUTTON}" width="160" alt="Apply"></a>'
 
-    if listing["source"] != "Simplify":
+    if listing["source"] != "cvrve":
         return f'<a href="{link}"><img src="{LONG_APPLY_BUTTON}" width="118" alt="Apply"></a>'
     
     return f'<a href="{link}"><img src="{LONG_APPLY_BUTTON}" width="118" alt="Apply"></a>'
