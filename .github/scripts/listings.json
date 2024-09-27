@@ -7822,5 +7822,21 @@
         "date_posted": 1727418077,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727462322,
+        "url": "http://redirect.cvrve.me/2d84a7a949a0025b9a69",
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "eed57e4b-5dbc-4b79-880c-cfb72bf437ec",
+        "date_posted": 1727462322,
+        "company_url": "",
+        "is_visible": true
     }
 ]
