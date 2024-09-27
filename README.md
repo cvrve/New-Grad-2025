@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Snap** | New Grad: Software Engineer, Full Stack | Seattle, WA | <a href="http://redirect.cvrve.me/27d0a62dbfd41da9a723?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
 | **NVIDIA** | New Grad 2025: Developer Technology Engineer | Santa Clara, CA | <a href="http://redirect.cvrve.me/eada2a1a99175ebc3b1d?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
 | **Meta** | Software Engineer (University Grad) | Menlo Park, CA | <a href="http://redirect.cvrve.me/90dee03f6aad52dc9815?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
 | **Wyetech** | Software Engineer 🇺🇸 | Annapolis Junction, MD | <a href="http://redirect.cvrve.me/2a1a46145b9eaf561860?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |

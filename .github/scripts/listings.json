@@ -7742,5 +7742,21 @@
         "date_posted": 1727384815,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727417788,
+        "url": "http://redirect.cvrve.me/27d0a62dbfd41da9a723",
+        "company_name": "Snap",
+        "title": "New Grad: Software Engineer, Full Stack",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "b6f06ff2-4dae-45b8-9e4b-f21223be0d9a",
+        "date_posted": 1727417788,
+        "company_url": "",
+        "is_visible": true
     }
 ]
