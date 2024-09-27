@@ -7806,5 +7806,21 @@
         "date_posted": 1727417968,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727418077,
+        "url": "http://redirect.cvrve.me/98032e91370462324a0d",
+        "company_name": "Canonical",
+        "title": "Web Frontend Engineer",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "cbf6b85a-e4fb-40a2-9f8e-48a5d83211d8",
+        "date_posted": 1727418077,
+        "company_url": "",
+        "is_visible": true
     }
 ]
