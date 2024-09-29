@@ -7776,7 +7776,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1727417917,
+        "date_updated": 1727649447,
         "url": "http://redirect.cvrve.me/ad44d7599530431b2c4a",
         "company_name": "Spotify",
         "title": "Full Stack Engineer",
@@ -7784,7 +7784,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "bc8ac8ed-403f-4afa-b93b-392f30f4490c",
         "date_posted": 1727417917,

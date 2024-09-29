@@ -56,7 +56,6 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **Amazon** | Software Dev Engineer | Seattle, WA</br>Cupertino, CA | <a href="http://redirect.cvrve.me/472465e981b0761e417b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 29 |
-| **Spotify** | Full Stack Engineer | New York, NY | <a href="http://redirect.cvrve.me/ad44d7599530431b2c4a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
 | **Snap** | New Grad: Software Engineer, Full Stack | Seattle, WA | <a href="http://redirect.cvrve.me/27d0a62dbfd41da9a723?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
 | **Microsoft** | Software Engineer 🇺🇸 | Redmond, WA | <a href="http://redirect.cvrve.me/2d84a7a949a0025b9a69?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
 | **Labelbox** | Software Engineer, Early Professional | San Francisco, CA | <a href="http://redirect.cvrve.me/8226d609165cb1666be9?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
@@ -431,6 +430,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **Palantir** | Software Engineer – New Grad - US Government | Washington, DC | <a href="https://jobs.lever.co/palantir/19d5e5f8-37a6-4a6f-b2ca-423370b3a1c2/apply?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | **Palantir** | Software Engineer – New Grad - US Government | NYC | <a href="https://jobs.lever.co/palantir/000b1a24-4b0f-436f-a6da-9a920e259925/apply?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | **Palantir** | Forward Deployed Software Engineer – New Grad - US Government | NYC | <a href="https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
+| **Spotify** | Full Stack Engineer | New York, NY | 🔒 | Sep 27 |
 | **NVIDIA** | New Grad 2025: Software Engineer | Santa Clara, CA | 🔒 | Sep 23 |
 | **Apple** | AIML - Software Engineer, Search Experience - SII | Cupertino, CA | 🔒 | Sep 19 |
 | **Adobe** | New Grad 2025: Software Development Engineer | San Jose, CA | 🔒 | Sep 19 |
