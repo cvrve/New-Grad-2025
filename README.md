@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Amazon** | Software Dev Engineer | Seattle, WA</br>Cupertino, CA | <a href="http://redirect.cvrve.me/472465e981b0761e417b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 29 |
 | **Spotify** | Full Stack Engineer | New York, NY | <a href="http://redirect.cvrve.me/ad44d7599530431b2c4a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
 | **Snap** | New Grad: Software Engineer, Full Stack | Seattle, WA | <a href="http://redirect.cvrve.me/27d0a62dbfd41da9a723?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
 | **Microsoft** | Software Engineer 🇺🇸 | Redmond, WA | <a href="http://redirect.cvrve.me/2d84a7a949a0025b9a69?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
