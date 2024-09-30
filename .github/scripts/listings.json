@@ -7889,5 +7889,21 @@
         "date_posted": 1727693401,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727693494,
+        "url": "http://redirect.cvrve.me/a980380fb54fa38bc45f",
+        "company_name": "Tenstorrent",
+        "title": "Fabric SOC Architect",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "9715469f-a4d0-4f6a-9e11-5bcb6ccd7f1c",
+        "date_posted": 1727693494,
+        "company_url": "",
+        "is_visible": true
     }
 ]

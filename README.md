@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Tenstorrent** | Fabric SOC Architect | United States | <a href="http://redirect.cvrve.me/a980380fb54fa38bc45f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | **Amazon** | Software Dev Engineer | Seattle, WA</br>Cupertino, CA | <a href="http://redirect.cvrve.me/1d4608985efb7f5cfd42?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | **Adobe** | New Grad 2025: Software Engineer | San Jose, CA</br>San Francisco, CA | <a href="http://redirect.cvrve.me/84e8ba8e112efd858f2f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | **Amazon** | Software Dev Engineer | Seattle, WA</br>Cupertino, CA | <a href="http://redirect.cvrve.me/472465e981b0761e417b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 29 |
