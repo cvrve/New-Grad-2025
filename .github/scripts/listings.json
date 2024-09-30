@@ -5382,7 +5382,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1725818925,
+        "date_updated": 1727693286,
         "url": "https://careers.adobe.com/us/en/job/ADOBUSR148881EXTERNALENUS/2025-University-Graduate-Enterprise-Architecture-Analyst",
         "company_name": "Adobe",
         "title": "New Grad 2025: Enterprise Architecture Analyst",
@@ -5390,7 +5390,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "8aad05a0-b448-42ad-aa5b-68375da561bc",
         "date_posted": 1725818925,

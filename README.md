@@ -192,7 +192,6 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **Anheuser-Busch** | New Grad: Technology Specialist, Operations | St. Louis, MI | <a href="https://wd1.myworkdaysite.com/en-US/recruiting/abinbev/USA/job/St-Louis-Missouri/Technology-Specialist---Operations_30070495?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Anheuser-Busch** | New Grad: Technology Specialist | locations St. Louis, MI | <a href="https://wd1.myworkdaysite.com/en-US/recruiting/abinbev/USA/job/St-Louis-Missouri/Technology-Specialist---Engineering_30070493?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Anduril** | New Grad: Gimbal Software Engineer | Costa Mesa, CA | <a href="https://job-boards.greenhouse.io/andurilindustries/jobs/4268734007?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
-| **Adobe** | New Grad 2025: Enterprise Architecture Analyst | New York, NY | <a href="https://careers.adobe.com/us/en/job/ADOBUSR148881EXTERNALENUS/2025-University-Graduate-Enterprise-Architecture-Analyst?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Accenture Federal Services** | New Grad 2025: Software Engineering Analyst | Washington, DC | <a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4400733006?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Scale AI** | New Grad: Machine Learning Research Engineer | San Francisco, CA | <a href="https://job-boards.greenhouse.io/scaleai/jobs/4466125005?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 07 |
 | **Salesforce** | New Grad: Software Engineering AMTS/MTS | Multiple | <a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--New-Grad-_JR264567-1?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 07 |
@@ -441,6 +440,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **Marigold** | New Grad: Software Engineer | Remote | 🔒 | Sep 08 |
 | **Macquarie** | New Grad: Software Engineer | New York, NY | 🔒 | Sep 08 |
 | **Bread Financial** | New Grad: Software Engineer | <details><summary>**6 locations**</summary>Columbus, OH</br>Chadds Ford, PA</br>Coeur D'Alene, ID</br>Draper, UT</br>Plano, TX</br>Wilmington, DE</details> | 🔒 | Sep 08 |
+| **Adobe** | New Grad 2025: Enterprise Architecture Analyst | New York, NY | 🔒 | Sep 08 |
 | **Adobe** | New Grad: Full Stack Developer | San Jose, CA | 🔒 | Sep 08 |
 | **DRW** | New Grad: Software Engineer | Austin, TX | 🔒 | Sep 07 |
 | **Adobe** | New Grad 2025: Quality Engineering Developer | San Jose, CA</br>Seattle, WA | 🔒 | Sep 07 |
