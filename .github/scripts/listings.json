@@ -7953,5 +7953,21 @@
         "date_posted": 1727725453,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727725500,
+        "url": "http://redirect.cvrve.me/aa8610c18903a88f1473",
+        "company_name": "PiPER Companies",
+        "title": "Software Engineer",
+        "locations": [
+            "Fort Worth, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "f482432a-20d1-433a-968c-32a5b76291a4",
+        "date_posted": 1727725500,
+        "company_url": "",
+        "is_visible": true
     }
 ]
