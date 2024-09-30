@@ -57,6 +57,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | --- | --- | --- | :---: | :---: |
 | **Tenstorrent** | Fabric SOC Architect | United States | <a href="http://redirect.cvrve.me/a980380fb54fa38bc45f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | **PiPER Companies** | Software Engineer | Fort Worth, TX | <a href="http://redirect.cvrve.me/aa8610c18903a88f1473?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
+| **Numerator** | Data Engineer I | United States | <a href="http://redirect.cvrve.me/4f80ffa5580680f8b6e4?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | **Hudson River Trading** | Systems Software Engineer | Boulder, CO | <a href="http://redirect.cvrve.me/362b727444d52adde514?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | **Deltek** | Associate Software Engineer | Remote | <a href="http://redirect.cvrve.me/e96c249e52e0d35b58c5?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | **Apple** | Signoff Infrastructure Developer Engineer | Sunnyvale, CA | <a href="http://redirect.cvrve.me/afc05a9a50a014f61823?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |

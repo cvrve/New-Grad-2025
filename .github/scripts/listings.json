@@ -7969,5 +7969,21 @@
         "date_posted": 1727725500,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727725570,
+        "url": "http://redirect.cvrve.me/4f80ffa5580680f8b6e4",
+        "company_name": "Numerator",
+        "title": "Data Engineer I",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "723497ba-f444-40b0-b7ba-0172f932c2f0",
+        "date_posted": 1727725570,
+        "company_url": "",
+        "is_visible": true
     }
 ]
