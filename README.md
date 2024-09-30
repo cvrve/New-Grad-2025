@@ -302,7 +302,6 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **Applied Intuition** | New Grad: Software Engineer - PHD | Mountain View, CA | <a href="https://boards.greenhouse.io/appliedintuition/jobs/4045225005?gh_jid=4045225005&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Applied Intuition** | New Grad: Software Engineer | Mountain View, CA | <a href="https://boards.greenhouse.io/appliedintuition/jobs/4420849005?gh_jid=4420849005&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Amex GBT** | New Grad: Software Engineer | Chicago, Illinois | <a href="https://travelhrportal.wd1.myworkdayjobs.com/Jobs/job/Chicago-Illinois-United-States/Software-Development-Engineer-I_J-69143?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
-| **Adobe** | New Grad 2025: Software Engineer | New York, NY | <a href="https://careers.adobe.com/us/en/job/R147863/2025-University-Graduate-Software-Engineer?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Adobe** | New Grad 2025: Research Scientist - PHD | San Francisco, CA | <a href="https://careers.adobe.com/us/en/job/R147652/2025-University-Graduate-Research-Scientist-Engineer?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Whoop** | New Grad: Software Engineer | Boston, MA | <a href="https://jobs.lever.co/whoop/eda29f76-1da9-45bb-a822-f616011f3bb7?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
 | **Stripe** | New Grad: Software Engineer | Seattle, WA</br>New York, NY</br>San Francisco, CA | <a href="https://stripe.com/jobs/listing/software-engineer-new-grad/6142741?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
@@ -454,6 +453,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **Garmin** | New Grad: Software Engineer I | Salem, OR | 🔒 | Aug 29 |
 | **Github** | New Grad: Software Engineer I | Remote | 🔒 | Aug 27 |
 | **Bank of America** | New Grad: Software Engineer I | New York | 🔒 | Aug 25 |
+| **Adobe** | New Grad 2025: Software Engineer | New York, NY | 🔒 | Aug 25 |
 | **Adobe** | New Grad 2025: Software Engineer | New York, NY</br>San Jose, CA | 🔒 | Aug 25 |
 | **IBM** | New Grad 2025: Back End Developer | <details><summary>**5 locations**</summary>Tucson, AZ</br>San Jose, CA</br>Rochester, NY</br>Poughkeepsie, NY</br>Research Triangle Park, NC</details> | 🔒 | Aug 14 |
 | **VectorShift - YC** | New Grad: Frontend Engineer | New York, NY | 🔒 | Aug 10 |
