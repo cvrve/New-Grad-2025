@@ -258,7 +258,6 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **Amazon** | New Grad 2024: Software Dev Engineer | Palo Alto, CA | <a href="https://www.amazon.jobs/en/jobs/2607701/software-dev-engineer-high-performance-query-processing?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | **Amazon** | New Grad 2024: Software Dev Engineer | <details><summary>**4 locations**</summary>Boston, NA</br>Sunnyvale, CA</br>Seattle, WA</br>San Diego, CA</details> | <a href="https://www.amazon.jobs/en/jobs/2607619/software-dev-engineer-software-and-networking-developer-sdn?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | **Amazon** | New Grad 2024: Software Dev Engineer | Seattle, WA</br>Cupertino, CA | <a href="https://www.amazon.jobs/en/jobs/2727596/software-dev-engineer-machine-learning-apps-accelerator?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
-| **Adobe** | New Grad 2025: Data Engineer | Lehi, UT | <a href="https://careers.adobe.com/us/en/job/ADOBUSR148231EXTERNALENUS/2025-University-Graduate-Data-Engineer?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | **Prudential** | New Grad: Software Engineer | Newark, NJ | <a href="https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ-USA/Software-Engineer_R-118475-1?source=LinkedIn&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | **Meta** | New Grad: Rotational Product Manager | Menlo Park, CA</br>Seattle, WA</br>New York, NY | <a href="https://www.metacareers.com/jobs/1680851879404795/?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | **Etsy** | New Grad: Software Engineer, Mobile | Brooklyn, NY | <a href="https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Software-Engineer-I--Mobile_JR3792-1?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
@@ -451,6 +450,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **Adobe** | New Grad 2025: Alert Aggregation & Automation Engineer | San Jose, CA</br>San Francisco, CA | 🔒 | Sep 01 |
 | **Adobe** | New Grad 2025: Quality Engineering Developer | San Jose, CA | 🔒 | Sep 01 |
 | **Garmin** | New Grad: Software Engineer I | Salem, OR | 🔒 | Aug 29 |
+| **Adobe** | New Grad 2025: Data Engineer | Lehi, UT | 🔒 | Aug 29 |
 | **Github** | New Grad: Software Engineer I | Remote | 🔒 | Aug 27 |
 | **Bank of America** | New Grad: Software Engineer I | New York | 🔒 | Aug 25 |
 | **Adobe** | New Grad 2025: Software Engineer | New York, NY | 🔒 | Aug 25 |
