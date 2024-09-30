@@ -7905,5 +7905,21 @@
         "date_posted": 1727693494,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727693640,
+        "url": "http://redirect.cvrve.me/afc05a9a50a014f61823",
+        "company_name": "Apple",
+        "title": "Signoff Infrastructure Developer Engineer",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "adc8bf4a-f971-4c10-864f-5e5500edff63",
+        "date_posted": 1727693640,
+        "company_url": "",
+        "is_visible": true
     }
 ]
