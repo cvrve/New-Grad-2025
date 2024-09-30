@@ -199,7 +199,6 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **Microsoft** | New Grad: Software Engineer | Cambridge, MA | <a href="https://jobs.careers.microsoft.com/us/en/job/1750061/Software-Engineer-Microsoft-AI-Development-Acceleration-Program-Cambridge?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 07 |
 | **Microsoft** | New Grad: Software Engineer | Redmond, WA | <a href="https://jobs.careers.microsoft.com/us/en/job/1750059/Software-Engineer-Microsoft-AI-Development-Acceleration-Program-Redmond?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 07 |
 | **Demiurge** | New Grad 2025: Associate Software Engineer | Remote | <a href="https://jobs.lever.co/demiurgestudios/d073d7e2-a049-4b7c-9266-1c3344ca18fa?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 07 |
-| **Adobe** | New Grad 2025: Quality Engineering Developer | San Jose, CA</br>Seattle, WA | <a href="https://careers.adobe.com/us/en/job/ADOBUSR148197EXTERNALENUS/2025-University-Graduate-Quality-Engineering-Developer?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 07 |
 | **ServiceNow** | New Grad 2025: UTG - Software Engineer | Santa Clara, CA | <a href="https://careers.servicenow.com/en/jobs/744000011667145/utg-software-engineer-new-college-grad/?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 05 |
 | **Sunshine** | New Grad: Software Engineer | Palo Alto, CA | <a href="https://job-boards.greenhouse.io/sunshine/jobs/4041479005?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 04 |
 | **Silicon Labs** | New Grad: Applications Engineer | Austin, TX</br>Boston, MA | <a href="https://silabs.wd1.myworkdayjobs.com/en-US/SiliconlabsCareers/job/Austin/Applications-Engineer---New-College-Graduate_20089?q=New%20Graduate&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 04 |
@@ -444,6 +443,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **Bread Financial** | New Grad: Software Engineer | <details><summary>**6 locations**</summary>Columbus, OH</br>Chadds Ford, PA</br>Coeur D'Alene, ID</br>Draper, UT</br>Plano, TX</br>Wilmington, DE</details> | 🔒 | Sep 08 |
 | **Adobe** | New Grad: Full Stack Developer | San Jose, CA | 🔒 | Sep 08 |
 | **DRW** | New Grad: Software Engineer | Austin, TX | 🔒 | Sep 07 |
+| **Adobe** | New Grad 2025: Quality Engineering Developer | San Jose, CA</br>Seattle, WA | 🔒 | Sep 07 |
 | **IBM** | New Grad: Software Developer | Austin, TX | 🔒 | Sep 03 |
 | **Adobe** | 2025 University Graduate - Software Engineer | San Jose, CA | 🔒 | Sep 02 |
 | **Adobe** | New Grad 2025: Data Scientist | San Jose, CA | 🔒 | Sep 01 |
