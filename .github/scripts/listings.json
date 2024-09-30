@@ -8001,5 +8001,21 @@
         "date_posted": 1727725669,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727726045,
+        "url": "http://redirect.cvrve.me/b5cb1940383687ee9f83",
+        "company_name": "Amentum",
+        "title": "Software Engineer",
+        "locations": [
+            "Hanover, MD"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "ef7f1652-8588-4971-b3e2-be3f4b22a64f",
+        "date_posted": 1727726045,
+        "company_url": "",
+        "is_visible": true
     }
 ]
