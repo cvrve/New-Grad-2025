@@ -8049,5 +8049,21 @@
         "date_posted": 1727802055,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727825387,
+        "url": "http://redirect.cvrve.me/1214998648fcc26d6d2d",
+        "company_name": "SeatGeek",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "eneief",
+        "id": "44114703-804d-497f-9473-c7b6a002f5cb",
+        "date_posted": 1727825387,
+        "company_url": "",
+        "is_visible": true
     }
 ]

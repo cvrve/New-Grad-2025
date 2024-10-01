@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **SeatGeek** | New Grad: Software Engineer | New York, NY | <a href="http://redirect.cvrve.me/1214998648fcc26d6d2d?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
 | **Intuitive** | RISE Software Engineer | Sunnyvale, CA | <a href="http://redirect.cvrve.me/62f41d1d70ba47c21b0a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
 | **Tenstorrent** | Fabric SOC Architect | United States | <a href="http://redirect.cvrve.me/a980380fb54fa38bc45f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | **Quevera** | Software Engineer 🇺🇸 | Hanover, MD | <a href="http://redirect.cvrve.me/0c09e57ce1b273a12b94?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
