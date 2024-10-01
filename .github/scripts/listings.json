@@ -8033,5 +8033,21 @@
         "date_posted": 1727734189,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727802055,
+        "url": "http://redirect.cvrve.me/62f41d1d70ba47c21b0a",
+        "company_name": "Intuitive",
+        "title": "RISE Software Engineer",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "eneief",
+        "id": "97e931a3-e6f4-459c-94c1-da6a30441115",
+        "date_posted": 1727802055,
+        "company_url": "",
+        "is_visible": true
     }
 ]
