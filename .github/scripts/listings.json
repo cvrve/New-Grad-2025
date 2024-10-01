@@ -8065,5 +8065,21 @@
         "date_posted": 1727825387,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727826373,
+        "url": "http://redirect.cvrve.me/3a53aa1eebc295f60eb7",
+        "company_name": "Western Digital",
+        "title": "New Grad: System Test Engineer",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "f49e852e-ab94-406f-a119-c78859f8adae",
+        "date_posted": 1727826373,
+        "company_url": "",
+        "is_visible": true
     }
 ]
