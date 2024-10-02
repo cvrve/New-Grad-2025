@@ -73,7 +73,6 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **Meta** | Software Engineer, Language | <details><summary>**5 locations**</summary>Bellevue, WA</br>Menlo Park, CA</br>Seattle, WA</br>New York, NY</br>San Francisco, CA</details> | <a href="http://redirect.cvrve.me/55fb121f6313f101cbaa?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | **Jane Street** | Software Engineer | New York, NY | <a href="http://redirect.cvrve.me/95054f5f15d563117974?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | **ICF** | Associate Software Engineer | locations Albany, NY | <a href="http://redirect.cvrve.me/3b5460daed1c16261da7?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
-| **Codazen** | New Grad 2025: Full-Stack Engineer | Salt Lake City, UT | <a href="http://redirect.cvrve.me/c5fa539bea0b5b8474d3?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | **Aviatrix** | Software Engineer | Champaign, IL | <a href="http://redirect.cvrve.me/c26891f09653f09fb093?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | **Western Digital** | New Grad: System Test Engineer | Rochester, MN | <a href="http://redirect.cvrve.me/3a53aa1eebc295f60eb7?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
 | **SeatGeek** | New Grad: Software Engineer | New York, NY | <a href="http://redirect.cvrve.me/1214998648fcc26d6d2d?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
@@ -460,6 +459,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **Palantir** | Software Engineer – New Grad - US Government | NYC | <a href="https://jobs.lever.co/palantir/000b1a24-4b0f-436f-a6da-9a920e259925/apply?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | **Palantir** | Forward Deployed Software Engineer – New Grad - US Government | NYC | <a href="https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | **Matroid** | Full Stack Engineer 🇺🇸 | Palo Alto, CA | 🔒 | Oct 02 |
+| **Codazen** | New Grad 2025: Full-Stack Engineer | Salt Lake City, UT | 🔒 | Oct 02 |
 | **Spotify** | Full Stack Engineer | New York, NY | 🔒 | Sep 27 |
 | **NVIDIA** | New Grad 2025: Software Engineer | Santa Clara, CA | 🔒 | Sep 23 |
 | **Apple** | AIML - Software Engineer, Search Experience - SII | Cupertino, CA | 🔒 | Sep 19 |
