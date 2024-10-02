@@ -8213,5 +8213,21 @@
         "date_posted": 1727847938,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727848004,
+        "url": "http://redirect.cvrve.me/39951b4bc790ebbd7cf4",
+        "company_name": "SeatGeek",
+        "title": "Software Engineer",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "b5e5f3af-893c-40d2-b2aa-faedc5ff01dc",
+        "date_posted": 1727848004,
+        "company_url": "",
+        "is_visible": true
     }
 ]
