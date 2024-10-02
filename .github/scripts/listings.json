@@ -8181,5 +8181,21 @@
         "date_posted": 1727847816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727847897,
+        "url": "http://redirect.cvrve.me/e1827c0f2870b34be21f",
+        "company_name": "SeatGeek",
+        "title": "UX Designer",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "cbe98698-8c20-4104-a718-01fae3b200cc",
+        "date_posted": 1727847897,
+        "company_url": "",
+        "is_visible": true
     }
 ]
