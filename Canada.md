@@ -55,7 +55,6 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | --- | --- | --- | :---: | :---: |
 | **Coalition** | Software Engineer, Renewals | Canada | <a href="http://redirect.cvrve.me/36fc50928a5b42d21416?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | **Canonical** | Web Frontend Engineer | Vancouver, Canada | <a href="http://redirect.cvrve.me/98032e91370462324a0d?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
-| **Trend Micro** | Software Developer | Ottawa, Canada | <a href="http://redirect.cvrve.me/f0d2a65a00afc594acf2?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | **Ciena** | Software Performance Engineer | Ottawa, Canada | <a href="http://redirect.cvrve.me/7dd501764897198f976b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | **Mastercard** | Data Scientist I | Vancouver, Canada | <a href="https://careers.mastercard.com/us/en/job/R-227151/Data-Scientist-I?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
 | **Waabi** | New Grad: Software Engineer | Remote</br>Canada | <a href="http://jobs.lever.co/waabi/9bcf52fc-482e-4404-8399-2a90d63c86f9?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
@@ -70,6 +69,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **Sentry** | New Grad 2025: Software Engineer 🛂 | Toronto, Canada | <a href="https://sentry.io/careers/6145443/?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
 | **Konrad** | New Grad: Software Developer | Vancouver, Canada | <a href="https://www.konrad.com/careers/job/5893276003?gh_jid=5893276003&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
 | **Warp** | Software Engineer | Remote US & Canada | <a href="https://boards.greenhouse.io/warp/jobs/4324888004?gh_src=a2e958824us&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
+| **Trend Micro** | Software Developer | Ottawa, Canada | 🔒 | Sep 18 |
 | **Replicant** | New Grad: Software Engineer I | Canada | 🔒 | Sep 01 |
 | **Jerry** | Software Engineer I - Toronto | Toronto, ON, Canada | 🔒 | Jul 05 |
 

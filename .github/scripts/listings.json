@@ -6922,7 +6922,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1726690901,
+        "date_updated": 1727906387,
         "url": "http://redirect.cvrve.me/f0d2a65a00afc594acf2",
         "company_name": "Trend Micro",
         "title": "Software Developer",
@@ -6930,7 +6930,7 @@
             "Ottawa, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "f48c1c82-af09-4e12-bd13-1b3e5df1d16b",
         "date_posted": 1726690901,
