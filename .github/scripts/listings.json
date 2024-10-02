@@ -8343,5 +8343,21 @@
         "date_posted": 1727850689,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727850753,
+        "url": "http://redirect.cvrve.me/0cc7629c1ad27eb75832",
+        "company_name": "Matroid",
+        "title": "Full Stack Engineer",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "ad6a1763-fea4-4908-89ed-398366d44ac9",
+        "date_posted": 1727850753,
+        "company_url": "",
+        "is_visible": true
     }
 ]
