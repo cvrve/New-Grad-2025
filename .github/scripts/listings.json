@@ -8439,5 +8439,21 @@
         "date_posted": 1727906208,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727906810,
+        "url": "http://redirect.cvrve.me/9de6b284d855748ddecd",
+        "company_name": "OpenAI",
+        "title": "Software Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "398c1cb7-01e8-4af8-b58d-ceb4a915d804",
+        "date_posted": 1727906810,
+        "company_url": "",
+        "is_visible": true
     }
 ]
