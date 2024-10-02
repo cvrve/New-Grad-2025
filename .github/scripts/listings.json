@@ -8537,5 +8537,21 @@
         "date_posted": 1727907179,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727907241,
+        "url": "http://redirect.cvrve.me/678646d404d013b473e2",
+        "company_name": "Coalition",
+        "title": "Software Engineer, Renewals",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "b2f0e4fb-cfab-45b1-b31f-a05282121d23",
+        "date_posted": 1727907241,
+        "company_url": "",
+        "is_visible": true
     }
 ]
