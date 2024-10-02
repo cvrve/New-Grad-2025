@@ -54,6 +54,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **Tailscale** | Backend Engineer | Remote</br>Canada | <a href="http://redirect.cvrve.me/3140a7159e455ae1f17f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
+| **Coalition** | Software Engineer, Renewals | Canada | <a href="http://redirect.cvrve.me/8869bf901aa112b83356?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | **Coalition** | Software Engineer | Canada | <a href="http://redirect.cvrve.me/c1fce320650738fa74cf?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | **Coalition** | Software Engineer, Renewals | Canada | <a href="http://redirect.cvrve.me/36fc50928a5b42d21416?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | **Canonical** | Web Frontend Engineer | Vancouver, Canada | <a href="http://redirect.cvrve.me/98032e91370462324a0d?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
