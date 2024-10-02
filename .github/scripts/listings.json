@@ -8391,5 +8391,21 @@
         "date_posted": 1727850877,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727850930,
+        "url": "http://redirect.cvrve.me/c26891f09653f09fb093",
+        "company_name": "Aviatrix",
+        "title": "Software Engineer",
+        "locations": [
+            "Champaign, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "9a3021bb-4301-4487-9edf-97aabb645761",
+        "date_posted": 1727850930,
+        "company_url": "",
+        "is_visible": true
     }
 ]
