@@ -56,6 +56,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **Swift** | Associate Software Developer/Systems Engineer | Tysons Corner, VA | <a href="http://redirect.cvrve.me/c38e2019925356254db7?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
+| **Splunk** | Fedramp Software Engineer | Raleigh, NC</br>Boulder, CO | <a href="http://redirect.cvrve.me/13b0b6b96c00d30ac3f9?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | **SPAN** | Device Software Engineer | San Francisco, CA | <a href="http://redirect.cvrve.me/d1764dea2cd87a87e623?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | **SMX** | Junior Software Engineer 🇺🇸 | Chantilly, VA | <a href="http://redirect.cvrve.me/670222395334a6f9b07d?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | **Siemens** | Software Engineer | Wilsonville, OR | <a href="http://redirect.cvrve.me/4ee0c2d5eb8024d1009f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
