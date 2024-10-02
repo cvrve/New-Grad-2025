@@ -53,6 +53,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Coalition** | Software Engineer, Renewals | Canada | <a href="http://redirect.cvrve.me/36fc50928a5b42d21416?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | **Canonical** | Web Frontend Engineer | Vancouver, Canada | <a href="http://redirect.cvrve.me/98032e91370462324a0d?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
 | **Trend Micro** | Software Developer | Ottawa, Canada | <a href="http://redirect.cvrve.me/f0d2a65a00afc594acf2?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | **Ciena** | Software Performance Engineer | Ottawa, Canada | <a href="http://redirect.cvrve.me/7dd501764897198f976b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
