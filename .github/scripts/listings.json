@@ -8423,5 +8423,21 @@
         "date_posted": 1727851279,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727906208,
+        "url": "http://redirect.cvrve.me/4badc0766243476cd3a7",
+        "company_name": "Pocket Worlds",
+        "title": "Software Engineer",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "bea48337-9345-46c6-a89d-bd8f3776eb85",
+        "date_posted": 1727906208,
+        "company_url": "",
+        "is_visible": true
     }
 ]
