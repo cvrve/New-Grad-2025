@@ -8197,5 +8197,21 @@
         "date_posted": 1727847897,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727847938,
+        "url": "http://redirect.cvrve.me/a72007ab43412d7734c5",
+        "company_name": "SeatGeek",
+        "title": "Product Manager",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "a48192d2-e021-44b0-b995-4495fae6c2f1",
+        "date_posted": 1727847938,
+        "company_url": "",
+        "is_visible": true
     }
 ]

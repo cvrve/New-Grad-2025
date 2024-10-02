@@ -58,6 +58,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **Swift** | Associate Software Developer/Systems Engineer | Tysons Corner, VA | <a href="http://redirect.cvrve.me/c38e2019925356254db7?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | **SPAN** | Device Software Engineer | San Francisco, CA | <a href="http://redirect.cvrve.me/d1764dea2cd87a87e623?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | **Siemens** | Software Engineer | Wilsonville, OR | <a href="http://redirect.cvrve.me/4ee0c2d5eb8024d1009f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
+| **SeatGeek** | Product Manager | New York, NY | <a href="http://redirect.cvrve.me/a72007ab43412d7734c5?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | **SeatGeek** | UX Designer | New York, NY | <a href="http://redirect.cvrve.me/e1827c0f2870b34be21f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | **SeatGeek** | Data Analyst | New York, NY | <a href="http://redirect.cvrve.me/a1d818430c46ef6bfa27?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | **Microsoft** | Software Engineer | Redmond, WA | <a href="http://redirect.cvrve.me/9bbc651a4772e3c54f6e?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
