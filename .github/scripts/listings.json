@@ -8505,5 +8505,21 @@
         "date_posted": 1727907062,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727907102,
+        "url": "http://redirect.cvrve.me/c1fce320650738fa74cf",
+        "company_name": "Coalition",
+        "title": "Software Engineer",
+        "locations": [
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "94592bd9-173e-47a2-a6c9-7795ce09caa6",
+        "date_posted": 1727907102,
+        "company_url": "",
+        "is_visible": true
     }
 ]
