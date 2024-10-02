@@ -8133,5 +8133,21 @@
         "date_posted": 1727847346,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727847419,
+        "url": "http://redirect.cvrve.me/4ee0c2d5eb8024d1009f",
+        "company_name": "Siemens",
+        "title": "Software Engineer",
+        "locations": [
+            "Wilsonville, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "4ae0c25e-33c6-4fd2-8b92-ee8d88c34897",
+        "date_posted": 1727847419,
+        "company_url": "",
+        "is_visible": true
     }
 ]
