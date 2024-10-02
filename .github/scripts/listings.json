@@ -8294,5 +8294,21 @@
         "date_posted": 1727850148,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727850457,
+        "url": "http://redirect.cvrve.me/3b5460daed1c16261da7",
+        "company_name": "ICF",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "locations Albany, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "e073edd5-99ae-4a29-ba51-db0a72d52dce",
+        "date_posted": 1727850457,
+        "company_url": "",
+        "is_visible": true
     }
 ]
