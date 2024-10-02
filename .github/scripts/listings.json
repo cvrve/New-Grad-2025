@@ -8327,5 +8327,21 @@
         "date_posted": 1727850545,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727850689,
+        "url": "http://redirect.cvrve.me/9aa3892843b50a2be3f1",
+        "company_name": "Trimble",
+        "title": "Software Engineer",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "312bd8e7-abb9-4966-b8d7-c826daecad9d",
+        "date_posted": 1727850689,
+        "company_url": "",
+        "is_visible": true
     }
 ]

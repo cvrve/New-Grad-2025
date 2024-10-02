@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Trimble** | Software Engineer | Princeton, NJ | <a href="http://redirect.cvrve.me/9aa3892843b50a2be3f1?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | **Swift** | Associate Software Developer/Systems Engineer | Tysons Corner, VA | <a href="http://redirect.cvrve.me/c38e2019925356254db7?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | **Splunk** | Fedramp Software Engineer | Raleigh, NC</br>Boulder, CO | <a href="http://redirect.cvrve.me/13b0b6b96c00d30ac3f9?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | **SPAN** | Device Software Engineer | San Francisco, CA | <a href="http://redirect.cvrve.me/d1764dea2cd87a87e623?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
