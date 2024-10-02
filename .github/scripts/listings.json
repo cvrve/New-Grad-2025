@@ -8375,5 +8375,21 @@
         "date_posted": 1727850808,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727850877,
+        "url": "http://redirect.cvrve.me/c5fa539bea0b5b8474d3",
+        "company_name": "Codazen",
+        "title": "New Grad 2025: Full-Stack Engineer",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "aae5cc52-d7cf-407e-8505-8a9efec5e12d",
+        "date_posted": 1727850877,
+        "company_url": "",
+        "is_visible": true
     }
 ]
