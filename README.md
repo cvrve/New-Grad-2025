@@ -135,7 +135,6 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **HPE** | Software Engineer | <details><summary>**9 locations**</summary>Spring, TX</br>Bloomington, MN</br>Chippewa Falls, WI</br>Andover, MA</br>Durham, NC</br>Ft. Collins, CO</br>Milpitas, CA</br>Roseville, CA</br>San Jose, CA</details> | <a href="http://redirect.cvrve.me/a0698b5c90d5805068d9?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | **HomePro** | Production Support Software Engineer | Carrollton, TX | <a href="http://redirect.cvrve.me/721f135eeefaf8deb034?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | **Bloomberg** | Software Engineer, Associate | Arlington, VA | <a href="http://redirect.cvrve.me/378883ed3091d50ebcdf?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
-| **Service Now** | Software Engineer | San Francisco, CA | <a href="http://redirect.cvrve.me/f6d5b1e34b6d03735d57?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | **Radley James** | Graduate Software Engineer | New York, NY | <a href="http://redirect.cvrve.me/dc50441df1d0a48a28b8?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | **Precisely** | Associate Data Engineer | United States | <a href="http://redirect.cvrve.me/483f3ad7228a19ee3c17?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | **Pinterest** | University Grad Software Engineer (USA) | Remote | <a href="http://redirect.cvrve.me/4fdd57194a6ed0bcaa87?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
@@ -464,6 +463,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **NVIDIA** | New Grad 2025: Software Engineer | Santa Clara, CA | 🔒 | Sep 23 |
 | **Apple** | AIML - Software Engineer, Search Experience - SII | Cupertino, CA | 🔒 | Sep 19 |
 | **Adobe** | New Grad 2025: Software Development Engineer | San Jose, CA | 🔒 | Sep 19 |
+| **Service Now** | Software Engineer | San Francisco, CA | 🔒 | Sep 18 |
 | **Coinbase** | Data Engineer | New York, NY | 🔒 | Sep 18 |
 | **Uber** | New Grad 2024: Software Engineer I | San Francisco, CA | 🔒 | Sep 13 |
 | **Zoom** | New Grad: Software Engineer | San Jose, CA | 🔒 | Sep 12 |

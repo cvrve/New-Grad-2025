@@ -6874,7 +6874,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1726690661,
+        "date_updated": 1727906356,
         "url": "http://redirect.cvrve.me/f6d5b1e34b6d03735d57",
         "company_name": "Service Now",
         "title": "Software Engineer",
@@ -6882,7 +6882,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "ef309ae8-d848-4b7f-b476-244fe1ff52b9",
         "date_posted": 1726690661,
