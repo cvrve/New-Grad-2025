@@ -8407,5 +8407,21 @@
         "date_posted": 1727850930,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727851279,
+        "url": "http://redirect.cvrve.me/95054f5f15d563117974",
+        "company_name": "Jane Street",
+        "title": "Software Engineer",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "b96169d1-97f0-4159-8eec-30e6040aec01",
+        "date_posted": 1727851279,
+        "company_url": "",
+        "is_visible": true
     }
 ]
