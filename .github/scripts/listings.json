@@ -8278,5 +8278,21 @@
         "date_posted": 1727849990,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727850148,
+        "url": "http://redirect.cvrve.me/670222395334a6f9b07d",
+        "company_name": "SMX",
+        "title": "Junior Software Engineer",
+        "locations": [
+            "Chantilly, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "2db9cc0d-d33b-4b46-b7fb-e59849d68e0f",
+        "date_posted": 1727850148,
+        "company_url": "",
+        "is_visible": true
     }
 ]
