@@ -8472,5 +8472,22 @@
         "date_posted": 1727906931,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727906959,
+        "url": "http://redirect.cvrve.me/3140a7159e455ae1f17f",
+        "company_name": "Tailscale",
+        "title": "Backend Engineer",
+        "locations": [
+            "Remote",
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "ad24d1ea-de80-4a1d-8463-29ace141bf5a",
+        "date_posted": 1727906959,
+        "company_url": "",
+        "is_visible": true
     }
 ]
