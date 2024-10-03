@@ -8668,5 +8668,21 @@
         "date_posted": 1727962146,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727962215,
+        "url": "http://redirect.cvrve.me/dc9599eb3a74f8727b5b",
+        "company_name": "Tensure Consulting",
+        "title": "Software Engineer",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "f2fae539-4de3-413a-9c52-30db5b2600e5",
+        "date_posted": 1727962215,
+        "company_url": "",
+        "is_visible": true
     }
 ]
