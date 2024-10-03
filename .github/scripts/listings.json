@@ -8814,5 +8814,21 @@
         "date_posted": 1727995424,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727995839,
+        "url": "http://redirect.cvrve.me/41208de62c8b1f70c371",
+        "company_name": "RTX",
+        "title": "New Grad 2025: Java Software Engineer I",
+        "locations": [
+            "State College, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "584cfcb2-78b7-4dcc-9a96-7d6f992df734",
+        "date_posted": 1727995839,
+        "company_url": "",
+        "is_visible": true
     }
 ]

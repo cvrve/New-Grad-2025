@@ -40,6 +40,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | --- | --- | --- | :---: | :---: |
 | **Tensure Consulting** | Software Engineer | Remote | <a href="http://redirect.cvrve.me/dc9599eb3a74f8727b5b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | **ServiceNow** | New Grad: Associate Technical Inbound Product Manager | Kirkland, CA | <a href="http://redirect.cvrve.me/b99752d3662e0622e7af?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
+| **RTX** | New Grad 2025: Java Software Engineer I | State College, PA | <a href="http://redirect.cvrve.me/41208de62c8b1f70c371?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | **Rockstar Games** | Animation R&D Programmer | Manhattan, NY | <a href="http://redirect.cvrve.me/fb7f2b444b22069688a9?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | **Rockstar Games** | Animation R&D Programmer | Carlsbad, CA | <a href="http://redirect.cvrve.me/c94efe1bef9a2532a268?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | **IXL Learning** | New Grad: Software Engineer | Raleigh, NC | <a href="http://redirect.cvrve.me/2e8d0dc12a4f58f911a2?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
