@@ -8796,5 +8796,23 @@
         "date_posted": 1727995354,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727995424,
+        "url": "http://redirect.cvrve.me/66f88ab1be23b9923bcb",
+        "company_name": "Quora",
+        "title": "New Grad: Data Scientist, Monetization",
+        "locations": [
+            "Remote",
+            "US",
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "aa4dc335-cb44-4711-b5b0-51362aede0ad",
+        "date_posted": 1727995424,
+        "company_url": "",
+        "is_visible": true
     }
 ]
