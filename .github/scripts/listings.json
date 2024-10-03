@@ -8636,5 +8636,21 @@
         "date_posted": 1727940758,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727962105,
+        "url": "http://redirect.cvrve.me/90ca9d0a4340123dcda0",
+        "company_name": "Coinbase",
+        "title": "Data Engineer",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "f2b78ec4-ec57-4a5a-8895-c8c7192ffa6e",
+        "date_posted": 1727962105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
