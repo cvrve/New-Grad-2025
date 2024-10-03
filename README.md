@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Apple** | Software Engineer | Cupertino, CA | <a href="http://redirect.cvrve.me/c9a74192819ba75ccef2?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | **Trimble** | Software Engineer | Princeton, NJ | <a href="http://redirect.cvrve.me/9aa3892843b50a2be3f1?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | **Tailscale** | Backend Engineer | Remote</br>US | <a href="http://redirect.cvrve.me/a60c2d1b40707c76fe40?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | **Splunk** | Fedramp Software Engineer | Raleigh, NC</br>Boulder, CO | <a href="http://redirect.cvrve.me/13b0b6b96c00d30ac3f9?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |

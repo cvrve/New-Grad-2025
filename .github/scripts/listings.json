@@ -8553,5 +8553,21 @@
         "date_posted": 1727907241,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727938048,
+        "url": "http://redirect.cvrve.me/c9a74192819ba75ccef2",
+        "company_name": "Apple",
+        "title": "Software Engineer",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "ae89aa05-8005-4ed7-8fbf-e4bbb6de1b70",
+        "date_posted": 1727938048,
+        "company_url": "",
+        "is_visible": true
     }
 ]
