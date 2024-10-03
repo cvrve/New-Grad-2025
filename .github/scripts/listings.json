@@ -8604,5 +8604,21 @@
         "date_posted": 1727940619,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727940707,
+        "url": "http://redirect.cvrve.me/c94efe1bef9a2532a268",
+        "company_name": "Rockstar Games",
+        "title": "Animation R&D Programmer",
+        "locations": [
+            "Carlsbad, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "d03ca2fc-f15a-4b93-9a8b-24f2e174f6cc",
+        "date_posted": 1727940707,
+        "company_url": "",
+        "is_visible": true
     }
 ]
