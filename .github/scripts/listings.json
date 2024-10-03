@@ -8846,5 +8846,22 @@
         "date_posted": 1727995983,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727998198,
+        "url": "http://redirect.cvrve.me/79b3aa511fca5767d6ae",
+        "company_name": "Legion",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "51c88ef0-f934-48d4-be5f-9bee32103e62",
+        "date_posted": 1727998198,
+        "company_url": "",
+        "is_visible": true
     }
 ]
