@@ -8732,5 +8732,21 @@
         "date_posted": 1727962484,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727962709,
+        "url": "http://redirect.cvrve.me/45da0c3ce6009278b801",
+        "company_name": "Capgemini",
+        "title": "Associate Embedded Software Engineer",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "57dbc74f-e664-4312-83e7-baa681e45f56",
+        "date_posted": 1727962709,
+        "company_url": "",
+        "is_visible": true
     }
 ]

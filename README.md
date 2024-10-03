@@ -60,6 +60,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **Rockstar Games** | Animation R&D Programmer | Manhattan, NY | <a href="http://redirect.cvrve.me/fb7f2b444b22069688a9?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | **Rockstar Games** | Animation R&D Programmer | Carlsbad, CA | <a href="http://redirect.cvrve.me/c94efe1bef9a2532a268?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | **Coinbase** | Data Engineer | Remote | <a href="http://redirect.cvrve.me/90ca9d0a4340123dcda0?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
+| **Capgemini** | Associate Embedded Software Engineer | Redmond, WA | <a href="http://redirect.cvrve.me/45da0c3ce6009278b801?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | **Burtch Works** | Data Engineer | Remote | <a href="http://redirect.cvrve.me/7c6bec0ebc65571c8fb0?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | **Burtch Works** | Software Development Engineer | Remote | <a href="http://redirect.cvrve.me/4ffe425d1395b8336fe9?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | **Atrium** | Data Engineer | Alpharetta, GA | <a href="http://redirect.cvrve.me/aed92aed965c14f8b796?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
