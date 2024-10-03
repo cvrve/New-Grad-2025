@@ -55,6 +55,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **ServiceNow** | New Grad: Associate Technical Inbound Product Manager | Kirkland, CA | <a href="http://redirect.cvrve.me/b99752d3662e0622e7af?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | **Apple** | Software Engineer | Cupertino, CA | <a href="http://redirect.cvrve.me/c9a74192819ba75ccef2?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | **Trimble** | Software Engineer | Princeton, NJ | <a href="http://redirect.cvrve.me/9aa3892843b50a2be3f1?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | **Tailscale** | Backend Engineer | Remote</br>US | <a href="http://redirect.cvrve.me/a60c2d1b40707c76fe40?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |

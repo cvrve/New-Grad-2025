@@ -8569,5 +8569,21 @@
         "date_posted": 1727938048,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727938694,
+        "url": "http://redirect.cvrve.me/b99752d3662e0622e7af",
+        "company_name": "ServiceNow",
+        "title": "New Grad: Associate Technical Inbound Product Manager",
+        "locations": [
+            "Kirkland, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "e969c81e-3f7e-48ec-9430-e27ea7b62fbb",
+        "date_posted": 1727938694,
+        "company_url": "",
+        "is_visible": true
     }
 ]
