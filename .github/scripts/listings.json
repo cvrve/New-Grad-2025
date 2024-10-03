@@ -8151,7 +8151,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1727847642,
+        "date_updated": 1727918801,
         "url": "http://redirect.cvrve.me/c38e2019925356254db7",
         "company_name": "Swift",
         "title": "Associate Software Developer/Systems Engineer",
@@ -8159,7 +8159,7 @@
             "Tysons Corner, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "fd3bf165-c5c4-4536-9798-5550c8eebdb7",
         "date_posted": 1727847642,
