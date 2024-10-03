@@ -8830,5 +8830,21 @@
         "date_posted": 1727995839,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727995983,
+        "url": "http://redirect.cvrve.me/2b8e5aad0e5626165ecb",
+        "company_name": "Mastercard",
+        "title": "Software Engineer I, Quality",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "3f1555a0-883a-45b5-b4cb-380d45bfb2e4",
+        "date_posted": 1727995983,
+        "company_url": "",
+        "is_visible": true
     }
 ]
