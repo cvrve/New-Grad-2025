@@ -8620,5 +8620,21 @@
         "date_posted": 1727940707,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727940758,
+        "url": "http://redirect.cvrve.me/fb7f2b444b22069688a9",
+        "company_name": "Rockstar Games",
+        "title": "Animation R&D Programmer",
+        "locations": [
+            "Manhattan, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "4e2d3618-eb3a-484e-9f36-eb129ef71e58",
+        "date_posted": 1727940758,
+        "company_url": "",
+        "is_visible": true
     }
 ]

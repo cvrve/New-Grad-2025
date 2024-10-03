@@ -56,6 +56,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **ServiceNow** | New Grad: Associate Technical Inbound Product Manager | Kirkland, CA | <a href="http://redirect.cvrve.me/b99752d3662e0622e7af?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
+| **Rockstar Games** | Animation R&D Programmer | Manhattan, NY | <a href="http://redirect.cvrve.me/fb7f2b444b22069688a9?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | **Rockstar Games** | Animation R&D Programmer | Carlsbad, CA | <a href="http://redirect.cvrve.me/c94efe1bef9a2532a268?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | **Apple** | Software Engineer | Cupertino, CA | <a href="http://redirect.cvrve.me/c9a74192819ba75ccef2?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | **Appfolio** | Software Engineer I | <details><summary>**4 locations**</summary>Santa Barbara, CA</br>San Diego, CA</br>Dallas, TX</br>Remote</details> | <a href="http://redirect.cvrve.me/b423edf440177e25a179?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
