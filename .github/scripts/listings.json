@@ -8716,5 +8716,21 @@
         "date_posted": 1727962441,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727962484,
+        "url": "http://redirect.cvrve.me/aed92aed965c14f8b796",
+        "company_name": "Atrium",
+        "title": "Data Engineer",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "672881b7-d9ba-467d-b504-9f956e710b98",
+        "date_posted": 1727962484,
+        "company_url": "",
+        "is_visible": true
     }
 ]
