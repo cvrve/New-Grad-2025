@@ -8700,5 +8700,21 @@
         "date_posted": 1727962371,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727962441,
+        "url": "http://redirect.cvrve.me/7c6bec0ebc65571c8fb0",
+        "company_name": "Burtch Works",
+        "title": "Data Engineer",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "c1d17759-3371-4a58-8b67-661b352faab7",
+        "date_posted": 1727962441,
+        "company_url": "",
+        "is_visible": true
     }
 ]
