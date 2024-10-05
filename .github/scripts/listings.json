@@ -8943,5 +8943,21 @@
         "date_posted": 1728103599,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728103659,
+        "url": "http://redirect.cvrve.me/d00a5756630d61feff97",
+        "company_name": "ICF",
+        "title": "New Grad 2025: Software Engineer",
+        "locations": [
+            "Reston, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "9a649016-a095-400e-bbcb-7d2b3dea911a",
+        "date_posted": 1728103659,
+        "company_url": "",
+        "is_visible": true
     }
 ]
