@@ -8927,5 +8927,21 @@
         "date_posted": 1728103480,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728103599,
+        "url": "http://redirect.cvrve.me/7e278c84ba61dc1a95f6",
+        "company_name": "Uber",
+        "title": "New Grad 2024: Software Engineer I, TOR",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "d72279b7-d318-4535-bcce-6918fff22bc9",
+        "date_posted": 1728103599,
+        "company_url": "",
+        "is_visible": true
     }
 ]
