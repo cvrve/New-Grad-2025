@@ -39,6 +39,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **SoFi** | Software Engineer | Seattle, WA | <a href="http://redirect.cvrve.me/0ae2c2749b37a9a09896?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
+| **Anduril** | New Grad: Software Engineer, Platform | Boston, MA | <a href="http://redirect.cvrve.me/a014834b054f8c354971?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | **Tensure Consulting** | Software Engineer | Remote | <a href="http://redirect.cvrve.me/dc9599eb3a74f8727b5b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | **ServiceNow** | New Grad: Associate Technical Inbound Product Manager | Kirkland, CA | <a href="http://redirect.cvrve.me/b99752d3662e0622e7af?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | **RTX** | New Grad 2025: Java Software Engineer I 🇺🇸 | State College, PA | <a href="http://redirect.cvrve.me/41208de62c8b1f70c371?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
