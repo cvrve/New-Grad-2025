@@ -8895,5 +8895,21 @@
         "date_posted": 1728103328,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728103380,
+        "url": "http://redirect.cvrve.me/7bf2ce25bb154f3a0c24",
+        "company_name": "Anduril",
+        "title": "Software Engineer, Platform",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "ae9ab04b-ca64-4dfd-ba7d-e1b4fc83915c",
+        "date_posted": 1728103380,
+        "company_url": "",
+        "is_visible": true
     }
 ]
