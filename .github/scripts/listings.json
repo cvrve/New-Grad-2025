@@ -8975,5 +8975,21 @@
         "date_posted": 1728103729,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728105072,
+        "url": "http://redirect.cvrve.me/95acc0aee3d2ecc1ff9b",
+        "company_name": "Cambridge Consulants",
+        "title": "New Grad 2025: Software Engineer",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "f9f1a303-3e5b-44d6-a912-a70cd9e3f09b",
+        "date_posted": 1728105072,
+        "company_url": "",
+        "is_visible": true
     }
 ]
