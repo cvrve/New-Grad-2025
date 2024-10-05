@@ -8959,5 +8959,21 @@
         "date_posted": 1728103659,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728103729,
+        "url": "http://redirect.cvrve.me/412764a51a7e9844e86e",
+        "company_name": "Uber",
+        "title": "New Grad 2024: Machine Learning Engineer I",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "fa6d1397-9968-49a2-8a06-92b850c2b9ab",
+        "date_posted": 1728103729,
+        "company_url": "",
+        "is_visible": true
     }
 ]
