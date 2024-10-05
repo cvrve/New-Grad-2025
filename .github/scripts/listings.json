@@ -8911,5 +8911,21 @@
         "date_posted": 1728103380,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728103480,
+        "url": "http://redirect.cvrve.me/d7ffc407986bef2e5825",
+        "company_name": "Cerebras Systems",
+        "title": "New Grad: Distributed Software Engineer",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "b7d2dc5a-3f40-4b0f-80c4-ab4c71a0fadc",
+        "date_posted": 1728103480,
+        "company_url": "",
+        "is_visible": true
     }
 ]
