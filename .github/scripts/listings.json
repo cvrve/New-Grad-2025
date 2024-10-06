@@ -9072,5 +9072,21 @@
         "date_posted": 1728205828,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728205869,
+        "url": "http://redirect.cvrve.me/bbfa8c1525443464dc65",
+        "company_name": "Cerebras Systems",
+        "title": "New Grad: Kernel Engineer",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "ba5f8719-274f-4c6f-8141-a1cec57dee4f",
+        "date_posted": 1728205869,
+        "company_url": "",
+        "is_visible": true
     }
 ]
