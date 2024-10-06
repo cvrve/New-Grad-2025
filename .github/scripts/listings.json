@@ -9040,5 +9040,21 @@
         "date_posted": 1728204882,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728204970,
+        "url": "http://redirect.cvrve.me/8e3f6f1869bbef1e83d3",
+        "company_name": "IBM",
+        "title": "Software Developer \u2013 Full-Stack",
+        "locations": [
+            "Markham, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "a7b4933d-fa62-4cf2-b3d4-c92dac0ec1f7",
+        "date_posted": 1728204970,
+        "company_url": "",
+        "is_visible": true
     }
 ]
