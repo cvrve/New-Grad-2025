@@ -38,6 +38,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Microsoft** | Software Engineer 🇺🇸 | Redmond, WA | <a href="http://redirect.cvrve.me/9582cc2f442c01881153?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | **Intuit** | Software Engineer 1 | <details><summary>**4 locations**</summary>Mountain View, CA</br>San Diego, CA</br>Atlanta, CA</br>New York, NY</details> | <a href="http://redirect.cvrve.me/2747621558b9ce7b6f00?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | **IBM** | Software Developer – Full-Stack | Markham, CA | <a href="http://redirect.cvrve.me/8e3f6f1869bbef1e83d3?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | **Disney** | Software Engineer I | Santa Monica, CA</br>New York, NY | <a href="http://redirect.cvrve.me/cb8ae50099cc02beb9bd?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
