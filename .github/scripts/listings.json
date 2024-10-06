@@ -9026,7 +9026,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1728204882,
+        "date_updated": 1728204930,
         "url": "http://redirect.cvrve.me/7743b1955c110cf794cc",
         "company_name": "Founders, Inc",
         "title": "Full Stack Engineer",
@@ -9034,7 +9034,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "f7adb0e6-4ab5-44b7-9e1f-d93134dca25e",
         "date_posted": 1728204882,
