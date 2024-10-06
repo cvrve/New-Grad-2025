@@ -9104,5 +9104,24 @@
         "date_posted": 1728205912,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728206033,
+        "url": "http://redirect.cvrve.me/2747621558b9ce7b6f00",
+        "company_name": "Intuit",
+        "title": "Software Engineer 1",
+        "locations": [
+            "Mountain View, CA",
+            "San Diego, CA",
+            "Atlanta, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "91441fa8-70ae-4a1a-b82e-3b437508a598",
+        "date_posted": 1728206033,
+        "company_url": "",
+        "is_visible": true
     }
 ]
