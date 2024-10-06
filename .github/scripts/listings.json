@@ -9088,5 +9088,21 @@
         "date_posted": 1728205869,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728205912,
+        "url": "http://redirect.cvrve.me/961de5754a980d5054f8",
+        "company_name": "Cerebras Systems",
+        "title": "New Grad: Performance Engineer - Masters/PhD",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "a961d446-54f6-45d6-b02f-52f7200a2dc1",
+        "date_posted": 1728205912,
+        "company_url": "",
+        "is_visible": true
     }
 ]
