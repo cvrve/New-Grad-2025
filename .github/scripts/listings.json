@@ -9139,5 +9139,22 @@
         "date_posted": 1728208983,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728209297,
+        "url": "http://redirect.cvrve.me/a059ca07597ae14c4aa5",
+        "company_name": "Lumen",
+        "title": "Security Specialist Intern",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "a5c89826-5132-45ca-b622-389cf46582f1",
+        "date_posted": 1728209297,
+        "company_url": "",
+        "is_visible": true
     }
 ]
