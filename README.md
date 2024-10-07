@@ -38,6 +38,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **NVIDIA** | New Grad 2025: Software Engineer, Big Data | Santa Clara, CA | <a href="http://redirect.cvrve.me/bc60fb53fdbd041ae32a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | **Google** | New Grad 2025: Associate Product Manager | <details><summary>**4 locations**</summary>Mountain View, CA</br>San Bruno, CA</br>San Francisco, CA</br>San Jose, CA</details> | <a href="http://redirect.cvrve.me/7e373702694175206df1?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | **Microsoft** | Software Engineer 🇺🇸 | Redmond, WA | <a href="http://redirect.cvrve.me/9582cc2f442c01881153?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | **Lumen** | Security Specialist Intern | Remote</br>US | <a href="http://redirect.cvrve.me/a059ca07597ae14c4aa5?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
