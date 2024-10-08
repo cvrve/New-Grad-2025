@@ -138,7 +138,6 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **Amazon** | Software Dev Engineer | <details><summary>**5 locations**</summary>Seattle, WA</br>Arlington, VA</br>Santa Clara, CA</br>Denver, CO</br>Herndon, VA</details> | <a href="http://redirect.cvrve.me/7c90ab3ffb7299277152?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | **Penguin Random House** | Associate Developer, Full Stack | New York, NY | <a href="http://redirect.cvrve.me/dcb36b6fb3474162c4a6?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
 | **Blackhawk Network** | Software Engineer | Coppell, TX | <a href="http://redirect.cvrve.me/334f568e529d66ec19f5?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
-| **OpenAI** | Software Engineer, Applied Emerging Talent | San Francisco, CA | <a href="http://redirect.cvrve.me/e091cfd4d33016eb3051?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | **NVIDIA** | New Grad 2024: Firmware Engineer | Santa Clara, CA | <a href="http://redirect.cvrve.me/b8dde650eb9e592b3c78?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | **Grove AI** | Full Stack/AI Software Engineer 🛂 | San Francisco, CA | <a href="https://grove-ai.notion.site/Grove-Full-Stack-AI-Software-Engineer-Internship-Full-time-6e968945f0184cb29366ec20436732c9?pvs=4&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 22 |
 | **Zoom** | AI Software Engineer | Remote | <a href="https://redirect.cvrve.me/ef4e90c449f8f1f23ba5?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
@@ -484,6 +483,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **Matroid** | Full Stack Engineer 🇺🇸 | Palo Alto, CA | 🔒 | Oct 02 |
 | **Codazen** | New Grad 2025: Full-Stack Engineer | Salt Lake City, UT | 🔒 | Oct 02 |
 | **Spotify** | Full Stack Engineer | New York, NY | 🔒 | Sep 27 |
+| **OpenAI** | Software Engineer, Applied Emerging Talent | San Francisco, CA | 🔒 | Sep 23 |
 | **NVIDIA** | New Grad 2025: Software Engineer | Santa Clara, CA | 🔒 | Sep 23 |
 | **Apple** | AIML - Software Engineer, Search Experience - SII | Cupertino, CA | 🔒 | Sep 19 |
 | **Adobe** | New Grad 2025: Software Development Engineer | San Jose, CA | 🔒 | Sep 19 |

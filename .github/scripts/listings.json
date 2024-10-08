@@ -7321,15 +7321,15 @@
         "is_visible": true
     },
     {
-        "date_updated": 1727109257,
+        "date_updated": 1728370975,
         "url": "http://redirect.cvrve.me/e091cfd4d33016eb3051",
         "company_name": "OpenAI",
         "title": "Software Engineer, Applied Emerging Talent",
         "locations": [
             "San Francisco, CA"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "eneief",
         "id": "9d00bd74-04bb-48de-9c26-ce4650175dc0",
         "date_posted": 1727109257,
