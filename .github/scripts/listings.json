@@ -9338,5 +9338,21 @@
         "date_posted": 1728433330,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728471123,
+        "url": "http://redirect.cvrve.me/f98c389e9af48cebf99f",
+        "company_name": "Codazen",
+        "title": "New Grad 2025: Full-Stack Engineer",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "c7d19636-d4c7-4b2a-a233-0b7ab53289ef",
+        "date_posted": 1728471123,
+        "company_url": "",
+        "is_visible": true
     }
 ]
