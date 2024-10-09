@@ -9402,5 +9402,21 @@
         "date_posted": 1728472710,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728486766,
+        "url": "https://redirect.cvrve.me/105c0896812d7c8954e1",
+        "company_name": "Carrier",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Beverly, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "c5d78c49-1114-44ca-b614-803e08e346c5",
+        "date_posted": 1728486766,
+        "company_url": "",
+        "is_visible": true
     }
 ]
