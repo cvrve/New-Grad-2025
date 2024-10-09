@@ -9451,5 +9451,21 @@
         "date_posted": 1728505207,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728505622,
+        "url": "http://redirect.cvrve.me/674e74fb3da5973056e1",
+        "company_name": "AeroVironment",
+        "title": "Machine Learning Engineer I",
+        "locations": [
+            "Centreville, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "813ab313-c905-40fe-933b-07a953ad6961",
+        "date_posted": 1728505622,
+        "company_url": "",
+        "is_visible": true
     }
 ]
