@@ -2702,7 +2702,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1724027455,
+        "date_updated": 1728486543,
         "url": "https://www.metacareers.com/jobs/2081252505580632",
         "company_name": "Meta",
         "title": "New Grad: Product Security Engineer",
@@ -2711,7 +2711,7 @@
             "Menlo Park, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "2624d215-a85a-4e9b-b97c-decd04b65f72",
         "date_posted": 1724027455,
