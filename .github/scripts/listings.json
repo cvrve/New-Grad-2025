@@ -9404,7 +9404,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1728486766,
+        "date_updated": 1728486868,
         "url": "https://redirect.cvrve.me/105c0896812d7c8954e1",
         "company_name": "Carrier",
         "title": "Software Engineering Intern",
@@ -9417,6 +9417,6 @@
         "id": "c5d78c49-1114-44ca-b614-803e08e346c5",
         "date_posted": 1728486766,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     }
 ]
