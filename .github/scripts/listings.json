@@ -9274,5 +9274,21 @@
         "date_posted": 1728432873,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728432948,
+        "url": "http://redirect.cvrve.me/9cbf14b10a40818846b1",
+        "company_name": "Cubesmart",
+        "title": "Data Engineer",
+        "locations": [
+            "Malvern, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "e296a020-70c2-456f-bc3e-d7a728fa0dac",
+        "date_posted": 1728432948,
+        "company_url": "",
+        "is_visible": true
     }
 ]
