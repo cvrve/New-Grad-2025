@@ -38,6 +38,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Google** | New Grad 2025: Software Engineer - PhD | <details><summary>**18 locations**</summary>Mountain View, CA</br>Atlanta, GA</br>Austin, TX</br>Bellevue, WA</br>Cambridge, MA</br>Irvine, CA</br>Kirkland, WA</br>Los Angeles, CA</br>New York, NY</br>Pittsburgh, PA</br>Raleigh, NC</br>Durham, NC</br>Reston, VA</br>San Bruno, CA</br>Seattle, WA</br>San Francisco, CA</br>San Jose, CA</br>Sunnyvale, CA</details> | <a href="http://redirect.cvrve.me/723def7a84dfc3f371ad?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | **TD Bank** | New Grad 2025: Data Engineer Analyst 🛂 | New York, NY | <a href="http://redirect.cvrve.me/d441872c757918c5ba68?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | **S&P Global** | New Grad 2025: Software Engineer | Cambridge, MA</br>New York, NY | <a href="http://redirect.cvrve.me/a18e72ab8f0edde26f3e?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | **NVIDIA** | New Grad 2025: Software Engineer, Big Data | Santa Clara, CA | <a href="http://redirect.cvrve.me/bc60fb53fdbd041ae32a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
