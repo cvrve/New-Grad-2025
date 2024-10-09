@@ -9290,5 +9290,21 @@
         "date_posted": 1728432948,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728433131,
+        "url": "http://redirect.cvrve.me/d8bb4867364732201cb4",
+        "company_name": "Qualtrics",
+        "title": "Software Engineer I",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "258bff59-eb49-4764-b403-7801c0cf7832",
+        "date_posted": 1728433131,
+        "company_url": "",
+        "is_visible": true
     }
 ]
