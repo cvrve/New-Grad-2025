@@ -9306,5 +9306,21 @@
         "date_posted": 1728433131,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728433283,
+        "url": "http://redirect.cvrve.me/8557797426fef91e31a4",
+        "company_name": "Roblox",
+        "title": "New Grad 2025: Software Engineer, Frontend",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "3fa9384e-6ef0-43f0-947d-19e2115e8a71",
+        "date_posted": 1728433283,
+        "company_url": "",
+        "is_visible": true
     }
 ]
