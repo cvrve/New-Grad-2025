@@ -38,7 +38,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
         </a>
 			</div>
 		</a>
-		<sub><i>Join the Discord to connect with fellow peers and streamline your internship search.</i></sub>
+		<sub><i>Join the Discord to connect with fellow peers and streamline your newgrad search.</i></sub>
 	</p>
 </div>
 
