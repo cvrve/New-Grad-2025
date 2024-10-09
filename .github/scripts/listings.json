@@ -2603,7 +2603,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1723671679,
+        "date_updated": 1728486515,
         "url": "https://www.metacareers.com/v2/jobs/522395143779549/?location=Menlo%20Park%2C%20CA",
         "company_name": "Meta",
         "title": "New Grad: Security Engineer",
@@ -2614,7 +2614,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "d4b61252-7b76-40e8-84c3-9bc932d53188",
         "date_posted": 1723671679,
