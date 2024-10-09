@@ -9354,5 +9354,21 @@
         "date_posted": 1728471123,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728472243,
+        "url": "http://redirect.cvrve.me/3de0bb4f50bff440dbc0",
+        "company_name": "Cambridge Mobile Telematics",
+        "title": "Software Engineer I",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "bf294ac0-7e76-4df3-83ec-f0fb7f43efc1",
+        "date_posted": 1728472243,
+        "company_url": "",
+        "is_visible": true
     }
 ]
