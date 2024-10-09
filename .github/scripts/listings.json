@@ -9418,5 +9418,21 @@
         "date_posted": 1728486766,
         "company_url": "",
         "is_visible": false
+    },
+    {
+        "date_updated": 1728505162,
+        "url": "http://redirect.cvrve.me/f30fe444d625adb1a833",
+        "company_name": "TDK",
+        "title": "Embedded Software Engineer",
+        "locations": [
+            "Neptune, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "e5d6232b-eeaa-474f-a5b3-465b557f4655",
+        "date_posted": 1728505162,
+        "company_url": "",
+        "is_visible": true
     }
 ]
