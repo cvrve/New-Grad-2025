@@ -25,6 +25,25 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 ---
 
+<div align="center">
+	<h3 >Want notifications when new roles open? </h3>
+	<p>
+		Join the ⬇️ <strong> discord <strong/> ⬇️ and get your applications in right when they open!
+		<a href="https://bit.ly/ouckah">
+			<b style="color: #0073e6; font-size: 1.2em;"></b>
+				<br style="color: #0073e6; font-size: 1.2em;">
+			<div>
+				<a href="https://bit.ly/ouckah">
+          <img src="https://i.imgur.com/iB9IFtQ.png" width="450" alt="cvrve">
+        </a>
+			</div>
+		</a>
+		<sub><i>Join the Discord to connect with fellow peers and streamline your internship search.</i></sub>
+	</p>
+</div>
+
+---
+
 ## The List 🚴🏔
 
  - 🛂 - Does NOT offer Sponsorship
