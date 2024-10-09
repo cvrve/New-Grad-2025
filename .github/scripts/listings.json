@@ -9257,5 +9257,22 @@
         "date_posted": 1728432789,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728432873,
+        "url": "http://redirect.cvrve.me/13c7460e5c6d1224b657",
+        "company_name": "Jellyfish",
+        "title": "Backend Software Engineer",
+        "locations": [
+            "Boston, MA",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "11cf1928-ec09-4240-b0c5-fcae6e941350",
+        "date_posted": 1728432873,
+        "company_url": "",
+        "is_visible": true
     }
 ]
