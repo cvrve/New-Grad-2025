@@ -38,6 +38,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Roblox** | New Grad 2025: Security Software Engineer | San Mateo, CA | <a href="http://redirect.cvrve.me/a7febe06d9d6eccdb8ae?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | **Roblox** | New Grad 2025: Software Engineer, Frontend | San Mateo, CA | <a href="http://redirect.cvrve.me/8557797426fef91e31a4?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | **Qualtrics** | Software Engineer I | Seattle, WA | <a href="http://redirect.cvrve.me/d8bb4867364732201cb4?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | **Jellyfish** | Backend Software Engineer | Boston, MA</br>Remote | <a href="http://redirect.cvrve.me/13c7460e5c6d1224b657?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
