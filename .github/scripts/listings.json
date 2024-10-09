@@ -9370,5 +9370,21 @@
         "date_posted": 1728472243,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728472439,
+        "url": "http://redirect.cvrve.me/57702061c2f93bb70fe1",
+        "company_name": "Honeywell",
+        "title": "New Grad 2025: Software Engineer",
+        "locations": [
+            "LocationUnited States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "9f319d4b-c69d-46fe-9e7a-ec617d37d3e6",
+        "date_posted": 1728472439,
+        "company_url": "",
+        "is_visible": true
     }
 ]
