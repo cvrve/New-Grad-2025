@@ -57,6 +57,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **TikTok** | New Grad 2025: Software Engineer | San Jose, CA | <a href="http://redirect.cvrve.me/33891dc15f75f5970d18?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | **TikTok** | New Grad 2025: Fullstack Software Engineer | Seattle, WA | <a href="http://redirect.cvrve.me/cf2ba3bba0175e9f10f9?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | **Reevo** | Frontend Software Engineer | Santa Clara, CA | <a href="http://redirect.cvrve.me/15cd521f2131158e4d1a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | **Reevo** | Software Engineer | Santa Clara, CA | <a href="http://redirect.cvrve.me/edf6090ed2811bd4d8f0?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
