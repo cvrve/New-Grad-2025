@@ -9499,5 +9499,21 @@
         "date_posted": 1728628099,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728628515,
+        "url": "http://redirect.cvrve.me/d54a166b731ab63f223b",
+        "company_name": "GQG Partners LLC",
+        "title": "Associate Software Developer",
+        "locations": [
+            "Fort Lauderdale. FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "1c644368-270e-4fa7-9bd1-1e4017ef3019",
+        "date_posted": 1728628515,
+        "company_url": "",
+        "is_visible": true
     }
 ]
