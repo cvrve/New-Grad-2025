@@ -9665,5 +9665,21 @@
         "date_posted": 1728630015,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728630056,
+        "url": "http://redirect.cvrve.me/49b3192323f346287538",
+        "company_name": "OKX",
+        "title": "New Grad: Security Engineer",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "2f5be0b4-725e-4f05-92bd-9384ee60e3c1",
+        "date_posted": 1728630056,
+        "company_url": "",
+        "is_visible": true
     }
 ]
