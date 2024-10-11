@@ -9697,5 +9697,21 @@
         "date_posted": 1728630809,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728630860,
+        "url": "http://redirect.cvrve.me/d3ad3756d65a887031e9",
+        "company_name": "Apple",
+        "title": "Developer Experience and Operations Build Engineer",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "a5aca5a2-1e51-4faf-99b2-ab61e7b635f4",
+        "date_posted": 1728630860,
+        "company_url": "",
+        "is_visible": true
     }
 ]
