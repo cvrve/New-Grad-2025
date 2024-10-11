@@ -9649,5 +9649,21 @@
         "date_posted": 1728629333,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728630015,
+        "url": "http://redirect.cvrve.me/b4eeb889cde0b0a31097",
+        "company_name": "OKX",
+        "title": "New Grad: Mobile Engineer",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "e1adc6cc-dae9-4e2f-86b2-18c87ef1f4a8",
+        "date_posted": 1728630015,
+        "company_url": "",
+        "is_visible": true
     }
 ]
