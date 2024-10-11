@@ -9483,5 +9483,21 @@
         "date_posted": 1728505676,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728628099,
+        "url": "http://redirect.cvrve.me/6afdf439124b9d2051a8",
+        "company_name": "Nuro",
+        "title": "New Grad 2024/2025: Software Engineer, Autonomy",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "2202e4df-9456-44a3-90ff-fa6f8d70101b",
+        "date_posted": 1728628099,
+        "company_url": "",
+        "is_visible": true
     }
 ]

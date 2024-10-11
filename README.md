@@ -57,6 +57,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Nuro** | New Grad 2024/2025: Software Engineer, Autonomy | Mountain View, CA | <a href="http://redirect.cvrve.me/6afdf439124b9d2051a8?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | **TDK** | Embedded Software Engineer | Neptune, NJ | <a href="http://redirect.cvrve.me/f30fe444d625adb1a833?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | **Spotify** | Data Engineer, Personalization | New York, NY</br>Boston, MA | <a href="http://redirect.cvrve.me/ab4f9072033df0e64da7?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | **Roblox** | New Grad 2025: Security Software Engineer | San Mateo, CA | <a href="http://redirect.cvrve.me/a7febe06d9d6eccdb8ae?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
