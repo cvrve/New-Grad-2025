@@ -57,6 +57,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Reevo** | Software Engineer | Santa Clara, CA | <a href="http://redirect.cvrve.me/edf6090ed2811bd4d8f0?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | **Nuro** | New Grad 2024/2025: Software Engineer, Autonomy | Mountain View, CA | <a href="http://redirect.cvrve.me/6afdf439124b9d2051a8?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | **GQG Partners LLC** | Associate Software Developer | Fort Lauderdale. FL | <a href="http://redirect.cvrve.me/d54a166b731ab63f223b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | **Charles Schwab** | Software Development & Engineering Associate | <details><summary>**4 locations**</summary>Austin, TX</br>Southlake, TX</br>Lone Tree, CO</br>Phoenix, AZ</details> | <a href="http://redirect.cvrve.me/5c633c8d63c6d707e71f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
