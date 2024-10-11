@@ -9583,5 +9583,23 @@
         "date_posted": 1728628782,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728628883,
+        "url": "http://redirect.cvrve.me/79c511b103bfd28948ea",
+        "company_name": "Amazon",
+        "title": "New Grad 2024: Software Dev Engineer",
+        "locations": [
+            "Arlington, VA",
+            "Seattle, WA",
+            "Herndon, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "3363a003-ef30-435a-ade3-31a0c3944445",
+        "date_posted": 1728628883,
+        "company_url": "",
+        "is_visible": true
     }
 ]
