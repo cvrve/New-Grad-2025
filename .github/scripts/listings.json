@@ -9550,5 +9550,21 @@
         "date_posted": 1728628636,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728628673,
+        "url": "http://redirect.cvrve.me/15cd521f2131158e4d1a",
+        "company_name": "Reevo",
+        "title": "Frontend Software Engineer",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "05875156-5d17-4dfb-b4c8-9eb10fa0a1b4",
+        "date_posted": 1728628673,
+        "company_url": "",
+        "is_visible": true
     }
 ]
