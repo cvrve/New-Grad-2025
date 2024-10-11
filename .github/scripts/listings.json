@@ -9633,5 +9633,21 @@
         "date_posted": 1728628984,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728629333,
+        "url": "http://redirect.cvrve.me/a806c465afa7d8e16ffc",
+        "company_name": "Apple",
+        "title": "AIML Data Scientist, Data and ML Innovation",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "bfc5717c-6ac5-4ffa-a8db-9b7cce2848ee",
+        "date_posted": 1728629333,
+        "company_url": "",
+        "is_visible": true
     }
 ]
