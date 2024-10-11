@@ -9681,5 +9681,21 @@
         "date_posted": 1728630056,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728630809,
+        "url": "http://redirect.cvrve.me/97430ee73fc5ab786f9d",
+        "company_name": "Apple",
+        "title": "Software Development Engineer in Test",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "23c0ba0c-8789-4dc5-898f-c08d42e6de33",
+        "date_posted": 1728630809,
+        "company_url": "",
+        "is_visible": true
     }
 ]
