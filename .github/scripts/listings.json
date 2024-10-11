@@ -2493,7 +2493,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1723669850,
+        "date_updated": 1728629909,
         "url": "https://paypal.eightfold.ai/careers/job?domain=paypal.com&pid=274901907358&query=R0114388&domain=paypal.com&sort_by=relevance&jobIndex=0&job_index=0",
         "company_name": "PayPal",
         "title": "New Grad: Software Engineer",
@@ -2506,7 +2506,7 @@
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "ef0c6e10-0be8-4516-bbda-588e1843f90f",
         "date_posted": 1723669850,
