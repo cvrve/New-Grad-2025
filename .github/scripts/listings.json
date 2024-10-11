@@ -9601,5 +9601,21 @@
         "date_posted": 1728628883,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728628936,
+        "url": "http://redirect.cvrve.me/cf2ba3bba0175e9f10f9",
+        "company_name": "TikTok",
+        "title": "New Grad 2025: Fullstack Software Engineer",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "ec7036fa-bb9d-44e3-bbac-27f7b578033c",
+        "date_posted": 1728628936,
+        "company_url": "",
+        "is_visible": true
     }
 ]
