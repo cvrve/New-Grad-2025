@@ -59,6 +59,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | --- | --- | --- | :---: | :---: |
 | **TIAA** | New Grad 2025: Technology Rotational Program | Charlotte, NC</br>New York, NY</br>Iselin, NY | <a href="http://redirect.cvrve.me/507fd6bd1afdc660bcb2?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
 | **ServiceNow** | Software Engineer, Core Platform | San Diego, CA | <a href="http://redirect.cvrve.me/c3fd1fa9860f4c69cce0?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
+| **Pulley** | AI Engineer | Remote</br>US | <a href="http://redirect.cvrve.me/184c7a4f133a45060038?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
 | **NetJets Services** | Software Engineer, Associate | Columbus, OH | <a href="http://redirect.cvrve.me/6022819e180f39c3370e?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
 | **KBR** | Entry-Level Software Developer | Houston, TX | <a href="http://redirect.cvrve.me/62e01170ac2edb6f4500?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
 | **Ardent Mills** | Software Engineer I | Remote</br>US | <a href="http://redirect.cvrve.me/a6402cea7c0465cc2aca?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |

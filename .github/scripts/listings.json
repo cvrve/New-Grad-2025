@@ -9796,5 +9796,22 @@
         "date_posted": 1728722391,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728722542,
+        "url": "http://redirect.cvrve.me/184c7a4f133a45060038",
+        "company_name": "Pulley",
+        "title": "AI Engineer",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "212e0815-1593-4e69-b16a-7da204f33b66",
+        "date_posted": 1728722542,
+        "company_url": "",
+        "is_visible": true
     }
 ]
