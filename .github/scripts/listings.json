@@ -9747,5 +9747,21 @@
         "date_posted": 1728722069,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728722156,
+        "url": "http://redirect.cvrve.me/c3fd1fa9860f4c69cce0",
+        "company_name": "ServiceNow",
+        "title": "Software Engineer, Core Platform",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "fd34534d-6419-4b59-8312-d59602f3fc5d",
+        "date_posted": 1728722156,
+        "company_url": "",
+        "is_visible": true
     }
 ]
