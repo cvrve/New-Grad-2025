@@ -58,6 +58,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **TIAA** | New Grad 2025: Technology Rotational Program | Charlotte, NC</br>New York, NY</br>Iselin, NY | <a href="http://redirect.cvrve.me/507fd6bd1afdc660bcb2?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
+| **KBR** | Entry-Level Software Developer | Houston, TX | <a href="http://redirect.cvrve.me/62e01170ac2edb6f4500?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
 | **TikTok** | New Grad 2025: Software Engineer | San Jose, CA | <a href="http://redirect.cvrve.me/33891dc15f75f5970d18?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | **TikTok** | New Grad 2025: Fullstack Software Engineer | Seattle, WA | <a href="http://redirect.cvrve.me/cf2ba3bba0175e9f10f9?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | **Reevo** | Frontend Software Engineer | Santa Clara, CA | <a href="http://redirect.cvrve.me/15cd521f2131158e4d1a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
