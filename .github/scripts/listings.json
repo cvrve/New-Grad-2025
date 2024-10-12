@@ -9779,5 +9779,22 @@
         "date_posted": 1728722283,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728722391,
+        "url": "http://redirect.cvrve.me/a6402cea7c0465cc2aca",
+        "company_name": "Ardent Mills",
+        "title": "Software Engineer I",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "c9327bbc-f0c1-4a44-93c5-159e64b7ac1e",
+        "date_posted": 1728722391,
+        "company_url": "",
+        "is_visible": true
     }
 ]
