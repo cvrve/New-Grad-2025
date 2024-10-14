@@ -9845,5 +9845,21 @@
         "date_posted": 1728918257,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728918709,
+        "url": "http://redirect.cvrve.me/f81289c5ab9f3980d25d",
+        "company_name": "Teradyne",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Deer Park, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "e33a657e-c3d6-4fd3-bcc5-621e5897bf56",
+        "date_posted": 1728918709,
+        "company_url": "",
+        "is_visible": true
     }
 ]

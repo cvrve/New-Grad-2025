@@ -57,6 +57,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Teradyne** | New Grad: Software Engineer | Deer Park, IL | <a href="http://redirect.cvrve.me/f81289c5ab9f3980d25d?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | **Microsoft** | Data Scientist - Masters | Atlanta, GA | <a href="http://redirect.cvrve.me/6690f29f8a74a243cc71?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | **Jobot** | Software Developer | Bryn Mawr, PA | <a href="http://redirect.cvrve.me/a43502345221493952b1?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | **TIAA** | New Grad 2025: Technology Rotational Program | Charlotte, NC</br>New York, NY</br>Iselin, NY | <a href="http://redirect.cvrve.me/507fd6bd1afdc660bcb2?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
