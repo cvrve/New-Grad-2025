@@ -9829,5 +9829,21 @@
         "date_posted": 1728918004,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728918257,
+        "url": "http://redirect.cvrve.me/6690f29f8a74a243cc71",
+        "company_name": "Microsoft",
+        "title": "Data Scientist - Masters",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "19939ff7-0481-4588-beda-906d77e99200",
+        "date_posted": 1728918257,
+        "company_url": "",
+        "is_visible": true
     }
 ]
