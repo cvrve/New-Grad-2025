@@ -9877,5 +9877,21 @@
         "date_posted": 1728923348,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728923390,
+        "url": "http://redirect.cvrve.me/640d4fd7668712e015fc",
+        "company_name": "Epic Games",
+        "title": "Desktop Platform Programmer",
+        "locations": [
+            "Montr\u00e9al, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "b80f05ef-d4f2-48c4-88a8-70373440e0cf",
+        "date_posted": 1728923390,
+        "company_url": "",
+        "is_visible": true
     }
 ]
