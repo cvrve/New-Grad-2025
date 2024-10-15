@@ -36,6 +36,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Amazon** | Software Dev Engineer I, Redshift | Vancouver, Canada</br>Toronto, Canada | <a href="http://redirect.cvrve.me/2b16b018a01a30731883?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | **Robinhood** | Software Development Engineer in Test | Toronto, Canada | <a href="http://redirect.cvrve.me/2b47496c8f6872e1cd67?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | **Epic Games** | Desktop Platform Programmer | Montréal, Canada | <a href="http://redirect.cvrve.me/640d4fd7668712e015fc?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | **Uber** | New Grad 2024: Software Engineer I, TOR | Toronto, Canada | <a href="http://redirect.cvrve.me/7e278c84ba61dc1a95f6?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
