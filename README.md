@@ -58,6 +58,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **Yardi** | Software Development Engineer I | Santa Barbara, CA | <a href="http://redirect.cvrve.me/e84793f1943a7e71efbe?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
+| **Splunk** | New Grad 2025: C++ Software Engineer | Colorado</br>Remote | <a href="http://redirect.cvrve.me/24533eb1ea20d2753bd5?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | **San Jose, CA** | New Grad 2025: Frontend Software Engineer | San Jose, CA | <a href="http://redirect.cvrve.me/5145ea3dc8f946837449?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | **FloQast** | Software Engineer I | Remote</br>US | <a href="http://redirect.cvrve.me/715cc3358662acd4b1ed?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | **Appian** | New Grad 2024: Associate Application Engineer | McLean, VA | <a href="http://redirect.cvrve.me/07170bcc43b3041d6373?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
