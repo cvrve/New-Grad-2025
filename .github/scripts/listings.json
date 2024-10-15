@@ -9975,5 +9975,21 @@
         "date_posted": 1728974029,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728974132,
+        "url": "http://redirect.cvrve.me/5145ea3dc8f946837449",
+        "company_name": "San Jose, CA",
+        "title": "New Grad 2025: Frontend Software Engineer",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "f623bee1-f4d9-4bc4-a3a1-9e92d3780478",
+        "date_posted": 1728974132,
+        "company_url": "",
+        "is_visible": true
     }
 ]
