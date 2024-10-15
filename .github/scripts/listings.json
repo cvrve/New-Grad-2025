@@ -10008,5 +10008,31 @@
         "date_posted": 1729022109,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729022178,
+        "url": "http://redirect.cvrve.me/ad901c3c3bf171b4e39a",
+        "company_name": "Google",
+        "title": "New Grad 2025: Software Engineer",
+        "locations": [
+            "Mountain View, CA",
+            "Cambridge, MA",
+            "Kirkland, WA",
+            "Los Angeles, CA",
+            "New York, NY",
+            "Pittsburgh, PA",
+            "San Bruno, CA",
+            "Seattle, WA",
+            "San Francisco, CA",
+            "San Jose, CA",
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "d198903b-7c59-48f8-9af3-65027f62d4df",
+        "date_posted": 1729022178,
+        "company_url": "",
+        "is_visible": true
     }
 ]
