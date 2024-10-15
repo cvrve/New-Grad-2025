@@ -9893,5 +9893,21 @@
         "date_posted": 1728923390,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728973774,
+        "url": "http://redirect.cvrve.me/e84793f1943a7e71efbe",
+        "company_name": "Yardi",
+        "title": "Software Development Engineer I",
+        "locations": [
+            "Santa Barbara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "c12c3f57-50b2-49f1-a5e1-13736ff4a22e",
+        "date_posted": 1728973774,
+        "company_url": "",
+        "is_visible": true
     }
 ]
