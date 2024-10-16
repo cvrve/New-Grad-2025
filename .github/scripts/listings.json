@@ -10099,5 +10099,23 @@
         "date_posted": 1729042563,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729042659,
+        "url": "http://redirect.cvrve.me/e994c93d2c3dd7d57fee",
+        "company_name": "Amazon",
+        "title": "Software Engineer",
+        "locations": [
+            "Seattle, WA",
+            "Arlington, VA",
+            "Herndon, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "1c960db8-40f8-498b-9c52-10f1aaed0877",
+        "date_posted": 1729042659,
+        "company_url": "",
+        "is_visible": true
     }
 ]
