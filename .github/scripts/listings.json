@@ -10117,5 +10117,21 @@
         "date_posted": 1729042659,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729042717,
+        "url": "http://redirect.cvrve.me/7855ba79545a01e22104",
+        "company_name": "Red Hat",
+        "title": "Software Engineer",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "e532a429-a702-4d64-8574-41c4ba5aa77d",
+        "date_posted": 1729042717,
+        "company_url": "",
+        "is_visible": true
     }
 ]
