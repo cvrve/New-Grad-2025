@@ -1,27 +1,14 @@
-# Canadian New Grad Positions(Inspired by [Coder Quad and Simplify Repo](https://github.com/SimplifyJobs/New-Grad-Positions))
+# Canadian New Grad Positions by Cvrve 
+
 Use this repo to share and keep track of entry-level software, tech, CS, PM, quant jobs for 2024 & 2025 new graduates.
 
-The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked](https://wecracked.com/), [Tech Career North](https://discord.gg/96rkQyC5rX) and [Resumes.fyi](https://resumes.fyi/)!
-
+The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked](https://wecracked.com/) and [Resumes.fyi](https://resumes.fyi/)!
 
 :warning: Please note that this page is exclusively for roles in Canada, or Remote positions :earth_americas:
 
 🙏 **Contribute by submitting an [issue](https://github.com/cvrve/New-Grad/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
----
-<div align="center">
-	<h3><a href="https://discord.gg/96rkQyC5rX" target="_blank" rel="noopener noreferrer">Join the best SWE & AI community in Canada!</a></h3>
-	<p>
-			Don't miss out on top-notch advice, expert resume reviews, and live mock interviews.<br>No matter if you’re a pro, a student, or switching careers, elevate your future with Tech Career North 🍁! ⬇️
-			<br>
-			<div>
-			<a href="https://discord.gg/96rkQyC5rX" target="_blank" rel="noopener noreferrer">
-		  <img src="./assets/TCN-banner.png" width="450" alt="Tech Career North">
-		</a>
-			</div>
-  <sub><i>Join our <a href="https://discord.gg/96rkQyC5rX" target="_blank" rel="noopener noreferrer">discord community</a> or the next <a href="https://www.youtube.com/@techcareernorth/streams" target="_blank" rel="noopener noreferrer">live event!</a></i></sub>
-	</p>
-</div>
+This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJobs/New-Grad-2025).
 
 ---
 
