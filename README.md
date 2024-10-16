@@ -61,6 +61,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | --- | --- | --- | :---: | :---: |
 | **Zip** | New Grad 2025: Software Engineer | San Francisco, CA | <a href="http://redirect.cvrve.me/e36a6f577aae9467de10?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | **S&P Global** | Software Engineer | New York, NY | <a href="http://redirect.cvrve.me/7f18c92f6d0489321f9a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
+| **Roblox** | New Grad 2025: Software Engineer, Reliability | San Mateo, CA | <a href="http://redirect.cvrve.me/5de3ecf16fa49356b53d?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | **Red Hat** | Software Engineer | Raleigh, NC | <a href="http://redirect.cvrve.me/7855ba79545a01e22104?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | **Marex** | C# Software Developer | Chicago, IL | <a href="http://redirect.cvrve.me/47d38c0b4f5fdac66dd0?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | **KBR** | Software Engineer 🇺🇸 | Colorado Springs, CO | <a href="http://redirect.cvrve.me/6673203225633cac18b7?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |

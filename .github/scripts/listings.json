@@ -10217,5 +10217,21 @@
         "date_posted": 1729100963,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729109107,
+        "url": "http://redirect.cvrve.me/5de3ecf16fa49356b53d",
+        "company_name": "Roblox",
+        "title": "New Grad 2025: Software Engineer, Reliability",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "f37bd7a9-5850-4ac6-bfa4-3d07efe0de37",
+        "date_posted": 1729109107,
+        "company_url": "",
+        "is_visible": true
     }
 ]
