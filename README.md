@@ -80,7 +80,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Teradyne** | New Grad: Software Engineer | Deer Park, IL | <a href="http://redirect.cvrve.me/f81289c5ab9f3980d25d?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | **Microsoft** | Data Scientist - Masters | Atlanta, GA | <a href="http://redirect.cvrve.me/6690f29f8a74a243cc71?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | **Jobot** | Software Developer | Bryn Mawr, PA | <a href="http://redirect.cvrve.me/a43502345221493952b1?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
-| **TIAA** | New Grad 2025: Technology Rotational Program | Charlotte, NC</br>New York, NY</br>Iselin, NY | <a href="http://redirect.cvrve.me/507fd6bd1afdc660bcb2?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
 | **ServiceNow** | Software Engineer, Core Platform | San Diego, CA | <a href="http://redirect.cvrve.me/c3fd1fa9860f4c69cce0?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
 | **Pulley** | AI Engineer | Remote</br>US | <a href="http://redirect.cvrve.me/184c7a4f133a45060038?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
 | **NetJets Services** | Software Engineer, Associate | Columbus, OH | <a href="http://redirect.cvrve.me/6022819e180f39c3370e?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
@@ -462,6 +461,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Palantir** | Software Engineer – New Grad - US Government | Washington, DC | <a href="https://jobs.lever.co/palantir/19d5e5f8-37a6-4a6f-b2ca-423370b3a1c2/apply?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | **Palantir** | Software Engineer – New Grad - US Government | NYC | <a href="https://jobs.lever.co/palantir/000b1a24-4b0f-436f-a6da-9a920e259925/apply?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | **Palantir** | Forward Deployed Software Engineer – New Grad - US Government | NYC | <a href="https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
+| **TIAA** | New Grad 2025: Technology Rotational Program | Charlotte, NC</br>New York, NY</br>Iselin, NY | 🔒 | Oct 12 |
 | **Cambridge Mobile Telematics** | Software Engineer I | Cambridge, MA | 🔒 | Oct 09 |
 | **NVIDIA** | New Grad 2025: Software Engineer, Big Data | Santa Clara, CA | 🔒 | Oct 07 |
 | **Founders, Inc** | Full Stack Engineer | San Francisco, CA | 🔒 | Oct 06 |

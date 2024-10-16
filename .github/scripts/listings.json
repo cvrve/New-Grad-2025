@@ -9715,7 +9715,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1728722033,
+        "date_updated": 1729101058,
         "url": "http://redirect.cvrve.me/507fd6bd1afdc660bcb2",
         "company_name": "TIAA",
         "title": "New Grad 2025: Technology Rotational Program",
@@ -9725,7 +9725,7 @@
             "Iselin, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "eb73881d-bbb9-4604-950f-adc0748d4b6a",
         "date_posted": 1728722033,
