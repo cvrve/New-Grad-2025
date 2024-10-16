@@ -10067,5 +10067,21 @@
         "date_posted": 1729037983,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729042499,
+        "url": "http://redirect.cvrve.me/6673203225633cac18b7",
+        "company_name": "KBR",
+        "title": "Software Engineer",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "12ec2cac-2c43-4543-8b02-8a975577555d",
+        "date_posted": 1729042499,
+        "company_url": "",
+        "is_visible": true
     }
 ]
