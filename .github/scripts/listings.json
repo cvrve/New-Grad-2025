@@ -10197,5 +10197,25 @@
         "date_posted": 1729100789,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729100963,
+        "url": "http://redirect.cvrve.me/d42a9ce7834cde654f0b",
+        "company_name": "Databento",
+        "title": "Software Engineer",
+        "locations": [
+            "Remote",
+            "Boston, MA",
+            "Salt Lake City, UT",
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "c4178fae-27a4-4543-8b71-4b2394df4917",
+        "date_posted": 1729100963,
+        "company_url": "",
+        "is_visible": true
     }
 ]
