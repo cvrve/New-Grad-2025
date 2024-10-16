@@ -10083,5 +10083,21 @@
         "date_posted": 1729042499,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729042563,
+        "url": "http://redirect.cvrve.me/47d38c0b4f5fdac66dd0",
+        "company_name": "Marex",
+        "title": "C# Software Developer",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "05aab133-f731-4431-a6d1-327c9d5d6d7a",
+        "date_posted": 1729042563,
+        "company_url": "",
+        "is_visible": true
     }
 ]
