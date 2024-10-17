@@ -10266,5 +10266,22 @@
         "date_posted": 1729118218,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729152390,
+        "url": "http://redirect.cvrve.me/56e97f912f498759b41a",
+        "company_name": "Motional",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Pittsburgh, PA",
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "ee9c0c5d-24c1-439b-b2fd-6c85ecccde5f",
+        "date_posted": 1729152390,
+        "company_url": "",
+        "is_visible": true
     }
 ]
