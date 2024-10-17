@@ -61,6 +61,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | --- | --- | --- | :---: | :---: |
 | **Oracle** | Associate Production Software Engineer | United States | <a href="http://redirect.cvrve.me/d97579077fdb851cb18b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | **Motional** | Associate Software Engineer | Pittsburgh, PA</br>Boston, MA | <a href="http://redirect.cvrve.me/56e97f912f498759b41a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
+| **ManTech** | unior Software Engineer | Chantilly, VA | <a href="http://redirect.cvrve.me/3df9b5cd8494228a7c41?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | **Crusoe** | University Software Engineer | San Francisco, CA | <a href="http://redirect.cvrve.me/3ae4c80f054e142c37f9?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | **Clay** | Software Engineer Early Career (2025) | New York, NY | <a href="http://redirect.cvrve.me/ce8eb281a05118a318e2?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | **Zip** | New Grad 2025: Software Engineer | San Francisco, CA | <a href="http://redirect.cvrve.me/e36a6f577aae9467de10?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |

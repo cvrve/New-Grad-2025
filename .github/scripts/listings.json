@@ -10331,5 +10331,21 @@
         "date_posted": 1729199866,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729199907,
+        "url": "http://redirect.cvrve.me/3df9b5cd8494228a7c41",
+        "company_name": "ManTech",
+        "title": "unior Software Engineer",
+        "locations": [
+            "Chantilly, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "eeef3b3f-a5be-429e-9cd8-8257f17dbdea",
+        "date_posted": 1729199907,
+        "company_url": "",
+        "is_visible": true
     }
 ]
