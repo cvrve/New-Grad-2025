@@ -10315,5 +10315,21 @@
         "date_posted": 1729199791,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729199866,
+        "url": "http://redirect.cvrve.me/ce8eb281a05118a318e2",
+        "company_name": "Clay",
+        "title": "Software Engineer Early Career (2025)",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "01644aaa-5622-4d36-ad33-27e7fdac2b8f",
+        "date_posted": 1729199866,
+        "company_url": "",
+        "is_visible": true
     }
 ]
