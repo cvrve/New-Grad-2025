@@ -10283,5 +10283,21 @@
         "date_posted": 1729152390,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729199725,
+        "url": "http://redirect.cvrve.me/d97579077fdb851cb18b",
+        "company_name": "Oracle",
+        "title": "Associate Production Software Engineer",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "b532f0b3-6fd5-480a-8050-bb378840b42a",
+        "date_posted": 1729199725,
+        "company_url": "",
+        "is_visible": true
     }
 ]
