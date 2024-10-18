@@ -10460,5 +10460,21 @@
         "date_posted": 1729220538,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729284195,
+        "url": "http://redirect.cvrve.me/4532294685afc927497e",
+        "company_name": "NVIDIA",
+        "title": "New Grad 2024: Mixed Signal Design Engineer",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "7404aaf5-e97b-4402-9bfc-3a14ff3457de",
+        "date_posted": 1729284195,
+        "company_url": "",
+        "is_visible": true
     }
 ]
