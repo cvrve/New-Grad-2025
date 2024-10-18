@@ -10476,5 +10476,21 @@
         "date_posted": 1729284195,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729284272,
+        "url": "http://redirect.cvrve.me/5c5d9a1cc8920df89a37",
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: Solution Architect",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "07b6b544-0ec8-45e9-aa70-74620ec1cabd",
+        "date_posted": 1729284272,
+        "company_url": "",
+        "is_visible": true
     }
 ]
