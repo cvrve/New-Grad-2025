@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Mastercard** | New Grad 2025: Platform Engineer I (AI), Launch Program | O'Fallon, MI | <a href="http://redirect.cvrve.me/62203b3df8dea1ccd414?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | **Mastercard** | New Grad 2025: Platform Engineer I, Launch Program | O'Fallon, MI | <a href="http://redirect.cvrve.me/ee72f9997a9529ad07b9?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | **Mastercard** | New Grad 2025: Data Scientist I, Launch Program | O'Fallon, MI | <a href="http://redirect.cvrve.me/a94e8788d0272ac150f1?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | **AT&T** | New Grad 2025: Technology Development Program | Atlanta, GA | <a href="http://redirect.cvrve.me/acd9efd80a2f13b0a353?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |

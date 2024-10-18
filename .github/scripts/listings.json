@@ -10411,5 +10411,21 @@
         "date_posted": 1729282073,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729282113,
+        "url": "http://redirect.cvrve.me/62203b3df8dea1ccd414",
+        "company_name": "Mastercard",
+        "title": "New Grad 2025: Platform Engineer I (AI), Launch Program",
+        "locations": [
+            "O'Fallon, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "ab3a450c-6c49-4477-8bf9-cad69c079237",
+        "date_posted": 1729282113,
+        "company_url": "",
+        "is_visible": true
     }
 ]
