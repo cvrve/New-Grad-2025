@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Snap Inc** | Software Engineer, C++ | Los Angeles, CA</br>Seattle, WA</br>New York, NY | <a href="http://redirect.cvrve.me/298d0f0181aa9c3a0c8b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | **Avathon** | Software Engineer | Austin, TX | <a href="http://redirect.cvrve.me/7d311e3f177e95c69c84?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | **Palantir** | New Grad: Incident Management Engineer | Palo Alto, CA | <a href="http://redirect.cvrve.me/87bc65298c18566271d6?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | **NVIDIA** | New Grad 2025: Solution Architect | Santa Clara, CA | <a href="http://redirect.cvrve.me/5c5d9a1cc8920df89a37?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
