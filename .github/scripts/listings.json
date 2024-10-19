@@ -10543,5 +10543,21 @@
         "date_posted": 1729347386,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729347420,
+        "url": "http://redirect.cvrve.me/8cbce5158bd2cc9c7810",
+        "company_name": "Adobe",
+        "title": "New Grad 2025: Software Engineer",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "e37c8fb2-c4b2-448b-9fe3-45e08194968c",
+        "date_posted": 1729347420,
+        "company_url": "",
+        "is_visible": true
     }
 ]
