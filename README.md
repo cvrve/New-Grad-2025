@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Roblox** | New Grad 2025: Software Engineer, Game Engine Programmability | San Mateo, CA | <a href="http://redirect.cvrve.me/ff9aa13abe59d790df1c?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | **Microsoft** | Software Engineer | Redmond, WA | <a href="http://redirect.cvrve.me/733f4a81efcc3968bbc0?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | **Alarm.com** | Software Engineer - Financial Systems | Tysons, VA | <a href="http://redirect.cvrve.me/057f14a32d5453235c1c?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | **Snap Inc** | Software Engineer, C++ | Los Angeles, CA</br>Seattle, WA</br>New York, NY | <a href="http://redirect.cvrve.me/298d0f0181aa9c3a0c8b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
