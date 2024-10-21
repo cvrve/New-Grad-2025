@@ -10623,5 +10623,21 @@
         "date_posted": 1729539076,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729539181,
+        "url": "http://redirect.cvrve.me/c24d7aa87c5945a41352",
+        "company_name": "Tiktok",
+        "title": "New Grad 2025: Machine Learning Engineer, Business Risk Integrated Control",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "aa478036-a730-403f-8a1f-5af0d7123eaa",
+        "date_posted": 1729539181,
+        "company_url": "",
+        "is_visible": true
     }
 ]
