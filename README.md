@@ -61,6 +61,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | --- | --- | --- | :---: | :---: |
 | **Tiktok** | New Grad 2025: Machine Learning Engineer, Business Risk Integrated Control | San Jose, CA | <a href="http://redirect.cvrve.me/c24d7aa87c5945a41352?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | **Tesla** | Software Development Engineer, Financial Services | Fremont, CA | <a href="http://redirect.cvrve.me/9a52b6caefca468e0c17?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
+| **NBCUniversal** | Associate Software Engineer | Remote</br>US | <a href="http://redirect.cvrve.me/b2b84d4aeca75f4c45b0?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | **Roblox** | New Grad 2025: Software Engineer, Game Engine Programmability | San Mateo, CA | <a href="http://redirect.cvrve.me/ff9aa13abe59d790df1c?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | **Microsoft** | Software Engineer | Redmond, WA | <a href="http://redirect.cvrve.me/733f4a81efcc3968bbc0?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | **Alarm.com** | Software Engineer - Financial Systems | Tysons, VA | <a href="http://redirect.cvrve.me/057f14a32d5453235c1c?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
