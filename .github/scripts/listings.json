@@ -10607,5 +10607,21 @@
         "date_posted": 1729390507,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729539076,
+        "url": "http://redirect.cvrve.me/9a52b6caefca468e0c17",
+        "company_name": "Tesla",
+        "title": "Software Development Engineer, Financial Services",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "88698700-ecac-4085-a059-c27a163085b7",
+        "date_posted": 1729539076,
+        "company_url": "",
+        "is_visible": true
     }
 ]
