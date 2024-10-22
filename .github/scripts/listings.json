@@ -10738,5 +10738,21 @@
         "date_posted": 1729567877,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729568204,
+        "url": "http://redirect.cvrve.me/ef2856220c42ce148cc6",
+        "company_name": "Old Mission",
+        "title": "New Grad 2025: Junior Full-Stack Engineer",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "de21942d-3ed3-44b8-a687-037fee514f39",
+        "date_posted": 1729568204,
+        "company_url": "",
+        "is_visible": true
     }
 ]
