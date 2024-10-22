@@ -10774,5 +10774,21 @@
         "date_posted": 1729568425,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729568885,
+        "url": "http://redirect.cvrve.me/745971e58d1c77f4b8bb",
+        "company_name": "Peraton",
+        "title": "Entry-Level Software Engineer",
+        "locations": [
+            "Blacksburg, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "afcd4b8b-0c26-4cf8-af90-b5e758d7a0fe",
+        "date_posted": 1729568885,
+        "company_url": "",
+        "is_visible": true
     }
 ]
