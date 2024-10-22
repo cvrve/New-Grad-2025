@@ -6275,7 +6275,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1726260498,
+        "date_updated": 1729568336,
         "url": "https://paypal.eightfold.ai/careers/job?domain=paypal.com&pid=274902336865",
         "company_name": "Paypal",
         "title": "Associate Engineer",
@@ -6284,7 +6284,7 @@
             "Scottsdale, AZ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "fdb4be64-2cf0-4425-92a1-f345c7bed1ed",
         "date_posted": 1726260498,
