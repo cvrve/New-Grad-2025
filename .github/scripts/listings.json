@@ -10656,5 +10656,21 @@
         "date_posted": 1729539582,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729565628,
+        "url": "http://redirect.cvrve.me/629691769ed0fa27b44b",
+        "company_name": "Palantir",
+        "title": "New Grad: Forward Deployed Software Engineer",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "d4013208-5c47-4079-b2b2-aa7646579d7e",
+        "date_posted": 1729565628,
+        "company_url": "",
+        "is_visible": true
     }
 ]
