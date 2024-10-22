@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Samsara** | New Grad: Software Engineer | Remote</br>US | <a href="http://redirect.cvrve.me/bffb4e8466d1a7d455b8?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **Palantir** | New Grad: Forward Deployed Software Engineer 🇺🇸 | Palo Alto, CA | <a href="http://redirect.cvrve.me/629691769ed0fa27b44b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **Tiktok** | New Grad 2025: Machine Learning Engineer, Business Risk Integrated Control | San Jose, CA | <a href="http://redirect.cvrve.me/c24d7aa87c5945a41352?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | **Tesla** | Software Development Engineer, Financial Services | Fremont, CA | <a href="http://redirect.cvrve.me/9a52b6caefca468e0c17?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |

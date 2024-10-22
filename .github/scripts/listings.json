@@ -10689,5 +10689,22 @@
         "date_posted": 1729565674,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729565825,
+        "url": "http://redirect.cvrve.me/bffb4e8466d1a7d455b8",
+        "company_name": "Samsara",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "1376a568-ac0e-4b49-beb3-50d74bc775af",
+        "date_posted": 1729565825,
+        "company_url": "",
+        "is_visible": true
     }
 ]
