@@ -10865,5 +10865,21 @@
         "date_posted": 1729642895,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729643095,
+        "url": "http://redirect.cvrve.me/e78f27bd49454d3942ab",
+        "company_name": "Applied Intuition",
+        "title": "New Grad: Research Engineer",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "53a4cca8-3931-46a8-b536-cfe7ec8d3991",
+        "date_posted": 1729643095,
+        "company_url": "",
+        "is_visible": true
     }
 ]
