@@ -10913,5 +10913,22 @@
         "date_posted": 1729648148,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729732148,
+        "url": "http://redirect.cvrve.me/9c789a505c73be31946d",
+        "company_name": "Lucid",
+        "title": "New Grad 2025: Software Engineer",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "2e38b31c-4868-4c68-8c68-ba7b1134f999",
+        "date_posted": 1729732148,
+        "company_url": "",
+        "is_visible": true
     }
 ]

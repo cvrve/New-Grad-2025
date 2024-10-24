@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Lucid** | New Grad 2025: Software Engineer | Remote</br>US | <a href="http://redirect.cvrve.me/9c789a505c73be31946d?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | **Replo** | New Grad 2024: Software Engineer | San Francisco, CA | <a href="http://redirect.cvrve.me/0907709bdb727425a7a0?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | **J.P Morgan Chase** | New Grad 2025: Software Engineer, Feb '25 Start | <details><summary>**12 locations**</summary>Atlanta, GA</br>Austin, TX</br>Chicago, IL</br>Columbus, OH</br>Houston, TX</br>Jersey City, NJ</br>New York, NY</br>Palo Alto, CA</br>Plano, TX</br>Seattle, WA</br>Tampa, FL</br>Wilmington, DE</details> | <a href="http://redirect.cvrve.me/b7e33e14832a372cbd8c?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | **Fitch Group** | New Grad 2025: Associate Software Engineer | New York, NY | <a href="http://redirect.cvrve.me/c64b27d85bd8d23eb95c?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
