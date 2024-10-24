@@ -10946,5 +10946,21 @@
         "date_posted": 1729798150,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729798622,
+        "url": "http://redirect.cvrve.me/5ba27abf3bad472bf213",
+        "company_name": "MLB",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "d0668ec7-eeaf-423c-a4e7-7a0b755555da",
+        "date_posted": 1729798622,
+        "company_url": "",
+        "is_visible": true
     }
 ]
