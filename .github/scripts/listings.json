@@ -17240,5 +17240,21 @@
         "date_posted": 1741482396,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1741482650,
+        "url": "http://redirect.cvrve.me/70851fd3df79437e2dcf",
+        "company_name": "Spotify",
+        "title": "Machine Learning Engineer - Content Understanding",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "930cd5a9-2de0-4f50-8d22-aa4ec63c3969",
+        "date_posted": 1741482650,
+        "company_url": "",
+        "is_visible": true
     }
 ]
