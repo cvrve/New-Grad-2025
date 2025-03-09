@@ -17224,5 +17224,21 @@
         "date_posted": 1740665344,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1741482396,
+        "url": "http://redirect.cvrve.me/57672449d84750c050bd",
+        "company_name": "Raytheon",
+        "title": "New Grad 2025: Software Engineer I",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "briz123",
+        "id": "4fc80f38-b0e2-4a39-9cde-d1b01c5177a1",
+        "date_posted": 1741482396,
+        "company_url": "",
+        "is_visible": true
     }
 ]
