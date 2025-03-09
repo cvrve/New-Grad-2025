@@ -17418,5 +17418,22 @@
         "date_posted": 1741516254,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1741516303,
+        "url": "http://redirect.cvrve.me/f2c9e20b1c94396ababd",
+        "company_name": "Keysight",
+        "title": "R&D Software Engineer",
+        "locations": [
+            "Santa Rosa, CA",
+            "Everett, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "a49ab923-2beb-4ef6-a268-01376784456b",
+        "date_posted": 1741516303,
+        "company_url": "",
+        "is_visible": true
     }
 ]
