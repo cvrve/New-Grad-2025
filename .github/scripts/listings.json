@@ -17306,5 +17306,21 @@
         "date_posted": 1741482842,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1741482998,
+        "url": "https://careers.nike.com/software-engineer-i/job/R-45889",
+        "company_name": "Nike",
+        "title": "Software Engineer I",
+        "locations": [
+            "Beaverton, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "23f01d1d-ab49-4132-ba75-f0cd7047237c",
+        "date_posted": 1741482998,
+        "company_url": "",
+        "is_visible": true
     }
 ]
