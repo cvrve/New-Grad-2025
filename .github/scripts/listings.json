@@ -17370,5 +17370,21 @@
         "date_posted": 1741515688,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1741515840,
+        "url": "http://redirect.cvrve.me/099645220beece312e77",
+        "company_name": "XPeng",
+        "title": "Machine Learning Engineer - LLM, AI & Robotics",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "f2a40818-e6cf-4395-9b20-37d08e97c6f9",
+        "date_posted": 1741515840,
+        "company_url": "",
+        "is_visible": true
     }
 ]
