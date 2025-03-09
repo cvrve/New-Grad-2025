@@ -17386,5 +17386,21 @@
         "date_posted": 1741515840,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1741516216,
+        "url": "http://redirect.cvrve.me/89180eb92aacdf32993e",
+        "company_name": "Silicon Labs",
+        "title": "Applications Engineer I",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "32765c03-0506-48b5-b503-5c9e2be77858",
+        "date_posted": 1741516216,
+        "company_url": "",
+        "is_visible": true
     }
 ]
