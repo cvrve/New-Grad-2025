@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Chewy** | Software Engineer I | Bellevue, WA | <a href="http://redirect.cvrve.me/0b05016600db405ca13e?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 27 |
 | **Spotify** | Backend Engineer | New York, NY | <a href="http://redirect.cvrve.me/a768e1cb3b1ed4ab22fc?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 23 |
 | **XPeng** | Machine Learning Engineer - LLM, AI & Robotics | Santa Clara, CA | <a href="http://redirect.cvrve.me/099645220beece312e77?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 09 |
 | **Tesla** | Frontend Engineer, Vehicle UI | Hawthorne, CA | <a href="http://redirect.cvrve.me/8c348d2a56476ea0874b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 09 |
