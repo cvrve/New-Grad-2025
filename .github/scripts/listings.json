@@ -17715,5 +17715,21 @@
         "date_posted": 1743415785,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1743415809,
+        "url": "http://redirect.cvrve.me/c98bc1ac334b14775987",
+        "company_name": "Qualcomm",
+        "title": "Embedded DSP Software Engineer",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "5dac35b2-b148-49f8-b3f5-828ba68da99c",
+        "date_posted": 1743415809,
+        "company_url": "",
+        "is_visible": true
     }
 ]
