@@ -17547,5 +17547,21 @@
         "date_posted": 1743413292,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1743413338,
+        "url": "http://redirect.cvrve.me/e4441737d0fdddb4b79e",
+        "company_name": "Scale AI",
+        "title": "New Grad 2025: Software Engineer, Public Sector",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "ff9b4e1c-46e9-4350-8d2a-7d48548512ba",
+        "date_posted": 1743413338,
+        "company_url": "",
+        "is_visible": true
     }
 ]
