@@ -17515,5 +17515,21 @@
         "date_posted": 1743413188,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1743413237,
+        "url": "http://redirect.cvrve.me/bbc464e49c371c63759d",
+        "company_name": "Cushman & Wakefield",
+        "title": "Mobile Building Engineer",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "a979e9cd-c1b3-4200-a519-2d6a73a7b2db",
+        "date_posted": 1743413237,
+        "company_url": "",
+        "is_visible": true
     }
 ]
