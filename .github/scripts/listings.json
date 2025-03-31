@@ -17499,5 +17499,21 @@
         "date_posted": 1743413144,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1743413188,
+        "url": "http://redirect.cvrve.me/aebd0564f5c453f2ff52",
+        "company_name": "CGI",
+        "title": "New Grad: Software Developer",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "d224dfb3-f885-4d83-b5ef-46f102e71ba5",
+        "date_posted": 1743413188,
+        "company_url": "",
+        "is_visible": true
     }
 ]
