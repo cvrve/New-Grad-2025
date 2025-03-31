@@ -17616,5 +17616,21 @@
         "date_posted": 1743414436,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1743414520,
+        "url": "http://redirect.cvrve.me/e29d2bbde8734138f3f9",
+        "company_name": "Signify",
+        "title": "Mobile App Software Engineer",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "ca6849da-852d-4a1e-b6f8-5a8ccc4e9e17",
+        "date_posted": 1743414520,
+        "company_url": "",
+        "is_visible": true
     }
 ]
