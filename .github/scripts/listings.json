@@ -17483,5 +17483,21 @@
         "date_posted": 1743413098,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1743413144,
+        "url": "http://redirect.cvrve.me/26a58fc67c6c3fd89894",
+        "company_name": "CGI",
+        "title": "New Grad: Software Developer",
+        "locations": [
+            "Lebanon, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "bb600abd-d5d9-4a24-a562-b5fe6758fce0",
+        "date_posted": 1743413144,
+        "company_url": "",
+        "is_visible": true
     }
 ]
