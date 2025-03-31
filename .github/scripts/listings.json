@@ -17667,5 +17667,21 @@
         "date_posted": 1743415621,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1743415653,
+        "url": "http://redirect.cvrve.me/7cdb8074006b1e482793",
+        "company_name": "Microsoft",
+        "title": "Fullstack Software Engineer",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "266cd3b5-0c5c-4cf4-8e1b-61e1babeb92d",
+        "date_posted": 1743415653,
+        "company_url": "",
+        "is_visible": true
     }
 ]
