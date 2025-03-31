@@ -60,6 +60,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **Wood Mackenzie** | Software Engineer I | Boston, MA | <a href="http://redirect.cvrve.me/85a9290eaadae50f1188?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
+| **Tesla** | Software Engineer, Low Voltage & Body Controls Automation | Palo Alto, CA | <a href="http://redirect.cvrve.me/ae72349482b9e7a490d1?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
 | **Splunk** | Frontend Software Engineer | Seattle, WA</br>Remote</br>US | <a href="http://redirect.cvrve.me/7ede50d861ade0de4a2b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
 | **Signify** | Mobile App Software Engineer | Menlo Park, CA | <a href="http://redirect.cvrve.me/e29d2bbde8734138f3f9?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
 | **ServiceNow** | Software Engineer - AI/ML | Santa Clara, CA | <a href="http://redirect.cvrve.me/9711b9e82684fb98796a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |

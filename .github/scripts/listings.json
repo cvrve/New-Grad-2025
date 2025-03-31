@@ -17699,5 +17699,21 @@
         "date_posted": 1743415729,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1743415785,
+        "url": "http://redirect.cvrve.me/ae72349482b9e7a490d1",
+        "company_name": "Tesla",
+        "title": "Software Engineer, Low Voltage & Body Controls Automation",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "f63995e9-c5a2-4a35-a40b-d9017296ddb7",
+        "date_posted": 1743415785,
+        "company_url": "",
+        "is_visible": true
     }
 ]
