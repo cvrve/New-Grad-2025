@@ -17467,5 +17467,21 @@
         "date_posted": 1743069267,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1743413098,
+        "url": "http://redirect.cvrve.me/16a4d09a2222469dd9bb",
+        "company_name": "Booz Allen",
+        "title": "Junior Software Developer",
+        "locations": [
+            "Charleston, SC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "a7cf3c1e-cb3b-4467-9ccb-74ca3d089caa",
+        "date_posted": 1743413098,
+        "company_url": "",
+        "is_visible": true
     }
 ]
