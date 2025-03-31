@@ -17563,5 +17563,21 @@
         "date_posted": 1743413338,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1743413410,
+        "url": "http://redirect.cvrve.me/85a9290eaadae50f1188",
+        "company_name": "Wood Mackenzie",
+        "title": "Software Engineer I",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "8403af46-3d6c-45e6-a184-4792ef89666f",
+        "date_posted": 1743413410,
+        "company_url": "",
+        "is_visible": true
     }
 ]

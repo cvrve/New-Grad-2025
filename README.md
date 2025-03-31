@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Wood Mackenzie** | Software Engineer I | Boston, MA | <a href="http://redirect.cvrve.me/85a9290eaadae50f1188?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
 | **Scale AI** | New Grad 2025: Software Engineer, Public Sector | San Francisco, CA | <a href="http://redirect.cvrve.me/e4441737d0fdddb4b79e?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
 | **Scale AI** | New Grad: Software Engineer | San Francisco, CA | <a href="http://redirect.cvrve.me/254d3014d92767e782d5?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
 | **Cushman & Wakefield** | Mobile Building Engineer | Tampa, FL | <a href="http://redirect.cvrve.me/bbc464e49c371c63759d?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
