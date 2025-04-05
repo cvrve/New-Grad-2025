@@ -17812,5 +17812,21 @@
         "date_posted": 1743853380,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1743853467,
+        "url": "http://redirect.cvrve.me/da2607bb496c011fcdca",
+        "company_name": "Roblox",
+        "title": "Software Engineer, Builder Tools",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "ee508fa1-ac39-4d8c-8b2a-4a04b4aa0997",
+        "date_posted": 1743853467,
+        "company_url": "",
+        "is_visible": true
     }
 ]
