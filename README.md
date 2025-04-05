@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Qualtrics** | Machine Learning Engineer I | Seattle, WA | <a href="http://redirect.cvrve.me/d63bcf3a72beb3f2acdd?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
 | **NVIDIA** | New Grad 2025: Deep Learning Computer Architect | Santa Clara, CA | <a href="http://redirect.cvrve.me/5e2da6a8714aa08988a8?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
 | **Wood Mackenzie** | Software Engineer I | Boston, MA | <a href="http://redirect.cvrve.me/85a9290eaadae50f1188?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
 | **Tesla** | Software Engineer, Low Voltage & Body Controls Automation | Palo Alto, CA | <a href="http://redirect.cvrve.me/ae72349482b9e7a490d1?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
