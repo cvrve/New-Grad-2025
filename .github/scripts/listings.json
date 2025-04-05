@@ -17941,5 +17941,21 @@
         "date_posted": 1743854228,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1743854268,
+        "url": "http://redirect.cvrve.me/407ac0b9c598ede212a4",
+        "company_name": "Tesla",
+        "title": "Software Engineer, Traction Control & Stability",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "fc942483-7ef4-4281-8187-1278fca8904a",
+        "date_posted": 1743854268,
+        "company_url": "",
+        "is_visible": true
     }
 ]
