@@ -17860,5 +17860,21 @@
         "date_posted": 1743853769,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1743853814,
+        "url": "http://redirect.cvrve.me/3a315b30f57698e2fbed",
+        "company_name": "Layup Parts",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Huntington Beach, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "e58ea55f-088e-4821-a4ea-dfe11ff86f66",
+        "date_posted": 1743853814,
+        "company_url": "",
+        "is_visible": true
     }
 ]
