@@ -17957,5 +17957,21 @@
         "date_posted": 1743854268,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1743854358,
+        "url": "http://redirect.cvrve.me/3b3707b5f79950ac5dfe",
+        "company_name": "Roblox",
+        "title": "New Grad 2025: Software Engineer, Game Solutions Engineering",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "7b5acac0-f9bd-41ec-9452-d6b4e40f8488",
+        "date_posted": 1743854358,
+        "company_url": "",
+        "is_visible": true
     }
 ]
