@@ -17973,5 +17973,26 @@
         "date_posted": 1743854358,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1743854598,
+        "url": "http://redirect.cvrve.me/f5ea44cb8a9eb2ae6ef5",
+        "company_name": "Blue Origin",
+        "title": "New Grad 2025: Software Development Engineer I",
+        "locations": [
+            "Seattle, WA",
+            "Van Horn, TX",
+            "Huntsville, AL",
+            "Denver, CO",
+            "Space Coast, FL",
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "721d546e-f692-4f24-b1ba-62f51bf7281a",
+        "date_posted": 1743854598,
+        "company_url": "",
+        "is_visible": true
     }
 ]
