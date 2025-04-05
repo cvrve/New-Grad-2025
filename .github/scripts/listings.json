@@ -17844,5 +17844,21 @@
         "date_posted": 1743853506,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1743853769,
+        "url": "http://redirect.cvrve.me/d12072293cbe166e54e9",
+        "company_name": "Twitch",
+        "title": "Software Development Engineer - Safety ML",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "7e15c90e-ab8e-4fc6-bb07-a39b7a07cc43",
+        "date_posted": 1743853769,
+        "company_url": "",
+        "is_visible": true
     }
 ]
