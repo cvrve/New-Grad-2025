@@ -17909,5 +17909,21 @@
         "date_posted": 1743854117,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1743854185,
+        "url": "http://redirect.cvrve.me/e9365cc8001f25806345",
+        "company_name": "Corgi - YC",
+        "title": "Junior Full Stack Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "ec5ff8fc-6224-454b-be74-be4bc32d94d4",
+        "date_posted": 1743854185,
+        "company_url": "",
+        "is_visible": true
     }
 ]
