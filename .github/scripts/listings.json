@@ -17994,5 +17994,21 @@
         "date_posted": 1743854598,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744154107,
+        "url": "https://nordstrom.wd5.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Developer-Tools-Support-Engineer-1--Hybrid---Seattle--WA-_R-729931",
+        "company_name": "Nordstrom",
+        "title": "Developer Tools Support Engineer 1",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "mr4tt",
+        "id": "99a52adf-e234-4e75-9829-e9c4291565b7",
+        "date_posted": 1744154107,
+        "company_url": "",
+        "is_visible": true
     }
 ]

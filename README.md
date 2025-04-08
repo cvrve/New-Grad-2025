@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Nordstrom** | Developer Tools Support Engineer 1 | Seattle, WA | <a href="https://nordstrom.wd5.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Developer-Tools-Support-Engineer-1--Hybrid---Seattle--WA-_R-729931?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 08 |
 | **Twitch** | Software Engineer | Seattle, WA</br>San Francisco, CA | <a href="http://redirect.cvrve.me/62730a5194c752cfa268?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
 | **Twitch** | Software Development Engineer - Safety ML | San Francisco, CA | <a href="http://redirect.cvrve.me/d12072293cbe166e54e9?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
 | **Tesla** | Software Engineer, Traction Control & Stability | Palo Alto, CA | <a href="http://redirect.cvrve.me/407ac0b9c598ede212a4?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
