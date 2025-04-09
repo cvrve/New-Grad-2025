@@ -18010,5 +18010,21 @@
         "date_posted": 1744154107,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744157845,
+        "url": "https://jobs.ashbyhq.com/creditgenie/016056e0-61cd-4a19-9d42-5f3cd88fed02",
+        "company_name": "Credit Genie",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "b26e4dea-7809-4ece-96c8-ebd97f5e3021",
+        "date_posted": 1744157845,
+        "company_url": "",
+        "is_visible": true
     }
 ]
