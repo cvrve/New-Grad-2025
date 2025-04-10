@@ -18069,5 +18069,21 @@
         "date_posted": 1744310045,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744310091,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0137457",
+        "company_name": "Amentum",
+        "title": "Entry Level Software Engineer",
+        "locations": [
+            "Dahlgren, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "742fffec-9126-4e88-8c6f-7c36c88b490a",
+        "date_posted": 1744310091,
+        "company_url": "",
+        "is_visible": true
     }
 ]
