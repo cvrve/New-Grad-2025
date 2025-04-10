@@ -18085,5 +18085,21 @@
         "date_posted": 1744310091,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744310125,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0137459-1",
+        "company_name": "Amentum",
+        "title": "Entry Level Software Engineer",
+        "locations": [
+            "Fredericksburg, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "e4eaf89b-576e-44e2-8236-cca72fc02295",
+        "date_posted": 1744310125,
+        "company_url": "",
+        "is_visible": true
     }
 ]
