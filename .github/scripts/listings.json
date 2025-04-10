@@ -9045,7 +9045,7 @@
         "date_updated": 1728204970,
         "url": "https://careers.ibm.com/job/21041498/software-developer-full-stack-markham-ca/",
         "company_name": "IBM",
-        "title": "Software Developer – Full-Stack",
+        "title": "Software Developer \u2013 Full-Stack",
         "locations": [
             "Markham, CA"
         ],
@@ -9884,7 +9884,7 @@
         "company_name": "Epic Games",
         "title": "Desktop Platform Programmer",
         "locations": [
-            "Montréal, Canada"
+            "Montr\u00e9al, Canada"
         ],
         "sponsorship": "Other",
         "active": true,
@@ -12262,7 +12262,7 @@
     {
         "date_updated": 1731672315,
         "url": "https://condenast.wd5.myworkdayjobs.com/en-US/CondeCareers/job/1-World-Trade-Center-New-York-NY/Data-Engineer-I_R-17924-1",
-        "company_name": "Condé Nast",
+        "company_name": "Cond\u00e9 Nast",
         "title": "Data Engineer I",
         "locations": [
             "New York, NY"
@@ -15251,7 +15251,7 @@
         "date_updated": 1736497803,
         "url": "https://www.calfus.com/jobopening/a24aef61-edbb-4322-a6be-2f6bac382741",
         "company_name": "Calfus",
-        "title": "Software Engineer – Generative AI",
+        "title": "Software Engineer \u2013 Generative AI",
         "locations": [
             "Pleasanton, CA"
         ],
@@ -18024,6 +18024,22 @@
         "source": "vanshb03",
         "id": "b26e4dea-7809-4ece-96c8-ebd97f5e3021",
         "date_posted": 1744157845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1744309947,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ807-RMS-AP-Bldg-807-1151-East-Hermans-Road-Building-807-Tucson-AZ-85756-USA/Software-Engineer-I_01761917",
+        "company_name": "RTX",
+        "title": "Software Engineer I",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "01760a81-0c04-4221-ae32-969c9c216e41",
+        "date_posted": 1744309947,
         "company_url": "",
         "is_visible": true
     }

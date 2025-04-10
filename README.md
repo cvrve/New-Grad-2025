@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **RTX** | Software Engineer I | Tucson, AZ | <a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ807-RMS-AP-Bldg-807-1151-East-Hermans-Road-Building-807-Tucson-AZ-85756-USA/Software-Engineer-I_01761917?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 10 |
 | **Credit Genie** | New Grad: Software Engineer | New York, NY | <a href="https://jobs.ashbyhq.com/creditgenie/016056e0-61cd-4a19-9d42-5f3cd88fed02?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 09 |
 | **Nordstrom** | Developer Tools Support Engineer 1 | Seattle, WA | <a href="https://nordstrom.wd5.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Developer-Tools-Support-Engineer-1--Hybrid---Seattle--WA-_R-729931?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 08 |
 | **Twitch** | Software Engineer | Seattle, WA</br>San Francisco, CA | <a href="https://www.amazon.jobs/en/jobs/2944002/software-engineer?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
