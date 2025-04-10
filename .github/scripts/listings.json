@@ -18042,5 +18042,32 @@
         "date_posted": 1744309947,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744310045,
+        "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Alpharetta-Site/Android-Engineer-I---Digital-Servicing_2501251-1",
+        "company_name": "Synchrony",
+        "title": "Android Engineer I \u2013 Digital Servicing",
+        "locations": [
+            "Newport Beach, CA",
+            "Stamford, CT",
+            "Dallas, TX",
+            "Chicago, IL",
+            "Altamonte Springs, FL",
+            "Charlotte, NC",
+            "Alpharetta, GA",
+            "Rapid City, SD",
+            "New York, NY",
+            "Kansas City, KS",
+            "St Paul, MN",
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "f3615e58-90dc-4e24-bb3b-3b94251180f6",
+        "date_posted": 1744310045,
+        "company_url": "",
+        "is_visible": true
     }
 ]
