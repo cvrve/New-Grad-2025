@@ -18101,5 +18101,21 @@
         "date_posted": 1744310125,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744344065,
+        "url": "https://jobs.lever.co/palantir/08de0376-68e1-460b-bd4c-42b57f8a0ecc",
+        "company_name": "Palantir",
+        "title": "Forward Deployed Software Engineer - Build to Apply",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "33a9107c-942f-49c1-903a-5427ba075409",
+        "date_posted": 1744344065,
+        "company_url": "",
+        "is_visible": true
     }
 ]
