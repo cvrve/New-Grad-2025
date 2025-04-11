@@ -42,6 +42,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Canonical** | Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu | Canada | <a href="https://job-boards.greenhouse.io/canonicaljobs/jobs/6695573?gh_src=d3b1b7c21us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | April 11 |
 | **Oracle** | Software Developer - Rotational Program - NetSuite | Canada | <a href="https://careers.oracle.com/jobs/#en/sites/jobsearch/job/264377/?lastSelectedFacet=LOCATIONS&mode=zipcode&selectedFlexFieldsFacets=%2522AttributeChar13%257CCampus%2522&selectedLocationsFacet=300000000106749"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | April 11 |
 | **Oracle** | Software Developer - Oracle Labs | Canada | <a href="https://careers.oracle.com/jobs/#en/sites/jobsearch/job/287106/?lastSelectedFacet=LOCATIONS&mode=zipcode&selectedFlexFieldsFacets=%2522AttributeChar13%257CCampus%2522&selectedLocationsFacet=300000000106749"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | April 11 |
 | **Fortinet** | New Grad Jobs 2025 | Ottawa, Canada | <a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/New_Grad_2019-Ottawa?utm_medium=jobshare"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | April 11 |
