@@ -18117,5 +18117,21 @@
         "date_posted": 1744344065,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744344105,
+        "url": "https://jobs.lever.co/palantir/4d35c1a0-bbb7-4e97-b989-3a294c8be078",
+        "company_name": "Palantir",
+        "title": "Deployment Strategist - Build to Apply",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "52d98df0-2e34-4be9-907e-1fbf33e79bc7",
+        "date_posted": 1744344105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
