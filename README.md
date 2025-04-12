@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Tesla** | Frontend Engineer, GenAI Model Evaluation | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/frontend-engineer-genai-model-evaluation-226925?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 12 |
 | **Tesla** | Software Engineer, Metrics, GenAI Model Evaluation | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/software-engineer-metrics-genai-model-evaluation-226926?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 12 |
 | **Tesla** | Software Engineer, Drivers & Control Plane, Dojo | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/240828?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 12 |
 | **Palantir** | Deployment Strategist - Build to Apply | New York, NY | <a href="https://jobs.lever.co/palantir/4d35c1a0-bbb7-4e97-b989-3a294c8be078?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 11 |

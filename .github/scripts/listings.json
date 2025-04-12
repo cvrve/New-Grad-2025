@@ -18165,5 +18165,21 @@
         "date_posted": 1744461156,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744461195,
+        "url": "https://www.tesla.com/careers/search/job/frontend-engineer-genai-model-evaluation-226925",
+        "company_name": "Tesla",
+        "title": "Frontend Engineer, GenAI Model Evaluation",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "407a24d3-3108-4887-a98f-fccebb440501",
+        "date_posted": 1744461195,
+        "company_url": "",
+        "is_visible": true
     }
 ]
