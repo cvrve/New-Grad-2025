@@ -18302,5 +18302,21 @@
         "date_posted": 1744461687,
         "company_url": "",
         "is_visible": true
-      }
+    },
+    {
+        "date_updated": 1744461923,
+        "url": "https://job-boards.greenhouse.io/twitch/jobs/7950562002",
+        "company_name": "Twitch",
+        "title": "Software Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "a4a7d133-c6d7-410f-831f-37bab673b4b5",
+        "date_posted": 1744461923,
+        "company_url": "",
+        "is_visible": true
+    }
 ]

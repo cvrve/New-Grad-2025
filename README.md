@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Twitch** | Software Engineer | San Francisco, CA | <a href="https://job-boards.greenhouse.io/twitch/jobs/7950562002?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 12 |
 | **Tesla** | Linux Site Reliability Engineer, IT Manufacturing Site Reliability Engineering | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/241276?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 12 |
 | **Tesla** | Software Engineer, AI Driven Test Automation | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/235630?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 12 |
 | **Tesla** | Frontend Engineer, GenAI Model Evaluation | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/frontend-engineer-genai-model-evaluation-226925?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 12 |
