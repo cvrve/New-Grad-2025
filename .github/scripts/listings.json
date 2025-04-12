@@ -18181,5 +18181,21 @@
         "date_posted": 1744461195,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744461221,
+        "url": "https://www.tesla.com/careers/search/job/235630",
+        "company_name": "Tesla",
+        "title": "Software Engineer, AI Driven Test Automation",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "252ef5c1-95c3-4c8b-ac3c-aec374a22f41",
+        "date_posted": 1744461221,
+        "company_url": "",
+        "is_visible": true
     }
 ]
