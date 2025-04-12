@@ -18350,5 +18350,22 @@
         "date_posted": 1744462129,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744462175,
+        "url": "https://amazon.jobs/en/jobs/2855790/software-development-engineer-i-2025-computer-science",
+        "company_name": "Amazon",
+        "title": "New Grad 2025: Software Development Engineer I",
+        "locations": [
+            "Vancouver, BC",
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "17c35d70-b2fc-4725-be99-5f4707b80d62",
+        "date_posted": 1744462175,
+        "company_url": "",
+        "is_visible": true
     }
 ]
