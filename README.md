@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Tesla** | Software Engineer, Drivers & Control Plane, Dojo | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/240828?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 12 |
 | **Palantir** | Deployment Strategist - Build to Apply | New York, NY | <a href="https://jobs.lever.co/palantir/4d35c1a0-bbb7-4e97-b989-3a294c8be078?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 11 |
 | **Palantir** | Forward Deployed Software Engineer - Build to Apply | New York, NY | <a href="https://jobs.lever.co/palantir/08de0376-68e1-460b-bd4c-42b57f8a0ecc?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 11 |
 | **Synchrony** | Android Engineer I – Digital Servicing | <details><summary>**12 locations**</summary>Newport Beach, CA</br>Stamford, CT</br>Dallas, TX</br>Chicago, IL</br>Altamonte Springs, FL</br>Charlotte, NC</br>Alpharetta, GA</br>Rapid City, SD</br>New York, NY</br>Kansas City, KS</br>St Paul, MN</br>Cincinnati, OH</details> | <a href="https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Alpharetta-Site/Android-Engineer-I---Digital-Servicing_2501251-1?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 10 |

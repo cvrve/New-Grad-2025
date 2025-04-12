@@ -18133,5 +18133,21 @@
         "date_posted": 1744344105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744461114,
+        "url": "https://www.tesla.com/careers/search/job/240828",
+        "company_name": "Tesla",
+        "title": "Software Engineer, Drivers & Control Plane, Dojo",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "f0c2be17-3aca-4d9f-b2b0-deabfbda7824",
+        "date_posted": 1744461114,
+        "company_url": "",
+        "is_visible": true
     }
 ]
