@@ -18252,5 +18252,21 @@
         "date_posted": 1744461490,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744461525,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/SRAM-CAD-Engineer---New-College-Grad-2025_JR1996519",
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: SRAM CAD Engineer",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "031dca8d-4bd2-49fc-87fb-6253f2238951",
+        "date_posted": 1744461525,
+        "company_url": "",
+        "is_visible": true
     }
 ]
