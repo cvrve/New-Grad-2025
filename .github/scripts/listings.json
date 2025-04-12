@@ -18236,5 +18236,21 @@
         "date_posted": 1744461456,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744461490,
+        "url": "https://www.amazon.jobs/en/jobs/2953226/systems-development-engineer-mechatronics-and-sustainable-packaging",
+        "company_name": "Amazon",
+        "title": "Systems Development Engineer, Mechatronics and Sustainable Packaging",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "13365f9a-2971-485b-9148-90cac76f3f3d",
+        "date_posted": 1744461490,
+        "company_url": "",
+        "is_visible": true
     }
 ]
