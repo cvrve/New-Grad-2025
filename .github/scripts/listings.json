@@ -18197,5 +18197,21 @@
         "date_posted": 1744461221,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744461378,
+        "url": "https://www.tesla.com/careers/search/job/241276",
+        "company_name": "Tesla",
+        "title": "Linux Site Reliability Engineer, IT Manufacturing Site Reliability Engineering",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "f35d66b7-9622-4422-ba7c-4f209b3b96fc",
+        "date_posted": 1744461378,
+        "company_url": "",
+        "is_visible": true
     }
 ]
