@@ -18149,5 +18149,21 @@
         "date_posted": 1744461114,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744461156,
+        "url": "https://www.tesla.com/careers/search/job/software-engineer-metrics-genai-model-evaluation-226926",
+        "company_name": "Tesla",
+        "title": "Software Engineer, Metrics, GenAI Model Evaluation",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "d58dd8cd-d5b1-4b7e-afba-c8a0952ed039",
+        "date_posted": 1744461156,
+        "company_url": "",
+        "is_visible": true
     }
 ]
