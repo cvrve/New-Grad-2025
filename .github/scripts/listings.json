@@ -18334,5 +18334,21 @@
         "date_posted": 1744461990,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744462129,
+        "url": "https://amperity.com/careers/6799726?gh_jid=6799726&gh_src=053ff1fc1us&gh_jid=6799726",
+        "company_name": "Amperity",
+        "title": "Software Development Engineer I",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "7403096c-37ed-4440-8f23-871cdc957c4b",
+        "date_posted": 1744462129,
+        "company_url": "",
+        "is_visible": true
     }
 ]
