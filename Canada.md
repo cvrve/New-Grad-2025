@@ -1,8 +1,8 @@
-# Canadian New Grad Positions by Cvrve 
+# Canadian New Grad Positions by V 
 
 Use this repo to share and keep track of entry-level software, tech, CS, PM, quant jobs for 2024 & 2025 new graduates.
 
-The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked](https://wecracked.com/) and [Resumes.fyi](https://resumes.fyi/)!
+The list is maintained collaboratively by [WeCracked](https://wecracked.com/) and [Resumes.fyi](https://resumes.fyi/)!
 
 :warning: Please note that this page is exclusively for roles in Canada, or Remote positions :earth_americas:
 

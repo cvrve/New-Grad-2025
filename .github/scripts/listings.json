@@ -18284,5 +18284,23 @@
         "date_posted": 1744461547,
         "company_url": "",
         "is_visible": true
-    }
+    },
+    {
+        "date_updated": 1744461687,
+        "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-GB/crowdstrikecareers/job/USA---Remote/Engineer-I---Product-Security--Remote-_R22819",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Crowdstrike",
+        "title": "Application Security Engineer I - Product Security",
+        "source": "vanshb03",
+        "id": "56abf872-e358-46ab-8359-c6c4500f9bda",
+        "date_posted": 1744461687,
+        "company_url": "",
+        "is_visible": true
+      }
 ]
