@@ -18213,5 +18213,28 @@
         "date_posted": 1744461378,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744461456,
+        "url": "https://www.amazon.jobs/en/jobs/2950609/software-dev-engineer-computer-science",
+        "company_name": "Amazon",
+        "title": "Software Dev Engineer",
+        "locations": [
+            "Austin, TX",
+            "New York, NY",
+            "Seattle, WA",
+            "Culver City, CA",
+            "Santa Clara, CA",
+            "Bellevue, WA",
+            "Denver, CO",
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "f09dd0db-3818-4822-9386-f33f414113fb",
+        "date_posted": 1744461456,
+        "company_url": "",
+        "is_visible": true
     }
 ]
