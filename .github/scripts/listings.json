@@ -18400,5 +18400,23 @@
         "date_posted": 1744462260,
         "company_url": "",
         "is_visible": true
-    }
+    },
+    {
+        "date_updated": 1744462531,
+        "url": "https://athene.wd5.myworkdayjobs.com/en-US/Apollo_Careers/job/El-Segundo-California/Full-Stack-Engineer_R240715-1",
+        "locations": [
+          "El Segundo, California"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apollo",
+        "title": "Full Stack Engineer",
+        "source": "vanshb03",
+        "id": "5ad771e6-9c7f-46cf-b440-a6dad72d49e2",
+        "date_posted": 1744462531,
+        "company_url": "",
+        "is_visible": true
+    },
+    
 ]
