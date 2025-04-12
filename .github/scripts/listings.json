@@ -18367,5 +18367,21 @@
         "date_posted": 1744462175,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744462229,
+        "url": "https://www.esri.com/careers/4700976007?gh_jid=4700976007",
+        "company_name": "Esri",
+        "title": "Backend Java Engineer I - Data Pipelines",
+        "locations": [
+            "Redlands, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "5bf6c42e-5b70-43db-b340-58297de9224d",
+        "date_posted": 1744462229,
+        "company_url": "",
+        "is_visible": true
     }
 ]
