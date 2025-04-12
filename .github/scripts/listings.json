@@ -18268,5 +18268,21 @@
         "date_posted": 1744461525,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744461547,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/SRAM-Circuit-Design-Engineer---New-College-Grad-2025_JR1996520",
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: SRAM Circuit Design Engineer",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "ae5619d7-9832-405b-92a8-f805af17ec4a",
+        "date_posted": 1744461547,
+        "company_url": "",
+        "is_visible": true
     }
 ]
