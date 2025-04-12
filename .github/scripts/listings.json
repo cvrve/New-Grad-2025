@@ -18318,5 +18318,21 @@
         "date_posted": 1744461923,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744461990,
+        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5496919004",
+        "company_name": "Playstation",
+        "title": "Software Engineer I",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "7fad275b-0228-4b30-8f05-750e91925b88",
+        "date_posted": 1744461990,
+        "company_url": "",
+        "is_visible": true
     }
 ]
