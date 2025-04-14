@@ -18465,5 +18465,21 @@
         "date_posted": 1744658370,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744658401,
+        "url": "https://recruiting.ultipro.com/VMS1002VMOO/JobBoard/3dde3e78-a60b-47af-93cf-ef6db6ed312b/OpportunityDetail?opportunityId=fa0772d7-fa49-4ce9-b7ae-de1a0da018eb",
+        "company_name": "21CS",
+        "title": "Graduate Software Engineer",
+        "locations": [
+            "Morehead City, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "8f371c86-66af-4fb5-b691-d8e1f3497d40",
+        "date_posted": 1744658401,
+        "company_url": "",
+        "is_visible": true
     }
 ]
