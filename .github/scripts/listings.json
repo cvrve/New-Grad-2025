@@ -18481,5 +18481,21 @@
         "date_posted": 1744658401,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744658479,
+        "url": "https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Scottsdale/Software-Engineer_REQ2025270",
+        "company_name": "Early Warning",
+        "title": "Software Engineer",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "050c5f24-3b5a-454a-9a12-26786eb3f364",
+        "date_posted": 1744658479,
+        "company_url": "",
+        "is_visible": true
     }
 ]
