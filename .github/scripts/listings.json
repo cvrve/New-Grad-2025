@@ -18513,5 +18513,22 @@
         "date_posted": 1744658532,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744658627,
+        "url": "https://linksquares.com/careers/open-positions/?gh_jid=4537585005",
+        "company_name": "LinkSquares",
+        "title": "Software Engineer",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "98d1b1c5-e4cb-41a5-bddf-ef210fd5fa62",
+        "date_posted": 1744658627,
+        "company_url": "",
+        "is_visible": true
     }
 ]
