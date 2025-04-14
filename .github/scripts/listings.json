@@ -18497,5 +18497,21 @@
         "date_posted": 1744658479,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744658532,
+        "url": "https://medela.wd103.myworkdayjobs.com/en-US/Medela_Careers/job/Software-Development-Engineer_R2129-2",
+        "company_name": "Medela",
+        "title": "Associate Software Development Engineer",
+        "locations": [
+            "McHenry, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "0bd2a801-adfe-45bb-a06a-9309e6f02c8e",
+        "date_posted": 1744658532,
+        "company_url": "",
+        "is_visible": true
     }
 ]
