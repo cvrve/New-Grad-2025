@@ -18433,5 +18433,21 @@
         "date_posted": 1744658217,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744658336,
+        "url": "https://canada-appliedsystems.icims.com/jobs/6506/software-engineer/job",
+        "company_name": "Applied Systems",
+        "title": "Software Engineer",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "d99e9ba5-1107-4b80-81b8-e25705c8d5aa",
+        "date_posted": 1744658336,
+        "company_url": "",
+        "is_visible": true
     }
 ]
