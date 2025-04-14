@@ -18405,7 +18405,7 @@
         "date_updated": 1744462531,
         "url": "https://athene.wd5.myworkdayjobs.com/en-US/Apollo_Careers/job/El-Segundo-California/Full-Stack-Engineer_R240715-1",
         "locations": [
-          "El Segundo, California"
+            "El Segundo, California"
         ],
         "season": "Summer",
         "sponsorship": "Other",
@@ -18415,6 +18415,22 @@
         "source": "vanshb03",
         "id": "5ad771e6-9c7f-46cf-b440-a6dad72d49e2",
         "date_posted": 1744462531,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1744658217,
+        "url": "https://jobs.bentley.com/job/Exton-Software-Engineer-PA-19341/1281097600",
+        "company_name": "Bentley",
+        "title": "Software Engineer",
+        "locations": [
+            "Exton, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "f7e1156c-709a-4cc3-a9ba-db7b853fc330",
+        "date_posted": 1744658217,
         "company_url": "",
         "is_visible": true
     }
