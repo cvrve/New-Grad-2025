@@ -18530,5 +18530,21 @@
         "date_posted": 1744658627,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744658719,
+        "url": "https://thorsolutionsllc.applytojob.com/apply/C8LIaGu8So/Software-Engineer-I?referrer=20250414192432YMUDC3C4I6XZL15U",
+        "company_name": "Thor Solutions",
+        "title": "Software Engineer I",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "8be0d853-a214-4dfe-96ae-f5c0819942b4",
+        "date_posted": 1744658719,
+        "company_url": "",
+        "is_visible": true
     }
 ]
