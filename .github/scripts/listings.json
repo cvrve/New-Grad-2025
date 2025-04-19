@@ -18546,5 +18546,22 @@
         "date_posted": 1744658719,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1745103611,
+        "url": "https://job-boards.greenhouse.io/canonicaljobs/jobs/6695573",
+        "company_name": "Canonical",
+        "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
+        "locations": [
+            "Remote",
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "aliraeisdanaei",
+        "id": "c00cadae-5841-4f8e-a46a-21419b7c186e",
+        "date_posted": 1745103611,
+        "company_url": "",
+        "is_visible": true
     }
 ]

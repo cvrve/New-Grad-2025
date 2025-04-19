@@ -42,6 +42,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Canonical** | Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu | Remote</br>Toronto, Canada | <a href="https://job-boards.greenhouse.io/canonicaljobs/jobs/6695573?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 19 |
 | **Applied Systems** | Software Engineer | Toronto, Canada | <a href="https://canada-appliedsystems.icims.com/jobs/6506/software-engineer/job?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 14 |
 | **Amazon** | New Grad 2025: Software Development Engineer I | Vancouver, BC</br>Toronto, Canada | <a href="https://amazon.jobs/en/jobs/2855790/software-development-engineer-i-2025-computer-science?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 12 |
 | **Secoda** | New Grad Software Engineer | Toronto, Canada | <a href="https://jobs.ashbyhq.com/secoda/ad9807e9-a9d3-4247-99d7-37f68995ecd3?utm_source=cvrve&ref=cvrve&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 25 |
