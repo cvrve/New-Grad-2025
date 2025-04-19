@@ -42,6 +42,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Oracle** | Software Developer | Remote</br>Canada | <a href="https://careers.oracle.com/jobs/#en/sites/jobsearch/job/287106?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 19 |
 | **Oracle** | Software Developer - Rotational Program - NetSuite | Kitchiner, Canada | <a href="https://careers.oracle.com/jobs/#en/sites/jobsearch/job/264377?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 19 |
 | **Canonical** | Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu | Remote</br>Toronto, Canada | <a href="https://job-boards.greenhouse.io/canonicaljobs/jobs/6695573?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 19 |
 | **Applied Systems** | Software Engineer | Toronto, Canada | <a href="https://canada-appliedsystems.icims.com/jobs/6506/software-engineer/job?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 14 |

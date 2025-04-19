@@ -18579,5 +18579,22 @@
         "date_posted": 1745103655,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1745103730,
+        "url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/job/287106",
+        "company_name": "Oracle",
+        "title": "Software Developer",
+        "locations": [
+            "Remote",
+            "Canada"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "aliraeisdanaei",
+        "id": "f0b29636-fe93-45c4-9d58-4e50269709d0",
+        "date_posted": 1745103730,
+        "company_url": "",
+        "is_visible": true
     }
 ]
