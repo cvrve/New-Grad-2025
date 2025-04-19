@@ -18563,5 +18563,21 @@
         "date_posted": 1745103611,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1745103655,
+        "url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/job/264377",
+        "company_name": "Oracle",
+        "title": "Software Developer - Rotational Program - NetSuite",
+        "locations": [
+            "Kitchiner, Canada"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "aliraeisdanaei",
+        "id": "ba74994c-96e8-4997-8f6d-2bb2ea5d9feb",
+        "date_posted": 1745103655,
+        "company_url": "",
+        "is_visible": true
     }
 ]
