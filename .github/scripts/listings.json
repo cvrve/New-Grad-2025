@@ -18596,5 +18596,21 @@
         "date_posted": 1745103730,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1745661241,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=4447610006",
+        "company_name": "AppLovin",
+        "title": "New Grad: Backend Infrastructure Engineer",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "7160d222-a500-4e1f-94ac-c6e45c8ba607",
+        "date_posted": 1745661241,
+        "company_url": "",
+        "is_visible": true
     }
 ]
