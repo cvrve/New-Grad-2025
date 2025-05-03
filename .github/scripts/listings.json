@@ -18830,5 +18830,21 @@
         "date_posted": 1746308279,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1746308303,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Berkeley-MO/Entry-Level-Embedded-Software-Engineers_JR2025454206",
+        "company_name": "Boeing",
+        "title": "Entry Level Embedded Software Engineer",
+        "locations": [
+            "Berkeley, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "102f5139-685f-4c25-86e9-8c8db8967f5f",
+        "date_posted": 1746308303,
+        "company_url": "",
+        "is_visible": true
     }
 ]
