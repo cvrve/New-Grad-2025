@@ -18781,5 +18781,21 @@
         "date_posted": 1746308128,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1746308159,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/XMLNAME-2025-University-Graduate---Software-Engineer_R148217",
+        "company_name": "Adobe",
+        "title": "New Grad 2025: Software Engineer",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "d68c19c6-a385-421e-b99d-7ab025f9d81c",
+        "date_posted": 1746308159,
+        "company_url": "",
+        "is_visible": true
     }
 ]
