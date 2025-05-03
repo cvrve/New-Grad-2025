@@ -18748,5 +18748,21 @@
         "date_posted": 1746307943,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1746308073,
+        "url": "https://tower-research.com/open-positions/?gh_jid=6855851",
+        "company_name": "Tower Research Capital",
+        "title": "New Grad: C++ Software Engineer, MTL",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "82124178-abca-4f2e-8dd2-06ce3d3399a9",
+        "date_posted": 1746308073,
+        "company_url": "",
+        "is_visible": true
     }
 ]
