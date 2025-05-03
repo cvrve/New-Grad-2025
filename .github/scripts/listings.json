@@ -18697,5 +18697,23 @@
         "date_posted": 1746307804,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1746307847,
+        "url": "https://www.disneycareers.com/en/job/-/-/391/80725916816",
+        "company_name": "Disney",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Seattle, WA",
+            "Burbank, CA",
+            "Orlando, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "05a4dd9a-92a4-4258-8493-c1e06cec5d4c",
+        "date_posted": 1746307847,
+        "company_url": "",
+        "is_visible": true
     }
 ]
