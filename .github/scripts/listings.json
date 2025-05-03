@@ -18764,5 +18764,22 @@
         "date_posted": 1746308073,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1746308128,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Sill-OK/Software-Developer---Entry-level_R-00158332",
+        "company_name": "Leidos",
+        "title": "Entry Level Software Developer",
+        "locations": [
+            "Fort Sill, OK",
+            "Lawton, OK"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "6d27a598-3ae7-4faf-8129-0f9f240b4476",
+        "date_posted": 1746308128,
+        "company_url": "",
+        "is_visible": true
     }
 ]
