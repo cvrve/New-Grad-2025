@@ -18644,5 +18644,22 @@
         "date_posted": 1746307655,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1746307696,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Design-Engineer--Coherent-High-Speed-Interconnect---New-College-Grad-2025_JR1997017",
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: Design Engineer, Coherent High Speed Interconnect",
+        "locations": [
+            "Santa Clara, CA",
+            "Westford, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "b18a6534-dfc2-4c0a-a97d-baa133704d54",
+        "date_posted": 1746307696,
+        "company_url": "",
+        "is_visible": true
     }
 ]
