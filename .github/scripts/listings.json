@@ -18715,5 +18715,21 @@
         "date_posted": 1746307847,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1746307881,
+        "url": "https://careers.sig.com/job/SUSQA004Y9261",
+        "company_name": "SIG",
+        "title": "New Grad: Software Developer",
+        "locations": [
+            "Bala Cynwyd, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "fec7501c-18a5-4233-9d14-fed4d85a8a32",
+        "date_posted": 1746307881,
+        "company_url": "",
+        "is_visible": true
     }
 ]
