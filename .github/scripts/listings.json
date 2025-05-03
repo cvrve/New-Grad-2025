@@ -18797,5 +18797,22 @@
         "date_posted": 1746308159,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1746308194,
+        "url": "https://jobs.lever.co/1password/7d7731c0-6a65-433b-bb8e-41d21a6434f3",
+        "company_name": "1Password",
+        "title": "Junior Developer",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "46b67bbd-b7ed-46a8-9304-026903a35ee2",
+        "date_posted": 1746308194,
+        "company_url": "",
+        "is_visible": true
     }
 ]
