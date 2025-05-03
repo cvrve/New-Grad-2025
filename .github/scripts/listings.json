@@ -18661,5 +18661,25 @@
         "date_posted": 1746307696,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1746307770,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Software-Development-Engineer-in-Test--Graphics---New-College-Grad-2025_JR1996858",
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: Software Development Engineer in Test, Graphics",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA",
+            "Redmond, WA",
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "855aae66-8f4c-4daf-813a-f6fb6f7477d3",
+        "date_posted": 1746307770,
+        "company_url": "",
+        "is_visible": true
     }
 ]
