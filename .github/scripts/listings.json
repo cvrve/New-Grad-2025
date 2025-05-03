@@ -18628,5 +18628,21 @@
         "date_posted": 1746307611,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1746307655,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/VLSI-Physical-Design-Engineer---New-College-Grad-2025_JR1997079",
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: VLSI Physical Design Engineer",
+        "locations": [
+            "Westford, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "b0cb447a-55c1-46cd-81af-dcdb3fe6adfe",
+        "date_posted": 1746307655,
+        "company_url": "",
+        "is_visible": true
     }
 ]

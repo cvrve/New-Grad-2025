@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **NVIDIA** | New Grad 2025: VLSI Physical Design Engineer | Westford, MA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/VLSI-Physical-Design-Engineer---New-College-Grad-2025_JR1997079?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 03 |
 | **Applied Intuition** | New Grad: Software Engineer | Mountain View, CA | <a href="https://boards.greenhouse.io/embed/job_app?token=4420849005&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 03 |
 | **AppLovin** | New Grad: Backend Infrastructure Engineer | Palo Alto, CA | <a href="https://boards.greenhouse.io/embed/job_app?token=4447610006&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 26 |
 | **Thor Solutions** | Software Engineer I | Philadelphia, PA | <a href="https://thorsolutionsllc.applytojob.com/apply/C8LIaGu8So/Software-Engineer-I?referrer=20250414192432YMUDC3C4I6XZL15U&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 14 |
