@@ -18612,5 +18612,21 @@
         "date_posted": 1745661241,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1746307611,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=4420849005",
+        "company_name": "Applied Intuition",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "003279c0-802c-4e7d-a58e-6b857e82d077",
+        "date_posted": 1746307611,
+        "company_url": "",
+        "is_visible": true
     }
 ]
