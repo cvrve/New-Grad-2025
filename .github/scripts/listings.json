@@ -18814,5 +18814,21 @@
         "date_posted": 1746308194,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1746308279,
+        "url": "https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America/Big-Data-Tools-Engineer---Software-Dev-Engineer-I_JR0025664",
+        "company_name": "Yahoo",
+        "title": "Big Data Tools Engineer",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "3fbf124b-1eee-4edc-889a-b4c467adf146",
+        "date_posted": 1746308279,
+        "company_url": "",
+        "is_visible": true
     }
 ]
