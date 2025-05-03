@@ -18731,5 +18731,22 @@
         "date_posted": 1746307881,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1746307943,
+        "url": "https://wd1.myworkdaysite.com/en-US/recruiting/snapchat/snap/job/San-Diego-California/Software-Engineer--Embedded--Level-3_R0040311",
+        "company_name": "Snap Inc",
+        "title": "Embedded Software Engineer",
+        "locations": [
+            "San Diego, CA",
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "3707c09a-e92d-4030-b22d-2c0b40a92e46",
+        "date_posted": 1746307943,
+        "company_url": "",
+        "is_visible": true
     }
 ]
