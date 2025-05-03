@@ -18681,5 +18681,21 @@
         "date_posted": 1746307770,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1746307804,
+        "url": "https://lifeattiktok.com/search/7275869814408300837?spread=5MWH5CQ",
+        "company_name": "TikTok",
+        "title": "Full-stack Engineer, Data Platform",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "211dd6c2-1173-4ba1-af25-01eff1dfc19e",
+        "date_posted": 1746307804,
+        "company_url": "",
+        "is_visible": true
     }
 ]
