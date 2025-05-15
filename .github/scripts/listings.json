@@ -18945,5 +18945,21 @@
         "date_posted": 1747298650,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1747298686,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=3920890",
+        "company_name": "Mixpanel",
+        "title": "Software Engineer, Fullstack",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "16ff41c1-0386-4488-b43b-164ca11e6c42",
+        "date_posted": 1747298686,
+        "company_url": "",
+        "is_visible": true
     }
 ]
