@@ -18994,5 +18994,27 @@
         "date_posted": 1747298777,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1747299236,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/92218003445162694-relations-developer-cloud-and-generative-ai",
+        "company_name": "Google",
+        "title": "Relations Developer, Cloud and Generative AI",
+        "locations": [
+            "Seattle, WA",
+            "Cambridge, MA",
+            "Kirkland, WA",
+            "New York, NY",
+            "San Francisco, CA",
+            "Sunnyvale, CA",
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "b6459484-ed25-4466-833a-b71ff611ee69",
+        "date_posted": 1747299236,
+        "company_url": "",
+        "is_visible": true
     }
 ]
