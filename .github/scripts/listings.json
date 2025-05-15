@@ -18894,5 +18894,22 @@
         "date_posted": 1747298469,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1747298504,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/ASIC-Verification-Engineer---New-College-Grad-2025_JR1997597",
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: ASIC Verification Engineer",
+        "locations": [
+            "Durham, NC",
+            "Madison, AL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "748742e6-bd6c-4255-a700-40a0eef569b0",
+        "date_posted": 1747298504,
+        "company_url": "",
+        "is_visible": true
     }
 ]
