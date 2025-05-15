@@ -42,6 +42,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Nokia** | Jr. Applied R&D Engineer | Canada | <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20842?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 15 |
 | **Google** | Relations Developer, Cloud and Generative AI | <details><summary>**7 locations**</summary>Seattle, WA</br>Cambridge, MA</br>Kirkland, WA</br>New York, NY</br>San Francisco, CA</br>Sunnyvale, CA</br>Toronto, Canada</details> | <a href="https://www.google.com/about/careers/applications/jobs/results/92218003445162694-relations-developer-cloud-and-generative-ai?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 15 |
 | **Tower Research Capital** | New Grad: C++ Software Engineer, MTL | Montreal, Canada | <a href="https://tower-research.com/open-positions/?gh_jid=6855851&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 03 |
 | **Oracle** | Software Developer | Remote</br>Canada | <a href="https://careers.oracle.com/jobs/#en/sites/jobsearch/job/287106?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 19 |

@@ -19048,5 +19048,21 @@
         "date_posted": 1747299286,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1747299426,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20842",
+        "company_name": "Nokia",
+        "title": "Jr. Applied R&D Engineer",
+        "locations": [
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "12506280-4642-48a4-a296-95ba6d259ff4",
+        "date_posted": 1747299426,
+        "company_url": "",
+        "is_visible": true
     }
 ]
