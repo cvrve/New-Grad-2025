@@ -19032,5 +19032,21 @@
         "date_posted": 1747299256,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1747299286,
+        "url": "https://careers.snowflake.com/us/en/job/SNCOUSEBC678A52AB04A4EB7946E4E684BA055EXTERNALENUSAA0C5E9173DE47C2B57EF66519942F19/-Software-Engineer-Traffic",
+        "company_name": "Snowflake",
+        "title": "Software Engineer - Traffic",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "8ae00741-2219-448f-b49e-9d5a6ccaba61",
+        "date_posted": 1747299286,
+        "company_url": "",
+        "is_visible": true
     }
 ]
