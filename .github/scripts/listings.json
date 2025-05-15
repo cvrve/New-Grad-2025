@@ -19016,5 +19016,21 @@
         "date_posted": 1747299236,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1747299256,
+        "url": "https://www.tesla.com/careers/search/job/242774",
+        "company_name": "Tesla",
+        "title": "Software Engineer, AI Systems Performance Modeling",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "99336b31-6fba-4e76-aeae-0cc552ba89ed",
+        "date_posted": 1747299256,
+        "company_url": "",
+        "is_visible": true
     }
 ]
