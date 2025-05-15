@@ -19064,5 +19064,21 @@
         "date_posted": 1747299426,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1747299459,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Gameplay-Software-Engineer/208511",
+        "company_name": "Electronic Arts",
+        "title": "Gameplay Software Engineer",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "b48f46f6-b2a2-46e6-a886-4be91b269618",
+        "date_posted": 1747299459,
+        "company_url": "",
+        "is_visible": true
     }
 ]
