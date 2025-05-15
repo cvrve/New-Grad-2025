@@ -18878,5 +18878,21 @@
         "date_posted": 1747298441,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1747298469,
+        "url": "https://jobs.ashbyhq.com/pylon/6f714dd0-e472-4e70-a749-80493cd29420",
+        "company_name": "Pylon",
+        "title": "New Grad 2025: Software Engineer",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "0231c8fb-8945-471c-9d37-74ff2806b84a",
+        "date_posted": 1747298469,
+        "company_url": "",
+        "is_visible": true
     }
 ]
