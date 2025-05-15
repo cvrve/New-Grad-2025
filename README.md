@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Amazon** | Mission Operations Engineer, Project Kuiper | Redmond, WA | <a href="https://www.amazon.jobs/en/jobs/2981483/mission-operations-engineer-project-kuiper-mission-operations-ground-software?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 15 |
 | **Yahoo** | Big Data Tools Engineer | United States | <a href="https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America/Big-Data-Tools-Engineer---Software-Dev-Engineer-I_JR0025664?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 03 |
 | **TikTok** | Full-stack Engineer, Data Platform | San Jose, CA | <a href="https://lifeattiktok.com/search/7275869814408300837?spread=5MWH5CQ&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 03 |
 | **Snap Inc** | Embedded Software Engineer | San Diego, CA</br>Los Angeles, CA | <a href="https://wd1.myworkdaysite.com/en-US/recruiting/snapchat/snap/job/San-Diego-California/Software-Engineer--Embedded--Level-3_R0040311?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 03 |

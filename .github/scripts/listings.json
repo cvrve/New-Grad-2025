@@ -18846,5 +18846,21 @@
         "date_posted": 1746308303,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1747298295,
+        "url": "https://www.amazon.jobs/en/jobs/2981483/mission-operations-engineer-project-kuiper-mission-operations-ground-software",
+        "company_name": "Amazon",
+        "title": "Mission Operations Engineer, Project Kuiper",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "0c35e9f4-a5ce-4927-bd98-ed37816d8816",
+        "date_posted": 1747298295,
+        "company_url": "",
+        "is_visible": true
     }
 ]
