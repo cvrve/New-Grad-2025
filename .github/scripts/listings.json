@@ -18862,5 +18862,21 @@
         "date_posted": 1747298295,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1747298441,
+        "url": "https://www.nuro.ai/careersitem?gh_jid=6725455",
+        "company_name": "Nuro",
+        "title": "New Grad: Software Engineer, Autonomy",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "ebcf7f36-de1b-4a59-846e-60e6b1ebb496",
+        "date_posted": 1747298441,
+        "company_url": "",
+        "is_visible": true
     }
 ]

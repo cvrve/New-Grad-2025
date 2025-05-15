@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Nuro** | New Grad: Software Engineer, Autonomy | Mountain View, CA | <a href="https://www.nuro.ai/careersitem?gh_jid=6725455&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 15 |
 | **Amazon** | Mission Operations Engineer, Project Kuiper | Redmond, WA | <a href="https://www.amazon.jobs/en/jobs/2981483/mission-operations-engineer-project-kuiper-mission-operations-ground-software?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 15 |
 | **Yahoo** | Big Data Tools Engineer | United States | <a href="https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America/Big-Data-Tools-Engineer---Software-Dev-Engineer-I_JR0025664?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 03 |
 | **TikTok** | Full-stack Engineer, Data Platform | San Jose, CA | <a href="https://lifeattiktok.com/search/7275869814408300837?spread=5MWH5CQ&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 03 |
