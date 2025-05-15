@@ -18978,5 +18978,21 @@
         "date_posted": 1747298737,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1747298777,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-1--Software-Development---Engineering_R410445",
+        "company_name": "Comcast",
+        "title": "Software Development & Engineer 1",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "55d701b4-b993-49a7-bd24-8d4809080e4a",
+        "date_posted": 1747298777,
+        "company_url": "",
+        "is_visible": true
     }
 ]
