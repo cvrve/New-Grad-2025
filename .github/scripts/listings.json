@@ -19080,5 +19080,21 @@
         "date_posted": 1747299459,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1747299485,
+        "url": "https://careers.mastercard.com/us/en/job/MASRUSR245943EXTERNALENUS/Software-Engineer-I-SDET-Java",
+        "company_name": "Mastercard",
+        "title": "Software Engineer I",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "2b64a7c3-2798-4646-8e75-76a20fdd2b3d",
+        "date_posted": 1747299485,
+        "company_url": "",
+        "is_visible": true
     }
 ]
