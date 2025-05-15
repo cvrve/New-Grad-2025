@@ -18911,5 +18911,23 @@
         "date_posted": 1747298504,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1747298543,
+        "url": "https://www.metacareers.com/jobs/683948047917677",
+        "company_name": "Meta",
+        "title": "Software Engineer, Systems ML",
+        "locations": [
+            "Bellevue, WA",
+            "Menlo Park, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "7706bb18-0137-42fb-8163-bf992a450bbf",
+        "date_posted": 1747298543,
+        "company_url": "",
+        "is_visible": true
     }
 ]
