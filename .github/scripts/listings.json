@@ -18929,5 +18929,21 @@
         "date_posted": 1747298543,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1747298650,
+        "url": "https://www.tesla.com/careers/search/job/233715",
+        "company_name": "Tesla",
+        "title": "Software Engineer, Mobile Robotics Control & Perception",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "2a1e80ef-c263-4b31-9201-a1eddd07aa28",
+        "date_posted": 1747298650,
+        "company_url": "",
+        "is_visible": true
     }
 ]
