@@ -18961,5 +18961,22 @@
         "date_posted": 1747298686,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1747298737,
+        "url": "https://job-boards.greenhouse.io/affirm/jobs/6570371003",
+        "company_name": "Affirm",
+        "title": "Machine Learning Engineer I",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "f6290b7a-b966-4b43-bf7f-b98c477b9ec6",
+        "date_posted": 1747298737,
+        "company_url": "",
+        "is_visible": true
     }
 ]
