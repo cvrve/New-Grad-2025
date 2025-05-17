@@ -19112,5 +19112,22 @@
         "date_posted": 1747461336,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1747461370,
+        "url": "https://www.doppel.com/jobs?ashby_jid=07905bfc-1c21-465d-a6bb-39ef71744c3d",
+        "company_name": "Doppel",
+        "title": "Software Engineer",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "682fb056-f540-4193-a942-a2a2bc8ba0f3",
+        "date_posted": 1747461370,
+        "company_url": "",
+        "is_visible": true
     }
 ]
