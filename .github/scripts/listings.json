@@ -19178,5 +19178,21 @@
         "date_posted": 1747461706,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1747461738,
+        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Testing-Software-Engineer-I_R0100249",
+        "company_name": "Truist",
+        "title": "Testing Software Engineer I",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "4e0dbfa3-60c4-41c4-bd1c-a0499352cc5c",
+        "date_posted": 1747461738,
+        "company_url": "",
+        "is_visible": true
     }
 ]
