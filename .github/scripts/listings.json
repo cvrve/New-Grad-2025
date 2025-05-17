@@ -19129,5 +19129,21 @@
         "date_posted": 1747461370,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1747461402,
+        "url": "https://www.ycombinator.com/companies/furtherai/jobs/7GSUCXy-software-ai-engineer-new-grad",
+        "company_name": "FurtherAI",
+        "title": "New Grad: Software/AI Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "96998a15-41d7-4313-9eda-894bdbc3e708",
+        "date_posted": 1747461402,
+        "company_url": "",
+        "is_visible": true
     }
 ]
