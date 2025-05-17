@@ -19161,5 +19161,22 @@
         "date_posted": 1747461567,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1747461706,
+        "url": "https://job-boards.greenhouse.io/marqeta/jobs/6774484",
+        "company_name": "Marqeta",
+        "title": "Software Engineer I, Core Edge Processing",
+        "locations": [
+            "Toronto, Canada",
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "2e340dbc-3961-4fb1-85b5-46b3e6734de5",
+        "date_posted": 1747461706,
+        "company_url": "",
+        "is_visible": true
     }
 ]
