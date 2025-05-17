@@ -19227,5 +19227,21 @@
         "date_posted": 1747461973,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1747462008,
+        "url": "https://www.esri.com/careers/4735889007?gh_jid=4735889007",
+        "company_name": "Esri",
+        "title": "C++ Software Engineer I, Maps SDKs",
+        "locations": [
+            "Redlands, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "749308cb-6a36-4030-9529-3d42908816e3",
+        "date_posted": 1747462008,
+        "company_url": "",
+        "is_visible": true
     }
 ]
