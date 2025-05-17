@@ -19145,5 +19145,21 @@
         "date_posted": 1747461402,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1747461567,
+        "url": "https://jobs.apple.com/en-us/details/200604992/embedded-system-software-engineer?team=SFTWR",
+        "company_name": "Apple",
+        "title": "Embedded System Software Engineer",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "e1fec251-a2b9-4672-8d5d-da147b496732",
+        "date_posted": 1747461567,
+        "company_url": "",
+        "is_visible": true
     }
 ]
