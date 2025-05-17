@@ -42,6 +42,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Marqeta** | Software Engineer I, Transaction Engine Foundation | Toronto, Canada</br>Vancouver, Canada | <a href="https://job-boards.greenhouse.io/marqeta/jobs/6832149?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 17 |
 | **Marqeta** | Software Engineer I, Core Edge Processing | Toronto, Canada</br>Vancouver, Canada | <a href="https://job-boards.greenhouse.io/marqeta/jobs/6774484?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 17 |
 | **Nokia** | Jr. Applied R&D Engineer | Canada | <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20842?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 15 |
 | **Mastercard** | Software Engineer I | Vancouver, Canada | <a href="https://careers.mastercard.com/us/en/job/MASRUSR245943EXTERNALENUS/Software-Engineer-I-SDET-Java?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 15 |

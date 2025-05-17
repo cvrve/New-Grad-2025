@@ -19194,5 +19194,22 @@
         "date_posted": 1747461738,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1747461946,
+        "url": "https://job-boards.greenhouse.io/marqeta/jobs/6832149",
+        "company_name": "Marqeta",
+        "title": "Software Engineer I, Transaction Engine Foundation",
+        "locations": [
+            "Toronto, Canada",
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "4fd4261e-5303-44ed-8c78-39ebc49c5720",
+        "date_posted": 1747461946,
+        "company_url": "",
+        "is_visible": true
     }
 ]
