@@ -19243,5 +19243,22 @@
         "date_posted": 1747462008,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1747650194,
+        "url": "https://job-boards.greenhouse.io/affirm/jobs/6563811003?gh_src=91eb70b63us",
+        "company_name": "Affirm",
+        "title": "Machine Learning Engineer",
+        "locations": [
+            "Remote",
+            "Canada"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": false,
+        "source": "jxudata",
+        "id": "a79ce4e5-84b8-4a7f-8f0b-13731da36894",
+        "date_posted": 1747650194,
+        "company_url": "",
+        "is_visible": true
     }
 ]
