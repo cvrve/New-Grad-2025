@@ -19523,5 +19523,21 @@
         "date_posted": 1748025416,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748025511,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1822239/Software-Engineer",
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "locations": [
+            "Multiple Locations"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "d4aa7954-53c4-4325-a970-dbe3c7448627",
+        "date_posted": 1748025511,
+        "company_url": "",
+        "is_visible": true
     }
 ]
