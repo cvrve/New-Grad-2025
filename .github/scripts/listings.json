@@ -19293,5 +19293,23 @@
         "date_posted": 1748024309,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748024346,
+        "url": "https://job-boards.greenhouse.io/horacemannservicecorporation/jobs/5545426004",
+        "company_name": "Horace Mann",
+        "title": "Software Engineer I",
+        "locations": [
+            "Springfield, IL",
+            "Addison, TX",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "ac360bf8-0467-42d8-938f-f5a5a0a8106d",
+        "date_posted": 1748024346,
+        "company_url": "",
+        "is_visible": true
     }
 ]
