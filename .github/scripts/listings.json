@@ -19619,5 +19619,21 @@
         "date_posted": 1748025650,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748025703,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/ASIC-Floorplan-Design-Engineer---New-College-Grad-2025_JR1997894",
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: ASIC Floorplan Design Engineer",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "d249848f-9c23-478f-82f6-c5b3142c5632",
+        "date_posted": 1748025703,
+        "company_url": "",
+        "is_visible": true
     }
 ]
