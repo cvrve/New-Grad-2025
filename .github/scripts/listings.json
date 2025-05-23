@@ -19443,5 +19443,21 @@
         "date_posted": 1748025115,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748025205,
+        "url": "https://careers.qualcomm.com/careers/job/446705907067",
+        "company_name": "Qualcomm",
+        "title": "Software Engineer",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "a04a4e7a-9654-40f6-bbec-da50d8860211",
+        "date_posted": 1748025205,
+        "company_url": "",
+        "is_visible": true
     }
 ]
