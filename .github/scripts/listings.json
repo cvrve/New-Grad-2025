@@ -19277,5 +19277,21 @@
         "date_posted": 1748013316,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748024309,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineer-I_R202561161",
+        "company_name": "Cox Automotive",
+        "title": "Software Engineer I",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "22cf9607-3daf-41f9-b37f-3a7cf82c35b8",
+        "date_posted": 1748024309,
+        "company_url": "",
+        "is_visible": true
     }
 ]
