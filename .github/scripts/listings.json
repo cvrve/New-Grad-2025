@@ -19507,5 +19507,21 @@
         "date_posted": 1748025370,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748025416,
+        "url": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Software-Engineer_R1830",
+        "company_name": "Boston Dynamics",
+        "title": "Software Engineer",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "224b2d98-1608-4cf2-aa6d-25e005e77747",
+        "date_posted": 1748025416,
+        "company_url": "",
+        "is_visible": true
     }
 ]
