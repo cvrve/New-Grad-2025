@@ -19571,5 +19571,21 @@
         "date_posted": 1748025566,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748025597,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/ASIC-Verification-Engineer---New-College-Grad-2025_JR1997551",
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: ASIC Verification Engineer",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "c57cbd91-a34b-47f2-aa7b-01d70d72a16a",
+        "date_posted": 1748025597,
+        "company_url": "",
+        "is_visible": true
     }
 ]
