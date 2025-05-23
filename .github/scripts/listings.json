@@ -19375,5 +19375,21 @@
         "date_posted": 1748024532,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748024718,
+        "url": "https://jobs.apple.com/en-us/details/200605754/cellular-platform-software-engineer-embedded-analytics?team=SFTWR",
+        "company_name": "Apple",
+        "title": "Cellular Platform Software Engineer, Embedded Analytics",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "2c2cb04d-b4d0-4601-86f2-11ebe0a48903",
+        "date_posted": 1748024718,
+        "company_url": "",
+        "is_visible": true
     }
 ]
