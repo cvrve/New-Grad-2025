@@ -19491,5 +19491,21 @@
         "date_posted": 1748025335,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748025370,
+        "url": "https://careers.qualcomm.com/careers/job/446705709910",
+        "company_name": "Qualcomm",
+        "title": "Graphics Software Kernel Mode Engineer",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "e2a00ee9-c0d0-4531-beaf-068f649be7ec",
+        "date_posted": 1748025370,
+        "company_url": "",
+        "is_visible": true
     }
 ]

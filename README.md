@@ -61,6 +61,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | --- | --- | --- | :---: | :---: |
 | **Twilio** | New Grad: Software Engineer | Remote</br>US | <a href="https://job-boards.greenhouse.io/twilio/jobs/6891933?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 23 |
 | **Remitly** | Software Development Engineer I | Seattle, WA | <a href="https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Software-Development-Engineer-I_R_104015?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 23 |
+| **Qualcomm** | Graphics Software Kernel Mode Engineer | San Diego, CA | <a href="https://careers.qualcomm.com/careers/job/446705709910?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 23 |
 | **Qualcomm** | Software Engineer, Gaming AI, PC Compute | San Diego, CA | <a href="https://careers.qualcomm.com/careers/job/446704371557?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 23 |
 | **Qualcomm** | Graphics Software Engineer | San Diego, CA | <a href="https://careers.qualcomm.com/careers/job/446705739046?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 23 |
 | **Qualcomm** | Software Engineer | San Diego, CA | <a href="https://careers.qualcomm.com/careers/job/446705907067?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 23 |
