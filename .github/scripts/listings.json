@@ -19635,5 +19635,21 @@
         "date_posted": 1748025703,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748025848,
+        "url": "https://www.qualtrics.com/careers/us/en/job/QUALUS6889008EXTERNALENUS/Software-Development-Engineer-I-Customer-Experience-Seattle",
+        "company_name": "Qualtrics",
+        "title": "Software Development Engineer I, Customer Experience",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "ca43347d-2b94-49e5-9ba2-dca0f9058d20",
+        "date_posted": 1748025848,
+        "company_url": "",
+        "is_visible": true
     }
 ]
