@@ -19587,5 +19587,21 @@
         "date_posted": 1748025597,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748025626,
+        "url": "https://jobs.lever.co/perforce/9bc3fe3d-f82e-45ee-8207-221ebdc5533f",
+        "company_name": "Perforce",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "4365d5cf-23bb-4abb-87ef-1f36f6cfa505",
+        "date_posted": 1748025626,
+        "company_url": "",
+        "is_visible": true
     }
 ]
