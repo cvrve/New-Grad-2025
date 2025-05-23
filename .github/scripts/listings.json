@@ -19343,5 +19343,21 @@
         "date_posted": 1748024443,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748024476,
+        "url": "https://bs.com/KBR_Careers/job/Moffett-Field-California/Full-Stack-Software-Engineer_R2106782",
+        "company_name": "KBR",
+        "title": "Full Stack Software Engineer",
+        "locations": [
+            "Moffett Field, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "a4b2e1e4-05ea-40d6-a64e-69d51e43f186",
+        "date_posted": 1748024476,
+        "company_url": "",
+        "is_visible": true
     }
 ]
