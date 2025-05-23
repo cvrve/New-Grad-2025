@@ -19555,5 +19555,21 @@
         "date_posted": 1748025538,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748025566,
+        "url": "https://careers.adobe.com/us/en/job/ADOBUSR155500EXTERNALENUS/Software-Development-Engineer",
+        "company_name": "Adobe",
+        "title": "Software Development Engineer",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "8661ae07-7db1-48fe-b7b4-366060961ce4",
+        "date_posted": 1748025566,
+        "company_url": "",
+        "is_visible": true
     }
 ]
