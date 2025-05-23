@@ -19475,5 +19475,21 @@
         "date_posted": 1748025249,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748025335,
+        "url": "https://careers.qualcomm.com/careers/job/446704371557",
+        "company_name": "Qualcomm",
+        "title": "Software Engineer, Gaming AI, PC Compute",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "713c1cd7-921d-4df9-b142-27b3871ce0e6",
+        "date_posted": 1748025335,
+        "company_url": "",
+        "is_visible": true
     }
 ]
