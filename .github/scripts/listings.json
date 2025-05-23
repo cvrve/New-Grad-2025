@@ -19427,5 +19427,21 @@
         "date_posted": 1748025053,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748025115,
+        "url": "https://careers.garmin.com/careers-home/jobs/15924",
+        "company_name": "Garmin",
+        "title": "C#/.NET Software Engineer 1",
+        "locations": [
+            "Cary, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "3832d89d-def2-4d3d-b33b-214faf17c758",
+        "date_posted": 1748025115,
+        "company_url": "",
+        "is_visible": true
     }
 ]
