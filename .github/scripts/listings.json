@@ -19459,5 +19459,21 @@
         "date_posted": 1748025205,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748025249,
+        "url": "https://careers.qualcomm.com/careers/job/446705739046",
+        "company_name": "Qualcomm",
+        "title": "Graphics Software Engineer",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "88d81075-d28e-42b2-ac17-495575c2ac2f",
+        "date_posted": 1748025249,
+        "company_url": "",
+        "is_visible": true
     }
 ]
