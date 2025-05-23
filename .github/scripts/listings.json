@@ -19260,5 +19260,22 @@
         "date_posted": 1747650194,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748013316,
+        "url": "https://job-boards.greenhouse.io/twilio/jobs/6891933",
+        "company_name": "Twilio",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "6e52624a-bae4-4811-adab-b1322a67ef71",
+        "date_posted": 1748013316,
+        "company_url": "",
+        "is_visible": true
     }
 ]
