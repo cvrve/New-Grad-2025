@@ -19651,5 +19651,21 @@
         "date_posted": 1748025848,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748135688,
+        "url": "https://baincapital.wd1.myworkdayjobs.com/External_Public/job/Boston/XMLNAME-2026-Analyst--Tech-Opps_REQ_107847",
+        "company_name": "BainCapital",
+        "title": "New Grad 2026: Tech Opps Analyst",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "0910874b-4cc5-48a7-b902-9d278341c101",
+        "date_posted": 1748135688,
+        "company_url": "",
+        "is_visible": true
     }
 ]
