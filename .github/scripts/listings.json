@@ -19715,5 +19715,21 @@
         "date_posted": 1748405185,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748405233,
+        "url": "https://www.citadelsecurities.com/careers/details/systematic-options-trader/",
+        "company_name": "Citadel Securities",
+        "title": "Systematic Options Trader",
+        "locations": [
+            "Miami, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "3f157fb5-4fde-4548-9ad4-98f3193cf736",
+        "date_posted": 1748405233,
+        "company_url": "",
+        "is_visible": true
     }
 ]
