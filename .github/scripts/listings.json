@@ -19699,5 +19699,21 @@
         "date_posted": 1748405137,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748405185,
+        "url": "https://www.drw.com/work-at-drw/listings/research-engineer-2930985",
+        "company_name": "DRW",
+        "title": "Research Engineer",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "f0cab146-21eb-4760-9b63-eaff1edf79dc",
+        "date_posted": 1748405185,
+        "company_url": "",
+        "is_visible": true
     }
 ]
