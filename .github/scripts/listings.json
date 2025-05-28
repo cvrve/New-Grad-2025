@@ -19731,5 +19731,22 @@
         "date_posted": 1748405233,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748405493,
+        "url": "https://boards.greenhouse.io/embed/job_app?for=aquaticcapitalmanagement&token=7997477002",
+        "company_name": "Aquatic Capital Management",
+        "title": "Research Engineer",
+        "locations": [
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "1e847dad-0949-47e2-a6f9-23426147dd9d",
+        "date_posted": 1748405493,
+        "company_url": "",
+        "is_visible": true
     }
 ]
