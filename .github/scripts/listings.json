@@ -19683,5 +19683,21 @@
         "date_posted": 1748138125,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748405137,
+        "url": "https://careers.point72.com/CSJobDetail?jobName=quantitative-developer&jobCode=CSS-0013369&location=New%20York&locale=English",
+        "company_name": "Point72",
+        "title": "Quantitative Developer",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "323441d2-75af-4f83-a5d9-ee90164ba785",
+        "date_posted": 1748405137,
+        "company_url": "",
+        "is_visible": true
     }
 ]
