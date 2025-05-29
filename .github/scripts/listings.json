@@ -19764,5 +19764,21 @@
         "date_posted": 1748489887,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748489974,
+        "url": "https://job-boards.greenhouse.io/truveta/jobs/5549326004",
+        "company_name": "Truveta",
+        "title": "Software Engineer - Data Processing",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "cca22736-3dea-4261-833b-55dd9e4f4a09",
+        "date_posted": 1748489974,
+        "company_url": "",
+        "is_visible": true
     }
 ]
