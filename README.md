@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Truveta** | Software Engineer - Fullstack | Seattle, WA | <a href="https://job-boards.greenhouse.io/truveta/jobs/5546481004?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 29 |
 | **Point72** | Quantitative Developer | New York, NY | <a href="https://careers.point72.com/CSJobDetail?jobName=quantitative-developer&jobCode=CSS-0013369&location=New%20York&locale=English&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 28 |
 | **DRW** | Research Engineer | New York, NY | <a href="https://www.drw.com/work-at-drw/listings/research-engineer-2930985?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 28 |
 | **Citadel Securities** | Systematic Options Trader | Miami, FL | <a href="https://www.citadelsecurities.com/careers/details/systematic-options-trader/?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 28 |

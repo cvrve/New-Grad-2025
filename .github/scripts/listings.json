@@ -19748,5 +19748,21 @@
         "date_posted": 1748405493,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748489887,
+        "url": "https://job-boards.greenhouse.io/truveta/jobs/5546481004",
+        "company_name": "Truveta",
+        "title": "Software Engineer - Fullstack",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "947d576b-922e-48ab-80bd-b9e4a73bf314",
+        "date_posted": 1748489887,
+        "company_url": "",
+        "is_visible": true
     }
 ]
