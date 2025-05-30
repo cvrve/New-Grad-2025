@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Spectrum** | Software Engineer I | Englewood, CO | <a href="https://jobs.spectrum.com/job/-/-/4673/81850982400?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 30 |
 | **RTX** | C/C++ and Java Software Development Engineer I | Portsmouth, RI | <a href="https://globalhr.wd5.myworkdayjobs.com/en-GB/rec_rtx_ext_gateway/job/RI101-1847-W-Main-Rd-1847-W-Main-Road-Nimitz-Building-Portsmouth-RI-02871-USA/C-C---and-Java-Software-Development-Engineer-I--Onsite-_01770233?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 30 |
 | **Pega** | Associate Software Engineer, UX Engineering | Waltham, MA | <a href="https://www.pega.com/about/careers/21949/associate-software-engineer-ux-engineering?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 30 |
 | **IXL Learning** | New Grad: Software Engineer | Raleigh, NC | <a href="https://www.ixl.com/company/careers?gh_jid=8017370002&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 30 |

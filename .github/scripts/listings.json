@@ -19892,5 +19892,21 @@
         "date_posted": 1748583495,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748583524,
+        "url": "https://jobs.spectrum.com/job/-/-/4673/81850982400",
+        "company_name": "Spectrum",
+        "title": "Software Engineer I",
+        "locations": [
+            "Englewood, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "a21fd6a2-935b-4644-b202-2269be829a7e",
+        "date_posted": 1748583524,
+        "company_url": "",
+        "is_visible": true
     }
 ]
