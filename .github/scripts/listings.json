@@ -20054,5 +20054,21 @@
         "date_posted": 1748585869,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748585971,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Generative-AI---New-College-Grad-2025_JR1998154",
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: Software Engineer, Generative-AI",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "f01cdeda-2fff-4cd4-90aa-b83f510e42c5",
+        "date_posted": 1748585971,
+        "company_url": "",
+        "is_visible": true
     }
 ]
