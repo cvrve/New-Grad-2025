@@ -19908,5 +19908,21 @@
         "date_posted": 1748583524,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748583625,
+        "url": "https://jobs.smartrecruiters.com/SquareTrade1/744000045758179-associate-software-engineer?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73",
+        "company_name": "SquareTrade",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Brisbane, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "34e6d9f1-3982-42b3-944a-df9b33b26baf",
+        "date_posted": 1748583625,
+        "company_url": "",
+        "is_visible": true
     }
 ]
