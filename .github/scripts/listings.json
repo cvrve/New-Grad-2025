@@ -19780,5 +19780,21 @@
         "date_posted": 1748489974,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748583125,
+        "url": "https://www.ixl.com/company/careers?gh_jid=8017366002",
+        "company_name": "IXL Learning",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "3139597e-c985-4a80-818f-c3a711d3ce34",
+        "date_posted": 1748583125,
+        "company_url": "",
+        "is_visible": true
     }
 ]
