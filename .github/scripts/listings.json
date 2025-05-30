@@ -19796,5 +19796,21 @@
         "date_posted": 1748583125,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748583139,
+        "url": "https://www.ixl.com/company/careers?gh_jid=8017370002",
+        "company_name": "IXL Learning",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "b30a177a-6bb9-4bca-a603-459e98f57d88",
+        "date_posted": 1748583139,
+        "company_url": "",
+        "is_visible": true
     }
 ]
