@@ -2414,7 +2414,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1723340422,
+        "date_updated": 1748649087,
         "url": "https://geico.wd1.myworkdayjobs.com/en-US/External/job/Chevy-Chase-MD/Technology-Development-Program---Software-Engineering_R0051974?jobFamilyGroup=895c9dc2a05701737efe7899a6017bc0",
         "company_name": "Geico",
         "title": "New Grad: Technology Development Program",
@@ -2437,7 +2437,7 @@
             "Springfield, VA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "6fb50115-716d-4e41-a788-8d7db32deb50",
         "date_posted": 1723340422,
@@ -4443,7 +4443,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1725069983,
+        "date_updated": 1748649093,
         "url": "https://waystar.wd1.myworkdayjobs.com/Waystar/job/Louisville-KY/Application-Engineer_R1961",
         "company_name": "Waystar",
         "title": "New Grad: Application Engineer",
@@ -4452,7 +4452,7 @@
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "ebd07757-b91c-4c05-a339-9b50fe5251dc",
         "date_posted": 1725069983,
@@ -5316,7 +5316,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1725818440,
+        "date_updated": 1748649098,
         "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I---Business-Insurance--MERN-AWS-_R-38832",
         "company_name": "Travelers",
         "title": "New Grad: Software Engineer I",
@@ -5326,7 +5326,7 @@
             "Hunt Valley, MD"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "539518e4-71dd-4a37-a6c7-875b08d75273",
         "date_posted": 1725818440,
@@ -10462,7 +10462,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1729284195,
+        "date_updated": 1748649101,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Mixed-Signal-Design-Engineer---New-College-Grad-2024_JR1989737",
         "company_name": "NVIDIA",
         "title": "New Grad 2024: Mixed Signal Design Engineer",
@@ -10470,7 +10470,7 @@
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "7404aaf5-e97b-4402-9bfc-3a14ff3457de",
         "date_posted": 1729284195,
@@ -10478,7 +10478,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1729284272,
+        "date_updated": 1748649103,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Solution-Architect--Worldwide-Field-Operations---New-College-Grad-2025_JR1989353?locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
         "company_name": "NVIDIA",
         "title": "New Grad 2025: Solution Architect",
@@ -10486,7 +10486,7 @@
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "07b6b544-0ec8-45e9-aa70-74620ec1cabd",
         "date_posted": 1729284272,
@@ -11016,7 +11016,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1729904037,
+        "date_updated": 1748649106,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Accelerate-Tech-Graduate-Program--Software-Engineer-I_R83206",
         "company_name": "LexisNexis",
         "title": "Software Engineer I",
@@ -11024,7 +11024,7 @@
             "Alpharetta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "176ecc2b-550e-4a96-adea-74d875a688cb",
         "date_posted": 1729904037,
@@ -11129,7 +11129,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1729911407,
+        "date_updated": 1748649109,
         "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Atlanta/Waveserver-Software-Developer---2025-New-Grads_R025977?source=LinkedIn",
         "company_name": "Ciena",
         "title": "New Grad 2025: Waveserver Software Developer",
@@ -11137,7 +11137,7 @@
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "2b30192e-132c-4fd9-a445-0e91ae7e6ab4",
         "date_posted": 1729911407,
@@ -11484,7 +11484,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1730453862,
+        "date_updated": 1748649112,
         "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Application-Engineer---New-College-Grad_R47495-2?source=cvrve",
         "company_name": "Cadence Design Systems",
         "title": "New Grad: Application Engineer",
@@ -11492,7 +11492,7 @@
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "cdee38fe-33de-4838-84df-83313ee6da9f",
         "date_posted": 1730453862,
@@ -12038,7 +12038,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1731350333,
+        "date_updated": 1748649117,
         "url": "https://symbotic.wd1.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad---Software-Engineer_R4037",
         "company_name": "Symbotic",
         "title": "New Grad: Software Engineer",
@@ -12047,7 +12047,7 @@
             "Wilmington, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "2aefd966-624b-4fce-bb16-1c3d04f03214",
         "date_posted": 1731350333,
@@ -12159,7 +12159,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1731671251,
+        "date_updated": 1748649119,
         "url": "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Folsom-CA/Software-Engineer-I_R0026230",
         "company_name": "SNC",
         "title": "Software Engineer I",
@@ -12167,7 +12167,7 @@
             "Folsom, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "65fbcb61-e5b0-42cd-8db0-b64fd6ed4879",
         "date_posted": 1731671251,
@@ -12175,7 +12175,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1731671396,
+        "date_updated": 1748649123,
         "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Associate-Solution-Engineer--New-Grad-_JR268977?source=cvrve",
         "company_name": "Salesforce",
         "title": "New Grad: Associate Solution Engineer",
@@ -12187,7 +12187,7 @@
             "Indianapolis, IN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "d290df51-c435-4041-a77c-ba138489d7ce",
         "date_posted": 1731671396,
@@ -12380,7 +12380,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1731768219,
+        "date_updated": 1748649128,
         "url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2025-Small-Satellite-Embedded-Software-Engineer_R011592",
         "company_name": "The Aerospace Corporation",
         "title": "New Grad 2025: Embedded Software Engineer",
@@ -12388,7 +12388,7 @@
             "El Segundo, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "b32112fa-4e49-4073-9baa-41c1a3638f3b",
         "date_posted": 1731768219,
@@ -12444,7 +12444,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1731769041,
+        "date_updated": 1748649131,
         "url": "https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-AMTS_JR271940-1",
         "company_name": "Salesforce",
         "title": "Software Engineer, AMTS",
@@ -12453,7 +12453,7 @@
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "1336b593-d34a-402d-9b89-b8381c5b6fbb",
         "date_posted": 1731769041,
@@ -12541,7 +12541,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1732023055,
+        "date_updated": 1748649133,
         "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Data-Engineer-I_R0105337",
         "company_name": "USAA",
         "title": "Data Engineer I",
@@ -12549,7 +12549,7 @@
             "San Antonio, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "b5673477-3f19-47a9-8636-9adc3480ff52",
         "date_posted": 1732023055,
@@ -12557,7 +12557,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1732023433,
+        "date_updated": 1748649136,
         "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Routing-IP-Software-Engineer-1---New-Grad_R026406",
         "company_name": "Ciena",
         "title": "New Grad: Routing/IP Software Engineer",
@@ -12565,7 +12565,7 @@
             "Ottawa, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "40054684-1eae-40cd-a6a7-dae67d483502",
         "date_posted": 1732023433,
@@ -12657,7 +12657,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1732063858,
+        "date_updated": 1748649138,
         "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Software-Engineer-I_R-41366",
         "company_name": "Nike",
         "title": "Software Engineer I",
@@ -12665,7 +12665,7 @@
             "Beaverton, OR"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "90eb1c36-364c-49e1-a23c-c26f8f98ee05",
         "date_posted": 1732063858,
@@ -12738,7 +12738,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1732169515,
+        "date_updated": 1748649140,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/ASIC-Verification-Engineer---New-College-Grad-2025_JR1990180",
         "company_name": "NVIDIA",
         "title": "New Grad 2025: ASIC Verification Engineer",
@@ -12746,7 +12746,7 @@
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "bf475bb1-c150-4dde-bc3e-da1f0a07cf71",
         "date_posted": 1732169515,
@@ -12821,7 +12821,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1732313235,
+        "date_updated": 1748649144,
         "url": "https://ncino.wd5.myworkdayjobs.com/nCinoCareers/job/Wilmington-NC/Associate-Software-Engineer_R5265?source=cvrve",
         "company_name": "nCino",
         "title": "Associate Software Engineer",
@@ -12829,7 +12829,7 @@
             "Wilmington, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "7ffbeb8e-f2ae-4437-b1a5-a4abf84048eb",
         "date_posted": 1732313235,
@@ -13157,7 +13157,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1732649063,
+        "date_updated": 1748649149,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer---New-Grad--OR049153-_R195489",
         "company_name": "Capital One",
         "title": "New Grad: Associate Software Engineer",
@@ -13165,7 +13165,7 @@
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "629023f5-6170-413f-8f48-80a1c261dbc0",
         "date_posted": 1732649063,
@@ -13274,7 +13274,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1732776131,
+        "date_updated": 1748649153,
         "url": "https://vivint.wd5.myworkdayjobs.com/vivintjobs/job/Boston-MA/Android-Engineer_R124180",
         "company_name": "Vivint",
         "title": "Software Engineer, Android",
@@ -13282,7 +13282,7 @@
             "Boston, MA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "adc17929-fe4c-4df6-a70c-374685d71800",
         "date_posted": 1732776131,
@@ -13385,7 +13385,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1733253327,
+        "date_updated": 1748649156,
         "url": "https://factset.wd1.myworkdayjobs.com/Mesh/job/Norwalk-CT-USA/Software-Engineer---Americas-Campus--July-2025-_R25571-1",
         "company_name": "FactSet",
         "title": "New Grad 2025: Software Engineer",
@@ -13395,7 +13395,7 @@
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "49112c1f-5146-4de7-977b-dc8a4f2067c5",
         "date_posted": 1733253327,
@@ -13503,7 +13503,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1733364924,
+        "date_updated": 1748649159,
         "url": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Boise-Idaho-United-States-of-America/Software-Applications-Engineer_3143955-2",
         "company_name": "HP",
         "title": "Software Applications Engineer",
@@ -13512,7 +13512,7 @@
             "Alpharetta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "181e64a1-652b-4f80-ade2-fd90faf1f8fe",
         "date_posted": 1733364924,
@@ -13600,7 +13600,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1733370059,
+        "date_updated": 1748649161,
         "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineer_R-043786",
         "company_name": "Red Hat",
         "title": "Software Engineer",
@@ -13608,7 +13608,7 @@
             "Raleigh, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "213bcb66-9b53-4976-93d0-51b0675f10c2",
         "date_posted": 1733370059,
@@ -13761,7 +13761,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1733438376,
+        "date_updated": 1748649164,
         "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Seattle-Washington/Software-Engineer-I_R-225610?utm_source=cvrve&utm_medium=organic&utm_campaign=cvrve",
         "company_name": "Mastercard",
         "title": "Software Engineer I",
@@ -13769,7 +13769,7 @@
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "5b76894d-d702-4570-9f90-61b3f9e7944e",
         "date_posted": 1733438376,
@@ -13777,7 +13777,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1733446870,
+        "date_updated": 1748649166,
         "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Code-Coverage-Tools---New-College-Grad-2025_JR1991891",
         "company_name": "NVIDIA",
         "title": "New Grad 2025: Software Engineer, Code Coverage Tools",
@@ -13785,7 +13785,7 @@
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "4c8729a1-15a0-4625-9774-fc34b6996ea9",
         "date_posted": 1733446870,
@@ -13826,7 +13826,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1733549520,
+        "date_updated": 1748649171,
         "url": "https://wd1.myworkdaysite.com/en-US/recruiting/snapchat/snap/job/Boulder-Colorado/Software-Engineer_R0038110",
         "company_name": "Snap",
         "title": "Software Engineer",
@@ -13834,7 +13834,7 @@
             "Boulder, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "9cc8856e-0587-4496-b7d0-b4d8093bde90",
         "date_posted": 1733549520,
@@ -14144,7 +14144,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1734121119,
+        "date_updated": 1748649174,
         "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Associate--Data-Scientist--Full-Time-2025_R204196",
         "company_name": "Capital One",
         "title": "New Grad 2025: Associate Data Scientist",
@@ -14152,7 +14152,7 @@
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "cf276f93-c039-4ac0-92ce-d313dbeb38d4",
         "date_posted": 1734121119,
@@ -14160,7 +14160,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1734121209,
+        "date_updated": 1748649176,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/GPU-Architecture-Engineer---New-College-Grad-2024_JR1989489?locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
         "company_name": "NVIDIA",
         "title": "New Grad 2024: GPU Architecture Engineer",
@@ -14170,7 +14170,7 @@
             "Durham, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "28262672-108f-43f8-b819-4adfb7f69c60",
         "date_posted": 1734121209,
@@ -14178,7 +14178,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1734121514,
+        "date_updated": 1748649179,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/ASIC-Design-Engineer---New-College-Grad-2025_JR1992617?locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
         "company_name": "NVIDIA",
         "title": "New Grad 2025: ASIC Design Engineer",
@@ -14186,7 +14186,7 @@
             "Santa Clara, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "2a315a94-4dbe-472d-95b5-691b316e8bcc",
         "date_posted": 1734121514,
@@ -14210,7 +14210,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1734284687,
+        "date_updated": 1748649184,
         "url": "https://vertexinc.wd1.myworkdayjobs.com/en-US/VertexInc/job/Remote-USA/Software-Developer--New-Grad--Summer-2025-Start-_JR101601-2",
         "company_name": "Vertex",
         "title": "New Grad 2025: Software Developer",
@@ -14220,7 +14220,7 @@
             "Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "28a53200-343d-4a4a-8042-8b6c48c64728",
         "date_posted": 1734284687,
@@ -14244,7 +14244,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1734470767,
+        "date_updated": 1748649186,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--CPU-Performance---New-College-Grad-2025_JR1992891?source=cvrve",
         "company_name": "NVIDIA",
         "title": "New Grad 2025: Developer Technology Engineer, CPU Performance",
@@ -14252,7 +14252,7 @@
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "cb59e0f8-ffb0-46d9-9ec1-6fe8be5bffb0",
         "date_posted": 1734470767,
@@ -14343,7 +14343,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1734733541,
+        "date_updated": 1748649189,
         "url": "https://expedia.wd5.myworkdayjobs.com/en-US/private/job/Austin-Domain-11---HomeAway/Software-Development-Engineer-I---Marketplace-Technology_R-93087-1",
         "company_name": "Expedia",
         "title": "Software Development Engineer I",
@@ -14351,7 +14351,7 @@
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "85d4bb7d-edcc-452e-b42d-99257b34ee08",
         "date_posted": 1734733541,
@@ -14359,7 +14359,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1734733578,
+        "date_updated": 1748649191,
         "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Burlington-Massachusetts/Software-Engineer-I---Senior-Associate---Charles-River-Development-6_R-756578",
         "company_name": "State Street",
         "title": "Software Engineer I",
@@ -14367,7 +14367,7 @@
             "Burlington, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "f5a82856-57ba-48eb-8330-998f8e3c7dc3",
         "date_posted": 1734733578,
@@ -14375,7 +14375,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1734733626,
+        "date_updated": 1748649196,
         "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_AdminJobs/job/Boston-Massachusetts/Software-Engineering-New-Graduate-Program-2025_JR24061536",
         "company_name": "Manulife Financial Corporation",
         "title": "New Grad 2025: Software Engineer",
@@ -14383,7 +14383,7 @@
             "Boston, MA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "52ff2f4e-344d-4134-9053-cc7c7f28b715",
         "date_posted": 1734733626,
@@ -14439,7 +14439,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1734892417,
+        "date_updated": 1748649198,
         "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Machine-Learning-Engineer-I_R-45600",
         "company_name": "Nike",
         "title": "Machine Learning Engineer I",
@@ -14447,7 +14447,7 @@
             "Beaverton, OR"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "a06160cb-aa20-4801-ac98-4456b5b9d8af",
         "date_posted": 1734892417,
@@ -14630,7 +14630,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1735317662,
+        "date_updated": 1748649201,
         "url": "https://medimpact.wd5.myworkdayjobs.com/en-US/MedImpact/job/San-Diego-CA/Software-Engineer-I_JR101414?source=Cvrve+Job+Search",
         "company_name": "MedImpact",
         "title": "Software Engineer I",
@@ -14638,7 +14638,7 @@
             "San Diego, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "286f7800-2700-43b4-a11e-e117957a1a47",
         "date_posted": 1735317662,
@@ -14939,7 +14939,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1736178776,
+        "date_updated": 1748649204,
         "url": "https://ncr.wd1.myworkdayjobs.com/ext_contractors/job/ATLANTA-GA-USA/Software-Engineer_R0148970",
         "company_name": "NCR Voyix",
         "title": "Software Engineer",
@@ -14947,7 +14947,7 @@
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "8cc2f9cb-0a79-4d0a-b1c9-486270c72bcd",
         "date_posted": 1736178776,
@@ -14955,7 +14955,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1736178808,
+        "date_updated": 1748649207,
         "url": "https://ncr.wd1.myworkdayjobs.com/ext_contractors/job/ATLANTA-GA-USA/Software-Engineer-I_R0148800-1",
         "company_name": "NCR Voyix",
         "title": "Software Engineer I",
@@ -14963,7 +14963,7 @@
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "f70d2755-96b8-4958-9020-e083fa65fe45",
         "date_posted": 1736178808,
@@ -14987,7 +14987,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1736179031,
+        "date_updated": 1748649210,
         "url": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Denver-USA/Software-Engineer_JR101988",
         "company_name": "AutoStore",
         "title": "New Grad 2025: Software Engineer",
@@ -14995,7 +14995,7 @@
             "Denver, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "81584a50-06d4-4378-b1d5-dd99a0b2eaf3",
         "date_posted": 1736179031,
@@ -15035,7 +15035,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1736195226,
+        "date_updated": 1748649213,
         "url": "https://cubic.wd1.myworkdayjobs.com/cubic_USA_careers/job/San-Diego-California/Associate-Software-Engineer_REQ_43035",
         "company_name": "Cubic Defense",
         "title": "Associate Software Engineer",
@@ -15043,7 +15043,7 @@
             "San Diego, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "08d22927-b054-4cc6-ae3d-1f478b29e077",
         "date_posted": 1736195226,
@@ -15067,7 +15067,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1736195600,
+        "date_updated": 1748649216,
         "url": "https://csiweb.wd1.myworkdayjobs.com/CSI_Careers/job/Remote-USA/Software-Engineer-I_R-100074?source=cvrve",
         "company_name": "CSI",
         "title": "Software Engineer I",
@@ -15077,7 +15077,7 @@
             "US"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "de5a92a5-c44f-45f2-aac3-1b7fb3aa8c6b",
         "date_posted": 1736195600,
@@ -15101,7 +15101,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1736231925,
+        "date_updated": 1748649219,
         "url": "https://brooksauto.wd1.myworkdayjobs.com/Brooks_External_Site/job/Chelmsford-MA/Software-Engineer---Rotation-Program_R2291-1",
         "company_name": "Brooks",
         "title": "Software Engineer",
@@ -15109,7 +15109,7 @@
             "Chelmsford, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "7a4c38ba-6f54-4deb-ab07-a688e5f486c5",
         "date_posted": 1736231925,
@@ -15591,7 +15591,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1737069122,
+        "date_updated": 1748649221,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Junior-Data-Scientist_R-00151334?utm_source=cvrve&ref=cvrve",
         "company_name": "Leidos",
         "title": "Junior Data Scientist",
@@ -15600,7 +15600,7 @@
             "US"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "828e6213-c7db-47ea-b421-d78da0861c93",
         "date_posted": 1737069122,
@@ -15624,7 +15624,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1737069244,
+        "date_updated": 1748649224,
         "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Colorado-Springs-4420-Arrowswest-Drive/Software-Engineer-2_R021388?utm_source=cvrve&ref=cvrve",
         "company_name": "Broadcom",
         "title": "Software Engineer 1",
@@ -15632,7 +15632,7 @@
             "Colorado Springs, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "a61ea693-5a08-44f1-a676-f8ec65135c7f",
         "date_posted": 1737069244,
@@ -15640,7 +15640,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1737069353,
+        "date_updated": 1748649226,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer---New-Grad_R205487?utm_source=cvrve&ref=cvrve",
         "company_name": "Capital One",
         "title": "New Grad: Associate Software Engineer",
@@ -15648,7 +15648,7 @@
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "38d5a06c-4837-40b4-a294-aa2a9bc2ce17",
         "date_posted": 1737069353,
@@ -15672,7 +15672,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1737069593,
+        "date_updated": 1748649230,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Oklahoma-City-OK/Software-Engineer-I_R89009?utm_source=cvrve&ref=cvrve",
         "company_name": "LexisNexis",
         "title": "Software Engineer I",
@@ -15680,7 +15680,7 @@
             "Oklahoma City, OK"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "2bfd0b5e-0f5a-450e-b12a-2e2472168961",
         "date_posted": 1737069593,
@@ -15752,7 +15752,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1737075540,
+        "date_updated": 1748649232,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Product-Development-Program-Associate---2025_R189659-1?utm_source=cvrve",
         "company_name": "Capital One",
         "title": "New Grad 2025: Product Development Program Associate",
@@ -15762,7 +15762,7 @@
             "Chicago, IL"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "4a2b241c-8232-4b92-8084-021b1d90d42f",
         "date_posted": 1737075540,
@@ -15770,7 +15770,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1737498029,
+        "date_updated": 1748649234,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Graphics-Architect--Hardware---New-College-Grad-2025_JR1990458",
         "company_name": "NVIDIA",
         "title": "New Grad 2025: Graphics Architect, Hardware - Masters",
@@ -15778,7 +15778,7 @@
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "538d94ee-7653-4ccc-9419-2dc9d43bd81c",
         "date_posted": 1737498029,
@@ -15786,7 +15786,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1737498070,
+        "date_updated": 1748649237,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Senior-System-Software-Engineer--Autonomous-Vehicles---New-College-Grad-2025_JR1990160-1",
         "company_name": "NVIDIA",
         "title": "New Grad 2025: System Software Engineer, Autonomous Vehicles",
@@ -15794,7 +15794,7 @@
             "Santa Clara, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "78c7f64e-0733-4cc5-bf6a-ccfd967f5fcb",
         "date_posted": 1737498070,
@@ -16080,7 +16080,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1738172046,
+        "date_updated": 1748649239,
         "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-IL/Machine-Learning-Software-Engineer--Remote-_R20338",
         "company_name": "Crowdstrike",
         "title": "New Grad 2025: Machine Learning Software Engineer",
@@ -16090,7 +16090,7 @@
             "Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "ec780c3d-0254-48d9-8998-20b3b72cb8bb",
         "date_posted": 1738172046,
@@ -16427,7 +16427,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1738788537,
+        "date_updated": 1748649245,
         "url": "https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/Irving-750-West-John-Carpenter/Software-Engineer_R0491710",
         "company_name": "CVS Health",
         "title": "Software Engineer",
@@ -16435,7 +16435,7 @@
             "Irving, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "fc8c152a-ff5f-4b32-a5b2-4c5c23f9aff5",
         "date_posted": 1738788537,
@@ -16443,7 +16443,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1738788566,
+        "date_updated": 1748649247,
         "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/TX---Irving/Associate-Software-Engineer_R0488960?q=Associate%20Software%20Engineer",
         "company_name": "CVS Health",
         "title": "Associate Software Engineer",
@@ -16451,7 +16451,7 @@
             "Irving, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "bd29bcc2-748d-4a54-9349-04b16ed28cf1",
         "date_posted": 1738788566,
@@ -17144,7 +17144,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1740456252,
+        "date_updated": 1748649250,
         "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Software-Engineer-Entry-Level_R0107289",
         "company_name": "USAA",
         "title": "Entry Level Software Engineer",
@@ -17152,7 +17152,7 @@
             "San Antonio, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "aadc6812-a34e-4168-9266-47b699d5234e",
         "date_posted": 1740456252,
@@ -17192,7 +17192,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1740456465,
+        "date_updated": 1748649252,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineer-I---Austin--TX_R202558269?utm_source=cvrve&ref=cvrve",
         "company_name": "Cox Automotive",
         "title": "Software Engineer I",
@@ -17200,7 +17200,7 @@
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "27694d78-e07e-4498-a069-3728c08c0aec",
         "date_posted": 1740456465,
@@ -17226,7 +17226,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1741482396,
+        "date_updated": 1748649255,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN301-1010-Production-Rd-Ft-Wayne-IN-1010-Production-Road---Fort-Wayne-IN-46808-USA/XMLNAME-2025-Fulltime---Raytheon-Software-Engineer-I--On-site-_01755701",
         "company_name": "Raytheon",
         "title": "New Grad 2025: Software Engineer I",
@@ -17234,7 +17234,7 @@
             "Fort Wayne, IN"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "briz123",
         "id": "4fc80f38-b0e2-4a39-9cde-d1b01c5177a1",
         "date_posted": 1741482396,
@@ -17276,7 +17276,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1741482809,
+        "date_updated": 1748649260,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/ASIC-Design-Efficiency-Engineer---New-College-Grad-2025_JR1990204-1",
         "company_name": "NVIDIA",
         "title": "New Grad 2025: ASIC Design Efficiency Engineer",
@@ -17284,7 +17284,7 @@
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "05e36feb-6422-4838-8fa3-6507ca8ff87f",
         "date_posted": 1741482809,
@@ -17388,7 +17388,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1741516216,
+        "date_updated": 1748649263,
         "url": "https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Applications-Engineer-I_20355-1?source=cvrve",
         "company_name": "Silicon Labs",
         "title": "Applications Engineer I",
@@ -17396,7 +17396,7 @@
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "32765c03-0506-48b5-b503-5c9e2be77858",
         "date_posted": 1741516216,
@@ -17517,7 +17517,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1743413237,
+        "date_updated": 1748649266,
         "url": "https://cw.wd1.myworkdayjobs.com/External/job/Tampa-Florida-USA/Mobile-Building-Engineer_R268066",
         "company_name": "Cushman & Wakefield",
         "title": "Mobile Building Engineer",
@@ -17525,7 +17525,7 @@
             "Tampa, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "a979e9cd-c1b3-4200-a519-2d6a73a7b2db",
         "date_posted": 1743413237,
@@ -17565,7 +17565,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1743413410,
+        "date_updated": 1748649269,
         "url": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Boston-US/Software-Engineer-I_JR1405",
         "company_name": "Wood Mackenzie",
         "title": "Software Engineer I",
@@ -17573,7 +17573,7 @@
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "8403af46-3d6c-45e6-a184-4792ef89666f",
         "date_posted": 1743413410,
@@ -17581,7 +17581,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1743413534,
+        "date_updated": 1748649272,
         "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Software-Development-Engineer-I---Early-Career-2025-University-Grad_R50741",
         "company_name": "Blue Origin",
         "title": "New Grad 2025: Software Development Engineer I",
@@ -17594,7 +17594,7 @@
             "Los Angeles, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "c0260cbe-9b75-4e0f-ad33-c5499cb1f7ab",
         "date_posted": 1743413534,
@@ -17733,7 +17733,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1743415983,
+        "date_updated": 1748649274,
         "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Quality-Engineer_R-043779",
         "company_name": "Red Hat",
         "title": "Software Quality Engineer",
@@ -17741,7 +17741,7 @@
             "Raleigh, NC"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "9bd7188b-7f56-4003-8263-af808ccbfe0d",
         "date_posted": 1743415983,
@@ -17766,7 +17766,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1743852912,
+        "date_updated": 1748649277,
         "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Deep-Learning-Computer-Architect---New-College-Grad-2025_JR1996025",
         "company_name": "NVIDIA",
         "title": "New Grad 2025: Deep Learning Computer Architect",
@@ -17774,7 +17774,7 @@
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "d42bf112-3742-45ee-b464-478c12e27318",
         "date_posted": 1743852912,
@@ -17830,7 +17830,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1743853506,
+        "date_updated": 1748649279,
         "url": "https://bloomberg.wd1.myworkdayjobs.com/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Software-Engineer--Associate_133810",
         "company_name": "Bloomberg",
         "title": "Software Engineer, Associate",
@@ -17838,7 +17838,7 @@
             "Arlington, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "74669a0e-8162-41de-9b23-7366b720ebde",
         "date_posted": 1743853506,
@@ -17975,7 +17975,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1743854598,
+        "date_updated": 1748649282,
         "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Software-Development-Engineer-I---Early-Career-2025-University-Grad_R50741",
         "company_name": "Blue Origin",
         "title": "New Grad 2025: Software Development Engineer I",
@@ -17988,7 +17988,7 @@
             "Los Angeles, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "721d546e-f692-4f24-b1ba-62f51bf7281a",
         "date_posted": 1743854598,
@@ -18028,7 +18028,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1744309947,
+        "date_updated": 1748649287,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ807-RMS-AP-Bldg-807-1151-East-Hermans-Road-Building-807-Tucson-AZ-85756-USA/Software-Engineer-I_01761917",
         "company_name": "RTX",
         "title": "Software Engineer I",
@@ -18036,7 +18036,7 @@
             "Tucson, AZ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "01760a81-0c04-4221-ae32-969c9c216e41",
         "date_posted": 1744309947,
@@ -18044,7 +18044,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1744310045,
+        "date_updated": 1748649289,
         "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Alpharetta-Site/Android-Engineer-I---Digital-Servicing_2501251-1",
         "company_name": "Synchrony",
         "title": "Android Engineer I \u2013 Digital Servicing",
@@ -18063,7 +18063,7 @@
             "Cincinnati, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "f3615e58-90dc-4e24-bb3b-3b94251180f6",
         "date_posted": 1744310045,
@@ -18071,7 +18071,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1744310091,
+        "date_updated": 1748649292,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0137457",
         "company_name": "Amentum",
         "title": "Entry Level Software Engineer",
@@ -18079,7 +18079,7 @@
             "Dahlgren, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "742fffec-9126-4e88-8c6f-7c36c88b490a",
         "date_posted": 1744310091,
@@ -18087,7 +18087,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1744310125,
+        "date_updated": 1748649294,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0137459-1",
         "company_name": "Amentum",
         "title": "Entry Level Software Engineer",
@@ -18095,7 +18095,7 @@
             "Fredericksburg, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "e4eaf89b-576e-44e2-8236-cca72fc02295",
         "date_posted": 1744310125,
@@ -18254,7 +18254,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1744461525,
+        "date_updated": 1748649297,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/SRAM-CAD-Engineer---New-College-Grad-2025_JR1996519",
         "company_name": "NVIDIA",
         "title": "New Grad 2025: SRAM CAD Engineer",
@@ -18262,7 +18262,7 @@
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "031dca8d-4bd2-49fc-87fb-6253f2238951",
         "date_posted": 1744461525,
@@ -18286,7 +18286,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1744461687,
+        "date_updated": 1748649302,
         "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-GB/crowdstrikecareers/job/USA---Remote/Engineer-I---Product-Security--Remote-_R22819",
         "locations": [
             "Remote",
@@ -18294,7 +18294,7 @@
         ],
         "season": "Summer",
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Crowdstrike",
         "title": "Application Security Engineer I - Product Security",
         "source": "vanshb03",
@@ -18402,14 +18402,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1744462531,
+        "date_updated": 1748649305,
         "url": "https://athene.wd5.myworkdayjobs.com/en-US/Apollo_Careers/job/El-Segundo-California/Full-Stack-Engineer_R240715-1",
         "locations": [
             "El Segundo, California"
         ],
         "season": "Summer",
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Apollo",
         "title": "Full Stack Engineer",
         "source": "vanshb03",
@@ -18483,7 +18483,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1744658479,
+        "date_updated": 1748649307,
         "url": "https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Scottsdale/Software-Engineer_REQ2025270",
         "company_name": "Early Warning",
         "title": "Software Engineer",
@@ -18491,7 +18491,7 @@
             "Scottsdale, AZ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "050c5f24-3b5a-454a-9a12-26786eb3f364",
         "date_posted": 1744658479,
@@ -18663,7 +18663,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1746307770,
+        "date_updated": 1748649317,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Software-Development-Engineer-in-Test--Graphics---New-College-Grad-2025_JR1996858",
         "company_name": "NVIDIA",
         "title": "New Grad 2025: Software Development Engineer in Test, Graphics",
@@ -18675,7 +18675,7 @@
             "US"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "855aae66-8f4c-4daf-813a-f6fb6f7477d3",
         "date_posted": 1746307770,
@@ -18766,7 +18766,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1746308128,
+        "date_updated": 1748649323,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Sill-OK/Software-Developer---Entry-level_R-00158332",
         "company_name": "Leidos",
         "title": "Entry Level Software Developer",
@@ -18775,7 +18775,7 @@
             "Lawton, OK"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "6d27a598-3ae7-4faf-8129-0f9f240b4476",
         "date_posted": 1746308128,
@@ -18783,7 +18783,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1746308159,
+        "date_updated": 1748649326,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/XMLNAME-2025-University-Graduate---Software-Engineer_R148217",
         "company_name": "Adobe",
         "title": "New Grad 2025: Software Engineer",
@@ -18791,7 +18791,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "d68c19c6-a385-421e-b99d-7ab025f9d81c",
         "date_posted": 1746308159,
@@ -18832,7 +18832,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1746308303,
+        "date_updated": 1748649331,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Berkeley-MO/Entry-Level-Embedded-Software-Engineers_JR2025454206",
         "company_name": "Boeing",
         "title": "Entry Level Embedded Software Engineer",
@@ -18840,7 +18840,7 @@
             "Berkeley, MO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "102f5139-685f-4c25-86e9-8c8db8967f5f",
         "date_posted": 1746308303,
@@ -18980,7 +18980,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1747298777,
+        "date_updated": 1748649336,
         "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-1--Software-Development---Engineering_R410445",
         "company_name": "Comcast",
         "title": "Software Development & Engineer 1",
@@ -18988,7 +18988,7 @@
             "Philadelphia, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "55d701b4-b993-49a7-bd24-8d4809080e4a",
         "date_posted": 1747298777,
@@ -19213,7 +19213,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1747461973,
+        "date_updated": 1748649341,
         "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Annapolis-Junction/Software-Engineer-1_312023-1",
         "company_name": "CACI",
         "title": "Software Engineer 1",
@@ -19221,7 +19221,7 @@
             "Annapolis Junction, MD"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "c6586514-2411-4e6c-b38d-81d0a2d3c90f",
         "date_posted": 1747461973,
@@ -19279,7 +19279,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748024309,
+        "date_updated": 1748649344,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineer-I_R202561161",
         "company_name": "Cox Automotive",
         "title": "Software Engineer I",
@@ -19287,7 +19287,7 @@
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "22cf9607-3daf-41f9-b37f-3a7cf82c35b8",
         "date_posted": 1748024309,
@@ -19329,7 +19329,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748024443,
+        "date_updated": 1748649351,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1421940",
         "company_name": "TD Bank",
         "title": "Software Engineer I",
@@ -19337,7 +19337,7 @@
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "8bec2c68-aa5f-4afd-99b4-381a2c4def85",
         "date_posted": 1748024443,
@@ -19361,7 +19361,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748024532,
+        "date_updated": 1748649353,
         "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Data-Engineer-I---Finance-IT_R58869",
         "company_name": "Fifth Third Bank",
         "title": "Data Engineer I - Finance IT",
@@ -19369,7 +19369,7 @@
             "Cincinnati, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "249193bb-834c-4cf1-ae90-453d647d7b51",
         "date_posted": 1748024532,
@@ -20006,7 +20006,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748584305,
+        "date_updated": 1748649378,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Machine-Learning-Software-Engineer---New-College-Grad-2025_JR1998235",
         "company_name": "NVIDIA",
         "title": "New Grad 2025: Machine Learning Software Engineer",
@@ -20014,7 +20014,7 @@
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "d8971fab-c16e-47fd-8cb2-9770e944a727",
         "date_posted": 1748584305,
@@ -20056,7 +20056,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748585971,
+        "date_updated": 1748649386,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Generative-AI---New-College-Grad-2025_JR1998154",
         "company_name": "NVIDIA",
         "title": "New Grad 2025: Software Engineer, Generative-AI",
@@ -20064,7 +20064,7 @@
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "f01cdeda-2fff-4cd4-90aa-b83f510e42c5",
         "date_posted": 1748585971,
