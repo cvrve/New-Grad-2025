@@ -19940,5 +19940,21 @@
         "date_posted": 1748583726,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748583962,
+        "url": "https://www.uber.com/global/en/careers/list/144046/",
+        "company_name": "Uber",
+        "title": "Software Engineer I - Container Platform",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "1df0d202-9a23-4c23-a6dd-98d1f6a1887e",
+        "date_posted": 1748583962,
+        "company_url": "",
+        "is_visible": true
     }
 ]
