@@ -11,21 +11,6 @@ The list is maintained collaboratively by [WeCracked](https://wecracked.com/), a
 This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJobs/New-Grad-2025).
 
 ---
-<div align="center">
-	<h3>😩 Looking for resumes that passed screening? 😩</h3>
-	<p>
-			Search through a database of ⬇️ <strong>resumes</strong> ⬇️ that have passed screens at your dream companies. 
-			<br>
-			<div>
-			<a href="https://resumes.fyi">
-          <img src="https://github.com/user-attachments/assets/a1aab54c-6420-4266-801d-165b1b691627" width="450" alt="Email">
-        </a>
-			</div>
-		<sub><i>Share any other cool projects you make using the repo, and we would love to give you a shoutout!</i></sub>
-	</p>
-</div>
-
----
 
 <div align="center">
 	<h3 >Want notifications when new roles open? </h3>
