@@ -20037,5 +20037,22 @@
         "date_posted": 1748585833,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748585869,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-NC-Durham/Deep-Learning-Architect---New-College-Grad-2025_JR1997781",
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: Deep Learning Architect, Masters/PhD",
+        "locations": [
+            "Durham, NC",
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "4aa43162-0bc0-4d33-98b6-dd6051c00dda",
+        "date_posted": 1748585869,
+        "company_url": "",
+        "is_visible": true
     }
 ]
