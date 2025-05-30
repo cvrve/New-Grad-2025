@@ -20086,5 +20086,21 @@
         "date_posted": 1748644726,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748645366,
+        "url": "https://jobs.ashbyhq.com/mandolin/30bae6c7-6739-4cd6-97c4-fdb7662edf3b",
+        "company_name": "Mandolin",
+        "title": "New Grad: Front-End Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "957d2fb0-fc92-4f86-839f-10824ac54951",
+        "date_posted": 1748645366,
+        "company_url": "",
+        "is_visible": true
     }
 ]
