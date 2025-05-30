@@ -19972,5 +19972,21 @@
         "date_posted": 1748584030,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748584049,
+        "url": "https://www.tesla.com/careers/search/job/243628",
+        "company_name": "Tesla",
+        "title": "Software Engineer, ML Inference Compiler & Deployment, GPU, CPU",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "1a76ae58-01c5-477c-865b-16227cf22371",
+        "date_posted": 1748584049,
+        "company_url": "",
+        "is_visible": true
     }
 ]
