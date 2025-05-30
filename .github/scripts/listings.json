@@ -19860,5 +19860,21 @@
         "date_posted": 1748583301,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748583345,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Engineer-II_R48302",
+        "company_name": "Cadence",
+        "title": "Software Engineer I",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "7f5cf340-a274-4b78-badb-97bfe8667f1e",
+        "date_posted": 1748583345,
+        "company_url": "",
+        "is_visible": true
     }
 ]
