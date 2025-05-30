@@ -19812,5 +19812,21 @@
         "date_posted": 1748583139,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748583202,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202563166",
+        "company_name": "Cox Automotive",
+        "title": "Software Engineer I",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "8458ac7b-926b-4b86-b01a-4a33b9b67a17",
+        "date_posted": 1748583202,
+        "company_url": "",
+        "is_visible": true
     }
 ]
