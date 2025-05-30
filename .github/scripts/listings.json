@@ -19828,5 +19828,21 @@
         "date_posted": 1748583202,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748583271,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/en-GB/rec_rtx_ext_gateway/job/RI101-1847-W-Main-Rd-1847-W-Main-Road-Nimitz-Building-Portsmouth-RI-02871-USA/C-C---and-Java-Software-Development-Engineer-I--Onsite-_01770233",
+        "company_name": "RTX",
+        "title": "C/C++ and Java Software Development Engineer I",
+        "locations": [
+            "Portsmouth, RI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "1bed73c5-cb97-4934-8acf-053653d10f28",
+        "date_posted": 1748583271,
+        "company_url": "",
+        "is_visible": true
     }
 ]
