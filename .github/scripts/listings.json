@@ -19876,5 +19876,21 @@
         "date_posted": 1748583345,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748583495,
+        "url": "https://www.pega.com/about/careers/21949/associate-software-engineer-ux-engineering",
+        "company_name": "Pega",
+        "title": "Associate Software Engineer, UX Engineering",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "e0c6321d-2747-4446-954d-57f30119f246",
+        "date_posted": 1748583495,
+        "company_url": "",
+        "is_visible": true
     }
 ]
