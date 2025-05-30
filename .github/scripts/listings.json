@@ -20020,5 +20020,22 @@
         "date_posted": 1748584305,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748585833,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Power-Architecture-and-Optimization-Engineer---New-College-Grad-2025_JR1988172",
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: Power Architecture and Optimization Engineer",
+        "locations": [
+            "Santa Clara, CA",
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "083144cc-73ab-4389-baa2-37072307986b",
+        "date_posted": 1748585833,
+        "company_url": "",
+        "is_visible": true
     }
 ]
