@@ -42,7 +42,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
-| **TD Bank** | Software Engineer I | Toronto, Canada | <a href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1421940?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 23 |
 | **Cloudflare** | Software Engineer, Experiment and Data Capture | <details><summary>**5 locations**</summary>Austin, TX</br>Atlanta, GA</br>Denver, CO</br>Washington D.C., DC</br>Toronto, Canada</details> | <a href="https://job-boards.greenhouse.io/cloudflare/jobs/6885717?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 23 |
 | **Marqeta** | Software Engineer I, Transaction Engine Foundation | Toronto, Canada</br>Vancouver, Canada | <a href="https://job-boards.greenhouse.io/marqeta/jobs/6832149?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 17 |
 | **Marqeta** | Software Engineer I, Core Edge Processing | Toronto, Canada</br>Vancouver, Canada | <a href="https://job-boards.greenhouse.io/marqeta/jobs/6774484?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 17 |
@@ -65,15 +64,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Linamar Corporation** | Jr. Security Engineer | Guelph, Canada | <a href="https://fa-epmd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/10441?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
 | **Intact** | New Grad Tech Development Program | Montreal, Canada</br>Toronto, Canada | <a href="https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Tech-Development-Program--New-Grad-_R144797?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
 | **Canadalife** | Software Developer | London, Canada</br>Winnipeg, MB</br>Toronto, ON | <a href="https://jobs.canadalife.com/job/London-Software-Developer-ON/1168113501/?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
-| **Crowdstrike** | New Grad 2025: Machine Learning Software Engineer | Remote</br>US</br>Canada | <a href="https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-IL/Machine-Learning-Software-Engineer--Remote-_R20338?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 29 |
 | **Coalition** | Software Engineer, Servicing | Canada</br>United States | <a href="https://www.coalitioninc.com/job-posting?id=4516340005&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
-| **Capital One** | New Grad: Associate Software Engineer | Toronto, Canada | <a href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer---New-Grad_R205487?utm_source=cvrve&ref=cvrve&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
 | **ExxonMobil** | New Grad: Software Developer | Calgary, Canada | <a href="https://jobs.exxonmobil.com/ExxonMobil/job/Calgary-Software-Developer-New-Grad-AB/1243481200?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
 | **Quora** | New Grad 2025: Machine Learning Engineer | Remote</br>US</br>Canada | <a href="https://jobs.ashbyhq.com/quora/ddff2781-86fa-4b9a-b18b-891ea775b105?utm_source=Cvrve&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 24 |
-| **Vertex** | New Grad 2025: Software Developer | Remote</br>US</br>Canada | <a href="https://vertexinc.wd1.myworkdayjobs.com/en-US/VertexInc/job/Remote-USA/Software-Developer--New-Grad--Summer-2025-Start-_JR101601-2?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 15 |
-| **Capital One** | New Grad 2025: Associate Data Scientist | Toronto, Canada | <a href="https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Associate--Data-Scientist--Full-Time-2025_R204196?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 13 |
-| **Capital One** | New Grad: Associate Software Engineer | Toronto, Canada | <a href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer---New-Grad--OR049153-_R195489?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
-| **Ciena** | New Grad: Routing/IP Software Engineer | Ottawa, Canada | <a href="https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Routing-IP-Software-Engineer-1---New-Grad_R026406?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | **Amazon** | New Grad 2025: Front-End Engineer | Vancouver, Canada | <a href="https://www.amazon.jobs/en/jobs/2825619/front-end-engineer-2025-can?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **Robinhood** | Software Development Engineer in Test | Toronto, Canada | <a href="https://boards.greenhouse.io/robinhood/jobs/5850348?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | **Epic Games** | Desktop Platform Programmer | Montréal, Canada | <a href="https://boards.greenhouse.io/embed/job_app?token=5341847004&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
@@ -84,12 +77,19 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Intelliware** | New Grad: Junior Software Developer | Toronto, Canada | <a href="https://jobs.lever.co/intelliware/759b57c3-a5c3-4698-af78-66b3591bb936?applicant_guid=1a26e138-602c-4352-ab77-4ef92c12a04e&lever-origin=applied&lever-source%5B%5D=JobTarget%2CJobTarget%20Organic%20Sites%20Bundle&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
 | **Konrad** | New Grad: Software Developer | Vancouver, Canada | <a href="https://www.konrad.com/careers/job/5893276003?gh_jid=5893276003&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
 | **Warp** | Software Engineer | Remote US & Canada | <a href="https://boards.greenhouse.io/warp/jobs/4324888004?gh_src=a2e958824us&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
+| **TD Bank** | Software Engineer I | Toronto, Canada | 🔒 | May 23 |
 | **Affirm** | Machine Learning Engineer | Remote</br>Canada | 🔒 | May 19 |
+| **Crowdstrike** | New Grad 2025: Machine Learning Software Engineer | Remote</br>US</br>Canada | 🔒 | Jan 29 |
+| **Capital One** | New Grad: Associate Software Engineer | Toronto, Canada | 🔒 | Jan 16 |
 | **Intel** | Junior Compiler Engineer | Toronto, Canada | 🔒 | Dec 22 |
 | **IBM** | Software Developer | Markham, Canada | 🔒 | Dec 22 |
+| **Vertex** | New Grad 2025: Software Developer | Remote</br>US</br>Canada | 🔒 | Dec 15 |
+| **Capital One** | New Grad 2025: Associate Data Scientist | Toronto, Canada | 🔒 | Dec 13 |
 | **Johnson Controls** | Junior Embedded Software Developer | Ontario, Canada | 🔒 | Dec 11 |
 | **Yelp** | Entry Level Software Engineer | <details><summary>**5 locations**</summary>Montreal</br>Vancouver</br>Calgary</br>Toronto</br>Canada</details> | 🔒 | Nov 26 |
+| **Capital One** | New Grad: Associate Software Engineer | Toronto, Canada | 🔒 | Nov 26 |
 | **Crowdstrike** | Software Engineer, Linux | Remote</br>US</br>Canada | 🔒 | Nov 19 |
+| **Ciena** | New Grad: Routing/IP Software Engineer | Ottawa, Canada | 🔒 | Nov 19 |
 | **Samsara** | New Grad: Software Engineer | Remote</br>Canada | 🔒 | Oct 22 |
 | **Amazon** | Software Dev Engineer I, Redshift | Vancouver, Canada</br>Toronto, Canada | 🔒 | Oct 15 |
 | **Quora** | New Grad: Data Scientist, Monetization | Remote</br>US</br>Canada | 🔒 | Oct 03 |
