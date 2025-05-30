@@ -19924,5 +19924,21 @@
         "date_posted": 1748583625,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748583726,
+        "url": "https://jobs.lever.co/nium/882bf808-4205-4fdd-8a2c-96f730d9f77e",
+        "company_name": "Nium",
+        "title": "Software Development Engineer I",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "bd121e2b-d5be-424a-9879-a832bfc51b20",
+        "date_posted": 1748583726,
+        "company_url": "",
+        "is_visible": true
     }
 ]
