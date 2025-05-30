@@ -20004,5 +20004,21 @@
         "date_posted": 1748584237,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748584305,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Machine-Learning-Software-Engineer---New-College-Grad-2025_JR1998235",
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: Machine Learning Software Engineer",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "d8971fab-c16e-47fd-8cb2-9770e944a727",
+        "date_posted": 1748584305,
+        "company_url": "",
+        "is_visible": true
     }
 ]
