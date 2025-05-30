@@ -19988,5 +19988,21 @@
         "date_posted": 1748584049,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748584237,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/System-Design-Engineer---New-College-Grad-2025_JR1998191",
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: System Design Engineer",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "cabd99a6-014a-4140-85da-2d7ebe0f8d94",
+        "date_posted": 1748584237,
+        "company_url": "",
+        "is_visible": true
     }
 ]
