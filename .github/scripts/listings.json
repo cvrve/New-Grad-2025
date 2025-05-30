@@ -20070,5 +20070,21 @@
         "date_posted": 1748585971,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748644726,
+        "url": "https://jobs.ashbyhq.com/mandolin/703bd697-dd8f-4a42-8df3-999402605c2f",
+        "company_name": "Mandolin",
+        "title": "New Grad: Forward Deployed Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "2dafc73c-0316-4ed5-8696-88da13fb1de6",
+        "date_posted": 1748644726,
+        "company_url": "",
+        "is_visible": true
     }
 ]
