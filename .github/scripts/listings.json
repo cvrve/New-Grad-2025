@@ -20166,5 +20166,22 @@
         "date_posted": 1748717502,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748717553,
+        "url": "https://vertexinc.wd1.myworkdayjobs.com/en-US/VertexInc/job/Remote-USA/Software-Developer-I_JR101131-1",
+        "company_name": "Vertex Inc",
+        "title": "New Grad 2025: Software Developer",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "ffe83e1d-7634-426c-a5f4-7f7dd5631277",
+        "date_posted": 1748717553,
+        "company_url": "",
+        "is_visible": true
     }
 ]
