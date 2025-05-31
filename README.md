@@ -100,7 +100,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Pylon** | New Grad 2025: Software Engineer | Menlo Park, CA | <a href="https://jobs.ashbyhq.com/pylon/6f714dd0-e472-4e70-a749-80493cd29420?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 15 |
 | **NVIDIA** | New Grad 2025: ASIC Verification Engineer | Durham, NC</br>Madison, AL | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/ASIC-Verification-Engineer---New-College-Grad-2025_JR1997597?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 15 |
 | **Nuro** | New Grad: Software Engineer, Autonomy | Mountain View, CA | <a href="https://www.nuro.ai/careersitem?gh_jid=6725455&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 15 |
-| **Mixpanel** | Software Engineer, Fullstack | San Francisco, CA | <a href="https://boards.greenhouse.io/embed/job_app?token=3920890&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 15 |
 | **Meta** | Software Engineer, Systems ML | Bellevue, WA</br>Menlo Park, CA</br>New York, NY | <a href="https://www.metacareers.com/jobs/683948047917677?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 15 |
 | **Amazon** | Mission Operations Engineer, Project Kuiper | Redmond, WA | <a href="https://www.amazon.jobs/en/jobs/2981483/mission-operations-engineer-project-kuiper-mission-operations-ground-software?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 15 |
 | **Affirm** | Machine Learning Engineer I | Remote</br>US | <a href="https://job-boards.greenhouse.io/affirm/jobs/6570371003?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 15 |
@@ -256,7 +255,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Alloy** | Junior Full Stack Engineer, Operate | New York, NY | <a href="https://www.alloy.com/about/jobs/detail?gh_jid=7798750002&gh_jid=7798750002&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 09 |
 | **Vivint** | Software Engineer, iOS | Salt Lake City, UT | <a href="https://careers.nrgenergy.com/SMARTHOMES/job/Software-Engineer%2C-iOS-UT-84043/1247898800/?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 07 |
 | **T-Mobile** | Software Engineer | Bellevue, WA</br>Denver, CO</br>Frisco, TX | <a href="https://careers.t-mobile.com/software-engineer/job/384BCDA90974543D2B8B7844B750F5CB?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 07 |
-| **Tower Research Capital** | Software Engineer I | Charleston, SC | <a href="https://boards.greenhouse.io/embed/job_app?token=6509245&gh_src=be8ebc4b1&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
 | **Honda** | New Grad 2025: Engineering Development Program 🛂 | Marysville, OH | <a href="https://careers.honda.com/job/Marysville-Engineering-Development-Program-May-2025-Graduates-OH-43040/1196378800/?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
 | **Apple** | Embedded SoC Driver Engineer | Cupertino, CA | <a href="https://jobs.apple.com/en-us/details/200550452/embedded-soc-driver-engineer?team=SFTWR&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
 | **Microsoft** | Software Engineer - Fullstack | Multiple Locations | <a href="https://jobs.careers.microsoft.com/global/en/share/1798163?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 02 |
@@ -426,8 +424,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Arrow Search** | Software Engineer | New York, NY | <a href="https://arrowsearchpartners.com/jobs/software-engineer-7/?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | **Splunk** | Early Career, Fedramp Software Engineer | Raleigh, NC Boulder, CO | <a href="https://jobs.jobvite.com/splunk-careers/job/ovBBufwV?nl=1&nl=1&fr=false&utm_source=cvrve&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | **SMX** | Junior Software Engineer 🇺🇸 | Chantilly, VA | <a href="https://www.smxtech.com/jobs/smxtech/junior-software-engineer-ts-sci-ci-poly-3848/?gh_jid=6228060003&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
-| **SeatGeek** | Software Engineer | New York, NY | <a href="https://boards.greenhouse.io/embed/job_app?token=6295342&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
-| **SeatGeek** | Product Manager | New York, NY | <a href="https://boards.greenhouse.io/embed/job_app?token=6295424&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | **Refuel** | Forward Deployed Engineer | San Francisco, CA | <a href="https://jobs.lever.co/refuel/93afa841-1635-41d3-9c91-950aa1189724?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | **Pocket Worlds** | Software Engineer | Austin, TX | <a href="https://jobs.ashbyhq.com/Pocket%20Worlds/6716ca85-83ad-468e-b367-ce790bc367f5?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | **Orca** | Software Engineer (Frontend) | New York, NY | <a href="https://jobs.solana.com/companies/orca/jobs/41016790-software-engineer-frontend?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
@@ -590,6 +586,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Fifth Third Bank** | Data Engineer I - Finance IT | Cincinnati, OH | 🔒 | May 23 |
 | **Cox Automotive** | Software Engineer I | Austin, TX | 🔒 | May 23 |
 | **CACI** | Software Engineer 1 | Annapolis Junction, MD | 🔒 | May 17 |
+| **Mixpanel** | Software Engineer, Fullstack | San Francisco, CA | 🔒 | May 15 |
 | **Comcast** | Software Development & Engineer 1 | Philadelphia, PA | 🔒 | May 15 |
 | **NVIDIA** | New Grad 2025: Software Development Engineer in Test, Graphics | <details><summary>**5 locations**</summary>Austin, TX</br>Santa Clara, CA</br>Redmond, WA</br>Remote</br>US</details> | 🔒 | May 03 |
 | **Leidos** | Entry Level Software Developer | Fort Sill, OK</br>Lawton, OK | 🔒 | May 03 |
@@ -647,6 +644,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Broadcom** | Software Engineer 1 | Colorado Springs, CO | 🔒 | Jan 16 |
 | **Spotify** | Data Scientist I | New York, NY | 🔒 | Jan 09 |
 | **Brooks** | Software Engineer | Chelmsford, MA | 🔒 | Jan 07 |
+| **Tower Research Capital** | Software Engineer I | Charleston, SC | 🔒 | Jan 06 |
 | **NCR Voyix** | Software Engineer I | Atlanta, GA | 🔒 | Jan 06 |
 | **NCR Voyix** | Software Engineer | Atlanta, GA | 🔒 | Jan 06 |
 | **Cubic Defense** | Associate Software Engineer 🇺🇸 | San Diego, CA | 🔒 | Jan 06 |
@@ -853,6 +851,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Swift** | Associate Software Developer/Systems Engineer | Tysons Corner, VA | 🔒 | Oct 02 |
 | **SPAN** | Device Software Engineer | San Francisco, CA | 🔒 | Oct 02 |
 | **Siemens** | Software Engineer 🇺🇸 | Wilsonville, OR | 🔒 | Oct 02 |
+| **SeatGeek** | Software Engineer | New York, NY | 🔒 | Oct 02 |
+| **SeatGeek** | Product Manager | New York, NY | 🔒 | Oct 02 |
 | **SeatGeek** | UX Designer | New York, NY | 🔒 | Oct 02 |
 | **SeatGeek** | Data Analyst | New York, NY | 🔒 | Oct 02 |
 | **NVIDIA** | New Grad 2024: Compiler Optimization Engineer | Santa Clara, CA</br>Redmond, WA | 🔒 | Oct 02 |
