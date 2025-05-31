@@ -20183,5 +20183,26 @@
         "date_posted": 1748717553,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748717578,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Software-Engineer-I_10122274",
+        "company_name": "Disney",
+        "title": "Software Engineer I",
+        "locations": [
+            "Glendale, CA",
+            "Seattle, WA",
+            "San Francisco, CA",
+            "New York, NY",
+            "Bristol, CT",
+            "Santa Monica, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "a2ce88cf-f822-420c-9947-1ea6fd6c41b5",
+        "date_posted": 1748717578,
+        "company_url": "",
+        "is_visible": true
     }
 ]
