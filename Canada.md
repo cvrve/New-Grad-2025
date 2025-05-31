@@ -42,9 +42,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
-| **Cloudflare** | Software Engineer, Experiment and Data Capture | <details><summary>**5 locations**</summary>Austin, TX</br>Atlanta, GA</br>Denver, CO</br>Washington D.C., DC</br>Toronto, Canada</details> | <a href="https://job-boards.greenhouse.io/cloudflare/jobs/6885717?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 23 |
-| **Marqeta** | Software Engineer I, Transaction Engine Foundation | Toronto, Canada</br>Vancouver, Canada | <a href="https://job-boards.greenhouse.io/marqeta/jobs/6832149?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 17 |
-| **Marqeta** | Software Engineer I, Core Edge Processing | Toronto, Canada</br>Vancouver, Canada | <a href="https://job-boards.greenhouse.io/marqeta/jobs/6774484?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 17 |
 | **Nokia** | Jr. Applied R&D Engineer | Canada | <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20842?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 15 |
 | **Mastercard** | Software Engineer I | Vancouver, Canada | <a href="https://careers.mastercard.com/us/en/job/MASRUSR245943EXTERNALENUS/Software-Engineer-I-SDET-Java?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 15 |
 | **Google** | Relations Developer, Cloud and Generative AI | <details><summary>**7 locations**</summary>Seattle, WA</br>Cambridge, MA</br>Kirkland, WA</br>New York, NY</br>San Francisco, CA</br>Sunnyvale, CA</br>Toronto, Canada</details> | <a href="https://www.google.com/about/careers/applications/jobs/results/92218003445162694-relations-developer-cloud-and-generative-ai?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 15 |
@@ -68,17 +65,18 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **ExxonMobil** | New Grad: Software Developer | Calgary, Canada | <a href="https://jobs.exxonmobil.com/ExxonMobil/job/Calgary-Software-Developer-New-Grad-AB/1243481200?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
 | **Quora** | New Grad 2025: Machine Learning Engineer | Remote</br>US</br>Canada | <a href="https://jobs.ashbyhq.com/quora/ddff2781-86fa-4b9a-b18b-891ea775b105?utm_source=Cvrve&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 24 |
 | **Amazon** | New Grad 2025: Front-End Engineer | Vancouver, Canada | <a href="https://www.amazon.jobs/en/jobs/2825619/front-end-engineer-2025-can?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
-| **Robinhood** | Software Development Engineer in Test | Toronto, Canada | <a href="https://boards.greenhouse.io/robinhood/jobs/5850348?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | **Epic Games** | Desktop Platform Programmer | Montréal, Canada | <a href="https://boards.greenhouse.io/embed/job_app?token=5341847004&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | **Uber** | New Grad 2024: Software Engineer I, TOR | Toronto, Canada | <a href="https://university-uber.icims.com/jobs/136135?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
-| **Tailscale** | Backend Engineer | Remote</br>Canada | <a href="https://job-boards.greenhouse.io/tailscale/jobs/4480088005?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | **Ciena** | Software Performance Engineer | Ottawa, Canada | <a href="https://careers.ciena.com/us/en/job/CIENUSR025517ENUS/Software-Performance-Engineer-Photonic-Product-Assurance-Team?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | **Capital One** | New Grad: Software Engineer | Toronto, Canada | <a href="https://capitalone.wd1.myworkdayjobs.com/en-US/Capital_One/job/Associate--Software-Engineer---New-Grad--OR049152-_R195487?redirect=%252FCapital_One%252Fjob%252FToronto-ON%252FAssociate--Software-Engineer---New-Grad--OR049152-_R195487%252F&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |
 | **Intelliware** | New Grad: Junior Software Developer | Toronto, Canada | <a href="https://jobs.lever.co/intelliware/759b57c3-a5c3-4698-af78-66b3591bb936?applicant_guid=1a26e138-602c-4352-ab77-4ef92c12a04e&lever-origin=applied&lever-source%5B%5D=JobTarget%2CJobTarget%20Organic%20Sites%20Bundle&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
 | **Konrad** | New Grad: Software Developer | Vancouver, Canada | <a href="https://www.konrad.com/careers/job/5893276003?gh_jid=5893276003&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
 | **Warp** | Software Engineer | Remote US & Canada | <a href="https://boards.greenhouse.io/warp/jobs/4324888004?gh_src=a2e958824us&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | **TD Bank** | Software Engineer I | Toronto, Canada | 🔒 | May 23 |
+| **Cloudflare** | Software Engineer, Experiment and Data Capture | <details><summary>**5 locations**</summary>Austin, TX</br>Atlanta, GA</br>Denver, CO</br>Washington D.C., DC</br>Toronto, Canada</details> | 🔒 | May 23 |
 | **Affirm** | Machine Learning Engineer | Remote</br>Canada | 🔒 | May 19 |
+| **Marqeta** | Software Engineer I, Transaction Engine Foundation | Toronto, Canada</br>Vancouver, Canada | 🔒 | May 17 |
+| **Marqeta** | Software Engineer I, Core Edge Processing | Toronto, Canada</br>Vancouver, Canada | 🔒 | May 17 |
 | **Crowdstrike** | New Grad 2025: Machine Learning Software Engineer | Remote</br>US</br>Canada | 🔒 | Jan 29 |
 | **Capital One** | New Grad: Associate Software Engineer | Toronto, Canada | 🔒 | Jan 16 |
 | **Intel** | Junior Compiler Engineer | Toronto, Canada | 🔒 | Dec 22 |
@@ -92,7 +90,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Ciena** | New Grad: Routing/IP Software Engineer | Ottawa, Canada | 🔒 | Nov 19 |
 | **Samsara** | New Grad: Software Engineer | Remote</br>Canada | 🔒 | Oct 22 |
 | **Amazon** | Software Dev Engineer I, Redshift | Vancouver, Canada</br>Toronto, Canada | 🔒 | Oct 15 |
+| **Robinhood** | Software Development Engineer in Test | Toronto, Canada | 🔒 | Oct 14 |
 | **Quora** | New Grad: Data Scientist, Monetization | Remote</br>US</br>Canada | 🔒 | Oct 03 |
+| **Tailscale** | Backend Engineer | Remote</br>Canada | 🔒 | Oct 02 |
 | **Coalition** | Software Engineer, Renewals | Canada | 🔒 | Oct 02 |
 | **Coalition** | Software Engineer | Canada | 🔒 | Oct 02 |
 | **Coalition** | Software Engineer, Renewals | Canada | 🔒 | Oct 02 |
