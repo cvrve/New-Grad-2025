@@ -688,7 +688,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1720603515,
+        "date_updated": 1748653294,
         "url": "https://boards.greenhouse.io/spacex/jobs/7527170002?gh_jid=7527170002&gh_src=3c0864192",
         "company_name": "SpaceX",
         "title": "Software Engineer, Flight Software",
@@ -696,7 +696,7 @@
             "Hawthorne, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "d7931b40-02c2-4da8-b061-103aeddc51c2",
         "date_posted": 1720603515,
@@ -1885,7 +1885,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1722578132,
+        "date_updated": 1748653296,
         "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4090061008",
         "company_name": "Five Rings",
         "title": "New Grad 2025: Quantitative Trader",
@@ -1893,7 +1893,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "f7746366-4b77-4cc8-b75a-78aa970889c0",
         "date_posted": 1722578132,
@@ -2654,7 +2654,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1723699024,
+        "date_updated": 1748653297,
         "url": "https://boards.greenhouse.io/thetradedesk/jobs/4480439007",
         "company_name": "The Trade Desk",
         "title": "New Grad 2025: Software Engineer",
@@ -2662,7 +2662,7 @@
             "Bellevue, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "7ad7752f-8cd4-4959-a4be-d9643dd1f49e",
         "date_posted": 1723699024,
@@ -2737,7 +2737,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1724119709,
+        "date_updated": 1748653297,
         "url": "https://job-boards.greenhouse.io/figma/jobs/5227935004",
         "company_name": "Figma",
         "title": "New Grad 2025: Software Engineer",
@@ -2746,7 +2746,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "NotJerwee",
         "id": "e3795c02-3558-439c-a9c8-ffacd412b898",
         "date_posted": 1724119709,
@@ -2802,7 +2802,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1724120333,
+        "date_updated": 1748653298,
         "url": "https://job-boards.greenhouse.io/verkada/jobs/4471668007",
         "company_name": "Verkada",
         "title": "New Grad 2025: Embedded Software Engineer",
@@ -2810,7 +2810,7 @@
             "San Mateo, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "6dd335a1-eb8f-45a3-a11e-5cfca9123e24",
         "date_posted": 1724120333,
@@ -2882,7 +2882,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1724121028,
+        "date_updated": 1748653299,
         "url": "https://boards.greenhouse.io/wehrtyou/jobs/6139135",
         "company_name": "Hudson River Trading",
         "title": "New Grad 2025: Algorithm Developer",
@@ -2890,7 +2890,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "8aa1b3ff-370b-484b-8d91-f1431836ba1f",
         "date_posted": 1724121028,
@@ -2962,7 +2962,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1724209484,
+        "date_updated": 1748653300,
         "url": "https://job-boards.greenhouse.io/vectara/jobs/4002302008?gh_src=12989e178us",
         "company_name": "Vectara",
         "title": "New Grad: ML Engineer",
@@ -2970,7 +2970,7 @@
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "168adf84-c554-4546-ba52-26be44941e56",
         "date_posted": 1724209484,
@@ -3046,7 +3046,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1724336247,
+        "date_updated": 1748653300,
         "url": "https://boards.greenhouse.io/vectranetworks/jobs/6142089?gh_src=60ccc7d91us",
         "company_name": "Vectra",
         "title": "New Grad: Software Engineer",
@@ -3054,7 +3054,7 @@
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "9d1a0b80-3354-4ef8-a483-2c3ea0b8d81b",
         "date_posted": 1724336247,
@@ -3359,7 +3359,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1724547414,
+        "date_updated": 1748653302,
         "url": "https://boards.greenhouse.io/appliedintuition/jobs/4248379005?gh_jid=4248379005",
         "company_name": "Applied Intuition",
         "title": "New Grad: Software Engineer - Autonomous Vehicles - PHD",
@@ -3367,7 +3367,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "beakae",
         "id": "8345399e-0a51-4a87-afce-3a6d4acb9426",
         "date_posted": 1724547414,
@@ -4228,7 +4228,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1724947070,
+        "date_updated": 1748653303,
         "url": "https://boards.greenhouse.io/spacex/jobs/7579803002?gh_jid=7579803002&gh_src=3c0864192&source=LinkedIn",
         "company_name": "SpaceX",
         "title": "New Grad: Software Engineer",
@@ -4236,7 +4236,7 @@
             "Starbase, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "ed0c4357-c0cd-48d2-bca7-d4e3df275698",
         "date_posted": 1724947070,
@@ -4347,7 +4347,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1724993540,
+        "date_updated": 1748653304,
         "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4398316006",
         "company_name": "Accenture",
         "title": "New Grad: Software Engineer",
@@ -4355,7 +4355,7 @@
             "Annapolis Junction, MD"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "a3119e03-de09-4f41-8f92-3c25dc3f3254",
         "date_posted": 1724993540,
@@ -4411,7 +4411,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1725069837,
+        "date_updated": 1748653305,
         "url": "https://boards.greenhouse.io/spacex/jobs/7435724002",
         "company_name": "SpaceX",
         "title": "New Grad: Software Engineer",
@@ -4419,7 +4419,7 @@
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "aebe8ecd-698a-44d0-b98e-04031e3a2e35",
         "date_posted": 1725069837,
@@ -4427,7 +4427,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1725069892,
+        "date_updated": 1748653305,
         "url": "https://boards.greenhouse.io/spacex/jobs/7521259002",
         "company_name": "SpaceX",
         "title": "New Grad: Software Engineer",
@@ -4435,7 +4435,7 @@
             "Sunnyvale, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "a3bcefe0-9987-405e-80c9-f0f6babef7c6",
         "date_posted": 1725069892,
@@ -4717,7 +4717,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1725305705,
+        "date_updated": 1748653306,
         "url": "https://job-boards.greenhouse.io/whatnot/jobs/5247525004?+gh_src=d18daf814us",
         "company_name": "Whatnot",
         "title": "New Grad 2025: Software Engineer",
@@ -4727,7 +4727,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "81e2ac09-93d8-45a5-b65b-37f53aae988b",
         "date_posted": 1725305705,
@@ -4903,7 +4903,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1725415449,
+        "date_updated": 1748653307,
         "url": "https://job-boards.greenhouse.io/nextdoorcampus/jobs/6065493",
         "company_name": "Nextdoor",
         "title": "New Grad 2025: Software Engineer",
@@ -4911,7 +4911,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "7159d559-929d-415d-b4f6-0f305d87e60c",
         "date_posted": 1725415449,
@@ -4983,7 +4983,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1725418261,
+        "date_updated": 1748653308,
         "url": "https://job-boards.greenhouse.io/scaleai/jobs/4463083005",
         "company_name": "Scale AI",
         "title": "New Grad: Software Engineer",
@@ -4991,7 +4991,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "65f8ea76-e8a7-42a2-a7a5-a319b0fbf86b",
         "date_posted": 1725418261,
@@ -5462,7 +5462,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1725820181,
+        "date_updated": 1748653309,
         "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4400733006",
         "company_name": "Accenture Federal Services",
         "title": "New Grad 2025: Software Engineering Analyst",
@@ -5470,7 +5470,7 @@
             "Washington, DC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "c018fc48-312c-4c55-a374-a2be6de63aed",
         "date_posted": 1725820181,
@@ -5526,7 +5526,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1727938642,
+        "date_updated": 1748653310,
         "url": "https://boards.greenhouse.io/spacex/jobs/7627218002",
         "company_name": "SpaceX",
         "title": "New Grad: Software Engineer",
@@ -5534,7 +5534,7 @@
             "Starbase, TX"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "ea1811a0-eddc-4073-a053-cc37d3a1b0bb",
         "date_posted": 1725821177,
@@ -6491,7 +6491,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1726350181,
+        "date_updated": 1748653312,
         "url": "https://boards.greenhouse.io/chime/jobs/7626713002",
         "company_name": "Chime",
         "title": "New Grad: Software Engineer",
@@ -6499,7 +6499,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "4753647b-2733-47c7-849b-ad1321be4221",
         "date_posted": 1726350181,
@@ -7530,7 +7530,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1727287747,
+        "date_updated": 1748653313,
         "url": "https://job-boards.greenhouse.io/cloudflare/jobs/5579824?gh_jid=5579824",
         "company_name": "Cloudflare",
         "title": "Software Engineer, Kubernetes",
@@ -7539,7 +7539,7 @@
             "US"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "bb5cc21d-25fe-47df-9ea7-faffa99bd07a",
         "date_posted": 1727287747,
@@ -7760,7 +7760,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1727417887,
+        "date_updated": 1748653314,
         "url": "https://boards.greenhouse.io/chime/jobs/7515160002",
         "company_name": "Chime",
         "title": "New Grad: Software Engineer",
@@ -7768,7 +7768,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "844cf72a-8962-44eb-abbb-5e51f818bdc0",
         "date_posted": 1727417887,
@@ -8456,7 +8456,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1727906931,
+        "date_updated": 1748653315,
         "url": "https://job-boards.greenhouse.io/tailscale/jobs/4480110005",
         "company_name": "Tailscale",
         "title": "Backend Engineer",
@@ -8465,7 +8465,7 @@
             "US"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "a4e135ac-a992-4b68-b8f1-162c7051f6ab",
         "date_posted": 1727906931,
@@ -8473,7 +8473,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1727906959,
+        "date_updated": 1748653316,
         "url": "https://job-boards.greenhouse.io/tailscale/jobs/4480088005",
         "company_name": "Tailscale",
         "title": "Backend Engineer",
@@ -8482,7 +8482,7 @@
             "Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "ad24d1ea-de80-4a1d-8463-29ace141bf5a",
         "date_posted": 1727906959,
@@ -9340,7 +9340,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1728471123,
+        "date_updated": 1748653318,
         "url": "https://boards.greenhouse.io/codazen/jobs/5338060004?utm_source=cvrve",
         "company_name": "Codazen",
         "title": "New Grad 2025: Full-Stack Engineer",
@@ -9348,7 +9348,7 @@
             "Irvine, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "c7d19636-d4c7-4b2a-a233-0b7ab53289ef",
         "date_posted": 1728471123,
@@ -9863,7 +9863,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1728923348,
+        "date_updated": 1748653318,
         "url": "https://boards.greenhouse.io/robinhood/jobs/5850348",
         "company_name": "Robinhood",
         "title": "Software Development Engineer in Test",
@@ -9871,7 +9871,7 @@
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "a073b59f-2627-45e3-bb43-5a78d6383904",
         "date_posted": 1728923348,
@@ -10199,7 +10199,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1729100963,
+        "date_updated": 1748653319,
         "url": "https://boards.greenhouse.io/databento/jobs/6329662?gh_src=4c6e2dbf1us",
         "company_name": "Databento",
         "title": "Software Engineer",
@@ -10211,7 +10211,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "c4178fae-27a4-4543-8b71-4b2394df4917",
         "date_posted": 1729100963,
@@ -10867,7 +10867,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1729643095,
+        "date_updated": 1748653320,
         "url": "https://boards.greenhouse.io/appliedintuition/jobs/4489207005?gh_jid=4489207005",
         "company_name": "Applied Intuition",
         "title": "New Grad: Research Engineer",
@@ -10875,7 +10875,7 @@
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "53a4cca8-3931-46a8-b536-cfe7ec8d3991",
         "date_posted": 1729643095,
@@ -11940,7 +11940,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1731085225,
+        "date_updated": 1748653321,
         "url": "https://boards.greenhouse.io/phonepe/jobs/6006145003",
         "company_name": "PhonePe",
         "title": "Software Engineer",
@@ -11948,7 +11948,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "f8a659a3-f34b-4168-9ee5-9103311636bb",
         "date_posted": 1731085225,
@@ -12243,7 +12243,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1731672137,
+        "date_updated": 1748653322,
         "url": "https://boards.greenhouse.io/hereio/jobs/6392785",
         "company_name": "Here",
         "title": "Junior Full Stack Engineer",
@@ -12252,7 +12252,7 @@
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "45a438e4-9cd2-41a8-b3c7-c1bf52513fe2",
         "date_posted": 1731672137,
@@ -12690,7 +12690,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1732108478,
+        "date_updated": 1748653322,
         "url": "https://boards.greenhouse.io/collaborativerobotics/jobs/4585344007",
         "company_name": "Collaborative Robotics",
         "title": "New Grad: Software Engineer",
@@ -12698,7 +12698,7 @@
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "3f18fe8e-3b2f-433d-82f9-8bff3a6804cb",
         "date_posted": 1732108478,
@@ -12706,7 +12706,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1732108520,
+        "date_updated": 1748653323,
         "url": "https://boards.greenhouse.io/collaborativerobotics/jobs/4585557007",
         "company_name": "Collaborative Robotics",
         "title": "New Grad: Software Engineer, Robotics",
@@ -12714,7 +12714,7 @@
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "e2499e5e-e6dc-482a-88b7-14f2d19078bd",
         "date_posted": 1732108520,
@@ -13290,7 +13290,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1732776202,
+        "date_updated": 1748653324,
         "url": "https://boards.greenhouse.io/robinhood/jobs/6344847",
         "company_name": "Robinhood",
         "title": "Software Engineer",
@@ -13298,7 +13298,7 @@
             "Menlo Park, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "4f31cb28-d019-475d-8c83-a245d4c61c92",
         "date_posted": 1732776202,
@@ -13890,7 +13890,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1733595343,
+        "date_updated": 1748653325,
         "url": "https://boards.greenhouse.io/grafanalabs/jobs/5393126004",
         "company_name": "Grafana Labs",
         "title": "Software Engineer",
@@ -13899,7 +13899,7 @@
             "US"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "44d1aeb7-754e-4d40-8114-7b395ab02bc9",
         "date_posted": 1733595343,
@@ -14112,7 +14112,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1733885608,
+        "date_updated": 1748653326,
         "url": "https://boards.greenhouse.io/aloyoga/jobs/5394463004",
         "company_name": "Alo Yoga",
         "title": "Software Engineer",
@@ -14120,7 +14120,7 @@
             "San Ramon, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "8b814c31-8f67-4047-8478-8c79dd565e31",
         "date_posted": 1733885608,
@@ -14260,7 +14260,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1734470898,
+        "date_updated": 1748653326,
         "url": "https://boards.greenhouse.io/dagsterlabs/jobs/6300588003",
         "company_name": "Dagster Labs",
         "title": "New Grad 2025: Software Engineer",
@@ -14271,7 +14271,7 @@
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "b676caf2-4323-43a6-9229-691ad21bb3e5",
         "date_posted": 1734470898,
@@ -14311,7 +14311,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1734573590,
+        "date_updated": 1748653328,
         "url": "https://boards.greenhouse.io/wehrtyou/jobs/6166374?gh_src=b79c7b511us&source=cvrve",
         "company_name": "Hudson River Trading",
         "title": "New Grad 2025: Algorithm Developer -- PhD",
@@ -14319,7 +14319,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "d1cb5a22-1c08-4d33-bd5f-918cae46d348",
         "date_posted": 1734573590,
@@ -14762,7 +14762,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1735738323,
+        "date_updated": 1748653329,
         "url": "https://job-boards.greenhouse.io/optoinvest/jobs/6312390003",
         "company_name": "Opto",
         "title": "Software Engineer, Applied AI",
@@ -14771,7 +14771,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "439b85d2-f424-4930-a047-57f6dbc8ce60",
         "date_posted": 1735738323,
@@ -14795,7 +14795,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1735738381,
+        "date_updated": 1748653330,
         "url": "https://job-boards.greenhouse.io/optoinvest/jobs/6312397003",
         "company_name": "Opto",
         "title": "Software Engineer, Data",
@@ -14803,7 +14803,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "bc7092ea-0cbd-4b4d-8f54-28fa14d99763",
         "date_posted": 1735738381,
@@ -14811,7 +14811,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1735738415,
+        "date_updated": 1748653330,
         "url": "https://job-boards.greenhouse.io/optoinvest/jobs/6312401003",
         "company_name": "Opto",
         "title": "Software Engineer, Product",
@@ -14819,7 +14819,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "8fc0ca01-2575-4557-baab-3572b47168f7",
         "date_posted": 1735738415,
@@ -15367,7 +15367,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1737067907,
+        "date_updated": 1748653331,
         "url": "https://job-boards.greenhouse.io/twitch/jobs/7766033002?gh_src=0c4ebc182",
         "company_name": "Twitch",
         "title": "Software Engineer I",
@@ -15375,7 +15375,7 @@
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "0519578e-8a67-4ffc-8bfe-cca6e7d1722f",
         "date_posted": 1737067907,
@@ -15736,7 +15736,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1737070134,
+        "date_updated": 1748653332,
         "url": "https://job-boards.greenhouse.io/tigergraph/jobs/6535822?utm_source=cvrve+job+board&utm_medium=cvrve&gh_src=cvrve+job+board",
         "company_name": "TigerGraph",
         "title": "Software Engineer - Infrastructure",
@@ -15744,7 +15744,7 @@
             "Redwood City, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "5ca70652-b647-4864-90b8-26e5046174c6",
         "date_posted": 1737070134,
@@ -15866,7 +15866,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1737813919,
+        "date_updated": 1748653333,
         "url": "https://job-boards.greenhouse.io/twilio/jobs/6555677",
         "company_name": "Twilio",
         "title": "Software Engineer (L1) - Voice Connectivity",
@@ -15875,7 +15875,7 @@
             "US"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "aa3aa1e4-a3df-448f-86d9-5d26924e505c",
         "date_posted": 1737813919,
@@ -16064,7 +16064,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1738171991,
+        "date_updated": 1748653333,
         "url": "https://boards.greenhouse.io/nexxen/jobs/7830836002",
         "company_name": "Nexxen",
         "title": "Software Engineer I, DSP",
@@ -16072,7 +16072,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "cefda374-b47e-43d9-b2aa-d468ebf87a8d",
         "date_posted": 1738171991,
@@ -16146,7 +16146,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1738172467,
+        "date_updated": 1748653334,
         "url": "https://job-boards.greenhouse.io/verkada/jobs/4403374007",
         "company_name": "Verkada",
         "title": "New Grad 2025: Technical Support Engineer",
@@ -16154,7 +16154,7 @@
             "San Mateo, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "6399631b-2050-40d9-abbe-cc682ae74568",
         "date_posted": 1738172467,
@@ -16162,7 +16162,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1738172505,
+        "date_updated": 1748653334,
         "url": "https://job-boards.greenhouse.io/verkada/jobs/4631960007",
         "company_name": "Verkada",
         "title": "New Grad 2025: Software Engineer, Security",
@@ -16170,7 +16170,7 @@
             "San Mateo, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "83f9e6e0-8eb4-47ea-af65-65722ebf50b6",
         "date_posted": 1738172505,
@@ -16293,7 +16293,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1738777277,
+        "date_updated": 1748653335,
         "url": "https://job-boards.greenhouse.io/scaleai/jobs/4523725005",
         "company_name": "Scale AI",
         "title": "New Grad: Software Engineer, Security Engineer",
@@ -16301,7 +16301,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "abb2d1a7-82ce-4b0a-a2f9-e262ac404c63",
         "date_posted": 1738777277,
@@ -16556,7 +16556,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1739682396,
+        "date_updated": 1748653336,
         "url": "https://job-boards.greenhouse.io/whatnot/jobs/5426160004",
         "company_name": "Whatnot",
         "title": "New Grad 2025: Cloud Security Engineer",
@@ -16566,7 +16566,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "28d3ac10-2dd6-4da1-be62-98358bc803a9",
         "date_posted": 1739682396,
@@ -16947,7 +16947,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1739885255,
+        "date_updated": 1748653337,
         "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/6351817003?gh_src=T6c0rh",
         "company_name": "Sigma",
         "title": "New Grad: Software Engineer",
@@ -16956,7 +16956,7 @@
             "New York City, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "15f9cad5-f5bf-440e-ba17-0efe66dec63a",
         "date_posted": 1739885255,
@@ -17404,7 +17404,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1741516254,
+        "date_updated": 1748653338,
         "url": "https://boards.greenhouse.io/spacex/jobs/7824834002?gh_jid=7824834002&gh_src=3c0864192&source=cvrve",
         "company_name": "SpaceX",
         "title": "Software Engineer, Displays Software",
@@ -17412,7 +17412,7 @@
             "Hawthorne, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "170f94dd-ba2e-45a4-b6e8-a1e3822d829f",
         "date_posted": 1741516254,
@@ -17533,7 +17533,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1743413292,
+        "date_updated": 1748653339,
         "url": "https://job-boards.greenhouse.io/scaleai/jobs/4463083005",
         "company_name": "Scale AI",
         "title": "New Grad: Software Engineer",
@@ -17541,7 +17541,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "795cd51b-8c04-47ba-9e88-964a9dc231d2",
         "date_posted": 1743413292,
@@ -17549,7 +17549,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1743413338,
+        "date_updated": 1748653340,
         "url": "https://job-boards.greenhouse.io/scaleai/jobs/4537496005",
         "company_name": "Scale AI",
         "title": "New Grad 2025: Software Engineer, Public Sector",
@@ -17557,7 +17557,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "ff9b4e1c-46e9-4350-8d2a-7d48548512ba",
         "date_posted": 1743413338,
@@ -18304,7 +18304,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1744461923,
+        "date_updated": 1748653341,
         "url": "https://job-boards.greenhouse.io/twitch/jobs/7950562002",
         "company_name": "Twitch",
         "title": "Software Engineer",
@@ -18312,7 +18312,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "a4a7d133-c6d7-410f-831f-37bab673b4b5",
         "date_posted": 1744461923,
@@ -18320,7 +18320,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1744461990,
+        "date_updated": 1748653341,
         "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5496919004",
         "company_name": "Playstation",
         "title": "Software Engineer I",
@@ -18328,7 +18328,7 @@
             "San Diego, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "7fad275b-0228-4b30-8f05-750e91925b88",
         "date_posted": 1744461990,
@@ -19163,7 +19163,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1747461706,
+        "date_updated": 1748653344,
         "url": "https://job-boards.greenhouse.io/marqeta/jobs/6774484",
         "company_name": "Marqeta",
         "title": "Software Engineer I, Core Edge Processing",
@@ -19172,7 +19172,7 @@
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "2e340dbc-3961-4fb1-85b5-46b3e6734de5",
         "date_posted": 1747461706,
@@ -19196,7 +19196,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1747461946,
+        "date_updated": 1748653345,
         "url": "https://job-boards.greenhouse.io/marqeta/jobs/6832149",
         "company_name": "Marqeta",
         "title": "Software Engineer I, Transaction Engine Foundation",
@@ -19205,7 +19205,7 @@
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "4fd4261e-5303-44ed-8c78-39ebc49c5720",
         "date_posted": 1747461946,
@@ -19262,7 +19262,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748013316,
+        "date_updated": 1748653345,
         "url": "https://job-boards.greenhouse.io/twilio/jobs/6891933",
         "company_name": "Twilio",
         "title": "New Grad: Software Engineer",
@@ -19271,7 +19271,7 @@
             "US"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "6e52624a-bae4-4811-adab-b1322a67ef71",
         "date_posted": 1748013316,
@@ -19295,7 +19295,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748024346,
+        "date_updated": 1748653346,
         "url": "https://job-boards.greenhouse.io/horacemannservicecorporation/jobs/5545426004",
         "company_name": "Horace Mann",
         "title": "Software Engineer I",
@@ -19305,7 +19305,7 @@
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "ac360bf8-0467-42d8-938f-f5a5a0a8106d",
         "date_posted": 1748024346,
@@ -19393,7 +19393,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748025017,
+        "date_updated": 1748653346,
         "url": "https://job-boards.greenhouse.io/cloudflare/jobs/6885717",
         "company_name": "Cloudflare",
         "title": "Software Engineer, Experiment and Data Capture",
@@ -19405,7 +19405,7 @@
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "41d25e85-060e-420e-826c-27e9dcbf2bed",
         "date_posted": 1748025017,
