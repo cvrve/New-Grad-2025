@@ -8207,7 +8207,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "a48192d2-e021-44b0-b995-4495fae6c2f1",
         "date_posted": 1727847938,
@@ -8223,7 +8223,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "b5e5f3af-893c-40d2-b2aa-faedc5ff01dc",
         "date_posted": 1727848004,
@@ -14979,7 +14979,7 @@
             "Charleston, SC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "2ebd0e15-0871-401c-ab16-291516814909",
         "date_posted": 1736178858,
@@ -18955,7 +18955,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "16ff41c1-0386-4488-b43b-164ca11e6c42",
         "date_posted": 1747298686,
