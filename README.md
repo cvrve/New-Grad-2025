@@ -44,6 +44,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **PlayStation** | Software Engineer I - Application Framework | San Mateo, CA | <a href="https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5544457004?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 01 |
 | **Vertex Inc** | New Grad 2025: Software Developer | Remote</br>US | <a href="https://vertexinc.wd1.myworkdayjobs.com/en-US/VertexInc/job/Remote-USA/Software-Developer-I_JR101131-1?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 31 |
 | **Omnicell** | Software Engineer I | Cranberry Township, PA | <a href="https://elrj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/search/job/4261?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 31 |
 | **Microsoft** | Software Engineer | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1826495/Software-Engineer?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 31 |
