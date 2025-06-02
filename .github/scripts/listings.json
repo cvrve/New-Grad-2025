@@ -20220,5 +20220,22 @@
         "date_posted": 1748751252,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748832967,
+        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/6589230003",
+        "company_name": "Sigma",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "San Francisco, CA",
+            "New York City, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "663804de-78fe-4129-abb6-28c1b875f6dd",
+        "date_posted": 1748832967,
+        "company_url": "",
+        "is_visible": true
     }
 ]
