@@ -14622,7 +14622,7 @@
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "b01f1cf2-10ce-4c6d-9992-155708788693",
         "date_posted": 1735317502,
@@ -18548,7 +18548,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1745103611,
+        "date_updated": 1749185400,
         "url": "https://job-boards.greenhouse.io/canonicaljobs/jobs/6695573",
         "company_name": "Canonical",
         "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
@@ -18557,7 +18557,7 @@
             "Toronto, Canada"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "aliraeisdanaei",
         "id": "c00cadae-5841-4f8e-a46a-21419b7c186e",
         "date_posted": 1745103611,
@@ -18923,7 +18923,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "7706bb18-0137-42fb-8163-bf992a450bbf",
         "date_posted": 1747298543,
@@ -18963,7 +18963,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1747298737,
+        "date_updated": 1749185400,
         "url": "https://job-boards.greenhouse.io/affirm/jobs/6570371003",
         "company_name": "Affirm",
         "title": "Machine Learning Engineer I",
@@ -18972,7 +18972,7 @@
             "US"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "f6290b7a-b966-4b43-bf7f-b98c477b9ec6",
         "date_posted": 1747298737,
@@ -20206,7 +20206,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748751252,
+        "date_updated": 1749185400,
         "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5544457004",
         "company_name": "PlayStation",
         "title": "Software Engineer I - Application Framework",
@@ -20214,7 +20214,7 @@
             "San Mateo, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "26c7378a-9a8c-4b95-9ee2-2cfb191dc2d2",
         "date_posted": 1748751252,
