@@ -20237,5 +20237,21 @@
         "date_posted": 1748832967,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749182487,
+        "url": "https://jobs.ashbyhq.com/n1/2213cef6-fbcd-42f7-8e0e-c6a23bfc1119",
+        "company_name": "N1",
+        "title": "Software Engineer (Full Stack)",
+        "locations": [
+            "New York City"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "dfucius",
+        "id": "cb5d37d1-b132-4ceb-beb7-d8cebded3f61",
+        "date_posted": 1749182487,
+        "company_url": "",
+        "is_visible": true
     }
 ]

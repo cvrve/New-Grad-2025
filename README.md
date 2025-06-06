@@ -44,6 +44,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **N1** | Software Engineer (Full Stack) | New York City | <a href="https://jobs.ashbyhq.com/n1/2213cef6-fbcd-42f7-8e0e-c6a23bfc1119?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 06 |
 | **Sigma** | New Grad: Software Engineer | San Francisco, CA</br>New York City, NY | <a href="https://job-boards.greenhouse.io/sigmacomputing/jobs/6589230003?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 02 |
 | **PlayStation** | Software Engineer I - Application Framework | San Mateo, CA | <a href="https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5544457004?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 01 |
 | **Vertex Inc** | New Grad 2025: Software Developer | Remote</br>US | <a href="https://vertexinc.wd1.myworkdayjobs.com/en-US/VertexInc/job/Remote-USA/Software-Developer-I_JR101131-1?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 31 |
