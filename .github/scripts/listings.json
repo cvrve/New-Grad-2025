@@ -20317,5 +20317,21 @@
         "date_posted": 1749184941,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749184966,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Developer_R0140249",
+        "company_name": "Amentum",
+        "title": "Software Developer",
+        "locations": [
+            "Dahlgren, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "a71fd9e9-ac01-4cd9-a19b-ea7948a2778e",
+        "date_posted": 1749184966,
+        "company_url": "",
+        "is_visible": true
     }
 ]
