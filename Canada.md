@@ -58,7 +58,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Amazon** | System Development Engineer, AWS Security | Toronto, Canada | <a href="https://www.amazon.jobs/en/jobs/2902980/system-development-engineer-aws-security-software-engineering-aws-security-operations-centre-soc?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 16 |
 | **Qualcomm** | DSP Systems Engineer | Markham, Canada | <a href="https://careers.qualcomm.com/careers/job/446703752679?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
 | **Linamar Corporation** | Jr. Security Engineer | Guelph, Canada | <a href="https://fa-epmd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/10441?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
-| **Intact** | New Grad Tech Development Program | Montreal, Canada</br>Toronto, Canada | <a href="https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Tech-Development-Program--New-Grad-_R144797?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
 | **Canadalife** | Software Developer | London, Canada</br>Winnipeg, MB</br>Toronto, ON | <a href="https://jobs.canadalife.com/job/London-Software-Developer-ON/1168113501/?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
 | **Coalition** | Software Engineer, Servicing | Canada</br>United States | <a href="https://www.coalitioninc.com/job-posting?id=4516340005&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
 | **ExxonMobil** | New Grad: Software Developer | Calgary, Canada | <a href="https://jobs.exxonmobil.com/ExxonMobil/job/Calgary-Software-Developer-New-Grad-AB/1243481200?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
@@ -77,6 +76,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Marqeta** | Software Engineer I, Transaction Engine Foundation | Toronto, Canada</br>Vancouver, Canada | 🔒 | May 17 |
 | **Marqeta** | Software Engineer I, Core Edge Processing | Toronto, Canada</br>Vancouver, Canada | 🔒 | May 17 |
 | **Canonical** | Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu | Remote</br>Toronto, Canada | 🔒 | Apr 19 |
+| **Intact** | New Grad Tech Development Program | Montreal, Canada</br>Toronto, Canada | 🔒 | Feb 05 |
 | **Crowdstrike** | New Grad 2025: Machine Learning Software Engineer | Remote</br>US</br>Canada | 🔒 | Jan 29 |
 | **Capital One** | New Grad: Associate Software Engineer | Toronto, Canada | 🔒 | Jan 16 |
 | **Intel** | Junior Compiler Engineer | Toronto, Canada | 🔒 | Dec 22 |
