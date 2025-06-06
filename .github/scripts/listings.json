@@ -20285,5 +20285,21 @@
         "date_posted": 1749184860,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749184893,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Software-Engineer-1_R202563453",
+        "company_name": "Cox Automotive",
+        "title": "Software Engineer I",
+        "locations": [
+            "Carmel, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "e5a61a44-d6ee-4509-b4f2-2a38482a7ec6",
+        "date_posted": 1749184893,
+        "company_url": "",
+        "is_visible": true
     }
 ]
