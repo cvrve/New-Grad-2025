@@ -20333,5 +20333,21 @@
         "date_posted": 1749184966,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749185000,
+        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/Software-Engineer-I---nCino-Developer_R0102738",
+        "company_name": "Truist",
+        "title": "Software Engineer I",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "9ee0c026-fd8d-4ff0-8a7e-92859f109fdf",
+        "date_posted": 1749185000,
+        "company_url": "",
+        "is_visible": true
     }
 ]
