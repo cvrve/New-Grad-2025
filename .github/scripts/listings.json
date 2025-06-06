@@ -20253,5 +20253,21 @@
         "date_posted": 1749182487,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749182637,
+        "url": "https://jobs.ashbyhq.com/n1/99a78724-a7eb-4801-9e75-cf4465950567",
+        "company_name": "N1",
+        "title": "Software Engineer (Backend Rust)",
+        "locations": [
+            "New York City"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "dfucius",
+        "id": "38f3ea74-2f11-4003-9716-622e96c41ef2",
+        "date_posted": 1749182637,
+        "company_url": "",
+        "is_visible": true
     }
 ]
