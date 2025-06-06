@@ -20349,5 +20349,23 @@
         "date_posted": 1749185000,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749188221,
+        "url": "https://job-boards.greenhouse.io/deepmind/jobs/6949781?gh_src=d39b99f31",
+        "company_name": "Google DeepMind",
+        "title": "Full Stack Software Engineer",
+        "locations": [
+            "Cambridge, MA",
+            "Mountain View, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "59f0d7d0-688a-4227-883d-09aeedb1cfed",
+        "date_posted": 1749188221,
+        "company_url": "",
+        "is_visible": true
     }
 ]
