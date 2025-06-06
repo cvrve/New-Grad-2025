@@ -49,7 +49,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Tower Research Capital** | New Grad: C++ Software Engineer, MTL | Montreal, Canada | <a href="https://tower-research.com/open-positions/?gh_jid=6855851&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 03 |
 | **Oracle** | Software Developer | Remote</br>Canada | <a href="https://careers.oracle.com/jobs/#en/sites/jobsearch/job/287106?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 19 |
 | **Oracle** | Software Developer - Rotational Program - NetSuite | Kitchiner, Canada | <a href="https://careers.oracle.com/jobs/#en/sites/jobsearch/job/264377?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 19 |
-| **Canonical** | Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu | Remote</br>Toronto, Canada | <a href="https://job-boards.greenhouse.io/canonicaljobs/jobs/6695573?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 19 |
 | **Applied Systems** | Software Engineer | Toronto, Canada | <a href="https://canada-appliedsystems.icims.com/jobs/6506/software-engineer/job?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 14 |
 | **Amazon** | New Grad 2025: Software Development Engineer I | Vancouver, BC</br>Toronto, Canada | <a href="https://amazon.jobs/en/jobs/2855790/software-development-engineer-i-2025-computer-science?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 12 |
 | **Secoda** | New Grad Software Engineer | Toronto, Canada | <a href="https://jobs.ashbyhq.com/secoda/ad9807e9-a9d3-4247-99d7-37f68995ecd3?utm_source=cvrve&ref=cvrve&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 25 |
@@ -77,6 +76,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Affirm** | Machine Learning Engineer | Remote</br>Canada | 🔒 | May 19 |
 | **Marqeta** | Software Engineer I, Transaction Engine Foundation | Toronto, Canada</br>Vancouver, Canada | 🔒 | May 17 |
 | **Marqeta** | Software Engineer I, Core Edge Processing | Toronto, Canada</br>Vancouver, Canada | 🔒 | May 17 |
+| **Canonical** | Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu | Remote</br>Toronto, Canada | 🔒 | Apr 19 |
 | **Crowdstrike** | New Grad 2025: Machine Learning Software Engineer | Remote</br>US</br>Canada | 🔒 | Jan 29 |
 | **Capital One** | New Grad: Associate Software Engineer | Toronto, Canada | 🔒 | Jan 16 |
 | **Intel** | Junior Compiler Engineer | Toronto, Canada | 🔒 | Dec 22 |
