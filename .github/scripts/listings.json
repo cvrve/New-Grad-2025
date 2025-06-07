@@ -20564,5 +20564,21 @@
         "date_posted": 1749297553,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749297585,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8022809002",
+        "company_name": "Lyft",
+        "title": "Software Engineer, Rider",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "6bb6f552-bb9c-46ed-83ea-fc56de6c9a3d",
+        "date_posted": 1749297585,
+        "company_url": "",
+        "is_visible": true
     }
 ]
