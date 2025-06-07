@@ -20484,5 +20484,21 @@
         "date_posted": 1749297401,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749297432,
+        "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/4161897007",
+        "company_name": "Tenstorrent",
+        "title": "Software Developer, Metal Runtime",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "8d046efa-97c6-4588-b2ce-3342abc8216d",
+        "date_posted": 1749297432,
+        "company_url": "",
+        "is_visible": true
     }
 ]
