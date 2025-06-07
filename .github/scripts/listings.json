@@ -20435,5 +20435,21 @@
         "date_posted": 1749297143,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749297208,
+        "url": "https://job-boards.greenhouse.io/radiant/jobs/4540308005",
+        "company_name": "Radiant",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "32959ee9-bf3f-4948-9bce-c8cfe9affee0",
+        "date_posted": 1749297208,
+        "company_url": "",
+        "is_visible": true
     }
 ]
