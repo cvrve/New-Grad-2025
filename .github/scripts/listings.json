@@ -3206,7 +3206,7 @@
             "Toronto, ON"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "beakae",
         "id": "5e001e96-c14c-4e6d-9703-72ded0cda08e",
         "date_posted": 1724544293,
@@ -18004,7 +18004,7 @@
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "mr4tt",
         "id": "99a52adf-e234-4e75-9829-e9c4291565b7",
         "date_posted": 1744154107,
@@ -20185,7 +20185,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748717578,
+        "date_updated": 1749294420,
         "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Software-Engineer-I_10122274",
         "company_name": "Disney",
         "title": "Software Engineer I",
@@ -20198,7 +20198,7 @@
             "Santa Monica, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "a2ce88cf-f822-420c-9947-1ea6fd6c41b5",
         "date_posted": 1748717578,
@@ -20287,7 +20287,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749184893,
+        "date_updated": 1749294426,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Software-Engineer-1_R202563453",
         "company_name": "Cox Automotive",
         "title": "Software Engineer I",
@@ -20295,7 +20295,7 @@
             "Carmel, IN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "e5a61a44-d6ee-4509-b4f2-2a38482a7ec6",
         "date_posted": 1749184893,
