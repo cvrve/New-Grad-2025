@@ -20532,5 +20532,21 @@
         "date_posted": 1749297520,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749297540,
+        "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/4749914007",
+        "company_name": "TransMarket Group",
+        "title": "Python Developer / Data Engineer",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "06ea261d-3809-4b13-a033-e4e25b635bb0",
+        "date_posted": 1749297540,
+        "company_url": "",
+        "is_visible": true
     }
 ]
