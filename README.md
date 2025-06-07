@@ -45,6 +45,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **Viasat** | Full Stack Software Engineer, Early Career | Carlsbad, CA</br>Remote | <a href="https://careers.viasat.com/jobs/4457?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 07 |
+| **TransMarket Group** | Junior Quantitative Trader | Chicago, IL | <a href="https://job-boards.greenhouse.io/transmarketgroup/jobs/4749911007?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 07 |
 | **TransMarket Group** | Python Developer / Data Engineer | Chicago, IL | <a href="https://job-boards.greenhouse.io/transmarketgroup/jobs/4749914007?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 07 |
 | **TransMarket Group** | Junior Algorithmic Trader | Chicago, IL | <a href="https://job-boards.greenhouse.io/transmarketgroup/jobs/4749910007?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 07 |
 | **Tenstorrent** | Software Developer, Metal Runtime | Santa Clara, CA | <a href="https://job-boards.greenhouse.io/tenstorrent/jobs/4161897007?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 07 |

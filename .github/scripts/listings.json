@@ -20548,5 +20548,21 @@
         "date_posted": 1749297540,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749297553,
+        "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/4749911007",
+        "company_name": "TransMarket Group",
+        "title": "Junior Quantitative Trader",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "2251a96c-a962-4073-b7aa-06aad941eb96",
+        "date_posted": 1749297553,
+        "company_url": "",
+        "is_visible": true
     }
 ]
