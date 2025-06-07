@@ -20451,5 +20451,22 @@
         "date_posted": 1749297208,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749297259,
+        "url": "https://careers.viasat.com/jobs/4457",
+        "company_name": "Viasat",
+        "title": "Full Stack Software Engineer, Early Career",
+        "locations": [
+            "Carlsbad, CA",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "e99e9d74-ff1a-42cd-a01e-32f38fb42973",
+        "date_posted": 1749297259,
+        "company_url": "",
+        "is_visible": true
     }
 ]
