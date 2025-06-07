@@ -20383,5 +20383,21 @@
         "date_posted": 1749296143,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749296846,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2025_JR1998556",
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: Systems Software Engineer",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "8b416450-5f6f-4599-a7dd-0e9ddb22b555",
+        "date_posted": 1749296846,
+        "company_url": "",
+        "is_visible": true
     }
 ]
