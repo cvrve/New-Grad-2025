@@ -50,12 +50,10 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **N1** | Software Engineer (Backend Rust) | New York City | <a href="https://jobs.ashbyhq.com/n1/99a78724-a7eb-4801-9e75-cf4465950567?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 06 |
 | **N1** | Software Engineer (Full Stack) | New York City | <a href="https://jobs.ashbyhq.com/n1/2213cef6-fbcd-42f7-8e0e-c6a23bfc1119?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 06 |
 | **Google DeepMind** | Full Stack Software Engineer | Cambridge, MA</br>Mountain View, CA</br>New York, NY | <a href="https://job-boards.greenhouse.io/deepmind/jobs/6949781?gh_src=d39b99f31&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 06 |
-| **Cox Automotive** | Software Engineer I | Carmel, IN | <a href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Software-Engineer-1_R202563453?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 06 |
 | **Amentum** | Software Developer | Dahlgren, VA | <a href="https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Developer_R0140249?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 06 |
 | **Sigma** | New Grad: Software Engineer | San Francisco, CA</br>New York City, NY | <a href="https://job-boards.greenhouse.io/sigmacomputing/jobs/6589230003?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 02 |
 | **Omnicell** | Software Engineer I | Cranberry Township, PA | <a href="https://elrj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/search/job/4261?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 31 |
 | **Microsoft** | Software Engineer | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1826495/Software-Engineer?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 31 |
-| **Disney** | Software Engineer I | <details><summary>**6 locations**</summary>Glendale, CA</br>Seattle, WA</br>San Francisco, CA</br>New York, NY</br>Bristol, CT</br>Santa Monica, CA</details> | <a href="https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Software-Engineer-I_10122274?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 31 |
 | **Disney** | Software Engineer I | Seattle, WA | <a href="https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Seattle-WA-USA/Software-Engineer-I_10121473-1?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 31 |
 | **Uber** | Software Engineer I - Container Platform | Sunnyvale, CA | <a href="https://www.uber.com/global/en/careers/list/144046/?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 30 |
 | **Tesla** | Software Engineer, ML Inference Compiler & Deployment, GPU, CPU | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/243628?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 30 |
@@ -137,7 +135,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Palantir** | Deployment Strategist - Build to Apply | New York, NY | <a href="https://jobs.lever.co/palantir/4d35c1a0-bbb7-4e97-b989-3a294c8be078?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 11 |
 | **Palantir** | Forward Deployed Software Engineer - Build to Apply | New York, NY | <a href="https://jobs.lever.co/palantir/08de0376-68e1-460b-bd4c-42b57f8a0ecc?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 11 |
 | **Credit Genie** | New Grad: Software Engineer | New York, NY | <a href="https://jobs.ashbyhq.com/creditgenie/016056e0-61cd-4a19-9d42-5f3cd88fed02?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 09 |
-| **Nordstrom** | Developer Tools Support Engineer 1 | Seattle, WA | <a href="https://nordstrom.wd5.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Developer-Tools-Support-Engineer-1--Hybrid---Seattle--WA-_R-729931?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 08 |
 | **Twitch** | Software Engineer | Seattle, WA</br>San Francisco, CA | <a href="https://www.amazon.jobs/en/jobs/2944002/software-engineer?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
 | **Twitch** | Software Development Engineer - Safety ML | San Francisco, CA | <a href="https://job-boards.greenhouse.io/twitch/jobs/7938822002?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
 | **Tesla** | Software Engineer, Traction Control & Stability | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/240332?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
@@ -533,7 +530,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Gecko Robotics** | New Grad: Embedded Software Engineer | Pittsburg, PA | <a href="https://www.geckorobotics.com/careers?ashby_jid=c161948f-001d-45e4-a340-776cfccc1ff2&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Gecko Robotics** | New Grad: Localization Engineer | Pittsburg, PA | <a href="https://www.geckorobotics.com/careers?ashby_jid=ad2f924f-79fd-4dea-875b-a5a4b911d17e&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Gecko Robotics** | New Grad: Software Engineer | Boston, MA | <a href="https://www.geckorobotics.com/careers?ashby_jid=34464bf6-1c55-4aed-8d08-ac43c7c965d1&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
-| **Capital One** | New Grad: Associate Data Analyst | Toronto, ON | <a href="https://capitalone.wd1.myworkdayjobs.com/en-US/Capital_One/details/Associate--Data-Analyst--Full-Time-2025_R194545?q=data%20analyst&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **ByteDance** | New Grad 2025: Machine Learning Engineer | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7399738686366042377/detail?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **ByteDance** | New Grad 2025: Frontend Software Engineer | Seattle, WA | <a href="https://jobs.bytedance.com/en/position/7396821576484555046/detail?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **ByteDance** | New Grad 2025: Software Engineer | Seattle, WA | <a href="https://jobs.bytedance.com/en/position/7405726137865177371/detail?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
@@ -583,8 +579,10 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Citadel** | Software Engineer | Chicago,IL</br>Miami, FL</br>New York, NY | <a href="https://www.citadel.com/careers/details/software-engineer-2025-university-graduate-us/?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
 | **JPMorgan Chase** | 2025 Software Engineer Program 🛂 | <details><summary>**12 locations**</summary>Atlanta, GA</br>Austin, TX</br>Chicago, IL</br>Columbus, OH</br>Houston, TX</br>Jersey City, NJ</br>New York, NY</br>Palo Alto, CA</br>Plano, TX</br>Seattle, WA</br>Tampa, FL</br>Wilmington, DE</details> | <a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210527372?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
 | **Citadel Securities** | Software Engineer – 2025 University Graduate (US) | Miami, FL</br>New York, NY | <a href="https://www.citadelsecurities.com/careers/details/software-engineer-2025-university-graduate-us-2/?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
+| **Cox Automotive** | Software Engineer I | Carmel, IN | 🔒 | Jun 06 |
 | **PlayStation** | Software Engineer I - Application Framework | San Mateo, CA | 🔒 | Jun 01 |
 | **Vertex Inc** | New Grad 2025: Software Developer | Remote</br>US | 🔒 | May 31 |
+| **Disney** | Software Engineer I | <details><summary>**6 locations**</summary>Glendale, CA</br>Seattle, WA</br>San Francisco, CA</br>New York, NY</br>Bristol, CT</br>Santa Monica, CA</details> | 🔒 | May 31 |
 | **RTX** | C/C++ and Java Software Development Engineer I | Portsmouth, RI | 🔒 | May 30 |
 | **NVIDIA** | New Grad 2025: Software Engineer, Generative-AI | Santa Clara, CA | 🔒 | May 30 |
 | **NVIDIA** | New Grad 2025: Machine Learning Software Engineer | Santa Clara, CA | 🔒 | May 30 |
@@ -618,6 +616,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **RTX** | Software Engineer I | Tucson, AZ | 🔒 | Apr 10 |
 | **Amentum** | Entry Level Software Engineer | Fredericksburg, VA | 🔒 | Apr 10 |
 | **Amentum** | Entry Level Software Engineer | Dahlgren, VA | 🔒 | Apr 10 |
+| **Nordstrom** | Developer Tools Support Engineer 1 | Seattle, WA | 🔒 | Apr 08 |
 | **NVIDIA** | New Grad 2025: Deep Learning Computer Architect | Santa Clara, CA | 🔒 | Apr 05 |
 | **Blue Origin** | New Grad 2025: Software Development Engineer I | <details><summary>**6 locations**</summary>Seattle, WA</br>Van Horn, TX</br>Huntsville, AL</br>Denver, CO</br>Space Coast, FL</br>Los Angeles, CA</details> | 🔒 | Apr 05 |
 | **Bloomberg** | Software Engineer, Associate | Arlington, VA | 🔒 | Apr 05 |
@@ -1052,6 +1051,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Mastercard** | New Grad 2025: Data Scientist I - Launch Program | Salt Lake City, UT | 🔒 | Aug 25 |
 | **Mastercard** | New Grad 2025: Data Engineer - Launch Program | Arlington, VA | 🔒 | Aug 25 |
 | **Figma** | New Grad: Data Scientist | San Francisco, CA</br>New York, NY | 🔒 | Aug 25 |
+| **Capital One** | New Grad: Associate Data Analyst | Toronto, ON | 🔒 | Aug 25 |
 | **Boeing** | New Grad: Software Engineer 🛂 | Washington DC | 🔒 | Aug 25 |
 | **Bank of America** | New Grad: Software Engineer I | New York | 🔒 | Aug 25 |
 | **Applied Intuition** | New Grad: Software Engineer - Autonomous Vehicles - PHD | San Francisco, CA | 🔒 | Aug 25 |
