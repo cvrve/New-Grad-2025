@@ -20468,5 +20468,21 @@
         "date_posted": 1749297259,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749297401,
+        "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25037&siteid=5010&PageType=JobDetails&jobid=792011#jobDetails=792011_5010",
+        "company_name": "Lockheed Martin",
+        "title": "AI Platform Engineer",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "6997bf4d-a67e-41b4-9b11-d378b82ede26",
+        "date_posted": 1749297401,
+        "company_url": "",
+        "is_visible": true
     }
 ]
