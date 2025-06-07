@@ -20516,5 +20516,21 @@
         "date_posted": 1749297480,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749297520,
+        "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/4749910007",
+        "company_name": "TransMarket Group",
+        "title": "Junior Algorithmic Trader",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "61036364-f08a-45c9-884f-d9172f7d279d",
+        "date_posted": 1749297520,
+        "company_url": "",
+        "is_visible": true
     }
 ]
