@@ -20580,5 +20580,21 @@
         "date_posted": 1749297585,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749441778,
+        "url": "https://www.tesla.com/careers/search/job/243519",
+        "company_name": "Tesla",
+        "title": "Wireless Bluetooth Software Engineer",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "e6bff530-ac69-49ed-b53e-b0bcb86f360c",
+        "date_posted": 1749441778,
+        "company_url": "",
+        "is_visible": true
     }
 ]
