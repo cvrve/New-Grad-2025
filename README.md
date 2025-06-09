@@ -44,6 +44,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Tesla** | Software Engineer, AI Systems Performance Modeling, Dojo | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/244263?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 09 |
 | **Tesla** | Wireless Bluetooth Software Engineer | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/243519?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 09 |
 | **Viasat** | Full Stack Software Engineer, Early Career | Carlsbad, CA</br>Remote | <a href="https://careers.viasat.com/jobs/4457?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 07 |
 | **TransMarket Group** | Junior Quantitative Trader | Chicago, IL | <a href="https://job-boards.greenhouse.io/transmarketgroup/jobs/4749911007?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 07 |

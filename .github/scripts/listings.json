@@ -20596,5 +20596,21 @@
         "date_posted": 1749441778,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749441799,
+        "url": "https://www.tesla.com/careers/search/job/244263",
+        "company_name": "Tesla",
+        "title": "Software Engineer, AI Systems Performance Modeling, Dojo",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "9cd749ba-242f-45ea-b6e6-364500d9ee47",
+        "date_posted": 1749441799,
+        "company_url": "",
+        "is_visible": true
     }
 ]
