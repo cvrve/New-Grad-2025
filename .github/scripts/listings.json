@@ -20644,5 +20644,21 @@
         "date_posted": 1749596440,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749599880,
+        "url": "https://careers.leonardodrs.com/job/San-Diego-Software-Engineer-CA-92127/1298209000/",
+        "company_name": "DRS",
+        "title": "Software Engineer I",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "50dbfbb6-86b3-4d28-8be4-8a699807d614",
+        "date_posted": 1749599880,
+        "company_url": "",
+        "is_visible": true
     }
 ]

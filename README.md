@@ -45,6 +45,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **NVIDIA** | New Grad 2025: ASIC Design Engineer | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/ASIC-Design-Engineer---New-College-Grad-2025_JR1994930?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 10 |
+| **DRS** | Software Engineer I | San Diego, CA | <a href="https://careers.leonardodrs.com/job/San-Diego-Software-Engineer-CA-92127/1298209000/?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 10 |
 | **Apple** | Software Engineer - Full Stack | San Diego, CA | <a href="https://jobs.apple.com/en-us/details/200608455/software-engineer-full-stack?team=SFTWR&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 10 |
 | **Tesla** | Software Engineer, AI Systems Performance Modeling, Dojo | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/244263?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 09 |
 | **Tesla** | Wireless Bluetooth Software Engineer | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/243519?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 09 |
