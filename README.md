@@ -44,6 +44,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Apple** | Software Engineer - Full Stack | San Diego, CA | <a href="https://jobs.apple.com/en-us/details/200608455/software-engineer-full-stack?team=SFTWR&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 10 |
 | **Tesla** | Software Engineer, AI Systems Performance Modeling, Dojo | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/244263?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 09 |
 | **Tesla** | Wireless Bluetooth Software Engineer | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/243519?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 09 |
 | **Viasat** | Full Stack Software Engineer, Early Career | Carlsbad, CA</br>Remote | <a href="https://careers.viasat.com/jobs/4457?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 07 |

@@ -20612,5 +20612,21 @@
         "date_posted": 1749441799,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749596228,
+        "url": "https://jobs.apple.com/en-us/details/200608455/software-engineer-full-stack?team=SFTWR",
+        "company_name": "Apple",
+        "title": "Software Engineer - Full Stack",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "8210c793-b3a5-4990-86a0-b11d380c4fb7",
+        "date_posted": 1749596228,
+        "company_url": "",
+        "is_visible": true
     }
 ]
