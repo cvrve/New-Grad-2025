@@ -20628,5 +20628,21 @@
         "date_posted": 1749596228,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749596440,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/ASIC-Design-Engineer---New-College-Grad-2025_JR1994930",
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: ASIC Design Engineer",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "ad6d7d69-8293-4e9a-aeaa-5432cec8e72d",
+        "date_posted": 1749596440,
+        "company_url": "",
+        "is_visible": true
     }
 ]
