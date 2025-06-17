@@ -63,7 +63,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **ExxonMobil** | New Grad: Software Developer | Calgary, Canada | <a href="https://jobs.exxonmobil.com/ExxonMobil/job/Calgary-Software-Developer-New-Grad-AB/1243481200?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
 | **Quora** | New Grad 2025: Machine Learning Engineer | Remote</br>US</br>Canada | <a href="https://jobs.ashbyhq.com/quora/ddff2781-86fa-4b9a-b18b-891ea775b105?utm_source=Cvrve&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 24 |
 | **Amazon** | New Grad 2025: Front-End Engineer | Vancouver, Canada | <a href="https://www.amazon.jobs/en/jobs/2825619/front-end-engineer-2025-can?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
-| **Epic Games** | Desktop Platform Programmer | Montréal, Canada | <a href="https://boards.greenhouse.io/embed/job_app?token=5341847004&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | **Uber** | New Grad 2024: Software Engineer I, TOR | Toronto, Canada | <a href="https://university-uber.icims.com/jobs/136135?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | **Ciena** | Software Performance Engineer | Ottawa, Canada | <a href="https://careers.ciena.com/us/en/job/CIENUSR025517ENUS/Software-Performance-Engineer-Photonic-Product-Assurance-Team?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | **Capital One** | New Grad: Software Engineer | Toronto, Canada | <a href="https://capitalone.wd1.myworkdayjobs.com/en-US/Capital_One/job/Associate--Software-Engineer---New-Grad--OR049152-_R195487?redirect=%252FCapital_One%252Fjob%252FToronto-ON%252FAssociate--Software-Engineer---New-Grad--OR049152-_R195487%252F&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |
@@ -91,6 +90,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Samsara** | New Grad: Software Engineer | Remote</br>Canada | 🔒 | Oct 22 |
 | **Amazon** | Software Dev Engineer I, Redshift | Vancouver, Canada</br>Toronto, Canada | 🔒 | Oct 15 |
 | **Robinhood** | Software Development Engineer in Test | Toronto, Canada | 🔒 | Oct 14 |
+| **Epic Games** | Desktop Platform Programmer | Montréal, Canada | 🔒 | Oct 14 |
 | **Quora** | New Grad: Data Scientist, Monetization | Remote</br>US</br>Canada | 🔒 | Oct 03 |
 | **Tailscale** | Backend Engineer | Remote</br>Canada | 🔒 | Oct 02 |
 | **Coalition** | Software Engineer, Renewals | Canada | 🔒 | Oct 02 |
