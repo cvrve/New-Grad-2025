@@ -8408,7 +8408,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1727851279,
+        "date_updated": 1750198823,
         "url": "https://job-boards.greenhouse.io/janestreet/jobs/7430822002",
         "company_name": "Jane Street",
         "title": "Software Engineer",
@@ -8416,7 +8416,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "b96169d1-97f0-4159-8eec-30e6040aec01",
         "date_posted": 1727851279,
@@ -9879,7 +9879,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1728923390,
+        "date_updated": 1750198823,
         "url": "https://boards.greenhouse.io/embed/job_app?token=5341847004",
         "company_name": "Epic Games",
         "title": "Desktop Platform Programmer",
@@ -9887,7 +9887,7 @@
             "Montr\u00e9al, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "b80f05ef-d4f2-48c4-88a8-70373440e0cf",
         "date_posted": 1728923390,
@@ -15558,7 +15558,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1737068951,
+        "date_updated": 1750198823,
         "url": "https://job-boards.greenhouse.io/patterndata/jobs/4478536007",
         "company_name": "Patterndata",
         "title": "Software Engineer I",
@@ -15567,7 +15567,7 @@
             "US"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "d1c92d14-0921-4a51-a8fe-934adc55fcfa",
         "date_posted": 1737068951,
@@ -17862,7 +17862,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1743853814,
+        "date_updated": 1750198824,
         "url": "https://jobs.lever.co/layup/e6d2ab2b-4c92-45bc-9b10-17217aa46181",
         "company_name": "Layup Parts",
         "title": "New Grad: Software Engineer",
@@ -17870,7 +17870,7 @@
             "Huntington Beach, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "e58ea55f-088e-4821-a4ea-dfe11ff86f66",
         "date_posted": 1743853814,
@@ -20486,7 +20486,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749297432,
+        "date_updated": 1750198823,
         "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/4161897007",
         "company_name": "Tenstorrent",
         "title": "Software Developer, Metal Runtime",
@@ -20494,7 +20494,7 @@
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "8d046efa-97c6-4588-b2ce-3342abc8216d",
         "date_posted": 1749297432,
