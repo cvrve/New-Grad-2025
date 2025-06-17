@@ -20709,5 +20709,21 @@
         "date_posted": 1750135112,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1750135447,
+        "url": "https://careers.qualcomm.com/careers/job/446706280852",
+        "company_name": "Qualcomm",
+        "title": "Product Software Engineer",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "7bb5065c-0515-442d-836b-c92af0d8ce9c",
+        "date_posted": 1750135447,
+        "company_url": "",
+        "is_visible": true
     }
 ]
