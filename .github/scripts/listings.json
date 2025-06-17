@@ -20725,5 +20725,21 @@
         "date_posted": 1750135447,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1750135470,
+        "url": "https://careers.qualcomm.com/careers/job/446706280712",
+        "company_name": "Qualcomm",
+        "title": "Modem Software and System Engineer",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "6d92991e-adb9-41c2-8c6f-de977f89ea2a",
+        "date_posted": 1750135470,
+        "company_url": "",
+        "is_visible": true
     }
 ]
