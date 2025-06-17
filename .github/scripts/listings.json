@@ -20741,5 +20741,21 @@
         "date_posted": 1750135470,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1750135589,
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4753955007",
+        "company_name": "Lucid",
+        "title": "DevOps and Build Infrastructure Engineer",
+        "locations": [
+            "Newark, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "7ed60c0c-1450-4625-84f6-abeb328e96b5",
+        "date_posted": 1750135589,
+        "company_url": "",
+        "is_visible": true
     }
 ]
