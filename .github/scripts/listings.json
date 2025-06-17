@@ -20660,5 +20660,22 @@
         "date_posted": 1749599880,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1750133757,
+        "url": "https://wellfound.com/l/2BpbUc",
+        "company_name": "Strac",
+        "title": "Full Stack Engineer",
+        "locations": [
+            "Seattle, WA",
+            "Austin, TX"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "alfred-strac",
+        "id": "ef6ed6f6-d0bc-4296-b015-cfaea17043e8",
+        "date_posted": 1750133757,
+        "company_url": "",
+        "is_visible": true
     }
 ]
