@@ -20417,10 +20417,10 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749297143,
+        "date_updated": 1750133660,
         "url": "https://www.disneycareers.com/en/job/-/-/391/82063302224",
         "company_name": "Disney",
-        "title": "Software Engineer I",
+        "title": "Software Engineer I\t",
         "locations": [
             "San Francisco, CA",
             "Santa Monica, CA",
@@ -20429,7 +20429,7 @@
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "0339f399-6f44-4ae5-93cb-d01e027f00e7",
         "date_posted": 1749297143,
