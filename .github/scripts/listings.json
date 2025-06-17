@@ -12260,7 +12260,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1731672315,
+        "date_updated": 1750198915,
         "url": "https://condenast.wd5.myworkdayjobs.com/en-US/CondeCareers/job/1-World-Trade-Center-New-York-NY/Data-Engineer-I_R-17924-1",
         "company_name": "Cond\u00e9 Nast",
         "title": "Data Engineer I",
@@ -12268,7 +12268,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "55a7b007-a08a-486e-a50a-e71d282d4b73",
         "date_posted": 1731672315,
@@ -18646,7 +18646,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1746307696,
+        "date_updated": 1750198929,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Design-Engineer--Coherent-High-Speed-Interconnect---New-College-Grad-2025_JR1997017",
         "company_name": "NVIDIA",
         "title": "New Grad 2025: Design Engineer, Coherent High Speed Interconnect",
@@ -18655,7 +18655,7 @@
             "Westford, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "b18a6534-dfc2-4c0a-a97d-baa133704d54",
         "date_posted": 1746307696,
@@ -20152,7 +20152,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748717502,
+        "date_updated": 1750198964,
         "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Seattle-WA-USA/Software-Engineer-I_10121473-1",
         "company_name": "Disney",
         "title": "Software Engineer I",
@@ -20160,7 +20160,7 @@
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "84e1d446-5a61-4315-bb1f-4cd4216ea654",
         "date_posted": 1748717502,
@@ -20319,7 +20319,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749184966,
+        "date_updated": 1750198970,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Developer_R0140249",
         "company_name": "Amentum",
         "title": "Software Developer",
@@ -20327,7 +20327,7 @@
             "Dahlgren, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "a71fd9e9-ac01-4cd9-a19b-ea7948a2778e",
         "date_posted": 1749184966,
@@ -20385,7 +20385,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749296846,
+        "date_updated": 1750198976,
         "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2025_JR1998556",
         "company_name": "NVIDIA",
         "title": "New Grad 2025: Systems Software Engineer",
@@ -20393,7 +20393,7 @@
             "Hillsboro, OR"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "8b416450-5f6f-4599-a7dd-0e9ddb22b555",
         "date_posted": 1749296846,
