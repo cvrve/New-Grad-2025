@@ -20805,5 +20805,21 @@
         "date_posted": 1750531077,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1750531107,
+        "url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Engineer-1---iOS-Developer--Hybrid---Seattle--WA-_R-758307",
+        "company_name": "Nordstrom",
+        "title": "iOS Developer Engineer I",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "9380a570-05f0-4d9e-a73c-169828c976a8",
+        "date_posted": 1750531107,
+        "company_url": "",
+        "is_visible": true
     }
 ]
