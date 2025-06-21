@@ -20821,5 +20821,21 @@
         "date_posted": 1750531107,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1750531125,
+        "url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Engineer-1--Hybrid---Seattle--WA-_R-758299",
+        "company_name": "Nordstrom",
+        "title": "Engineer 1",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "5cd7c112-9d63-4188-a450-c75195374d8d",
+        "date_posted": 1750531125,
+        "company_url": "",
+        "is_visible": true
     }
 ]
