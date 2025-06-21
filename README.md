@@ -45,6 +45,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **NVIDIA** | New Grad 2025: GPU Power Architect | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Datacenter-GPU-Power-Architect---New-College-Grad-2025_JR1995557?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 21 |
+| **Da Vinci** | Graduate C++ Software Engineer | Miami, FL | <a href="https://davincitrading.com/job/graduate-c-software-engineer-2/?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 21 |
 | **Strac** | Full Stack Engineer | Seattle, WA</br>Austin, TX | <a href="https://wellfound.com/l/2BpbUc?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 17 |
 | **Sentry** | New Grad 2025: Software Engineer | San Francisco, CA | <a href="https://jobs.ashbyhq.com/sentry/90fb5dd4-410d-4672-9f40-3f11ea01c75d?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 17 |
 | **Qualcomm** | Modem Software and System Engineer | San Diego, CA | <a href="https://careers.qualcomm.com/careers/job/446706280712?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 17 |

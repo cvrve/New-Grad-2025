@@ -20773,5 +20773,21 @@
         "date_posted": 1750530915,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1750531044,
+        "url": "https://davincitrading.com/job/graduate-c-software-engineer-2/",
+        "company_name": "Da Vinci",
+        "title": "Graduate C++ Software Engineer",
+        "locations": [
+            "Miami, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "c86c11fc-cfd4-4cb4-84aa-714553525b62",
+        "date_posted": 1750531044,
+        "company_url": "",
+        "is_visible": true
     }
 ]
