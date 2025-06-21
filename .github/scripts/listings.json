@@ -20789,5 +20789,21 @@
         "date_posted": 1750531044,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1750531077,
+        "url": "https://www.collective.com/careers/6614825003",
+        "company_name": "Collective Hub, Inc",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "eaa94c8f-a590-4ae1-9915-b0947f8f89d5",
+        "date_posted": 1750531077,
+        "company_url": "",
+        "is_visible": true
     }
 ]
