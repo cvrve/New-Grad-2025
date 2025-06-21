@@ -20757,5 +20757,21 @@
         "date_posted": 1750135589,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1750530915,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Datacenter-GPU-Power-Architect---New-College-Grad-2025_JR1995557",
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: GPU Power Architect",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "da1181dc-ee12-4268-a8e7-8c5d4a9bb3b4",
+        "date_posted": 1750530915,
+        "company_url": "",
+        "is_visible": true
     }
 ]
