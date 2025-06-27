@@ -20981,5 +20981,21 @@
         "date_posted": 1751051102,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751051124,
+        "url": "https://www.amazon.jobs/en/jobs/3018378/system-development-engineer-i-ops-tech-solutions",
+        "company_name": "Amazon",
+        "title": "System Development Engineer I, Ops Tech Solutions",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "d9e46800-6754-46cc-8e65-40b67693a643",
+        "date_posted": 1751051124,
+        "company_url": "",
+        "is_visible": true
     }
 ]
