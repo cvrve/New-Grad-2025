@@ -2978,7 +2978,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1724209567,
+        "date_updated": 1751050227,
         "url": "https://jobs.lever.co/intelliware/759b57c3-a5c3-4698-af78-66b3591bb936?applicant_guid=1a26e138-602c-4352-ab77-4ef92c12a04e&lever-origin=applied&lever-source%5B%5D=JobTarget%2CJobTarget%20Organic%20Sites%20Bundle",
         "company_name": "Intelliware",
         "title": "New Grad: Junior Software Developer",
@@ -2986,7 +2986,7 @@
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "64044545-898a-4ce1-9f25-bbd9dcf628e9",
         "date_posted": 1724209567,
@@ -19750,7 +19750,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748489887,
+        "date_updated": 1751050228,
         "url": "https://job-boards.greenhouse.io/truveta/jobs/5546481004",
         "company_name": "Truveta",
         "title": "Software Engineer - Fullstack",
@@ -19758,7 +19758,7 @@
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "947d576b-922e-48ab-80bd-b9e4a73bf314",
         "date_posted": 1748489887,
@@ -20222,7 +20222,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748832967,
+        "date_updated": 1751050228,
         "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/6589230003",
         "company_name": "Sigma",
         "title": "New Grad: Software Engineer",
@@ -20231,7 +20231,7 @@
             "New York City, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "663804de-78fe-4129-abb6-28c1b875f6dd",
         "date_posted": 1748832967,
@@ -20743,7 +20743,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1750135589,
+        "date_updated": 1751050228,
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4753955007",
         "company_name": "Lucid",
         "title": "DevOps and Build Infrastructure Engineer",
@@ -20751,7 +20751,7 @@
             "Newark, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "7ed60c0c-1450-4625-84f6-abeb328e96b5",
         "date_posted": 1750135589,
