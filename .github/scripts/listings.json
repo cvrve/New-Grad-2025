@@ -20997,5 +20997,21 @@
         "date_posted": 1751051124,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751051534,
+        "url": "https://careers.roblox.com/jobs/6993225",
+        "company_name": "Roblox",
+        "title": "Software Engineer, Infra Foundation",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "38b53a1d-e8f0-4bba-973b-2f0c6fce07be",
+        "date_posted": 1751051534,
+        "company_url": "",
+        "is_visible": true
     }
 ]
