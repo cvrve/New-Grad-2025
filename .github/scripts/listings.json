@@ -20837,5 +20837,21 @@
         "date_posted": 1750531125,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751050345,
+        "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Software-Engineer-I_R0110441",
+        "company_name": "USAA",
+        "title": "Software Engineer I",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "99850069-b69c-45ba-85e0-2f7f1efd54cd",
+        "date_posted": 1751050345,
+        "company_url": "",
+        "is_visible": true
     }
 ]
