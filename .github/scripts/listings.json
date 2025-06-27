@@ -21013,5 +21013,21 @@
         "date_posted": 1751051534,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751051629,
+        "url": "https://careers.qualcomm.com/careers/job/446706462906",
+        "company_name": "Qualcomm",
+        "title": "IOT Software Engineer",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "511792dd-807b-4e2b-850d-87b4d5064666",
+        "date_posted": 1751051629,
+        "company_url": "",
+        "is_visible": true
     }
 ]
