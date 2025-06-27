@@ -20917,5 +20917,21 @@
         "date_posted": 1751050582,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751050825,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000066662880-systems-engineer-virtualization-linux-engineering-junior-level-",
+        "company_name": "Visa",
+        "title": "Systems Engineer, Virtualization/Linux Engineering",
+        "locations": [
+            "Highlands Ranch, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "fcd8f6f4-41e9-4247-8af4-763e843d780f",
+        "date_posted": 1751050825,
+        "company_url": "",
+        "is_visible": true
     }
 ]
