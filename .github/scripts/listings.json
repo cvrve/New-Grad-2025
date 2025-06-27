@@ -20965,5 +20965,21 @@
         "date_posted": 1751051074,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751051102,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/ASIC-Design-Efficiency-Engineer---New-College-Grad-2026_JR1999430",
+        "company_name": "NVIDIA",
+        "title": "New Grad 2026: ASIC Design Efficiency Engineer",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "8ea5b479-cb5f-4350-bf6b-c592af9b5dab",
+        "date_posted": 1751051102,
+        "company_url": "",
+        "is_visible": true
     }
 ]
