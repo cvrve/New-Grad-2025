@@ -66,7 +66,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Uber** | New Grad 2024: Software Engineer I, TOR | Toronto, Canada | <a href="https://university-uber.icims.com/jobs/136135?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | **Ciena** | Software Performance Engineer | Ottawa, Canada | <a href="https://careers.ciena.com/us/en/job/CIENUSR025517ENUS/Software-Performance-Engineer-Photonic-Product-Assurance-Team?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | **Capital One** | New Grad: Software Engineer | Toronto, Canada | <a href="https://capitalone.wd1.myworkdayjobs.com/en-US/Capital_One/job/Associate--Software-Engineer---New-Grad--OR049152-_R195487?redirect=%252FCapital_One%252Fjob%252FToronto-ON%252FAssociate--Software-Engineer---New-Grad--OR049152-_R195487%252F&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |
-| **Intelliware** | New Grad: Junior Software Developer | Toronto, Canada | <a href="https://jobs.lever.co/intelliware/759b57c3-a5c3-4698-af78-66b3591bb936?applicant_guid=1a26e138-602c-4352-ab77-4ef92c12a04e&lever-origin=applied&lever-source%5B%5D=JobTarget%2CJobTarget%20Organic%20Sites%20Bundle&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
 | **Konrad** | New Grad: Software Developer | Vancouver, Canada | <a href="https://www.konrad.com/careers/job/5893276003?gh_jid=5893276003&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
 | **Warp** | Software Engineer | Remote US & Canada | <a href="https://boards.greenhouse.io/warp/jobs/4324888004?gh_src=a2e958824us&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | **TD Bank** | Software Engineer I | Toronto, Canada | 🔒 | May 23 |
@@ -106,6 +105,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Bell** | New Grad 2025: Cyber Security Engineer | <details><summary>**5 locations**</summary>Halifax, Canada</br>Ottawa, Canada</br>Montreal, Canada</br>Toronto, Canada</br>Bedford, Canada</details> | 🔒 | Sep 03 |
 | **Replicant** | New Grad: Software Engineer I | Canada | 🔒 | Sep 01 |
 | **Autodesk** | New Grad: Software Development Engineer | Toronto, Canada | 🔒 | Sep 01 |
+| **Intelliware** | New Grad: Junior Software Developer | Toronto, Canada | 🔒 | Aug 21 |
 | **Canonical** | New Grad: Software Engineer | Vancouver, Canada | 🔒 | Aug 20 |
 | **Sentry** | New Grad 2025: Software Engineer 🛂 | Toronto, Canada | 🔒 | Aug 06 |
 | **Jerry** | Software Engineer I - Toronto | Toronto, ON, Canada | 🔒 | Jul 05 |
