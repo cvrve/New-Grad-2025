@@ -20885,5 +20885,21 @@
         "date_posted": 1751050420,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751050563,
+        "url": "https://www.tesla.com/careers/search/job/244793",
+        "company_name": "Tesla",
+        "title": "Firmware Engineer, Silicon Development",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "3a7f7d43-6cbf-443a-8d2e-622fa853fd52",
+        "date_posted": 1751050563,
+        "company_url": "",
+        "is_visible": true
     }
 ]
