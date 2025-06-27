@@ -20949,5 +20949,21 @@
         "date_posted": 1751050870,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751051074,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-TX-Austin/ASIC-Hardware-Design-Engineer---New-College-Grad-2025_JR1999119",
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: ASIC Hardware Design Engineer",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "ccc1aa4e-e4da-4606-9d2f-5b66689a5b25",
+        "date_posted": 1751051074,
+        "company_url": "",
+        "is_visible": true
     }
 ]
