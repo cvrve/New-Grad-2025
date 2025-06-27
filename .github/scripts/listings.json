@@ -20933,5 +20933,21 @@
         "date_posted": 1751050825,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751050870,
+        "url": "https://careers.qualcomm.com/careers/job/446706411550",
+        "company_name": "Qualcomm",
+        "title": "Software Product Application Engineer",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "d466a2f1-e8c1-49f1-8187-908af09c3c57",
+        "date_posted": 1751050870,
+        "company_url": "",
+        "is_visible": true
     }
 ]
