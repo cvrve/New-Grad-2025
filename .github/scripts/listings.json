@@ -21029,5 +21029,21 @@
         "date_posted": 1751051629,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751051672,
+        "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HOME-MA/C---Software-Engineer---New-College-Graduate--Boston-_R50667-1",
+        "company_name": "Cadence",
+        "title": "New Grad: C++ Software Engineer",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "e9f12027-90b4-486d-aaac-f93cc194bdfe",
+        "date_posted": 1751051672,
+        "company_url": "",
+        "is_visible": true
     }
 ]
