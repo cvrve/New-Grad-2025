@@ -21243,5 +21243,21 @@
         "date_posted": 1751245569,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751245625,
+        "url": "https://jobs.cvshealth.com/us/en/job/CVSCHLUSR0632604EXTERNALENUS/Associate-Software-Engineer",
+        "company_name": "CVS Health",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Irving, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "03761046-05de-4fe9-8754-3ef666d42e4a",
+        "date_posted": 1751245625,
+        "company_url": "",
+        "is_visible": true
     }
 ]
