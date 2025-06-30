@@ -21128,5 +21128,22 @@
         "date_posted": 1751245162,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751245224,
+        "url": "https://www.hashicorp.com/en/career/6914251",
+        "company_name": "HashiCorp",
+        "title": "Backend Engineer - Enterprise Identity",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "4b3fb235-b883-4cba-b398-92ad4de7b401",
+        "date_posted": 1751245224,
+        "company_url": "",
+        "is_visible": true
     }
 ]
