@@ -21061,5 +21061,21 @@
         "date_posted": 1751245042,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751245071,
+        "url": "https://www.amazon.jobs/en/jobs/3012833/security-engineer-appsec-testing-automation-and-insights",
+        "company_name": "Amazon",
+        "title": "Security Engineer, AppSec Testing Automation and Insights",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "f3f974a6-676b-4651-8382-b7559f9def36",
+        "date_posted": 1751245071,
+        "company_url": "",
+        "is_visible": true
     }
 ]
