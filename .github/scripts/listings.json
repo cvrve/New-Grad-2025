@@ -21177,5 +21177,21 @@
         "date_posted": 1751245329,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751245352,
+        "url": "https://www.tesla.com/careers/search/job/239333",
+        "company_name": "Tesla",
+        "title": "Technical Artist, UI Design",
+        "locations": [
+            "Hawthorne, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "b65ad957-daff-4e08-b202-f508f7b8c015",
+        "date_posted": 1751245352,
+        "company_url": "",
+        "is_visible": true
     }
 ]
