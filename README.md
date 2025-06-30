@@ -44,6 +44,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Twitch** | Software Engineer - Creator | <details><summary>**4 locations**</summary>Seattle, WA</br>New York, NY</br>Irvine, CA</br>San Francisco, CA</details> | <a href="https://www.amazon.jobs/en/jobs/3019865/software-engineer-creator?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 30 |
 | **Qualtrics** | Software Engineer I, Employee Experience | Seattle, WA | <a href="https://www.qualtrics.com/careers/us/en/job/QUALUS6957175EXTERNALENUS/Software-Engineer-I-Employee-Experience?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 30 |
 | **OpenEye** | Software Engineer | Liberty Lake, WA | <a href="https://job-boards.greenhouse.io/openeye/jobs/8050484002?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 30 |
 | **Amazon** | Security Engineer, AppSec Testing Automation and Insights | New York, NY | <a href="https://www.amazon.jobs/en/jobs/3012833/security-engineer-appsec-testing-automation-and-insights?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 30 |

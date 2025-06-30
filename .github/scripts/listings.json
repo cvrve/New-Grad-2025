@@ -21109,5 +21109,24 @@
         "date_posted": 1751245140,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751245162,
+        "url": "https://www.amazon.jobs/en/jobs/3019865/software-engineer-creator",
+        "company_name": "Twitch",
+        "title": "Software Engineer - Creator",
+        "locations": [
+            "Seattle, WA",
+            "New York, NY",
+            "Irvine, CA",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "77906d39-eea8-451c-bf47-22bc038eea15",
+        "date_posted": 1751245162,
+        "company_url": "",
+        "is_visible": true
     }
 ]
