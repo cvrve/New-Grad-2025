@@ -21093,5 +21093,21 @@
         "date_posted": 1751245116,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751245140,
+        "url": "https://www.qualtrics.com/careers/us/en/job/QUALUS6957175EXTERNALENUS/Software-Engineer-I-Employee-Experience",
+        "company_name": "Qualtrics",
+        "title": "Software Engineer I, Employee Experience",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "30e20599-08d5-4f27-a53d-281034abd678",
+        "date_posted": 1751245140,
+        "company_url": "",
+        "is_visible": true
     }
 ]
