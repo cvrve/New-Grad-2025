@@ -21193,5 +21193,21 @@
         "date_posted": 1751245352,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751245403,
+        "url": "https://www.tesla.com/careers/search/job/225609",
+        "company_name": "Tesla",
+        "title": "Software Engineer, Optimus",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "23b5f05e-22a1-485b-b1e6-c37afe513bd2",
+        "date_posted": 1751245403,
+        "company_url": "",
+        "is_visible": true
     }
 ]
