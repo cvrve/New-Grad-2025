@@ -44,6 +44,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Twitch** | Software Engineer | San Francisco, CA</br>Seattle, WA</br>New York, NY | <a href="https://www.amazon.jobs/en/jobs/3020911/software-engineer?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 30 |
 | **Twitch** | Software Engineer - Creator | <details><summary>**4 locations**</summary>Seattle, WA</br>New York, NY</br>Irvine, CA</br>San Francisco, CA</details> | <a href="https://www.amazon.jobs/en/jobs/3019865/software-engineer-creator?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 30 |
 | **Tesla** | Software Engineer, Optimus | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/225609?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 30 |
 | **Tesla** | Technical Artist, UI Design | Hawthorne, CA | <a href="https://www.tesla.com/careers/search/job/239333?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 30 |

@@ -21209,5 +21209,23 @@
         "date_posted": 1751245403,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751245429,
+        "url": "https://www.amazon.jobs/en/jobs/3020911/software-engineer",
+        "company_name": "Twitch",
+        "title": "Software Engineer",
+        "locations": [
+            "San Francisco, CA",
+            "Seattle, WA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "5fdd3b33-084f-4e98-851b-953cea9d15d1",
+        "date_posted": 1751245429,
+        "company_url": "",
+        "is_visible": true
     }
 ]
