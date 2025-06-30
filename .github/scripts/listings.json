@@ -21259,5 +21259,21 @@
         "date_posted": 1751245625,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751245729,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=8026923002",
+        "company_name": "Tesla",
+        "title": "New Grad 2025: Software Engineer",
+        "locations": [
+            "Hawthorne, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "73563134-bf8f-4327-8c2b-a4d53cef7fef",
+        "date_posted": 1751245729,
+        "company_url": "",
+        "is_visible": true
     }
 ]
