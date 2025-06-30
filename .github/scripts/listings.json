@@ -21077,5 +21077,21 @@
         "date_posted": 1751245071,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751245116,
+        "url": "https://job-boards.greenhouse.io/openeye/jobs/8050484002",
+        "company_name": "OpenEye",
+        "title": "Software Engineer",
+        "locations": [
+            "Liberty Lake, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "43378415-1be0-4404-bea6-87a1939bc2d3",
+        "date_posted": 1751245116,
+        "company_url": "",
+        "is_visible": true
     }
 ]

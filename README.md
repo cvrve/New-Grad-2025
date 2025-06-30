@@ -44,6 +44,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **OpenEye** | Software Engineer | Liberty Lake, WA | <a href="https://job-boards.greenhouse.io/openeye/jobs/8050484002?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 30 |
 | **Amazon** | Security Engineer, AppSec Testing Automation and Insights | New York, NY | <a href="https://www.amazon.jobs/en/jobs/3012833/security-engineer-appsec-testing-automation-and-insights?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 30 |
 | **Amazon** | Mission Operations Engineer, Project Kuiper - Mission Operations | Redmond, WA | <a href="https://www.amazon.jobs/en/jobs/3013296/mission-operations-engineer-project-kuiper-mission-operations?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 30 |
 | **Visa** | Systems Engineer, Virtualization/Linux Engineering | Highlands Ranch, CO | <a href="https://jobs.smartrecruiters.com/Visa/744000066662880-systems-engineer-virtualization-linux-engineering-junior-level-?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
