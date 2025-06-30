@@ -21275,5 +21275,21 @@
         "date_posted": 1751245729,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751245782,
+        "url": "https://jobs.citi.com/job/-/-/287/79829803904",
+        "company_name": "Citi",
+        "title": "Software Engineer",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "0f78041c-d885-480c-8999-141a2fc0f165",
+        "date_posted": 1751245782,
+        "company_url": "",
+        "is_visible": true
     }
 ]
