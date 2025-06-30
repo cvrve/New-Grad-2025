@@ -21145,5 +21145,21 @@
         "date_posted": 1751245224,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751245244,
+        "url": "https://careers.qualcomm.com/careers/job/446706463987",
+        "company_name": "Qualcomm",
+        "title": "Display SW Engineer",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "48c456d7-6c13-47e0-b54f-e286184f4980",
+        "date_posted": 1751245244,
+        "company_url": "",
+        "is_visible": true
     }
 ]
