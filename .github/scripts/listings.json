@@ -3327,7 +3327,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1724547152,
+        "date_updated": 1751756892,
         "url": "https://boards.greenhouse.io/appliedintuition/jobs/4420849005?gh_jid=4420849005",
         "company_name": "Applied Intuition",
         "title": "New Grad: Software Engineer",
@@ -3335,7 +3335,7 @@
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "beakae",
         "id": "c1057615-400c-4c7e-8c3b-48e3ff7ade92",
         "date_posted": 1724547152,
@@ -6147,7 +6147,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1726259834,
+        "date_updated": 1751756893,
         "url": "https://boards.greenhouse.io/appliedintuition/jobs/4420849005",
         "company_name": "Applied Intuition",
         "title": "New Grad: Software Engineer",
@@ -6155,7 +6155,7 @@
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "46cbd362-fa29-49af-a3d8-bbdd9b8e7c3d",
         "date_posted": 1726259834,
@@ -18614,7 +18614,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1746307611,
+        "date_updated": 1751756893,
         "url": "https://boards.greenhouse.io/embed/job_app?token=4420849005",
         "company_name": "Applied Intuition",
         "title": "New Grad: Software Engineer",
@@ -18622,7 +18622,7 @@
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "003279c0-802c-4e7d-a58e-6b857e82d077",
         "date_posted": 1746307611,
