@@ -21774,5 +21774,24 @@
         "date_posted": 1751752305,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751752552,
+        "url": "https://jobs.lever.co/galatea-associates/ea475dfe-2e0b-4e6b-8dd7-88e4e85f9dcb?lever-origin=applied&lever-source%5B%5D=GitHub",
+        "company_name": "Galatea Associates",
+        "title": "Software Engineer Associate",
+        "locations": [
+            "Somerville, MA",
+            "St. Petersburg, FL",
+            "Durham, NC",
+            "London, UK"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": false,
+        "source": "Hurryitup",
+        "id": "7c29c72c-d272-462b-8eeb-c7387b3026ef",
+        "date_posted": 1751752552,
+        "company_url": "",
+        "is_visible": true
     }
 ]
