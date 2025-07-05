@@ -21291,5 +21291,488 @@
         "date_posted": 1751245782,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751749491,
+        "url": "https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "New Grad 2026: Forward Deployed Software Engineer",
+        "source": "vanshb03",
+        "id": "8297c60b-4901-4d26-926f-41af6317263a",
+        "date_posted": 1751749491,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751749502,
+        "url": "https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "New Grad 2026: Forward Deployed Software Engineer",
+        "source": "vanshb03",
+        "id": "238283f6-f30a-444b-a0a8-6b60b9431fc3",
+        "date_posted": 1751749502,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751749513,
+        "url": "https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb",
+        "locations": [
+            "Washington, D.C."
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "New Grad 2026: Forward Deployed Software Engineer",
+        "source": "vanshb03",
+        "id": "b9f4929b-7350-4a1e-a4fb-159955d172ae",
+        "date_posted": 1751749513,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751750917,
+        "url": "https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29",
+        "locations": [
+            "Denver, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "fb4fb9d4-a4cb-413c-b073-ca336cc40eff",
+        "date_posted": 1751750917,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751750932,
+        "url": "https://jobs.lever.co/palantir/dea9d3d5-75b2-4588-b7bd-585a47b79c8c",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "303ce625-856d-4642-a750-f6989362f6cb",
+        "date_posted": 1751750932,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751750941,
+        "url": "https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "dff8ddcf-bb12-43a8-bd8b-38038821c627",
+        "date_posted": 1751750941,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751750962,
+        "url": "https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "12d830a3-13bb-4133-9fae-f0447f0a41e1",
+        "date_posted": 1751750962,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751750969,
+        "url": "https://jobs.lever.co/palantir/f362d7aa-360d-4059-ab38-f482742693b3",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "f154d8fe-393d-4c0c-8371-13b50dc3b8c0",
+        "date_posted": 1751750969,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751750974,
+        "url": "https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "5e1c65f0-67cd-4db7-a538-17a1dbd4a1cb",
+        "date_posted": 1751750974,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751750979,
+        "url": "https://jobs.lever.co/palantir/4abf26b4-795c-420a-bf22-1ab98db268b4",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "10be5bb8-3e7e-46d0-9b3e-5df88dc1effd",
+        "date_posted": 1751750979,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751750983,
+        "url": "https://jobs.lever.co/palantir/e1a6c138-98bf-45e2-97f7-2c70371cc38a",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "fe92a2a7-62b5-45a3-bba6-dd0bdc9c5611",
+        "date_posted": 1751750983,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751752018,
+        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4580753101",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IMC",
+        "title": "Quantitative Researcher",
+        "source": "vanshb03",
+        "id": "43a2743c-b91f-4f4f-be95-25e727a79632",
+        "date_posted": 1751752018,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751752027,
+        "url": "https://jobs.lever.co/belvederetrading/5494bf64-56bf-4a5b-b339-03e8af470ffc",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Belvedere Trading",
+        "title": "Machine Learning and Algorithm Developer",
+        "source": "vanshb03",
+        "id": "f943d316-bce8-4701-88e6-b11fe34340e8",
+        "date_posted": 1751752027,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751752034,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/7967601002",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Optiver",
+        "title": "Graduate Quantitative Researcher",
+        "source": "vanshb03",
+        "id": "22689130-d205-4d85-b298-492cab36dd9d",
+        "date_posted": 1751752034,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751752042,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/7986419002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Optiver",
+        "title": "New Grad 2026: Software Engineer",
+        "source": "vanshb03",
+        "id": "d2b45b20-7926-4762-84f2-5d64fabf18d6",
+        "date_posted": 1751752042,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751752051,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/7986421002",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Optiver",
+        "title": "New Grad 2026: Software Engineer",
+        "source": "vanshb03",
+        "id": "7cbc63bf-c26c-4864-8cad-dcf6ad8d61e9",
+        "date_posted": 1751752051,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751752062,
+        "url": "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/",
+        "locations": [
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citadel Securities",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "042d7e65-0813-45d4-9a8d-d5ee664a6e1a",
+        "date_posted": 1751752062,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751752067,
+        "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-us/",
+        "locations": [
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citadel Securities",
+        "title": "New Grad: Quantitative Research Analyst",
+        "source": "vanshb03",
+        "id": "2bd6f1a8-df71-492f-bbd9-c257f09f6c15",
+        "date_posted": 1751752067,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751752073,
+        "url": "https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us/",
+        "locations": [
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citadel Securities",
+        "title": "New Grad: Quantitative Trader",
+        "source": "vanshb03",
+        "id": "35f79369-86b3-4ce0-a625-e3efccf07693",
+        "date_posted": 1751752073,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751752090,
+        "url": "https://bambusdev.my.site.com/s/details?jobReq=Systematic-Equities-Quantitative-Researcher---Developer_REQ6955",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Balyasny Asset Management",
+        "title": "Systematic Equities Quantitative Researcher / Developer",
+        "source": "vanshb03",
+        "id": "e82c6935-2cb1-48d4-9ce1-0e193b1e0c75",
+        "date_posted": 1751752090,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751752099,
+        "url": "https://careers.qualcomm.com/careers/job/446706670731",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "Software Engineer - Hypervisor",
+        "source": "vanshb03",
+        "id": "9152d9cb-bdf3-4cdc-aea8-e04168d51496",
+        "date_posted": 1751752099,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751752109,
+        "url": "https://careers.duolingo.com/jobs/8062269002?gh_jid=8062269002",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Duolingo",
+        "title": "AI Product Engineer, Math",
+        "source": "vanshb03",
+        "id": "f190e948-c8ac-4481-ae9f-9661c141cc92",
+        "date_posted": 1751752109,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751752118,
+        "url": "https://jobs.apple.com/en-us/details/200611793/software-engineer-is-t-early-career?team=SFTWR",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apple",
+        "title": "Software Engineer, IS&T",
+        "source": "vanshb03",
+        "id": "2903e077-5894-4c8c-864f-33a97c7022bb",
+        "date_posted": 1751752118,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751752126,
+        "url": "https://jobs.apple.com/en-us/details/200611794/software-engineer-is-t-early-career?team=SFTWR",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apple",
+        "title": "Software Engineer, IS&T",
+        "source": "vanshb03",
+        "id": "0c3403fd-a272-4469-9d49-b0adf3bb83ac",
+        "date_posted": 1751752126,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751752134,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/ASIC-Design-Engineer---New-College-Grad-2025_JR1994930",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: ASIC Design Engineer",
+        "source": "vanshb03",
+        "id": "ffe4d7cf-07fb-4bc0-a3b8-7e405cb73f6b",
+        "date_posted": 1751752134,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751752151,
+        "url": "https://jobs.ashbyhq.com/quora/e8acc816-a9af-445d-8135-47599ac9be0f",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Quora",
+        "title": "New Grad: Machine Learning Engineer",
+        "source": "vanshb03",
+        "id": "144068d8-9f27-4c70-a015-23ac7f508d4a",
+        "date_posted": 1751752151,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751752180,
+        "url": "https://jobs.bitstoatoms.com/bits-to-atoms/953ef025-ec88-450d-8f8f-2cb38cc8e839",
+        "locations": [
+            "Berkeley, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Bits to Atoms",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "3e0b7f72-1051-4c24-8ef7-7d488233c71b",
+        "date_posted": 1751752180,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751752192,
+        "url": "https://www.tesla.com/careers/search/job/245229",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer, Machine Learning Integration, Optimus",
+        "source": "vanshb03",
+        "id": "457f0e35-2679-42ea-8abd-a2361658ea6c",
+        "date_posted": 1751752192,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751752202,
+        "url": "https://www.amazon.jobs/en/jobs/2940695/hardware-simulator-sde-i-aws-machine-learning-accelerators-annapurna-labs",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Hardware Simulator SDE I, AWS Machine Learning Accelerators, Annapurna Labs",
+        "source": "vanshb03",
+        "id": "24b34901-083a-45ca-901e-437ad82baf0f",
+        "date_posted": 1751752202,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751752305,
+        "url": "https://jobs.lever.co/palantir/4d5a144e-87ea-45e2-a68c-3fad590629af",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "00c9f52c-50b9-4f30-b893-408af92049c6",
+        "date_posted": 1751752305,
+        "company_url": "",
+        "is_visible": true
     }
 ]
