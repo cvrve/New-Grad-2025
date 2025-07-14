@@ -21989,5 +21989,21 @@
         "date_posted": 1752526860,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1752526883,
+        "url": "https://www.oldmissioncapital.com/careers/?gh_jid=6602920003",
+        "company_name": "Old Mission",
+        "title": "New Grad 2026: Junior Quantitative Trader",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "6fadaf49-0b6f-433b-a0bf-7745e13b67fc",
+        "date_posted": 1752526883,
+        "company_url": "",
+        "is_visible": true
     }
 ]
