@@ -21973,5 +21973,21 @@
         "date_posted": 1752525957,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1752526860,
+        "url": "https://www.oldmissioncapital.com/careers/?gh_jid=6602927003",
+        "company_name": "Old Mission",
+        "title": "New Grad 2026: Junior Software Engineer",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "bbec8687-ddae-4138-96f6-090c3b2c156b",
+        "date_posted": 1752526860,
+        "company_url": "",
+        "is_visible": true
     }
 ]
