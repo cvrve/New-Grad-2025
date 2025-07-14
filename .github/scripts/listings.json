@@ -21829,5 +21829,149 @@
         "date_posted": 1752525717,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1752443565,
+        "url": "https://jobs.apple.com/en-us/details/200612409/is-t-early-career-engineering-program-manager-opportunities?team=SFTWR",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apple",
+        "title": "IS&T Early Career Engineering Program Manager Opportunities",
+        "source": "vanshb03",
+        "id": "1ebd59ee-00ba-4214-b8b7-b69bcc52673d",
+        "date_posted": 1752443565,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1752525196,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1845958/Software-Engineer",
+        "locations": [
+            "Multiple Locations, United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "2a2f1118-7e4c-4f40-9302-e51dd7a497a8",
+        "date_posted": 1752525196,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1752525912,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/ASIC-Design-Engineer---New-College-Grad-2025_JR1999992",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: ASIC Design Engineer",
+        "source": "vanshb03",
+        "id": "889fef48-46c6-49d4-a229-c70690213658",
+        "date_posted": 1752525912,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1752525919,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/ASIC-Verification-Engineer---New-College-Grad-2025_JR1998960",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: ASIC Design Verification Engineer",
+        "source": "vanshb03",
+        "id": "01290fd4-3e47-49d5-87ed-34c163b16556",
+        "date_posted": 1752525919,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1752525926,
+        "url": "https://careers.qualcomm.com/careers/job/446706753287",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm Technologies, Inc.",
+        "title": "CPU Software Architecture Engineer",
+        "source": "vanshb03",
+        "id": "32e52823-029f-4ad8-8d69-35a4ab3958ee",
+        "date_posted": 1752525926,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1752525931,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Hardware-Applications-Engineer--Datacenter---New-College-Grad-2025_JR2000000",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: Hardware Applications Engineer, Datacenter",
+        "source": "vanshb03",
+        "id": "95df9be3-cecd-461a-abed-1a5e6d46148b",
+        "date_posted": 1752525931,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1752525944,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Systems-Software-Engineer---New-College-Grad-2025_JR1998556",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: Systems Software Engineer",
+        "source": "vanshb03",
+        "id": "17506bee-feb6-4eb4-b266-f84c972472f4",
+        "date_posted": 1752525944,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1752525950,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/ASIC-Hardware-Design-Engineer---New-College-Grad-2025_JR1999119",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: ASIC Hardware Design Engineer",
+        "source": "vanshb03",
+        "id": "2378148b-85f5-49b4-8ce7-5d2488933ab7",
+        "date_posted": 1752525950,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1752525957,
+        "url": "https://www.tesla.com/careers/search/job/237386",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Mobile App Engineer, Service & Roadside Assistance",
+        "source": "vanshb03",
+        "id": "eec285aa-fd1f-40b4-820a-696376180719",
+        "date_posted": 1752525957,
+        "company_url": "",
+        "is_visible": true
     }
 ]
