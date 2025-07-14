@@ -22005,5 +22005,106 @@
         "date_posted": 1752526883,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1752526189,
+        "url": "https://jobs.lever.co/shieldai/38178f1e-34c5-481d-9914-c18a2263776f/apply",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shield AI",
+        "title": "Software Engineer I, Hardware Test",
+        "source": "vanshb03",
+        "id": "ac97ec97-d63e-4474-bdfd-cf0a62dd06d5",
+        "date_posted": 1752526189,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1752526203,
+        "url": "https://job-boards.greenhouse.io/silvus/jobs/4772754008",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Silvus Technologies",
+        "title": "Software Engineer I, SQA",
+        "source": "vanshb03",
+        "id": "1bfa61ba-fc07-416a-a461-b160155746fc",
+        "date_posted": 1752526203,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1752526215,
+        "url": "https://jobs.lever.co/ranger/38ef5184-0c8a-4980-836f-95e23e83ae7d?utm_source=Simplify&ref=Simplify",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Ranger",
+        "title": "Forward-Deployed Test Engineer",
+        "source": "vanshb03",
+        "id": "8612685b-792a-4757-908d-5bf438afa48d",
+        "date_posted": 1752526215,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1752526221,
+        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/6640194003?utm_source=Simplify&ref=Simplify",
+        "locations": [
+            "San Francisco, CA",
+            "New York City, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Sigma",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "008d2d3e-78e3-4f8a-b2b2-74bf62bd479e",
+        "date_posted": 1752526221,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1752526695,
+        "url": "https://jobs.ashbyhq.com/candidhealth/8d1922f8-e89d-433e-a21f-b724eabc003b?utm_source=Simplify&ref=Simplify",
+        "locations": [
+            "San Francisco, CA",
+            "Denver, CO",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Candid Health",
+        "title": "New Grad: Forward Deployed Software Engineer",
+        "source": "vanshb03",
+        "id": "fda4f5e0-9559-4796-87b6-df8ae4848aaa",
+        "date_posted": 1752526695,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1752526703,
+        "url": "https://jobs.ashbyhq.com/candidhealth/f0e529c1-b8d8-4add-aaef-23b174053b8b?utm_source=Simplify&ref=Simplify",
+        "locations": [
+            "San Francisco, CA",
+            "Denver, CO",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Candid Health",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "f3a926fc-88b6-4708-8a69-ebfa8a7b3392",
+        "date_posted": 1752526703,
+        "company_url": "",
+        "is_visible": true
     }
 ]
