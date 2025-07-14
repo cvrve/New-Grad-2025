@@ -2866,7 +2866,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1724120974,
+        "date_updated": 1752526287,
         "url": "https://boards.greenhouse.io/wehrtyou/jobs/6139130",
         "company_name": "Hudson River Trading",
         "title": "New Grad 2025: Software Engineer (C++)",
@@ -2874,7 +2874,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "ca620399-0643-4fc8-9d80-c46e86536fc3",
         "date_posted": 1724120974,
@@ -10537,7 +10537,7 @@
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "91950d81-16e2-4ee6-890b-51c50046d97d",
         "date_posted": 1729347386,
@@ -18733,7 +18733,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1746307943,
+        "date_updated": 1752526322,
         "url": "https://wd1.myworkdaysite.com/en-US/recruiting/snapchat/snap/job/San-Diego-California/Software-Engineer--Embedded--Level-3_R0040311",
         "company_name": "Snap Inc",
         "title": "Embedded Software Engineer",
@@ -18742,7 +18742,7 @@
             "Los Angeles, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "3707c09a-e92d-4030-b22d-2c0b40a92e46",
         "date_posted": 1746307943,
@@ -19413,7 +19413,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748025053,
+        "date_updated": 1752526288,
         "url": "https://job-boards.greenhouse.io/cloudflare/jobs/6889115",
         "company_name": "Cloudflare",
         "title": "Software Engineer, Network Protocols",
@@ -19421,7 +19421,7 @@
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "59395973-c509-4b03-89e6-f25cf72a8324",
         "date_posted": 1748025053,
@@ -19846,7 +19846,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748583301,
+        "date_updated": 1752526342,
         "url": "https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Dallas/Software-Engineer-I_251265",
         "company_name": "BlueYonder",
         "title": "Software Engineer I",
@@ -19854,7 +19854,7 @@
             "Dallas, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "471eb66d-46cd-4526-9428-1bf7e57dbdde",
         "date_posted": 1748583301,
@@ -19862,7 +19862,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748583345,
+        "date_updated": 1752526345,
         "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Engineer-II_R48302",
         "company_name": "Cadence",
         "title": "Software Engineer I",
@@ -19870,7 +19870,7 @@
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "7f5cf340-a274-4b78-badb-97bfe8667f1e",
         "date_posted": 1748583345,
@@ -20022,7 +20022,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748585833,
+        "date_updated": 1752526350,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Power-Architecture-and-Optimization-Engineer---New-College-Grad-2025_JR1988172",
         "company_name": "NVIDIA",
         "title": "New Grad 2025: Power Architecture and Optimization Engineer",
@@ -20031,7 +20031,7 @@
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "083144cc-73ab-4389-baa2-37072307986b",
         "date_posted": 1748585833,
@@ -20039,7 +20039,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748585869,
+        "date_updated": 1752526352,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-NC-Durham/Deep-Learning-Architect---New-College-Grad-2025_JR1997781",
         "company_name": "NVIDIA",
         "title": "New Grad 2025: Deep Learning Architect, Masters/PhD",
@@ -20048,7 +20048,7 @@
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "4aa43162-0bc0-4d33-98b6-dd6051c00dda",
         "date_posted": 1748585869,
@@ -20271,7 +20271,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749184860,
+        "date_updated": 1752526355,
         "url": "https://globalhr.wd5.myworkdayjobs.com/en-GB/rec_rtx_ext_gateway/job/MD440-8170-Maple-Lawn-Blvd-Fulton-MD-8170-Maple-Lawn-Boulevard---Fulton-MD-20759-USA/Software-Engineer-I--Java-----Onsite-_01732642",
         "company_name": "RTX",
         "title": "Software Engineer I (Java)",
@@ -20279,7 +20279,7 @@
             "Fulton, MD"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "5cc219b8-6bad-47c0-89bf-b26fa48ccbb4",
         "date_posted": 1749184860,
@@ -20437,7 +20437,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749297208,
+        "date_updated": 1752526288,
         "url": "https://job-boards.greenhouse.io/radiant/jobs/4540308005",
         "company_name": "Radiant",
         "title": "New Grad: Software Engineer",
@@ -20445,7 +20445,7 @@
             "El Segundo, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "32959ee9-bf3f-4948-9bce-c8cfe9affee0",
         "date_posted": 1749297208,
@@ -20807,7 +20807,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1750531107,
+        "date_updated": 1752526370,
         "url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Engineer-1---iOS-Developer--Hybrid---Seattle--WA-_R-758307",
         "company_name": "Nordstrom",
         "title": "iOS Developer Engineer I",
@@ -20815,7 +20815,7 @@
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "9380a570-05f0-4d9e-a73c-169828c976a8",
         "date_posted": 1750531107,
@@ -20823,7 +20823,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1750531125,
+        "date_updated": 1752526372,
         "url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Engineer-1--Hybrid---Seattle--WA-_R-758299",
         "company_name": "Nordstrom",
         "title": "Engineer 1",
@@ -20831,7 +20831,7 @@
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "5cd7c112-9d63-4188-a450-c75195374d8d",
         "date_posted": 1750531125,
@@ -20871,7 +20871,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751050420,
+        "date_updated": 1752526378,
         "url": "https://globalhr.wd5.myworkdayjobs.com/en-GB/rec_rtx_ext_gateway/job/MD440-8170-Maple-Lawn-Blvd-Fulton-MD-8170-Maple-Lawn-Boulevard---Fulton-MD-20759-USA/Software-Engineer-I--Java-----Onsite-_01769315",
         "company_name": "RTX",
         "title": "Software Engineer I (Java)",
@@ -20879,7 +20879,7 @@
             "Fulton, MD"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "e19c52a3-bef9-40f6-a57f-0058c82aca7b",
         "date_posted": 1751050420,
@@ -21229,7 +21229,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751245569,
+        "date_updated": 1752526390,
         "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineer--New-College-Grad-_2530130-1",
         "company_name": "KLA",
         "title": "New Grad: Software Engineer",
@@ -21237,7 +21237,7 @@
             "Milpitas, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "900a7159-369d-4218-9239-f6c48a053ab5",
         "date_posted": 1751245569,
