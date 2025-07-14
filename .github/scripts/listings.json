@@ -21793,5 +21793,21 @@
         "date_posted": 1751752552,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1752525250,
+        "url": "https://www.nuro.ai/careersitem?gh_jid=7066706",
+        "company_name": "Nuro",
+        "title": "New Grad: Software Engineer, Routing",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "f893e67a-121d-4483-8418-6ee1b466530b",
+        "date_posted": 1752525250,
+        "company_url": "",
+        "is_visible": true
     }
 ]

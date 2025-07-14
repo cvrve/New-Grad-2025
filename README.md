@@ -44,6 +44,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Nuro** | New Grad: Software Engineer, Routing | Mountain View, CA | <a href="https://www.nuro.ai/careersitem?gh_jid=7066706&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 14 |
 | **Tesla** | Software Engineer, Machine Learning Integration, Optimus | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/245229?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
 | **Quora** | New Grad: Machine Learning Engineer | Remote | <a href="https://jobs.ashbyhq.com/quora/e8acc816-a9af-445d-8135-47599ac9be0f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
 | **Qualcomm** | Software Engineer - Hypervisor | San Diego, CA | <a href="https://careers.qualcomm.com/careers/job/446706670731?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
