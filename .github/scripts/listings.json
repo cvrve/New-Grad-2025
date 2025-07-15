@@ -22106,5 +22106,85 @@
         "date_posted": 1752526703,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1752527695,
+        "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4584085006?gh_src=s9612n1f6us&utm_source=Indeed&utm_medium=organic&utm_campaign=Indeed",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "STR",
+        "title": "Firmware Engineer",
+        "source": "vanshb03",
+        "id": "8f68f8b4-e971-480d-a317-fce810fa7b21",
+        "date_posted": 1752527695,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1752527703,
+        "url": "https://recruiting.paylocity.com/recruiting/jobs/Details/3409369/Cryptic-Vector/Full-Stack-Developer?source=Indeed_Feed",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Cryptic Vector",
+        "title": "Full Stack Developer",
+        "source": "vanshb03",
+        "id": "b8c7669a-119c-4d45-b3e6-96a96fd20035",
+        "date_posted": 1752527703,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1752607265,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/8033327002/",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Optiver",
+        "title": "New Grad 2026: FPGA Engineer",
+        "source": "vanshb03",
+        "id": "65cdb6b3-2e12-4596-8ee5-58ddfcd5a6ff",
+        "date_posted": 1752607265,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1752607275,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/7973721002/",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Optiver",
+        "title": "New Grad 2026: FPGA Engineer",
+        "source": "vanshb03",
+        "id": "e74f938f-3cef-44b3-a5b7-c251cffc09f2",
+        "date_posted": 1752607275,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1752607306,
+        "url": "https://www.ycombinator.com/companies/porter/jobs/6QhplSz-full-stack-engineer",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Porter",
+        "title": "Full Stack Engineer",
+        "source": "vanshb03",
+        "id": "6fedde8e-21bf-429b-b5c7-4b85baf40147",
+        "date_posted": 1752607306,
+        "company_url": "",
+        "is_visible": true
     }
 ]
