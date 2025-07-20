@@ -22186,5 +22186,102 @@
         "date_posted": 1752607306,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753043437,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7083333",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Benchling",
+        "title": "Software Engineer, Full Stack (Lab Auto)",
+        "source": "vanshb03",
+        "id": "34e5a307-89d9-492e-9b4f-fdf48cce7b17",
+        "date_posted": 1753043437,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753043445,
+        "url": "https://careers.qualcomm.com/careers/job/446706913920",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm Technologies, Inc.",
+        "title": "GPU Software Engineer",
+        "source": "vanshb03",
+        "id": "f7d5608c-e1f1-4fa7-aad2-980ce17d4903",
+        "date_posted": 1753043445,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753043452,
+        "url": "https://job-boards.greenhouse.io/deepmind/jobs/7086851",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Google DeepMind",
+        "title": "Software Engineer, Full Stack - Gemini",
+        "source": "vanshb03",
+        "id": "6cc525af-3576-49be-8af2-7e62f0da04db",
+        "date_posted": 1753043452,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753043461,
+        "url": "https://job-boards.greenhouse.io/xai/jobs/4786668007",
+        "locations": [
+            "San Francisco, CA",
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "xAI",
+        "title": "AI Researcher & Engineer - Multimodal (Real-time Video)",
+        "source": "vanshb03",
+        "id": "a04d96d9-77ec-4cca-9cd5-2e33d34567a7",
+        "date_posted": 1753043461,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753043469,
+        "url": "https://jobs.careers.microsoft.com/us/en/job/1844322/Software-Engineer",
+        "locations": [
+            "Multiple Locations, United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "74a836fc-d4e4-4f70-b578-74617c04c116",
+        "date_posted": 1753043469,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753043511,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1844417/Site-Reliability-Engineer---CTJ---Top-Secret",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Site Reliability Engineer",
+        "source": "vanshb03",
+        "id": "775c9933-390c-4e09-a518-7e4bc9b80366",
+        "date_posted": 1753043511,
+        "company_url": "",
+        "is_visible": true
     }
 ]
