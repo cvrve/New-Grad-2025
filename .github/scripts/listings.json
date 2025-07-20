@@ -1917,7 +1917,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1722618322,
+        "date_updated": 1753043048,
         "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4090119008?gh_src=Simplify",
         "company_name": "Five Rings",
         "title": "Quantitative Trader",
@@ -1925,7 +1925,7 @@
             "Boca Raton, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "beakae",
         "id": "f3253f12-3ace-45ca-80c3-7fd675c978b3",
         "date_posted": 1722618322,
@@ -19605,7 +19605,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748025650,
+        "date_updated": 1753043048,
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4674882007",
         "company_name": "Lucid",
         "title": "Software Engineer, Linux System Software",
@@ -19613,7 +19613,7 @@
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "96ee447c-09a1-412e-b5a9-0cb4f24bbea9",
         "date_posted": 1748025650,
@@ -19669,7 +19669,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748138125,
+        "date_updated": 1753043049,
         "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4090119008",
         "company_name": "Five Rings",
         "title": "New Grad 2025: Quantitative Trader",
@@ -19677,7 +19677,7 @@
             "Boca Raton, FL"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "92b33e0f-92bc-47fa-a72e-baaa6d7e9660",
         "date_posted": 1748138125,
