@@ -4566,5 +4566,183 @@
         "date_posted": 1753043511,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753369319,
+        "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Houston-TX/Commodities-Trading-Rotational-Analyst-Program--2026-Start-_R1096",
+        "locations": [
+            "Houston, TX",
+            "Stamford, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Castleton Commodities International",
+        "title": "Commodities Trading Rotational Analyst Program",
+        "source": "vanshb03",
+        "id": "b147b1b7-46f6-4732-ad23-b1d979d49881",
+        "date_posted": 1753369319,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753369632,
+        "url": "https://job-boards.greenhouse.io/neuralink/jobs/6658884003",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Neuralink",
+        "title": "Software Engineer, Next Gen",
+        "source": "vanshb03",
+        "id": "b6f2419f-68d4-4d36-853a-e0e1accc1455",
+        "date_posted": 1753369632,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753369638,
+        "url": "https://www.tesla.com/careers/search/job/246315",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Applications Engineer, Megapack",
+        "source": "vanshb03",
+        "id": "8845eb6a-9919-4381-9312-2dba009c4321",
+        "date_posted": 1753369638,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753369646,
+        "url": "https://www.quinstreet.com/careers/?gh_jid=7100468",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "QuinStreet",
+        "title": "Entry Level Software Engineer",
+        "source": "vanshb03",
+        "id": "89371261-0959-4fb9-b1b8-208eaea479d0",
+        "date_posted": 1753369646,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753369690,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Verification-Engineer--CPU---New-College-Grad-2025_JR2000487-1",
+        "locations": [
+            "Westford, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: Verification Engineer, CPU",
+        "source": "vanshb03",
+        "id": "d988619e-8647-443d-9bab-3bad98b5e68b",
+        "date_posted": 1753369690,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753369711,
+        "url": "https://jobs.lever.co/spotify/21c24edb-f625-4895-ad23-5a6320d54813",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Spotify",
+        "title": "Associate Machine Learning Engineer",
+        "source": "vanshb03",
+        "id": "f795c659-b1f4-48b6-9a95-976b535a4d04",
+        "date_posted": 1753369711,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753369722,
+        "url": "https://www.ycombinator.com/companies/phonely/jobs/nSlxo4y-software-engineer-early-career",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Phonely",
+        "title": "Software Engineer (Early Career)",
+        "source": "vanshb03",
+        "id": "bee2db8f-1e6a-4dcb-b0eb-83d42dbe4a21",
+        "date_posted": 1753369722,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753369730,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Senior-VLSI-CAD-Engineer--ECO-Tools---New-College-Grad-2025_JR2000138",
+        "locations": [
+            "Santa Clara, CA",
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: VLSI CAD Engineer, ECO Tools",
+        "source": "vanshb03",
+        "id": "c9bb699f-a065-4896-8e88-a88dad30c4ab",
+        "date_posted": 1753369730,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753369743,
+        "url": "https://www.tesla.com/careers/search/job/246089",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer, Optimus Inference Co Design",
+        "source": "vanshb03",
+        "id": "9f6b9dd4-3d9e-412f-94e4-4cabe914593d",
+        "date_posted": 1753369743,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753369752,
+        "url": "https://www.tesla.com/careers/search/job/246198",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Camera Software Engineer, AI Platforms",
+        "source": "vanshb03",
+        "id": "00d980af-d3d1-418e-97ae-9aa79fdd2289",
+        "date_posted": 1753369752,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753369760,
+        "url": "https://www.tesla.com/careers/search/job/246199",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Integration Engineer, AI Platforms",
+        "source": "vanshb03",
+        "id": "89b5e87b-41cd-4204-88b9-9b3892526084",
+        "date_posted": 1753369760,
+        "company_url": "",
+        "is_visible": true
     }
 ]
