@@ -4744,5 +4744,102 @@
         "date_posted": 1753369760,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753370216,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1847569/Software-Engineer",
+        "locations": [
+            "Multiple Locations, United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "dc0d9a29-91c7-4109-9b56-6dfd10b91106",
+        "date_posted": 1753370216,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753370231,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1850029/Critical-Infrastructure-Network-Engineer",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Critical Infrastructure Network Engineer",
+        "source": "vanshb03",
+        "id": "1c562940-4759-4773-ade3-138e6eeb1f26",
+        "date_posted": 1753370231,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753370249,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1847616/Firmware-Engineer",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Firmware Engineer",
+        "source": "vanshb03",
+        "id": "d942c1d5-2b25-422d-93fd-62e69e11b429",
+        "date_posted": 1753370249,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753370396,
+        "url": "https://job-boards.greenhouse.io/drweng/jobs/7090734",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DRW",
+        "title": "Options Execution Trader",
+        "source": "vanshb03",
+        "id": "00a97180-f527-45a2-b22b-a0966f797aff",
+        "date_posted": 1753370396,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753370435,
+        "url": "https://careers.amd.com/careers-home/jobs/67592",
+        "locations": [
+            "Calgary, Canada",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AMD",
+        "title": "Software Developer - GPU IO Libraries",
+        "source": "vanshb03",
+        "id": "ec2b8787-a5ff-48c7-a599-1c19987ccba6",
+        "date_posted": 1753370435,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753370441,
+        "url": "https://jobs.lever.co/highspot/a1945d0f-e062-4bad-8069-9f8f0bc15458",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Highspot",
+        "title": "Software Development Engineer",
+        "source": "vanshb03",
+        "id": "d267ddbe-a99e-441e-8b66-5611e537edae",
+        "date_posted": 1753370441,
+        "company_url": "",
+        "is_visible": true
     }
 ]
