@@ -44,6 +44,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Highspot** | Software Development Engineer | Vancouver, Canada | <a href="https://jobs.lever.co/highspot/a1945d0f-e062-4bad-8069-9f8f0bc15458?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
+| **DRW** | Options Execution Trader | Montreal, Canada | <a href="https://job-boards.greenhouse.io/drweng/jobs/7090734?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
+| **AMD** | Software Developer - GPU IO Libraries | Calgary, Canada</br>Remote | <a href="https://careers.amd.com/careers-home/jobs/67592?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | **Nokia** | Jr. Applied R&D Engineer | Canada | <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20842?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 15 |
 | **Mastercard** | Software Engineer I | Vancouver, Canada | <a href="https://careers.mastercard.com/us/en/job/MASRUSR245943EXTERNALENUS/Software-Engineer-I-SDET-Java?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 15 |
 | **Google** | Relations Developer, Cloud and Generative AI | <details><summary>**7 locations**</summary>Seattle, WA</br>Cambridge, MA</br>Kirkland, WA</br>New York, NY</br>San Francisco, CA</br>Sunnyvale, CA</br>Toronto, Canada</details> | <a href="https://www.google.com/about/careers/applications/jobs/results/92218003445162694-relations-developer-cloud-and-generative-ai?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 15 |
