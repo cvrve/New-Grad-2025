@@ -1179,7 +1179,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1747298504,
+        "date_updated": 1753369030,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/ASIC-Verification-Engineer---New-College-Grad-2025_JR1997597",
         "company_name": "NVIDIA",
         "title": "New Grad 2025: ASIC Verification Engineer",
@@ -1188,7 +1188,7 @@
             "Madison, AL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "748742e6-bd6c-4255-a700-40a0eef569b0",
         "date_posted": 1747298504,
@@ -2209,7 +2209,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748583726,
+        "date_updated": 1753369007,
         "url": "https://jobs.lever.co/nium/882bf808-4205-4fdd-8a2c-96f730d9f77e",
         "company_name": "Nium",
         "title": "Software Development Engineer I",
@@ -2217,7 +2217,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "bd121e2b-d5be-424a-9879-a832bfc51b20",
         "date_posted": 1748583726,
@@ -4503,13 +4503,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753043452,
+        "date_updated": 1753369008,
         "url": "https://job-boards.greenhouse.io/deepmind/jobs/7086851",
         "locations": [
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Google DeepMind",
         "title": "Software Engineer, Full Stack - Gemini",
         "source": "vanshb03",
