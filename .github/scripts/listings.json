@@ -4827,18 +4827,98 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753370441,
+        "date_updated": 1753480470,
         "url": "https://jobs.lever.co/highspot/a1945d0f-e062-4bad-8069-9f8f0bc15458",
         "locations": [
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Highspot",
         "title": "Software Development Engineer",
         "source": "vanshb03",
         "id": "d267ddbe-a99e-441e-8b66-5611e537edae",
         "date_posted": 1753370441,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753480224,
+        "url": "https://www.perplexity.ai/hub/associate-product-manager",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Perplexity",
+        "title": "Associate Product Manager Program",
+        "source": "vanshb03",
+        "id": "2134170c-cd02-4edf-9039-4bc55f0361d8",
+        "date_posted": 1753480224,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753480393,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Associate-Product-Manager--starting-summer-2026-_JR302144-2?source=LinkedIn_Jobs",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Salesforce",
+        "title": "Associate Product Manager",
+        "source": "vanshb03",
+        "id": "38ed9fac-1021-4ee4-87e3-875b7420cf25",
+        "date_posted": 1753480393,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753480412,
+        "url": "https://jobs.lever.co/Arcade/b4a66c25-9661-4f5a-9aec-32da76aa0702",
+        "locations": [
+            "Presidio, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Arcade",
+        "title": "Associate Product Manager",
+        "source": "vanshb03",
+        "id": "f42ec804-5b63-42ce-9e28-d825e8b41137",
+        "date_posted": 1753480412,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753480426,
+        "url": "https://lifeattiktok.com/search/7400808756194461961?spread=5MWH5CQ&utm_source=apmseason",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2025: Product Manager",
+        "source": "vanshb03",
+        "id": "034acd43-4a83-4376-aae5-240d8df4edd2",
+        "date_posted": 1753480426,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753480434,
+        "url": "https://aexp.eightfold.ai/careers/job/29705941?hl=en&domain=aexp.com&utm_source=apmseason",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "American Express",
+        "title": "Associate - Digital Product Management",
+        "source": "vanshb03",
+        "id": "3ef2506b-5fa2-4f23-bcb6-3dde59d936dc",
+        "date_posted": 1753480434,
         "company_url": "",
         "is_visible": true
     }
