@@ -44,6 +44,11 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **TikTok** | New Grad 2025: Product Manager | San Jose, CA | <a href="https://lifeattiktok.com/search/7400808756194461961?spread=5MWH5CQ&utm_source=apmseason&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 25 |
+| **Salesforce** | Associate Product Manager | San Francisco, CA | <a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Associate-Product-Manager--starting-summer-2026-_JR302144-2?source=LinkedIn_Jobs&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 25 |
+| **Perplexity** | Associate Product Manager Program | San Francisco, CA | <a href="https://www.perplexity.ai/hub/associate-product-manager?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 25 |
+| **Arcade** | Associate Product Manager | Presidio, CA | <a href="https://jobs.lever.co/Arcade/b4a66c25-9661-4f5a-9aec-32da76aa0702?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 25 |
+| **American Express** | Associate - Digital Product Management 🛂 | New York, NY | <a href="https://aexp.eightfold.ai/careers/job/29705941?hl=en&domain=aexp.com&utm_source=apmseason&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 25 |
 | **Tesla** | Software Integration Engineer, AI Platforms | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/246199?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | **Tesla** | Camera Software Engineer, AI Platforms | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/246198?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | **Tesla** | Software Engineer, Optimus Inference Co Design | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/246089?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |

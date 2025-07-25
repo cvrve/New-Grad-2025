@@ -44,7 +44,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
-| **Highspot** | Software Development Engineer | Vancouver, Canada | <a href="https://jobs.lever.co/highspot/a1945d0f-e062-4bad-8069-9f8f0bc15458?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | **DRW** | Options Execution Trader | Montreal, Canada | <a href="https://job-boards.greenhouse.io/drweng/jobs/7090734?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | **AMD** | Software Developer - GPU IO Libraries | Calgary, Canada</br>Remote | <a href="https://careers.amd.com/careers-home/jobs/67592?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | **Nokia** | Jr. Applied R&D Engineer | Canada | <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20842?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 15 |
@@ -56,6 +55,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Oracle** | Software Developer - Rotational Program - NetSuite | Kitchiner, Canada | <a href="https://careers.oracle.com/jobs/#en/sites/jobsearch/job/264377?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 19 |
 | **Applied Systems** | Software Engineer | Toronto, Canada | <a href="https://canada-appliedsystems.icims.com/jobs/6506/software-engineer/job?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 14 |
 | **Amazon** | New Grad 2025: Software Development Engineer I | Vancouver, BC</br>Toronto, Canada | <a href="https://amazon.jobs/en/jobs/2855790/software-development-engineer-i-2025-computer-science?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 12 |
+| **Highspot** | Software Development Engineer | Vancouver, Canada | 🔒 | Jul 24 |
 | **TD Bank** | Software Engineer I | Toronto, Canada | 🔒 | May 23 |
 | **Cloudflare** | Software Engineer, Experiment and Data Capture | <details><summary>**5 locations**</summary>Austin, TX</br>Atlanta, GA</br>Denver, CO</br>Washington D.C., DC</br>Toronto, Canada</details> | 🔒 | May 23 |
 | **Affirm** | Machine Learning Engineer | Remote</br>Canada | 🔒 | May 19 |
