@@ -4937,5 +4937,604 @@
         "date_posted": 1753910028,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753910216,
+        "url": "https://www.hudsonrivertrading.com/hrt-job/junior-electronic-trading-support-engineer-2/",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hudson River Trading",
+        "title": "Trade Operations",
+        "source": "vanshb03",
+        "id": "e2467964-57ff-4005-9f77-e9b1afc45287",
+        "date_posted": 1753910216,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753910225,
+        "url": "https://www.hudsonrivertrading.com/hrt-job/junior-electronic-trading-support-engineer/",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hudson River Trading",
+        "title": "Trade Operations",
+        "source": "vanshb03",
+        "id": "67284d80-0236-4a9c-b227-b15593cdba46",
+        "date_posted": 1753910225,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753910236,
+        "url": "https://boards.greenhouse.io/embed/job_app?for=blackedgecapital&token=4590407005",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BlackEdge Capital",
+        "title": "Quantitative Trader",
+        "source": "vanshb03",
+        "id": "d079330b-d760-46a2-b766-d5f7e57509a7",
+        "date_posted": 1753910236,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753910441,
+        "url": "https://lifeattiktok.com/search/7530759738491226386?spread=5MWH5CQ",
+        "locations": [
+            "Seattle"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Backend Engineer Graduate, Risk and Response",
+        "source": "vanshb03",
+        "id": "b900c985-c9fe-40dc-b5ad-1d57fdcc4033",
+        "date_posted": 1753910441,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753910449,
+        "url": "https://lifeattiktok.com/search/7532626300897937682?spread=5MWH5CQ",
+        "locations": [
+            "Seattle"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Software Engineer Graduate Short Video (BS/MS)",
+        "source": "vanshb03",
+        "id": "2883a0bc-a0fb-4242-b428-246d13c7b350",
+        "date_posted": 1753910449,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753910456,
+        "url": "https://lifeattiktok.com/search/7531161909615593735?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Software Engineer Graduate (Ads Measurement Signal Technology)",
+        "source": "vanshb03",
+        "id": "e7d10c09-f1e3-4f9c-987e-166da71a2781",
+        "date_posted": 1753910456,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753910460,
+        "url": "https://lifeattiktok.com/search/7532629935644002578?spread=5MWH5CQ",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Software Engineer",
+        "source": "vanshb03",
+        "id": "0e423f57-96dd-449f-8cc7-27d7070d1492",
+        "date_posted": 1753910460,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753910466,
+        "url": "https://lifeattiktok.com/search/7530771170938865928?spread=5MWH5CQ",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Research Scientist Graduate- CV/NLP/Multimodal LLM, Trust and Safety",
+        "source": "vanshb03",
+        "id": "4a4d5258-e8f6-4e0f-8b18-dd11412a644b",
+        "date_posted": 1753910466,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753910471,
+        "url": "https://lifeattiktok.com/search/7530772847212644616?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Research Scientist Graduate- CV/NLP/Multimodal LLM, Trust and Safety",
+        "source": "vanshb03",
+        "id": "6c2a8d8d-de3a-48ce-9801-e8b40f9938c2",
+        "date_posted": 1753910471,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753910477,
+        "url": "https://lifeattiktok.com/search/7530752375372466439?spread=5MWH5CQ",
+        "locations": [
+            "Seattle"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Engineer (Backend Software Engineer, Trust and Safety- Seattle)",
+        "source": "vanshb03",
+        "id": "57746b4e-b874-455e-9a37-c6c9f3adcaab",
+        "date_posted": 1753910477,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753910481,
+        "url": "https://lifeattiktok.com/search/7532627069594224903?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Software Engineer",
+        "source": "vanshb03",
+        "id": "bdd54a82-1e30-4a4b-b67d-4163455ef792",
+        "date_posted": 1753910481,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753910487,
+        "url": "https://lifeattiktok.com/search/7532457296103295239?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Software Engineer Graduate (Monetization Technology - Ads Creative)",
+        "source": "vanshb03",
+        "id": "bea233a7-e8f1-404c-bce2-0539ac678585",
+        "date_posted": 1753910487,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753910494,
+        "url": "https://lifeattiktok.com/search/7532627066714753288?spread=5MWH5CQ",
+        "locations": [
+            "San Jose"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Software Engineer Graduate Music",
+        "source": "vanshb03",
+        "id": "5cc9fc27-abca-4f53-836b-244428b5b60d",
+        "date_posted": 1753910494,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753910501,
+        "url": "https://lifeattiktok.com/search/7530765464767826184?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Software Development Engineer in Test Graduate (Trust and Safety)",
+        "source": "vanshb03",
+        "id": "82448604-5fe5-4d93-b98d-bf6877bc704a",
+        "date_posted": 1753910501,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753910508,
+        "url": "https://lifeattiktok.com/search/7532631803707738376?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Software Engineer Graduate Live-Foundation-Ecosystem",
+        "source": "vanshb03",
+        "id": "46c9c3be-1cc2-4d43-970a-7429379003b4",
+        "date_posted": 1753910508,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753910513,
+        "url": "https://lifeattiktok.com/search/7532436539684702471?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Software Engineer/Mobile Engineer Graduate (Monetization Technology - Ads Core Demonstration)",
+        "source": "vanshb03",
+        "id": "d783f20d-4494-4ae6-99e2-8d7a23c87491",
+        "date_posted": 1753910513,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753910518,
+        "url": "https://lifeattiktok.com/search/7531158608336242962?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Machine Learning Engineer (Commerce Ads)",
+        "source": "vanshb03",
+        "id": "e3f99292-e1f1-4498-9f90-d3048c01b1ec",
+        "date_posted": 1753910518,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753910522,
+        "url": "https://lifeattiktok.com/search/7532349111480273159?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Machine Learning/Research Engineer (Ads Core Global)",
+        "source": "vanshb03",
+        "id": "f4938280-4938-4bd2-a93e-b7170db3bee6",
+        "date_posted": 1753910522,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753910528,
+        "url": "https://lifeattiktok.com/search/7532240517976721671?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Machine Learning Engineer Graduate (Lead Ads Technology)",
+        "source": "vanshb03",
+        "id": "bb357a14-699a-4ac8-8958-7ed0cc5c32f7",
+        "date_posted": 1753910528,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753910557,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1849297/Hardware-Engineer",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Hardware Engineer",
+        "source": "vanshb03",
+        "id": "bf6782b7-ca70-4422-bf49-2d462907a09a",
+        "date_posted": 1753910557,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753910567,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1851452/Software-Engineer",
+        "locations": [
+            "Multiple Locations, United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer I",
+        "source": "vanshb03",
+        "id": "93c5c551-9bf8-4f4d-aa09-f77aed3ba9a0",
+        "date_posted": 1753910567,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753910575,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1853826/Software-Engineer---Azure-Data",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer - Azure Data",
+        "source": "vanshb03",
+        "id": "1e0d1ac7-e91e-4a54-b233-840ae9544e25",
+        "date_posted": 1753910575,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753910593,
+        "url": "https://careers.servicenow.com/jobs/744000073378905/associate-systems-engineer/?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ServiceNow",
+        "title": "Associate Systems Engineer",
+        "source": "vanshb03",
+        "id": "1bbc1e3a-35a8-462b-a5f3-eb1764ec2e0a",
+        "date_posted": 1753910593,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753910606,
+        "url": "https://www.qualtrics.com/careers/us/en/job/QUALUS6580294EXTERNALENUS/Machine-Learning-Engineer",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualtrics",
+        "title": "Machine Learning Engineer",
+        "source": "vanshb03",
+        "id": "ad40dcfe-e6d3-4da4-a889-4511befa669f",
+        "date_posted": 1753910606,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753910614,
+        "url": "https://www.qualtrics.com/careers/us/en/job/QUALUS6922762EXTERNALENUS/Software-Engineer-I-PAAS",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualtrics",
+        "title": "Software Engineer I - PAAS",
+        "source": "vanshb03",
+        "id": "a04269aa-8c12-43b3-9eb6-58ccb03c1bfd",
+        "date_posted": 1753910614,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753910626,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Product-Security-Engineer_JR305774",
+        "locations": [
+            "San Francisco, CA",
+            "Seattle, WA",
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Salesforce",
+        "title": "Product Security Engineer",
+        "source": "vanshb03",
+        "id": "9dcae2be-84af-43fd-917e-615edc372970",
+        "date_posted": 1753910626,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753910634,
+        "url": "https://jobs.bytedance.com/en/position/7527836662400026898/detail?spread=BSPP2KS",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2026: Backend Software Engineer (Customer Service Platform)",
+        "source": "vanshb03",
+        "id": "7239c2a1-7dd7-445d-8e82-70399e3ef475",
+        "date_posted": 1753910634,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753910655,
+        "url": "https://jobs.bytedance.com/en/position/7532618536427391240/detail?spread=BSPP2KS",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2026: Software Engineer",
+        "source": "vanshb03",
+        "id": "43c86f03-71f1-465e-9699-dd47c29abfc5",
+        "date_posted": 1753910655,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753910672,
+        "url": "https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Remote---Canada/Machine-Learning-Engineer_BF-REQ-3169",
+        "locations": [
+            "Remote",
+            "Toronto, Canada",
+            "Calgary, Canada",
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Clio",
+        "title": "Machine Learning Engineer",
+        "source": "vanshb03",
+        "id": "800d2977-2468-473b-a351-9ad3bb87cd3e",
+        "date_posted": 1753910672,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753910680,
+        "url": "https://jobs.ashbyhq.com/evenup/fe3d36b4-696b-4c47-be72-2186b266035b",
+        "locations": [
+            "San Francisco, CA",
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "EvenUp",
+        "title": "Early Career Machine Learning Engineer",
+        "source": "vanshb03",
+        "id": "55d98d27-73ee-46fe-bc9c-a9bdcc7aa12f",
+        "date_posted": 1753910680,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753910691,
+        "url": "https://www.shopify.com/careers/infrastructure-engineers_202c9f29-47fa-4b55-8cbb-337eed7d92e2",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shopify",
+        "title": "Infrastructure Engineers",
+        "source": "vanshb03",
+        "id": "086e6c7c-c267-4f62-a41e-421ccc7e8392",
+        "date_posted": 1753910691,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753910696,
+        "url": "https://www.shopify.com/careers/ml-ops-engineers_896a7d5f-5925-4915-a8e8-3438068464a4",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shopify",
+        "title": "ML Ops Engineers",
+        "source": "vanshb03",
+        "id": "d3e680e5-306d-42f4-bee4-efde8bb19e24",
+        "date_posted": 1753910696,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753910701,
+        "url": "https://www.shopify.com/careers/data-platform-engineers_4684c36e-f913-42a8-8ff5-f4b789a8e61d",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shopify",
+        "title": "Data Platform Engineers",
+        "source": "vanshb03",
+        "id": "fb5679b4-067c-41b2-b730-e8b61a891f30",
+        "date_posted": 1753910701,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753910710,
+        "url": "https://www.amazon.jobs/en/jobs/3044177/system-development-engineer-aws-vetting",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "System Development Engineer, AWS Vetting",
+        "source": "vanshb03",
+        "id": "e39608aa-0d48-4738-b9df-134437bb96ef",
+        "date_posted": 1753910710,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753910729,
+        "url": "https://www.amazon.jobs/en/jobs/3047432/system-development-engineer-ots-delivery-software-engineering",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "System Development Engineer, OTS Delivery Software Engineering",
+        "source": "vanshb03",
+        "id": "756ec6ad-e3c7-457a-87ac-7d1b4c35c7e0",
+        "date_posted": 1753910729,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753910748,
+        "url": "https://jobs.lever.co/spotify/cf03a89d-6271-40dd-b41b-8a06798c1055",
+        "locations": [
+            "Toronto, Canada",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Spotify",
+        "title": "Fullstack Engineer",
+        "source": "vanshb03",
+        "id": "ddac8678-3687-477f-8916-5deba8298b17",
+        "date_posted": 1753910748,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753910831,
+        "url": "https://lifeattiktok.com/search/7531158600791705874?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Software Engineer (Ads ML Infrastructure)",
+        "source": "vanshb03",
+        "id": "9e4cdbc5-5a9f-4b51-bb35-934ef8660b2f",
+        "date_posted": 1753910831,
+        "company_url": "",
+        "is_visible": true
     }
 ]
