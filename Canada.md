@@ -44,6 +44,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Spotify** | Fullstack Engineer | Toronto, Canada</br>Remote | <a href="https://jobs.lever.co/spotify/cf03a89d-6271-40dd-b41b-8a06798c1055?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
+| **EvenUp** | Early Career Machine Learning Engineer | San Francisco, CA</br>Toronto, Canada | <a href="https://jobs.ashbyhq.com/evenup/fe3d36b4-696b-4c47-be72-2186b266035b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
+| **Clio** | Machine Learning Engineer | <details><summary>**4 locations**</summary>Remote</br>Toronto, Canada</br>Calgary, Canada</br>Vancouver, Canada</details> | <a href="https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Remote---Canada/Machine-Learning-Engineer_BF-REQ-3169?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
 | **DRW** | Options Execution Trader | Montreal, Canada | <a href="https://job-boards.greenhouse.io/drweng/jobs/7090734?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | **AMD** | Software Developer - GPU IO Libraries | Calgary, Canada</br>Remote | <a href="https://careers.amd.com/careers-home/jobs/67592?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | **Nokia** | Jr. Applied R&D Engineer | Canada | <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20842?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 15 |
