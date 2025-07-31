@@ -5536,5 +5536,22 @@
         "date_posted": 1753910831,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753931999,
+        "url": "https://www.metacareers.com/jobs/609052015548260",
+        "locations": [
+            "Bellevue, WA",
+            "Menlo Park, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Meta",
+        "title": "New Grad 2026: Product Security Engineer",
+        "source": "vanshb03",
+        "id": "6a47dfe6-4bf6-4966-bafb-f6b8be315bee",
+        "date_posted": 1753931999,
+        "company_url": "",
+        "is_visible": true
     }
 ]
