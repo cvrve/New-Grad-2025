@@ -44,6 +44,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Meta** | New Grad 2026: Product Security Engineer | Bellevue, WA</br>Menlo Park, CA | <a href="https://www.metacareers.com/jobs/609052015548260?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | **TikTok** | New Grad 2026: Software Engineer (Ads ML Infrastructure) | San Jose, CA | <a href="https://lifeattiktok.com/search/7531158600791705874?spread=5MWH5CQ&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
 | **TikTok** | New Grad 2026: Machine Learning Engineer Graduate (Lead Ads Technology) | San Jose, CA | <a href="https://lifeattiktok.com/search/7532240517976721671?spread=5MWH5CQ&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
 | **TikTok** | New Grad 2026: Machine Learning/Research Engineer (Ads Core Global) | San Jose, CA | <a href="https://lifeattiktok.com/search/7532349111480273159?spread=5MWH5CQ&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
