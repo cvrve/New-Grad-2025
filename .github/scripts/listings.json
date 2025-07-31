@@ -913,7 +913,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1746307655,
+        "date_updated": 1753974076,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/VLSI-Physical-Design-Engineer---New-College-Grad-2025_JR1997079",
         "company_name": "NVIDIA",
         "title": "New Grad 2025: VLSI Physical Design Engineer",
@@ -921,7 +921,7 @@
             "Westford, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "b0cb447a-55c1-46cd-81af-dcdb3fe6adfe",
         "date_posted": 1746307655,
@@ -2618,7 +2618,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749185000,
+        "date_updated": 1753974089,
         "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/Software-Engineer-I---nCino-Developer_R0102738",
         "company_name": "Truist",
         "title": "Software Engineer I",
@@ -2626,7 +2626,7 @@
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "9ee0c026-fd8d-4ff0-8a7e-92859f109fdf",
         "date_posted": 1749185000,
@@ -2684,7 +2684,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749296941,
+        "date_updated": 1753974058,
         "url": "https://job-boards.greenhouse.io/relativity/jobs/8029393002",
         "company_name": "Relativity Space",
         "title": "Software Engineer I - Factory Platform",
@@ -2692,7 +2692,7 @@
             "Long Beach, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "f4ba4cea-9b10-4bd4-b907-160b60c20f21",
         "date_posted": 1749296941,
@@ -3314,7 +3314,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751051672,
+        "date_updated": 1753974101,
         "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HOME-MA/C---Software-Engineer---New-College-Graduate--Boston-_R50667-1",
         "company_name": "Cadence",
         "title": "New Grad: C++ Software Engineer",
@@ -3322,7 +3322,7 @@
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "e9f12027-90b4-486d-aaac-f93cc194bdfe",
         "date_posted": 1751051672,
@@ -3446,7 +3446,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751245329,
+        "date_updated": 1753974103,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/ASIC-Design-Engineer---New-College-Grad-2025_JR1992617",
         "company_name": "NVIDIA",
         "title": "New Grad 2025: ASIC Design Engineer",
@@ -3454,7 +3454,7 @@
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "697ccf5e-68b5-4b13-b0fe-e80ecdb48b13",
         "date_posted": 1751245329,
@@ -5505,14 +5505,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753910748,
+        "date_updated": 1753974059,
         "url": "https://jobs.lever.co/spotify/cf03a89d-6271-40dd-b41b-8a06798c1055",
         "locations": [
             "Toronto, Canada",
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Spotify",
         "title": "Fullstack Engineer",
         "source": "vanshb03",
