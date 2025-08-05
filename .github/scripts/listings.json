@@ -5553,5 +5553,71 @@
         "date_posted": 1753931999,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754182271,
+        "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4648133101",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "StubHub",
+        "title": "Associate Product Manager - Consumer Experience",
+        "source": "vanshb03",
+        "id": "8f5f2c54-52b8-4a12-8802-dbc518ad976a",
+        "date_posted": 1754182271,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754190450,
+        "url": "https://jobs.ashbyhq.com/ramp/83075cf0-9c22-4475-9c6b-e21923a96df8",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ramp",
+        "title": "New Grad 2026: Software Engineer - Backend",
+        "source": "vanshb03",
+        "id": "e908a832-5011-4036-9ce4-c41dad616fb0",
+        "date_posted": 1754190450,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754190456,
+        "url": "https://jobs.ashbyhq.com/ramp/a1229aec-1105-4c47-8533-b912e732ed89",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ramp",
+        "title": "New Grad 2026: Software Engineer - Frontend",
+        "source": "vanshb03",
+        "id": "6327379a-da68-4367-bcf6-4ec69a9c9ebd",
+        "date_posted": 1754190456,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754382386,
+        "url": "https://app.ripplematch.com/v2/public/job/340fb9c1?tl=505c5953",
+        "locations": [
+            "San Francisco, CA",
+            "Chicago, IL",
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Reddit",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "c248dbe1-59aa-4711-a809-4708660abfa3",
+        "date_posted": 1754382386,
+        "company_url": "",
+        "is_visible": true
     }
 ]
