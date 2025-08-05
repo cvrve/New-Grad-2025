@@ -44,6 +44,10 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Reddit** | New Grad: Software Engineer 🛂 | San Francisco, CA</br>Chicago, IL</br>Los Angeles, CA | <a href="https://app.ripplematch.com/v2/public/job/340fb9c1?tl=505c5953&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
+| **StubHub** | Associate Product Manager - Consumer Experience | New York, NY | <a href="https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4648133101?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 03 |
+| **Ramp** | New Grad 2026: Software Engineer - Frontend | New York, NY | <a href="https://jobs.ashbyhq.com/ramp/a1229aec-1105-4c47-8533-b912e732ed89?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 03 |
+| **Ramp** | New Grad 2026: Software Engineer - Backend | New York, NY | <a href="https://jobs.ashbyhq.com/ramp/83075cf0-9c22-4475-9c6b-e21923a96df8?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 03 |
 | **Meta** | New Grad 2026: Product Security Engineer | Bellevue, WA</br>Menlo Park, CA | <a href="https://www.metacareers.com/jobs/609052015548260?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | **TikTok** | New Grad 2026: Software Engineer (Ads ML Infrastructure) | San Jose, CA | <a href="https://lifeattiktok.com/search/7531158600791705874?spread=5MWH5CQ&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
 | **TikTok** | New Grad 2026: Machine Learning Engineer Graduate (Lead Ads Technology) | San Jose, CA | <a href="https://lifeattiktok.com/search/7532240517976721671?spread=5MWH5CQ&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
