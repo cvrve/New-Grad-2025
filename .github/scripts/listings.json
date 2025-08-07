@@ -5619,5 +5619,663 @@
         "date_posted": 1754382386,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754382618,
+        "url": "https://job-boards.greenhouse.io/humeai/jobs/4856037008",
+        "locations": [
+            "New York, NY",
+            "Remote",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hume AI",
+        "title": "Product Manager, Growth",
+        "source": "vanshb03",
+        "id": "14f528e5-f037-48a6-802e-c630a9f1abf9",
+        "date_posted": 1754382618,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754557917,
+        "url": "https://lifeattiktok.com/search/7533739605041645832?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "SDET, Software Development Engineer in Test Graduate (TikTok Eng Test-PGC)",
+        "source": "vanshb03",
+        "id": "df2d7314-4d92-41da-ac34-4e9e90a63fcd",
+        "date_posted": 1754557917,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754557922,
+        "url": "https://lifeattiktok.com/search/7534641634584185095?spread=5MWH5CQ",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Machine Learning Engineer",
+        "source": "vanshb03",
+        "id": "323238e3-9ae0-4630-afd1-bc572115137f",
+        "date_posted": 1754557922,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754557932,
+        "url": "https://lifeattiktok.com/search/7533712518582503687?spread=5MWH5CQ",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Product Security Engineer Graduate (Security Assurance)",
+        "source": "vanshb03",
+        "id": "e83d15ee-5de5-4ff2-a136-1f9567237343",
+        "date_posted": 1754557932,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754557937,
+        "url": "https://lifeattiktok.com/search/7532626482364909842?spread=5MWH5CQ",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Software Engineer",
+        "source": "vanshb03",
+        "id": "e2662f8d-b054-4b27-84d2-8a2ee2bd1c23",
+        "date_posted": 1754557937,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754557941,
+        "url": "https://lifeattiktok.com/search/7535215880842791176?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Software Engineer Graduate (Data Arch - AI/ML Infrastructure)",
+        "source": "vanshb03",
+        "id": "90d814e2-7ba5-428e-9b6b-58c9f3fee9dd",
+        "date_posted": 1754557941,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754557945,
+        "url": "https://lifeattiktok.com/search/7535250563068528903?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Software Engineer Graduate (Data Arch - ShortText Rec) (BS/MS)",
+        "source": "vanshb03",
+        "id": "237649d4-aba0-4da6-b166-03d63b58a697",
+        "date_posted": 1754557945,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754557950,
+        "url": "https://lifeattiktok.com/search/7533377192370194706?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: (Machine Learning Engineer, Data-Search-TikTok Recommendation",
+        "source": "vanshb03",
+        "id": "465838f6-f8df-4939-ac83-53859851fa78",
+        "date_posted": 1754557950,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754557954,
+        "url": "https://lifeattiktok.com/search/7533371534829095175?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Machine Learning Engineer - Data - Search",
+        "source": "vanshb03",
+        "id": "ea736740-68a8-4507-a368-29772c0d518f",
+        "date_posted": 1754557954,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754557958,
+        "url": "https://lifeattiktok.com/search/7535528357414570248?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Software Engineer Graduate (Data Platfrom TikTok BP)",
+        "source": "vanshb03",
+        "id": "2eceabb9-6f55-4bae-b808-e5e013312b8e",
+        "date_posted": 1754557958,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754557962,
+        "url": "https://lifeattiktok.com/search/7535396503751772423?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Machine Learning Engineer (Brand Ads)",
+        "source": "vanshb03",
+        "id": "a252fd6b-6670-4aee-a78f-93d4d6781cee",
+        "date_posted": 1754557962,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754557966,
+        "url": "https://lifeattiktok.com/search/7534826542867106066?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Frontend Engineer Graduate, Trust and Safety",
+        "source": "vanshb03",
+        "id": "018af844-6dcc-466a-83a8-2be2ca74eade",
+        "date_posted": 1754557966,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754557971,
+        "url": "https://lifeattiktok.com/search/7535549508735174930?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Site Reliability Engineer Graduate (Compute Platform)",
+        "source": "vanshb03",
+        "id": "0f9fdd45-a7b2-4a33-aaed-6d9f4cc0c1ed",
+        "date_posted": 1754557971,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754557975,
+        "url": "https://lifeattiktok.com/search/7535544480956483848?spread=5MWH5CQ",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Site Reliability Engineer Graduate (Compute Platform)",
+        "source": "vanshb03",
+        "id": "c374caff-cb5e-47a7-ad5a-637f5e86e17f",
+        "date_posted": 1754557975,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754557979,
+        "url": "https://lifeattiktok.com/search/7535220808265681159?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Software Engineer Graduate (Data Arch - Data Ecosystem )",
+        "source": "vanshb03",
+        "id": "e175b6da-bac1-4db7-baa4-87a97cef51e3",
+        "date_posted": 1754557979,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754557983,
+        "url": "https://lifeattiktok.com/search/7532627070011230482?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Software Engineer Graduate Social",
+        "source": "vanshb03",
+        "id": "5f45aea8-91e8-47e3-ba05-fecbd9d820c6",
+        "date_posted": 1754557983,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754557987,
+        "url": "https://lifeattiktok.com/search/7535599554659010834?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Software Engineer Graduate (Monetization Technology - Brand Ads)",
+        "source": "vanshb03",
+        "id": "2653ebed-f231-4222-a608-fe7190975b6d",
+        "date_posted": 1754557987,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754557991,
+        "url": "https://lifeattiktok.com/search/7530759729113680135?spread=5MWH5CQ",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Frontend Engineer Graduate, Trust and Safety",
+        "source": "vanshb03",
+        "id": "197d4aef-2ef8-4ec0-9418-496006fa3e9d",
+        "date_posted": 1754557991,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754558055,
+        "url": "https://lifeattiktok.com/search/7534641468595489032?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Machine Learning Engineer - Local Services Search (BS/MS)",
+        "source": "vanshb03",
+        "id": "deaaa2b4-49b5-4969-8c5d-377bac681dbd",
+        "date_posted": 1754558055,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754558137,
+        "url": "https://lifeattiktok.com/search/7533292831260920082?spread=5MWH5CQ",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Data Engineer (E-commerce)",
+        "source": "vanshb03",
+        "id": "35e6cef7-664d-4102-b1ff-e9d1d453a835",
+        "date_posted": 1754558137,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754558141,
+        "url": "https://lifeattiktok.com/search/7533292447687493896?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Data Engineer (Data Platfrom TikTok BP)",
+        "source": "vanshb03",
+        "id": "9fbedd86-6523-43c2-9263-9854b7b4bda8",
+        "date_posted": 1754558141,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754558145,
+        "url": "https://lifeattiktok.com/search/7534794210978187527?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Software Engineer Graduate Mobile Reliability (Android)",
+        "source": "vanshb03",
+        "id": "85b33ffc-2b25-48a9-9463-9243f42fd078",
+        "date_posted": 1754558145,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754558149,
+        "url": "https://lifeattiktok.com/search/7534641209890588946?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Machine Learning Engineer Graduate -Search E-Commerce",
+        "source": "vanshb03",
+        "id": "21c9b744-143b-42f0-b16a-d8be60d457f7",
+        "date_posted": 1754558149,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754558154,
+        "url": "https://lifeattiktok.com/search/7533289397581842696?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Software Engineer",
+        "source": "vanshb03",
+        "id": "ec03c3e4-6c34-441a-ad3a-5d64ed749c4d",
+        "date_posted": 1754558154,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754558158,
+        "url": "https://lifeattiktok.com/search/7532629935045232903?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Software Engineer Graduate Intelligent Creation",
+        "source": "vanshb03",
+        "id": "d19c32df-55c4-4eca-b686-be1736e43c22",
+        "date_posted": 1754558158,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754558165,
+        "url": "https://lifeattiktok.com/search/7533278507406182674?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Software Engineer (Experimentation and Evaluation)",
+        "source": "vanshb03",
+        "id": "63b01457-858a-4455-b17e-06d395b2efa1",
+        "date_posted": 1754558165,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754558171,
+        "url": "https://lifeattiktok.com/search/7532629934058178824?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Software Engineer Graduate User Growth",
+        "source": "vanshb03",
+        "id": "d57bf78a-b5d2-4a9d-bde5-f390047362cb",
+        "date_posted": 1754558171,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754558175,
+        "url": "https://lifeattiktok.com/search/7532627070011771154?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Software Engineer Graduate Search",
+        "source": "vanshb03",
+        "id": "eb59c6c4-d38e-4ec9-ba8b-912f43d2201e",
+        "date_posted": 1754558175,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754558180,
+        "url": "https://lifeattiktok.com/search/7533106620768012562?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Software Engineer Graduate Product Infrastructure",
+        "source": "vanshb03",
+        "id": "4b7a3e44-2bf4-4a6d-a41c-046e72bad7db",
+        "date_posted": 1754558180,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754558184,
+        "url": "https://lifeattiktok.com/search/7532626353242786055?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Software Engineer Graduate Open Platform",
+        "source": "vanshb03",
+        "id": "c7102462-cd53-4a83-ae42-ee9ac01601e5",
+        "date_posted": 1754558184,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754558188,
+        "url": "https://lifeattiktok.com/search/7533387057666754834?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "SDET, Software Development Engineer in Test Graduate (TikTok Eng Test-Privacy Product)",
+        "source": "vanshb03",
+        "id": "734b57e4-0e35-4b79-90a4-e68be1edc30f",
+        "date_posted": 1754558188,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754558202,
+        "url": "https://lifeattiktok.com/search/7532631803707263240?spread=5MWH5CQ",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Software Engineer Graduate PGC",
+        "source": "vanshb03",
+        "id": "84e4d646-f8fa-4e5e-8670-72f4bcc6fd91",
+        "date_posted": 1754558202,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754558209,
+        "url": "https://lifeattiktok.com/search/7533719102990190866?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Software Engineer Graduate - Data-Search",
+        "source": "vanshb03",
+        "id": "674663b1-3c0d-45e8-816f-092f68f04b64",
+        "date_posted": 1754558209,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754558302,
+        "url": "https://jobs.bytedance.com/en/position/7531126749275851026/detail?spread=BSPP2KS",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2026: Software Engineer, Authorization-US",
+        "source": "vanshb03",
+        "id": "9cdca74e-f2ef-4d8b-8572-77ac46edd421",
+        "date_posted": 1754558302,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754558316,
+        "url": "https://jobs.bytedance.com/en/position/7534838755829696776/detail?spread=BSPP2KS",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Site Reliability Engineer Graduate [Security Engineering-US]",
+        "source": "vanshb03",
+        "id": "4c7ca482-cc0f-4d2c-8fd0-4babb84e9776",
+        "date_posted": 1754558316,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754558326,
+        "url": "https://www.tesla.com/careers/search/job/247659",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Machine Learning Engineer, Model Optimization & Deployment, Optimus",
+        "source": "vanshb03",
+        "id": "9e6d0f56-8b8b-4e86-88c7-53a871767e01",
+        "date_posted": 1754558326,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754558333,
+        "url": "https://www.tesla.com/careers/search/job/247595",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Automation Controls Engineer, Megapack",
+        "source": "vanshb03",
+        "id": "4974de9f-0d94-48d3-82df-7725a8ffe16d",
+        "date_posted": 1754558333,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754558338,
+        "url": "https://www.tesla.com/careers/search/job/247480",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Systems Engineer, Collision Avoidance, Autonomy & Robotics",
+        "source": "vanshb03",
+        "id": "95775410-52fa-4053-9206-3725ab5cad93",
+        "date_posted": 1754558338,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754558347,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1857028/Software-Engineer",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "500c94b3-e531-4b1c-84ef-188bba69e50c",
+        "date_posted": 1754558347,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754558357,
+        "url": "https://www.amazon.jobs/en/jobs/3051896/system-development-engineer-amazon-robotics",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "System Development Engineer, Amazon Robotics",
+        "source": "vanshb03",
+        "id": "57e2bd62-a4f3-4bac-824d-9e418072b439",
+        "date_posted": 1754558357,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754558384,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/San-Francisco-CA-USA/Software-Engineer---New-Grad-2025_25WD89315",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Autodesk",
+        "title": "New Grad 2025: Software Engineer",
+        "source": "vanshb03",
+        "id": "e34bc83e-df17-4df5-8825-93fee7224a89",
+        "date_posted": 1754558384,
+        "company_url": "",
+        "is_visible": true
     }
 ]
