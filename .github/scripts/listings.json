@@ -6277,5 +6277,240 @@
         "date_posted": 1754558384,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754558660,
+        "url": "https://uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2300249&lang=en",
+        "locations": [],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "UnitedHealth Group",
+        "title": "Software Engineer - Python, ETL, SQL",
+        "source": "vanshb03",
+        "id": "b5932cea-ec77-4b8a-b8c6-a2f03ce401cf",
+        "date_posted": 1754558660,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754558666,
+        "url": "https://tas-uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2300249&lang=en",
+        "locations": [],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "UnitedHealth Group",
+        "title": "Software Engineer - Python, ETL, SQL",
+        "source": "vanshb03",
+        "id": "96ffba7e-ce08-4137-a26b-ff50787dc9a1",
+        "date_posted": 1754558666,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754558675,
+        "url": "https://jobs.royalcaribbeangroup.com/job/Miramar-Associate-Engineer%2C-Software-FL-33132/1314694500/",
+        "locations": [],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Royal Caribbean Group",
+        "title": "Associate Engineer, Software",
+        "source": "vanshb03",
+        "id": "a7abab18-2ce4-4171-9d33-8714e473c637",
+        "date_posted": 1754558675,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754558686,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3477495",
+        "locations": [
+            "Troy, MI"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Detroit Defense",
+        "title": "Software Test Engineer",
+        "source": "vanshb03",
+        "id": "527bb77a-c5c1-4263-ba14-983c45c96372",
+        "date_posted": 1754558686,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754558693,
+        "url": "https://job-boards.greenhouse.io/cooksys/jobs/4872299008",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cook Systems",
+        "title": "Software Developer",
+        "source": "vanshb03",
+        "id": "47f74940-bb5c-4701-b806-144cfb330e30",
+        "date_posted": 1754558693,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754558713,
+        "url": "https://job-boards.greenhouse.io/twilio/jobs/7061880",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Twilio",
+        "title": "Machine Learning & Data Engineer",
+        "source": "vanshb03",
+        "id": "7ff6b89d-b2c3-4f52-8286-5027337fcbce",
+        "date_posted": 1754558713,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754558731,
+        "url": "https://jobs.lever.co/lumafield/0bdaed8e-3234-4073-afa6-410d1362fe25",
+        "locations": [
+            "Boston, MA",
+            "Everett, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lumafield",
+        "title": "Embedded Software Engineer",
+        "source": "vanshb03",
+        "id": "254fb26c-539c-42bd-b226-4884765eb198",
+        "date_posted": 1754558731,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754558739,
+        "url": "https://job-boards.greenhouse.io/niantic/jobs/8108536002",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Niantic",
+        "title": "Software Engineer, Client",
+        "source": "vanshb03",
+        "id": "cac2465f-3b42-41bb-8636-5834bc5511fd",
+        "date_posted": 1754558739,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754558748,
+        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25024266",
+        "locations": [
+            "Shakopee, MN"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Emerson",
+        "title": "Embedded Software Engineer",
+        "source": "vanshb03",
+        "id": "f47dc558-59c2-4c6f-8b1e-bfeb5df7395e",
+        "date_posted": 1754558748,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754558754,
+        "url": "https://job-boards.greenhouse.io/pingidentity/jobs/8084784002",
+        "locations": [
+            "Denver, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ping Identity",
+        "title": "Software Engineer I",
+        "source": "vanshb03",
+        "id": "11288e3f-6342-4aa7-ade3-8518838ef3b1",
+        "date_posted": 1754558754,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754558790,
+        "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf1a92f4-16eb-4267-86ca-bc956024f426&jobId=553315",
+        "locations": [
+            "Hamilton, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mathtech",
+        "title": "Associate Software Developer",
+        "source": "vanshb03",
+        "id": "a3c476d8-893d-4647-ae26-c33f13121cee",
+        "date_posted": 1754558790,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754558806,
+        "url": "https://jacobs.taleo.net/careersection/ex3/jobdetail.ftl?job=ADV000B3R&lang=en",
+        "locations": [
+            "Kennedy Space Center, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jacobs",
+        "title": "Software Engineer, Entry",
+        "source": "vanshb03",
+        "id": "61b3df3a-e19c-4840-8796-1fd3d16038f6",
+        "date_posted": 1754558806,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754558811,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Daytona-Beach-FL/Associate-Software-Engineer-Developer--Development-_JR2025466830-1",
+        "locations": [
+            "Daytona Beach, FL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "The Boeing Company",
+        "title": "Associate Software Engineer",
+        "source": "vanshb03",
+        "id": "bf6cfde2-8b2d-463b-9ee9-91568b472aa8",
+        "date_posted": 1754558811,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754558833,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Software-Development-Engineer_R157704",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Adobe",
+        "title": "Software Development Engineer",
+        "source": "vanshb03",
+        "id": "a3e13702-95d4-406e-a507-1e7d1ce57927",
+        "date_posted": 1754558833,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754558843,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/304100",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Oracle",
+        "title": "Undergrad Software Engineer",
+        "source": "vanshb03",
+        "id": "6129791f-6cf1-423d-bd37-c912e67e516b",
+        "date_posted": 1754558843,
+        "company_url": "",
+        "is_visible": true
     }
 ]
