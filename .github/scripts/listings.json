@@ -7292,5 +7292,344 @@
         "company_url": "",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755115139,
+        "url": "https://jobs.bytedance.com/en/position/7535233571066349842/detail?spread=BSPP2KS",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2026: Software Engineer Graduate (Applied Machine Learning - MLDev)",
+        "source": "vanshb03",
+        "id": "5b6eac72-8c00-4cf6-b79b-316e7573ba8d",
+        "date_posted": 1755115139,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755115149,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1858310/Software-Engineer",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "d30718db-b9b9-45d7-8b7a-c04b5e215c99",
+        "date_posted": 1755115149,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755115157,
+        "url": "https://jobs.ashbyhq.com/suno/991c9785-9bd5-499a-98aa-146e8c947752",
+        "locations": [
+            "Boston, MA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Suno",
+        "title": "Software Engineer, Early Career",
+        "source": "vanshb03",
+        "id": "327c146b-66e5-4035-9b7d-8028c929a624",
+        "date_posted": 1755115157,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755115162,
+        "url": "https://jobs.bytedance.com/en/position/7532538236133902599/detail?spread=BSPP2KS",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2026: Software Engineer (Applied Machine Learning - Enterprise)",
+        "source": "vanshb03",
+        "id": "602d7e2a-5092-489a-9266-5312b0077415",
+        "date_posted": 1755115162,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755115167,
+        "url": "https://jobs.bytedance.com/en/position/7536272435440716040/detail?spread=BSPP2KS",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2026: Software Engineer (Dev Infra)",
+        "source": "vanshb03",
+        "id": "05b2d7c1-02ca-4f78-ba54-b5cc91b46ad7",
+        "date_posted": 1755115167,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755115173,
+        "url": "https://lifeattiktok.com/search/7535606471191824647?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Machine Learning Engineer (Monetization Technology - TikTok Ads Creative & Ecosystem)",
+        "source": "vanshb03",
+        "id": "a7fa4e37-6a7a-4740-a54d-9de5078db5b6",
+        "date_posted": 1755115173,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755115181,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1860403/Software-Engineer%3A-Microsoft-AI-Development-Acceleration-Program%2C-Redmond",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer: Microsoft AI Development Acceleration Program, Redmond",
+        "source": "vanshb03",
+        "id": "426bda00-15b1-4ce6-9153-933926017785",
+        "date_posted": 1755115181,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755115188,
+        "url": "https://www.amazon.jobs/en/jobs/3057120/systems-development-engineer-i-ops-tech-solution-ots",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Systems Development Engineer I, Ops Tech Solution (OTS)",
+        "source": "vanshb03",
+        "id": "ce345b4a-8624-4947-a39a-f8ae8c438090",
+        "date_posted": 1755115188,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755115232,
+        "url": "https://jobs.bytedance.com/en/position/7537121677185534216/detail?spread=BSPP2KS",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2026: Network Engineer (Edge Network)",
+        "source": "vanshb03",
+        "id": "5231c14e-4ca3-477c-8ff9-853c428c9eba",
+        "date_posted": 1755115232,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755115238,
+        "url": "https://lifeattiktok.com/search/7536356589390301458?spread=5MWH5CQ",
+        "locations": [
+            "San Jose"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Software Engineer Graduate (Recommendation Platform)",
+        "source": "vanshb03",
+        "id": "3b4462db-6f92-4f9a-979c-9f340461fd30",
+        "date_posted": 1755115238,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755115244,
+        "url": "https://ats.rippling.com/en-CA/rippling/jobs/393b2982-14b0-4715-b6ea-a83353e95e12",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rippling",
+        "title": "New Grad 2025: Software Engineer",
+        "source": "vanshb03",
+        "id": "a3e7a515-dad3-46f0-b16f-4d2127fe5205",
+        "date_posted": 1755115244,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755115416,
+        "url": "https://www.jumptrading.com/careers/7078491/",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jump Trading",
+        "title": "Tech Ops Engineer",
+        "source": "vanshb03",
+        "id": "07084fd0-9e7d-4b12-b361-e3d3e97d7d35",
+        "date_posted": 1755115416,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755115437,
+        "url": "https://www.citadelsecurities.com/careers/details/c-software-engineer-4/",
+        "locations": [
+            "Miami, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citadel Securities",
+        "title": "C++ Software Engineer",
+        "source": "vanshb03",
+        "id": "1439af31-320e-4a34-adb5-d89754a8d8be",
+        "date_posted": 1755115437,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755115477,
+        "url": "https://job-boards.greenhouse.io/figureai/jobs/4589430006",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Figure",
+        "title": "Embedded Systems Integration Engineer",
+        "source": "vanshb03",
+        "id": "c9e7f13d-2357-4885-87a7-2575d4c19368",
+        "date_posted": 1755115477,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755115488,
+        "url": "https://www.amazon.jobs/en/jobs/3054843/robotics-systems-engineer-amazon-robotics-deployment-engineering",
+        "locations": [
+            "Austin, TX",
+            "Seattle, WA",
+            "North Reading, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Robotics Systems Engineer, Amazon Robotics Deployment Engineering",
+        "source": "vanshb03",
+        "id": "f059be4f-04cb-4295-a76c-ad5b961e1cd7",
+        "date_posted": 1755115488,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755115496,
+        "url": "https://lifeattiktok.com/search/7532281787985840392?spread=5MWH5CQ",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Product Manager Graduate (TikTok Shop User Product)",
+        "source": "vanshb03",
+        "id": "facf97ef-473d-4798-875a-870dcbc2773f",
+        "date_posted": 1755115496,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755115505,
+        "url": "https://www.tesla.com/careers/search/job/242474",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Technical Program Manager, Energy Software",
+        "source": "vanshb03",
+        "id": "c5f9dafd-81ce-419f-9932-9a99e8cd8ccc",
+        "date_posted": 1755115505,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755115509,
+        "url": "https://lifeattiktok.com/search/7534966101852539144?spread=5MWH5CQ",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Product Manager (SMB)",
+        "source": "vanshb03",
+        "id": "25cd60a3-899d-4473-a63d-a3b5895495b3",
+        "date_posted": 1755115509,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755115517,
+        "url": "https://lifeattiktok.com/search/7532815853353863432?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Product Manager, Content Ecosystem",
+        "source": "vanshb03",
+        "id": "c22d03b7-3ed5-4bc7-87e0-48396758eaaa",
+        "date_posted": 1755115517,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755115525,
+        "url": "https://boards.greenhouse.io/embed/job_app?for=blackedgecapital&token=4595489005",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "BlackEdge Capital",
+        "title": "New Grad 2026: Quantitative Developer",
+        "source": "vanshb03",
+        "id": "ebf6090d-3ec4-40c9-860f-c1e06e2fa19f",
+        "date_posted": 1755115525,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755115537,
+        "url": "https://www.hudsonrivertrading.com/hrt-job/algorithm-developer-quant-researcher-2026-grads/",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hudson River Trading",
+        "title": "New Grad 2026: Algorithm Developer",
+        "source": "vanshb03",
+        "id": "04eed366-75cb-43ea-9611-16ea7895086f",
+        "date_posted": 1755115537,
+        "company_url": "",
+        "is_visible": true
     }
 ]
