@@ -44,6 +44,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Meta** | Software Engineer | Sunnyvale, CA | <a href="https://www.metacareers.com/jobs/8187200048015588?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
+| **Databricks** | New Grad 2026: Data Scientist | Mountain View, CA</br>San Francisco, CA | <a href="https://www.databricks.com/company/careers/university-recruiting/data-scientist---new-grad-2026-start-6866554002?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 09 |
+| **Databricks** | New Grad 2026: Software Engineer | Bellevue, WA</br>Mountain View, CA</br>San Francisco, CA | <a href="https://www.databricks.com/company/careers/university-recruiting/software-engineer---new-grad-2026-start-6865698002?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 09 |
 | **UnitedHealth Group** | Software Engineer - Python, ETL, SQL |  | <a href="https://tas-uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2300249&lang=en&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
 | **UnitedHealth Group** | Software Engineer - Python, ETL, SQL |  | <a href="https://uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2300249&lang=en&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
 | **Twilio** | Machine Learning & Data Engineer | Remote | <a href="https://job-boards.greenhouse.io/twilio/jobs/7061880?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
