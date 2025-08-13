@@ -6512,5 +6512,56 @@
         "date_posted": 1754558843,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754706230,
+        "url": "https://www.databricks.com/company/careers/university-recruiting/software-engineer---new-grad-2026-start-6865698002",
+        "locations": [
+            "Bellevue, WA",
+            "Mountain View, CA",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Databricks",
+        "title": "New Grad 2026: Software Engineer",
+        "source": "vanshb03",
+        "id": "14eabd84-8b95-40f7-81db-425c63c52927",
+        "date_posted": 1754706230,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754706376,
+        "url": "https://www.databricks.com/company/careers/university-recruiting/data-scientist---new-grad-2026-start-6866554002",
+        "locations": [
+            "Mountain View, CA",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Databricks",
+        "title": "New Grad 2026: Data Scientist",
+        "source": "vanshb03",
+        "id": "6bdfc27f-abcc-4fdf-997c-b8cad0e6692d",
+        "date_posted": 1754706376,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755112283,
+        "url": "https://www.metacareers.com/jobs/8187200048015588",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Meta",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "19fd8c9b-ee2b-4667-9a4a-22f78706d02d",
+        "date_posted": 1755112283,
+        "company_url": "",
+        "is_visible": true
     }
 ]
