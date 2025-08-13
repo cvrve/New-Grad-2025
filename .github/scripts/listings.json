@@ -7631,5 +7631,23 @@
         "date_posted": 1755115537,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755122119,
+        "url": "https://job-boards.greenhouse.io/geotab/jobs/4556235008",
+        "company_name": "Geotab",
+        "title": "Software Developer(role says Sr on post but just apply twin)",
+        "locations": [
+            "Toronto",
+            "Waterloo",
+            "Oakville"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Willjianger9",
+        "id": "4bb06ca8-f121-4630-bdee-3fe962322bfd",
+        "date_posted": 1755122119,
+        "company_url": "",
+        "is_visible": true
     }
 ]
