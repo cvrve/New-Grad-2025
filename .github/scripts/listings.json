@@ -6563,5 +6563,734 @@
         "date_posted": 1755112283,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://jobs.ashbyhq.com/brm.ai/05cad7f7-2194-480d-8e70-7338cfd2a189/application",
+        "company_name": "BRM",
+        "title": "Entry Level Software Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "f858a9c5-9848-4c93-9f14-dabd4522cb6d",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://careers-i3-corps.icims.com/jobs/4833/entry-level-full-stack-software-engineer/job",
+        "company_name": "i3",
+        "title": "Full-Stack Software Engineer",
+        "locations": [
+            "Hunstville, AL"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "36285a24-404c-424b-8113-e60475bd09d4",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "U.S. Citizenship is Required"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://apply.workable.com/trexquant/j/A634E0E3F4/",
+        "company_name": "Trexquant",
+        "title": "Quantitative Researcher",
+        "locations": [
+            "Stamford, CT"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "b884b542-124d-48c2-ac9b-24ea06aec70c",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/MD---Baltimore/Software-Engineer-I---AWS_R-46038",
+        "company_name": "The Travelers Companies",
+        "title": "Software Engineer I - AWS",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "6abf3a97-6552-4953-a1c5-8507444948e1",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://careers.roblox.com/jobs/7114754?gh_jid=7114754",
+        "company_name": "Roblox",
+        "title": "Software Engineer - Early Career",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "a7c65e95-7b7a-44b6-ab78-77df6ef85f05",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://apply.workable.com/trexquant/j/A634E0E3F4/apply",
+        "company_name": "Trexquant",
+        "title": "Quantitative Researcher - Early Career",
+        "locations": [
+            "Stamford, CT"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "c77beea7-13ef-4e3e-940e-ad734812c168",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://careers-i3-corps.icims.com/jobs/4833/job",
+        "company_name": "i3",
+        "title": "Entry Level Full-Stack Software Engineer",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "bcccb7d7-836e-4fd2-9c12-339db8b1ade2",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602803047194",
+        "company_name": "Boston Scientific",
+        "title": "Software Engineer I - Engineering - Development",
+        "locations": [
+            "Roseville, MN"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "ff35da1b-aa4e-4040-aff2-49c84084d8b0",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602803067424",
+        "company_name": "Boston Scientific",
+        "title": "Software Engineer I - Engineering - Development",
+        "locations": [
+            "Roseville, MN"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "8f0ae0c6-ffb1-4b9f-83c8-cb25cfe231ba",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://maxar.wd1.myworkdayjobs.com/en-US/Maxar/job/Herndon-VA/Forward-Deployed-Software-Engineer-I_R22647-1",
+        "company_name": "Maxar",
+        "title": "Forward Deployed Software Engineer I",
+        "locations": [
+            "Herndon, VA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "5b91c136-e063-42c9-a37c-b43ab978d71b",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://radiancetech.wd12.myworkdayjobs.com/en-US/radiance_external/job/Beavercreek-OH/Junior-Full-Stack-Software-Engineer_HR101733",
+        "company_name": "Radiance Technologies",
+        "title": "Junior Full Stack Software Engineer",
+        "locations": [
+            "Beavercreek, OH"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "71500ea8-e184-45ed-b125-e33bcee4d344",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://job-boards.greenhouse.io/celonis/jobs/6616403003?gh_jid=6616403003",
+        "company_name": "Celonis",
+        "title": "Associate Value Engineer (AI-Driven Data Science & Analytics)",
+        "locations": [
+            "New York, NY"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "ff5bcd26-05f7-44ff-a867-cbf89f0c731f",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Does Not Offer Sponsorship"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Scientist--Robotics-Research---New-College-Grad-2025_JR2001017",
+        "company_name": "NVIDIA",
+        "title": "Research Scientist, Robotics Research",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "4b35d640-027a-4597-9d66-bd6eb42d4271",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Offers Sponsorship"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Union-NJ/Junior-AI-Assisted-Software-Engineer_R36039",
+        "company_name": "SS&C",
+        "title": "Junior AI-Assisted Software Engineer",
+        "locations": [
+            "South Orange, NJ"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "09e0939c-e64a-486a-9ae0-845760c43167",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://www.globalrelay.com/careers/jobs?gh_jid=5616305004",
+        "company_name": "Global Relay",
+        "title": "Junior Software Developer Engineer in Test - C#",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "a1fe1160-a32c-41b1-a47d-c72c5d2785d6",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Chicago-IL-USA/Software-Engineer--New-or-Recent-Graduate-_R250019232",
+        "company_name": "BMO",
+        "title": "Software Engineer",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "3e6b9600-16c5-4c88-a2b6-0337f55a153b",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Offers Sponsorship"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://directv.wd1.myworkdayjobs.com/en-US/careers/job/El-Segundo-CA/IT-Software-Engineer-1_R250209",
+        "company_name": "DIRECTV",
+        "title": "IT Software Engineer 1",
+        "locations": [
+            "El Segundo, CA",
+            "Remote in USA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "218372ad-8933-4b6e-8bbc-bfdcdb9a1a65",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Torrance-CA/Eng--Assc_R-25-13250",
+        "company_name": "Moog",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Torrance, CA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "036be4a0-9117-4b6b-8621-ae15e1c191fa",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "U.S. Citizenship is Required"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://careers-peraton.icims.com/jobs/158789/software-engineering%2c-associate/job",
+        "company_name": "Peraton",
+        "title": "Software Engineering, Associate",
+        "locations": [
+            "Herndon, VA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "3ba072d2-b1ea-44e6-9761-57214ac33e65",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "U.S. Citizenship is Required"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://job-boards.greenhouse.io/celonis/jobs/6616403003",
+        "company_name": "Celonis",
+        "title": "Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program",
+        "locations": [
+            "New York, NY"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "c0126364-c0ae-42fe-b291-824058e4de38",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Does Not Offer Sponsorship"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://usventure.wd1.myworkdayjobs.com/en-US/usvexternal/job/WI---Green-Bay/Data-Analyst-I--Breakthrough-_R3745",
+        "company_name": "U.S. Venture",
+        "title": "Data Analyst I",
+        "locations": [
+            "Green Bay, WI"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "2cbb9b88-7351-4dfc-ac0c-70bd0c1effc6",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Does Not Offer Sponsorship"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MD720-9861-Broken-Land-Pkwy-Columbia-9861-Broken-Land-Parkway-Suite-400-Columbia-MD-21046-USA/Cyber-Electronic-Warfare-Engineer_01782149",
+        "company_name": "RTX",
+        "title": "Cyber/Electronic Warfare Research Engineer I",
+        "locations": [
+            "Columbia, MD"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "6ddd59c0-21ac-4e72-894d-ab5682be9df6",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/IT-Software-Engineer-1_R250209",
+        "company_name": "DIRECTV",
+        "title": "IT Software Engineer 1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "6f8c51f3-31ba-434a-8f59-914de3c23785",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/6903058",
+        "company_name": "TripAdvisor",
+        "title": "Software Engineer I - Backend Focus - Viator",
+        "locations": [
+            "London, UK",
+            "Oxford, UK"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "10a0e7c6-2ce2-453b-9f93-8466d7cbc097",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Kansas-City-MO/Returning-New-Grad-Software-Engineer-I--Great-Lakes-Division--For-Current-Former-HNTB-Interns-Only_R-26770-1",
+        "company_name": "HNTB",
+        "title": "Returning New Grad Software Engineer I",
+        "locations": [
+            "Chicago, IL",
+            "Kansas City, MO",
+            "Overland Park, KS"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "45ca3c6f-4fc6-45e0-a76b-3024a0e72b01",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007&gh_src=",
+        "company_name": "Anduril Industries",
+        "title": "Early Career Software Engineer",
+        "locations": [
+            "Costa Mesa, CA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "28e49280-6352-46ce-9426-259596240748",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Does Not Offer Sponsorship"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4164476007?gh_jid=4164476007&gh_src=",
+        "company_name": "Anduril Industries",
+        "title": "Air Dominance & Strike - Flight Software Engineer, Embedded C/C++",
+        "locations": [
+            "Costa Mesa, CA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "f17f7754-99fc-48c6-afc2-da2067963cb3",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Does Not Offer Sponsorship"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4776690007?gh_jid=4776690007&gh_src=",
+        "company_name": "Anduril Industries",
+        "title": "Software Engineer, Connected Warfare",
+        "locations": [
+            "Costa Mesa, CA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "06c3e021-6650-47c5-b028-72dbe45095b4",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "U.S. Citizenship is Required"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/TX---Work-from-home/Associate-Cloud-Architect_R0619090",
+        "company_name": "CVS Health",
+        "title": "Associate Cloud Architect",
+        "locations": [
+            "Remote, TX"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "295841ad-3e6c-4f0c-8bbb-e14b57d3281b",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://remodelhealth.com/resources/job/?gh_jid=4880033008",
+        "company_name": "Remodel Health",
+        "title": "Junior Software Engineer",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "c9a38815-68ea-46d9-a9e0-807396e9173d",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Offers Sponsorship"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://ssctech.wd1.myworkdayjobs.com/en-US/ssctechnologies/job/Union-NJ/Junior-AI-Assisted-Software-Engineer_R36039",
+        "company_name": "SS&C",
+        "title": "Junior AI-Assisted Software Engineer",
+        "locations": [
+            "Union, NJ"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "73d540ab-b25d-4412-b906-0dcf29270afc",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Offers Sponsorship"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/Entry-Level-Controls---Software-Test-Engineer_R0000318546",
+        "company_name": "Solar Turbines",
+        "title": "Entry Level Controls & Software Test Engineer",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "927ab3e1-7e13-40ee-94ed-e4bc401490ed",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Does Not Offer Sponsorship"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/745-7th-Avenue-New-York/Quantitative-Analytics-Associate-Graduate-Program-2026-New-York_JR-0000060403",
+        "company_name": "Barclays",
+        "title": "Quantitative Analytics Associate Graduate Program",
+        "locations": [
+            "Manhattan, NY"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "0faac3d5-975e-4982-8964-12d2322d2b14",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Offers Sponsorship"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist---MET_Req153698-1",
+        "company_name": "The Home Depot",
+        "title": "Associate Data Scientist - MET",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "f080d3f4-a4e5-4ed1-bbbb-2520085cb96e",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Does Not Offer Sponsorship"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://apply.workable.com/scitec/j/45B1B9BA15/",
+        "company_name": "SciTec",
+        "title": "Associate / Staff Mission Data Analyst",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "2184fbcb-b496-4164-914a-29ab679015d2",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "U.S. Citizenship is Required"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://jobs.smartrecruiters.com/prosidianconsulting/743999691677974",
+        "company_name": "Prosidian Consulting",
+        "title": "ITSM IT Security Engineer I",
+        "locations": [
+            "Washington, DC"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "f1761f47-a16e-44fa-8004-93b662a52103",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://amainc.wd12.myworkdayjobs.com/en-US/ama_careers/job/Hampton-VA/AI-ML-Research-Associate_R-100359",
+        "company_name": "Analytical Mechanics Associates",
+        "title": "AI/ML Research Associate",
+        "locations": [
+            "Hampton, VA",
+            "Remote"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "68b1c0e8-6847-44b8-9db9-44e406bc351e",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "U.S. Citizenship is Required"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--New-Grad-_JR307625-1",
+        "company_name": "Salesforce",
+        "title": "Software Engineering AMTS - New Grad",
+        "locations": [
+            "Palo Alto, CA",
+            "Seattle, WA",
+            "SF",
+            "Bellevue, WA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "2211f930-6bf9-418f-88cb-6743fc6e1376",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4824364007",
+        "company_name": "Anduril",
+        "title": "Early Career Software Engineer",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "89f44120-f54c-47cb-bf54-e770d332eeb3",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4824378007",
+        "company_name": "Anduril",
+        "title": "Early Career Software Engineer",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "d438cdd8-4335-4e90-a7d4-9e2186e5301c",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Entry-level-Mainframe-Software-Development-Engineer_R023538",
+        "company_name": "Broadcom Limited",
+        "title": "Entry level Mainframe Software Development Engineer",
+        "locations": [
+            "Plano, TX"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "f97bd1f4-1d17-4f7e-908e-535a6ca2d53e",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://university-uber.icims.com/jobs/147250/job",
+        "company_name": "Uber",
+        "title": "New Grad 2025: Software Engineer I",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "4f0136c5-f568-421a-bdbb-c43d63efb9df",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Long-Beach-CA/Software-and-Electrical-Systems-Simulation-Integration-Engineer--Entry-Level-or-Associate-_JR2025463055-2",
+        "company_name": "Boeing",
+        "title": "Software and Electrical Systems Simulation Integration Engineer",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "c5ca65e6-04e0-4d73-b8f8-46edbc12949a",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Does Not Offer Sponsorship"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://careers-gannettfleming.icims.com/jobs/12404/entry-level-software-developer/job",
+        "company_name": "Gannett Fleming",
+        "title": "Entry Level Software Developer",
+        "locations": [
+            "San Diego, CA",
+            "Chicago, IL"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "6a43aabf-45df-4a04-9cca-191d81cc8a3e",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Does Not Offer Sponsorship"
+    },
+    {
+        "date_updated": 1755113970,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602803102071",
+        "company_name": "Boston Scientific",
+        "title": "Software Engineer I - Engineering - Development",
+        "locations": [
+            "Roseville, MN"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "21199592-f3a7-48ce-89cb-6ccd9ab3bbe9",
+        "date_posted": 1755113970,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
