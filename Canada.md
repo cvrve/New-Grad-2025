@@ -44,6 +44,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Global Relay** | Junior Software Developer Engineer in Test - C# | Vancouver, BC, Canada | <a href="https://www.globalrelay.com/careers/jobs?gh_jid=5616305004&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | **EvenUp** | Early Career Machine Learning Engineer | San Francisco, CA</br>Toronto, Canada | <a href="https://jobs.ashbyhq.com/evenup/fe3d36b4-696b-4c47-be72-2186b266035b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
 | **Clio** | Machine Learning Engineer | <details><summary>**4 locations**</summary>Remote</br>Toronto, Canada</br>Calgary, Canada</br>Vancouver, Canada</details> | <a href="https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Remote---Canada/Machine-Learning-Engineer_BF-REQ-3169?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
 | **DRW** | Options Execution Trader | Montreal, Canada | <a href="https://job-boards.greenhouse.io/drweng/jobs/7090734?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
