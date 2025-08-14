@@ -386,7 +386,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1744344065,
+        "date_updated": 1755183332,
         "url": "https://jobs.lever.co/palantir/08de0376-68e1-460b-bd4c-42b57f8a0ecc",
         "company_name": "Palantir",
         "title": "Forward Deployed Software Engineer - Build to Apply",
@@ -394,7 +394,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "33a9107c-942f-49c1-903a-5427ba075409",
         "date_posted": 1744344065,
@@ -402,7 +402,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1744344105,
+        "date_updated": 1755183332,
         "url": "https://jobs.lever.co/palantir/4d35c1a0-bbb7-4e97-b989-3a294c8be078",
         "company_name": "Palantir",
         "title": "Deployment Strategist - Build to Apply",
@@ -410,7 +410,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "52d98df0-2e34-4be9-907e-1fbf33e79bc7",
         "date_posted": 1744344105,
@@ -3250,7 +3250,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751051102,
+        "date_updated": 1755183416,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/ASIC-Design-Efficiency-Engineer---New-College-Grad-2026_JR1999430",
         "company_name": "NVIDIA",
         "title": "New Grad 2026: ASIC Design Efficiency Engineer",
@@ -3258,7 +3258,7 @@
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "8ea5b479-cb5f-4350-bf6b-c592af9b5dab",
         "date_posted": 1751051102,
@@ -3768,13 +3768,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751752027,
+        "date_updated": 1755183336,
         "url": "https://jobs.lever.co/belvederetrading/5494bf64-56bf-4a5b-b339-03e8af470ffc",
         "locations": [
             "Boulder, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Belvedere Trading",
         "title": "Machine Learning and Algorithm Developer",
         "source": "vanshb03",
@@ -4471,13 +4471,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753043437,
+        "date_updated": 1755183336,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7083333",
         "locations": [
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Benchling",
         "title": "Software Engineer, Full Stack (Lab Auto)",
         "source": "vanshb03",
@@ -5339,7 +5339,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753910626,
+        "date_updated": 1755183446,
         "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Product-Security-Engineer_JR305774",
         "locations": [
             "San Francisco, CA",
@@ -5347,7 +5347,7 @@
             "Bellevue, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Salesforce",
         "title": "Product Security Engineer",
         "source": "vanshb03",
@@ -6773,14 +6773,14 @@
         "sponsorship": "Offers Sponsorship"
     },
     {
-        "date_updated": 1755113970,
+        "date_updated": 1755183492,
         "url": "https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Union-NJ/Junior-AI-Assisted-Software-Engineer_R36039",
         "company_name": "SS&C",
         "title": "Junior AI-Assisted Software Engineer",
         "locations": [
             "South Orange, NJ"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "09e0939c-e64a-486a-9ae0-845760c43167",
         "date_posted": 1755113970,
@@ -7649,5 +7649,37 @@
         "date_posted": 1755122119,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755182907,
+        "url": "https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Cleveland-OH/XMLNAME-2026-Analytics-and-Quantitative-Modeling-Rotational-Analyst-Program---Cleveland_R-33876-1",
+        "company_name": "KeyBank",
+        "title": "Analytics and Quantitative Modeling Rotational Analyst Program",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "492a48d1-d31c-4ce1-b580-6884ca4d441f",
+        "date_posted": 1755182907,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Does Not Offer Sponsorship"
+    },
+    {
+        "date_updated": 1755182907,
+        "url": "https://triafed.com/jobs/?gh_jid=4881899008",
+        "company_name": "Tria Federal",
+        "title": "Data Analyst-Level I",
+        "locations": [
+            "Falls Church, VA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "239aa5b3-a22d-4eac-ae1f-7f6b5b2157de",
+        "date_posted": 1755182907,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "U.S. Citizenship is Required"
     }
 ]
