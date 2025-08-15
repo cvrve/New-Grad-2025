@@ -7681,5 +7681,184 @@
         "company_url": "",
         "is_visible": true,
         "sponsorship": "U.S. Citizenship is Required"
+    },
+    {
+        "date_updated": 1755266387,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer---Developer_JR2025462883",
+        "company_name": "The Boeing Company",
+        "title": "Entry Level Software Engineer - Developer",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "b7c64f8b-a307-41d7-8c54-a39e82eb0076",
+        "date_posted": 1755266387,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755266387,
+        "url": "https://joinbytedance.com/search/7535233571066349842",
+        "company_name": "ByteDance",
+        "title": "Software Engineer Graduate (Applied Machine Learning - MLDev) - 2026 Start (BS/MS)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "66e14e8c-c0d0-41b0-8e0d-45c8906cd9a2",
+        "date_posted": 1755266387,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Offers Sponsorship"
+    },
+    {
+        "date_updated": 1755266387,
+        "url": "https://joinbytedance.com/search/7532538236133902599",
+        "company_name": "ByteDance",
+        "title": "Software Engineer Graduate (Applied Machine Learning - Enterprise) - 2026 Start (BS/MS)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "83c3e650-4c9d-4574-ab96-37f283055208",
+        "date_posted": 1755266387,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Offers Sponsorship"
+    },
+    {
+        "date_updated": 1755266387,
+        "url": "https://joinbytedance.com/search/7536272435440716040",
+        "company_name": "ByteDance",
+        "title": "Software Engineer Graduate (Dev Infra) - 2026 Start (BS/MS)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "dd7f22d9-fa10-478d-9de5-bf7d8fecdc37",
+        "date_posted": 1755266387,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Offers Sponsorship"
+    },
+    {
+        "date_updated": 1755266387,
+        "url": "https://joinbytedance.com/search/7537121677185534216",
+        "company_name": "ByteDance",
+        "title": "Network Engineer Graduate (Edge Network) - 2026 Start (BS/ MS)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "2d2a42b1-8e78-44ee-b639-e2f1edfb2f69",
+        "date_posted": 1755266387,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Offers Sponsorship"
+    },
+    {
+        "date_updated": 1755266387,
+        "url": "https://zoll.wd5.myworkdayjobs.com/en-US/zollmedicalcorp/job/Chelmsford-MA/Software-Engineer-I---Embedded-Devices_R16418",
+        "company_name": "Zoll",
+        "title": "Software Engineer I - Embedded Devices",
+        "locations": [
+            "Chelmsford, MA",
+            "Parsippany, NJ"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "f84567a1-01bf-4d75-b273-c751e59781db",
+        "date_posted": 1755266387,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Does Not Offer Sponsorship"
+    },
+    {
+        "date_updated": 1755266387,
+        "url": "https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Colorado-Springs-Colorado/Software-Engineer-I_R2110482",
+        "company_name": "KBR",
+        "title": "Software Engineer I",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "c3fd60c9-93cf-492f-ab01-1ab0208d013a",
+        "date_posted": 1755266387,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "U.S. Citizenship is Required"
+    },
+    {
+        "date_updated": 1755266387,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/a08b2b5b-5bed-4b71-b925-800670b21fd5",
+        "company_name": "Jerry",
+        "title": "Software Engineer I",
+        "locations": [
+            "San Francisco, CA",
+            "Palo Alto, CA",
+            ""
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "95ce720a-c501-4b15-a12b-57ab1a424191",
+        "date_posted": 1755266387,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Offers Sponsorship"
+    },
+    {
+        "date_updated": 1755266387,
+        "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Round-Lake-Illinois/Software-Engineer-I_JR-181377-1",
+        "company_name": "Baxter",
+        "title": "Software Engineer I",
+        "locations": [
+            "Round Lake, IL"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "192bbcd0-3c39-4aff-9d36-64d667b1d478",
+        "date_posted": 1755266387,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Offers Sponsorship"
+    },
+    {
+        "date_updated": 1755266387,
+        "url": "https://careers-gdms.icims.com/jobs/67621/entry-level-software-engineer/job",
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Entry Level Software Engineer",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "7c44cf7b-6949-41eb-b57b-5d1b0228de19",
+        "date_posted": 1755266387,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "U.S. Citizenship is Required"
+    },
+    {
+        "date_updated": 1755266387,
+        "url": "https://choicehotels.wd5.myworkdayjobs.com/en-US/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1_R20319",
+        "company_name": "Choice Hotels",
+        "title": "Software Engineer 1",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "8aaf46db-3298-4910-8ee4-7a31d0c58c5a",
+        "date_posted": 1755266387,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Does Not Offer Sponsorship"
     }
 ]
