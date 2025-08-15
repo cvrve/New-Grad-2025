@@ -1099,7 +1099,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1746308279,
+        "date_updated": 1755266788,
         "url": "https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America/Big-Data-Tools-Engineer---Software-Dev-Engineer-I_JR0025664",
         "company_name": "Yahoo",
         "title": "Big Data Tools Engineer",
@@ -1107,7 +1107,7 @@
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "3fbf124b-1eee-4edc-889a-b4c467adf146",
         "date_posted": 1746308279,
@@ -3122,7 +3122,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751050345,
+        "date_updated": 1755266822,
         "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Software-Engineer-I_R0110441",
         "company_name": "USAA",
         "title": "Software Engineer I",
@@ -3130,7 +3130,7 @@
             "San Antonio, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "99850069-b69c-45ba-85e0-2f7f1efd54cd",
         "date_posted": 1751050345,
@@ -4859,13 +4859,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753480393,
+        "date_updated": 1755266856,
         "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Associate-Product-Manager--starting-summer-2026-_JR302144-2?source=LinkedIn_Jobs",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Salesforce",
         "title": "Associate Product Manager",
         "source": "vanshb03",
@@ -4923,13 +4923,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753910028,
+        "date_updated": 1755266862,
         "url": "https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/Associate-Product-Manager_REQ327312",
         "locations": [
             "Bellevue, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "T-Mobile",
         "title": "Associate Product Manager",
         "source": "vanshb03",
@@ -6263,13 +6263,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754558384,
+        "date_updated": 1755266875,
         "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/San-Francisco-CA-USA/Software-Engineer---New-Grad-2025_25WD89315",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Autodesk",
         "title": "New Grad 2025: Software Engineer",
         "source": "vanshb03",
@@ -6466,13 +6466,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754558811,
+        "date_updated": 1755266882,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Daytona-Beach-FL/Associate-Software-Engineer-Developer--Development-_JR2025466830-1",
         "locations": [
             "Daytona Beach, FL"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "The Boeing Company",
         "title": "Associate Software Engineer",
         "source": "vanshb03",
@@ -6725,14 +6725,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1755113970,
+        "date_updated": 1755266905,
         "url": "https://radiancetech.wd12.myworkdayjobs.com/en-US/radiance_external/job/Beavercreek-OH/Junior-Full-Stack-Software-Engineer_HR101733",
         "company_name": "Radiance Technologies",
         "title": "Junior Full Stack Software Engineer",
         "locations": [
             "Beavercreek, OH"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "71500ea8-e184-45ed-b125-e33bcee4d344",
         "date_posted": 1755113970,
@@ -6805,14 +6805,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1755113970,
+        "date_updated": 1755266916,
         "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Chicago-IL-USA/Software-Engineer--New-or-Recent-Graduate-_R250019232",
         "company_name": "BMO",
         "title": "Software Engineer",
         "locations": [
             "Chicago, IL"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "3e6b9600-16c5-4c88-a2b6-0337f55a153b",
         "date_posted": 1755113970,
