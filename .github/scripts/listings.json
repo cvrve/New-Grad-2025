@@ -7681,5 +7681,348 @@
         "company_url": "",
         "is_visible": true,
         "sponsorship": "U.S. Citizenship is Required"
+    },
+    {
+        "date_updated": 1755206165,
+        "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8091749002",
+        "locations": [
+            "Santa Clara, CA",
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "XPENG",
+        "title": "Autonomous Driving Center Full-Time Position",
+        "source": "vanshb03",
+        "id": "cc940ed1-70e0-4e00-8751-243789d8da4b",
+        "date_posted": 1755206165,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755347465,
+        "url": "https://joinbytedance.com/search/7535903852755814674",
+        "locations": [
+            "Seattle"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Site Reliability Engineer (Data Infrastructure)",
+        "source": "vanshb03",
+        "id": "81a013c8-6a39-4617-bc48-ed170561b14f",
+        "date_posted": 1755347465,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755347470,
+        "url": "https://joinbytedance.com/search/7538114876280817927",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2026: Cloud Network Engineer (Physical Network Infra)",
+        "source": "vanshb03",
+        "id": "cf14bb1a-7012-4877-a5a3-fce77b5f5ee9",
+        "date_posted": 1755347470,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755347481,
+        "url": "https://joinbytedance.com/search/7538109046751463688",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2026: Network Engineer (Physical Network Infra)",
+        "source": "vanshb03",
+        "id": "29f8054c-2e1d-41ed-85be-110be76378ec",
+        "date_posted": 1755347481,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755347488,
+        "url": "https://joinbytedance.com/search/7538106304578963730",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2026: Network Engineer (Physical Network Infra)",
+        "source": "vanshb03",
+        "id": "abd94d83-42cf-4869-9d0b-f2e6292f690d",
+        "date_posted": 1755347488,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755347506,
+        "url": "https://www.tesla.com/careers/search/job/248409",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer, Core Infrastructure, AI",
+        "source": "vanshb03",
+        "id": "a7f3aa67-8eef-44db-bc75-ca30fac1c2d6",
+        "date_posted": 1755347506,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755347510,
+        "url": "https://joinbytedance.com/search/7538433821165259015",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2026: Cloud Network Engineer (Physical Network Infra)",
+        "source": "vanshb03",
+        "id": "c3a3ac37-e1e9-4248-9ce3-7b050755466e",
+        "date_posted": 1755347510,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755347514,
+        "url": "https://joinbytedance.com/search/7538120693880834322",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2026: Software Engineer (Edge Platform)",
+        "source": "vanshb03",
+        "id": "dc734027-015b-4251-a7f9-91ba52c325f1",
+        "date_posted": 1755347514,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755347519,
+        "url": "https://lifeattiktok.com/search/7538325343598741767",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Software Engineer Graduate (Foundation Platform)",
+        "source": "vanshb03",
+        "id": "1e343c2e-d449-4973-a233-341f6dc83290",
+        "date_posted": 1755347519,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755347525,
+        "url": "https://lifeattiktok.com/search/7538318336657606930",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Software Engineer (Media Platform)",
+        "source": "vanshb03",
+        "id": "c9accb7e-57af-4a8e-8791-57a6f59be7e2",
+        "date_posted": 1755347525,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755347531,
+        "url": "https://lifeattiktok.com/search/7534982208201984274",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Machine Learning Engineer Graduate (TikTok Short Video Content Understanding/Multimodal Recommendation)",
+        "source": "vanshb03",
+        "id": "465bd0a3-2d43-49a2-b0f4-bca4f74d5ec4",
+        "date_posted": 1755347531,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755347539,
+        "url": "https://lifeattiktok.com/search/7538320612860446994",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Software Engineer (Media Engine)",
+        "source": "vanshb03",
+        "id": "917c9cbe-5e85-4e59-9a66-c43caf71e39e",
+        "date_posted": 1755347539,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755347544,
+        "url": "https://lifeattiktok.com/search/7538325771954637074",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Software Engineer (Live Service)",
+        "source": "vanshb03",
+        "id": "15875ba3-e367-4c34-97d2-0301c6b4dbfb",
+        "date_posted": 1755347544,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755347554,
+        "url": "https://www.sofi.com/careers/sofi-university/",
+        "locations": [
+            "Seattle, WA",
+            "Helena, MT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SoFi",
+        "title": "New Grad 2025: Fullstack Software Engineer",
+        "source": "vanshb03",
+        "id": "d6cf78de-6213-4463-9bd3-c2055e77408a",
+        "date_posted": 1755347554,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755347563,
+        "url": "https://jobs.lever.co/robinpowered/5b7a72e0-480a-49b6-a4cf-78ee0c6b6ce9",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Robin",
+        "title": "Associate Software Engineer (AI-Native)",
+        "source": "vanshb03",
+        "id": "dce3edea-af8e-48bc-bc34-766b5bb84b03",
+        "date_posted": 1755347563,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755347578,
+        "url": "https://www.disneycareers.com/en/job/-/-/391/85002977104",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Disney",
+        "title": "Software Engineer I",
+        "source": "vanshb03",
+        "id": "2119d1b9-d3e3-4295-80c0-db8711168fa4",
+        "date_posted": 1755347578,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755347611,
+        "url": "https://lifeattiktok.com/search/7538213896365689096",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Software Engineer (Commerce Ads)",
+        "source": "vanshb03",
+        "id": "d82e761e-ad6a-4494-9807-0831ea33399b",
+        "date_posted": 1755347611,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755347623,
+        "url": "https://job-boards.greenhouse.io/canonical/jobs/3257589",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Canonical",
+        "title": "Software Engineer - Python - Cloud",
+        "source": "vanshb03",
+        "id": "f115e032-276b-4548-8323-77ddbdd7fe63",
+        "date_posted": 1755347623,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755347639,
+        "url": "https://paypal.eightfold.ai/careers/job/274908696559",
+        "locations": [
+            "San Jose, CA",
+            "Chicago, IL",
+            "Omaha, NE",
+            "Scottsdale, AZ",
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PayPal",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "e6258771-e16d-4fe7-81ba-13529ec7f8a8",
+        "date_posted": 1755347639,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755347665,
+        "url": "https://jobs.ashbyhq.com/notion/4b10e40a-6136-4efe-8b05-cad43458e9e9",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Notion",
+        "title": "Software Engineer, Search Platform",
+        "source": "vanshb03",
+        "id": "5339fcd6-9667-4795-920e-046a0f8b74b3",
+        "date_posted": 1755347665,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755347671,
+        "url": "https://job-boards.greenhouse.io/chime/jobs/8101747002",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Chime",
+        "title": "New Grad: Product Security Engineer",
+        "source": "vanshb03",
+        "id": "4ffa750b-5624-40f5-906c-08867909d3ca",
+        "date_posted": 1755347671,
+        "company_url": "",
+        "is_visible": true
     }
 ]
