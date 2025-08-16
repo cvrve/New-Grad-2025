@@ -6482,13 +6482,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754558833,
+        "date_updated": 1755347370,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Software-Development-Engineer_R157704",
         "locations": [
             "Lehi, UT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Adobe",
         "title": "Software Development Engineer",
         "source": "vanshb03",
@@ -6821,7 +6821,7 @@
         "sponsorship": "Offers Sponsorship"
     },
     {
-        "date_updated": 1755113970,
+        "date_updated": 1755347404,
         "url": "https://directv.wd1.myworkdayjobs.com/en-US/careers/job/El-Segundo-CA/IT-Software-Engineer-1_R250209",
         "company_name": "DIRECTV",
         "title": "IT Software Engineer 1",
@@ -6829,7 +6829,7 @@
             "El Segundo, CA",
             "Remote in USA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "218372ad-8933-4b6e-8bbc-bfdcdb9a1a65",
         "date_posted": 1755113970,
@@ -6902,14 +6902,14 @@
         "sponsorship": "Does Not Offer Sponsorship"
     },
     {
-        "date_updated": 1755113970,
+        "date_updated": 1755347427,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MD720-9861-Broken-Land-Pkwy-Columbia-9861-Broken-Land-Parkway-Suite-400-Columbia-MD-21046-USA/Cyber-Electronic-Warfare-Engineer_01782149",
         "company_name": "RTX",
         "title": "Cyber/Electronic Warfare Research Engineer I",
         "locations": [
             "Columbia, MD"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "6ddd59c0-21ac-4e72-894d-ab5682be9df6",
         "date_posted": 1755113970,
@@ -7049,14 +7049,14 @@
         "sponsorship": "Offers Sponsorship"
     },
     {
-        "date_updated": 1755113970,
+        "date_updated": 1755347455,
         "url": "https://ssctech.wd1.myworkdayjobs.com/en-US/ssctechnologies/job/Union-NJ/Junior-AI-Assisted-Software-Engineer_R36039",
         "company_name": "SS&C",
         "title": "Junior AI-Assisted Software Engineer",
         "locations": [
             "Union, NJ"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "73d540ab-b25d-4412-b906-0dcf29270afc",
         "date_posted": 1755113970,
@@ -7081,14 +7081,14 @@
         "sponsorship": "Does Not Offer Sponsorship"
     },
     {
-        "date_updated": 1755113970,
+        "date_updated": 1755347471,
         "url": "https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/745-7th-Avenue-New-York/Quantitative-Analytics-Associate-Graduate-Program-2026-New-York_JR-0000060403",
         "company_name": "Barclays",
         "title": "Quantitative Analytics Associate Graduate Program",
         "locations": [
             "Manhattan, NY"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "0faac3d5-975e-4982-8964-12d2322d2b14",
         "date_posted": 1755113970,
