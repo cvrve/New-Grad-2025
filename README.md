@@ -403,7 +403,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Corgi - YC** | Junior Full Stack Engineer | San Francisco, CA | <a href="https://www.ycombinator.com/companies/corgi/jobs/i4ErH1r-junior-full-stack-engineer-we-work-7-days-a-week?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
 | **Amazon** | System Development Engineer, Project Kuiper | Redmond, WA | <a href="https://www.amazon.jobs/en/jobs/2945843/system-development-engineer-project-kuiper?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
 | **Qualcomm** | Embedded DSP Software Engineer | San Diego, CA | <a href="https://careers.qualcomm.com/careers/job/446704474013?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
-| **Netflix** | Software Engineer, Cloud Security | Remote</br>US | <a href="https://explore.jobs.netflix.net/careers/job/790301953900?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
+| **Netflix** | Software Engineer, Cloud Security | Remote</br>US | 🔒 | Mar 31 |
 | **SS&C** | Junior AI-Assisted Software Engineer | Union, NJ | 🔒 | Aug 13 |
 | **SS&C** | Junior AI-Assisted Software Engineer | South Orange, NJ | 🔒 | Aug 13 |
 | **RTX** | Cyber/Electronic Warfare Research Engineer I | Columbia, MD | 🔒 | Aug 13 |
