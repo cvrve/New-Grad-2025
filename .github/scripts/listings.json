@@ -194,7 +194,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1743854185,
+        "date_updated": 1755438040,
         "url": "https://www.ycombinator.com/companies/corgi/jobs/i4ErH1r-junior-full-stack-engineer-we-work-7-days-a-week",
         "company_name": "Corgi - YC",
         "title": "Junior Full Stack Engineer",
@@ -202,7 +202,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "ec5ff8fc-6224-454b-be74-be4bc32d94d4",
         "date_posted": 1743854185,
@@ -210,7 +210,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1743854228,
+        "date_updated": 1755438040,
         "url": "https://www.ycombinator.com/companies/corgi/jobs/tuERhvX-sde-i-engineer-we-work-7-days-a-week",
         "company_name": "Corgi - YC",
         "title": "SDE I Engineer",
@@ -218,7 +218,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "9fdb930c-32b9-401a-b199-74be274cf103",
         "date_posted": 1743854228,
@@ -1414,7 +1414,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1747461402,
+        "date_updated": 1755438041,
         "url": "https://www.ycombinator.com/companies/furtherai/jobs/7GSUCXy-software-ai-engineer-new-grad",
         "company_name": "FurtherAI",
         "title": "New Grad: Software/AI Engineer",
@@ -1422,7 +1422,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "96998a15-41d7-4313-9eda-894bdbc3e708",
         "date_posted": 1747461402,
