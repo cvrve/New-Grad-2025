@@ -36,12 +36,12 @@ def getLink(listing):
         return "🔒"
     link = listing["url"] 
     if "?" not in link:
-        link += "?utm_source=cvrve"
+        link += "?utm_source=vansh"
     else:
-        link += "&utm_source=cvrve&ref=cvrve"
+        link += "&utm_source=vansh&ref=vansh"
     # return f'<a href="{link}" style="display: inline-block;"><img src="{SHORT_APPLY_BUTTON}" width="160" alt="Apply"></a>'
 
-    if listing["source"] != "cvrve":
+    if listing["source"] != "vansh":
         return f'<a href="{link}"><img src="{LONG_APPLY_BUTTON}" width="118" alt="Apply"></a>'
     
     return f'<a href="{link}"><img src="{LONG_APPLY_BUTTON}" width="118" alt="Apply"></a>'

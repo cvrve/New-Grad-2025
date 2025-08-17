@@ -8122,5 +8122,183 @@
         "company_url": "",
         "is_visible": true,
         "sponsorship": "U.S. Citizenship is Required"
+    },
+    {
+        "date_updated": 1755437565,
+        "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Software-Developer---New-Grad-2025_R028667-1",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ciena",
+        "title": "New Grad 2025: Software Developer",
+        "source": "vanshb03",
+        "id": "9078e324-71d0-4da7-8722-64b8704d9a03",
+        "date_posted": 1755437565,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755437574,
+        "url": "https://careers.unitedhealthgroup.com/job/22310390/associate-software-engineer-vancouver-ca/",
+        "locations": [
+            "Vancouver, Canada",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Optum",
+        "title": "Associate Software Engineer",
+        "source": "vanshb03",
+        "id": "72b53a98-e043-49c1-9fa0-f7f336782d69",
+        "date_posted": 1755437574,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755437585,
+        "url": "https://careers.amd.com/careers-home/jobs/68783",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AMD",
+        "title": "Firmware Security Engineer",
+        "source": "vanshb03",
+        "id": "e5f7c136-51a4-4acf-adf4-f6ebc856a528",
+        "date_posted": 1755437585,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755437599,
+        "url": "https://careers.amd.com/careers-home/jobs/68831",
+        "locations": [
+            "Markham, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AMD",
+        "title": "ROCm AI - GPU Software Engineer",
+        "source": "vanshb03",
+        "id": "c26a0ef3-976c-40d7-915b-06b6fa50096b",
+        "date_posted": 1755437599,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755437606,
+        "url": "https://ats.rippling.com/en-CA/neo-financial/jobs/a2fd15b5-5bee-483e-b28f-66980dad691b",
+        "locations": [
+            "Calgary, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Neo Financial",
+        "title": "Software Developer",
+        "source": "vanshb03",
+        "id": "5903831a-0fc0-4f55-b1aa-84f17c9aa93f",
+        "date_posted": 1755437606,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755437613,
+        "url": "https://zoom.wd5.myworkdayjobs.com/Zoom/job/Remote-OR/Software-Engineer_R17090-1",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoom",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "a656e80d-96b0-439d-abf1-f0d413c32108",
+        "date_posted": 1755437613,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755437620,
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8096528002",
+        "locations": [
+            "Remote, Canada",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GitLab",
+        "title": "Associate Security Engineer, Application Security",
+        "source": "vanshb03",
+        "id": "f24f35de-928c-4544-b533-25ef94f38a25",
+        "date_posted": 1755437620,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755437627,
+        "url": "https://careers.codan.com.au/job/Victoria-Associate-Software-Engineer-Cana/1213160701/",
+        "locations": [
+            "Victoria, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Codan Limited",
+        "title": "Associate Software Engineer",
+        "source": "vanshb03",
+        "id": "7ae020d7-b078-4c1b-a5c8-62a38df6efa3",
+        "date_posted": 1755437627,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755437637,
+        "url": "https://www.okta.com/company/careers/product/software-engineer-i-7169515/",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Okta",
+        "title": "Software Engineer I",
+        "source": "vanshb03",
+        "id": "e0a4bc37-7764-4733-b331-b45878eced60",
+        "date_posted": 1755437637,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755437648,
+        "url": "https://careers.mastercard.com/us/en/job/MASRUSR258140EXTERNALENUS/Software-Engineer-I-Backend-Java",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mastercard",
+        "title": "Software Engineer I (Backend - Java)",
+        "source": "vanshb03",
+        "id": "9b325237-1089-4fe9-bc46-761741dd27e0",
+        "date_posted": 1755437648,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755437654,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer-2026_R223364",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Capital One",
+        "title": "Associate, Software Engineer",
+        "source": "vanshb03",
+        "id": "6f723b54-08be-40ed-a4ac-c0861a6c63c1",
+        "date_posted": 1755437654,
+        "company_url": "",
+        "is_visible": true
     }
 ]
