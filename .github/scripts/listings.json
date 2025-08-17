@@ -8024,5 +8024,103 @@
         "date_posted": 1755347671,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755437357,
+        "url": "https://l2tmediallc.applytojob.com/apply/b2dvJrHuSV/Junior-Digital-Media-Data-Analyst",
+        "company_name": "L2TMedia",
+        "title": "Junior Digital Media Data Analyst",
+        "locations": [
+            "Evanston, IL"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "a3eb540e-b3a2-4b07-92d4-9d2aab178ea8",
+        "date_posted": 1755437357,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Offers Sponsorship"
+    },
+    {
+        "date_updated": 1755437357,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Associate-Data-Analyst_10128347",
+        "company_name": "Disney",
+        "title": "Associate Data Analyst",
+        "locations": [
+            "Burbank, CA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "489e4838-85b8-4acc-860d-4a6e3ea16f5f",
+        "date_posted": 1755437357,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Offers Sponsorship"
+    },
+    {
+        "date_updated": 1755437357,
+        "url": "https://apply.workable.com/qodeworld/j/5718A36818/",
+        "company_name": "qode.world",
+        "title": "Junior Software Developer",
+        "locations": [
+            "NJ"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "7aee39c5-1b93-4696-9cd5-cef9c161d16b",
+        "date_posted": 1755437357,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Offers Sponsorship"
+    },
+    {
+        "date_updated": 1755437357,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Vermont---Essex-Junction/Manufacturing-Software-Engineer--Test-Program-Applications---Automation--2026-New-College-Graduate_JR-2502329",
+        "company_name": "GlobalFoundries",
+        "title": "Manufacturing Software Engineer, Test Program Applications & Automation",
+        "locations": [
+            "Essex Junction, VT"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "73320160-7375-400d-9bf7-739e33d8032a",
+        "date_posted": 1755437357,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Offers Sponsorship"
+    },
+    {
+        "date_updated": 1755437357,
+        "url": "https://jobs.baesystems.com/global/en/job/BAE1US115338BREXTERNAL/Junior-Software-Engineer",
+        "company_name": "BAE Systems",
+        "title": "Junior Software Engineer",
+        "locations": [
+            "Hill AFB, UT"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "78d451b7-7d85-4d58-a03f-5254f0620fac",
+        "date_posted": 1755437357,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "U.S. Citizenship is Required"
+    },
+
+    {
+        "date_updated": 1755437357,
+        "url": "https://www.sofi.com/careers/sofi-university/6678813003?gh_jid=6678813003",
+        "company_name": "SoFi",
+        "title": "New Grad: Fullstack Software Engineer, Home Loans",
+        "locations": [
+            "Seattle, WA",
+            "Helena, MT"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "83765dd0-a06d-4266-bb7d-9b2c11b0ab3a",
+        "date_posted": 1755437357,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "U.S. Citizenship is Required"
     }
 ]
