@@ -303,7 +303,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Tesla** | Technical Artist, UI Design | Hawthorne, CA | <a href="https://www.tesla.com/careers/search/job/239333?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 30 |
 | **Qualtrics** | Software Engineer I, Employee Experience | Seattle, WA | <a href="https://www.qualtrics.com/careers/us/en/job/QUALUS6957175EXTERNALENUS/Software-Engineer-I-Employee-Experience?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 30 |
 | **Qualcomm** | Display SW Engineer | San Diego, CA | <a href="https://careers.qualcomm.com/careers/job/446706463987?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 30 |
-| **OpenEye** | Software Engineer | Liberty Lake, WA | <a href="https://job-boards.greenhouse.io/openeye/jobs/8050484002?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 30 |
 | **HashiCorp** | Backend Engineer - Enterprise Identity | Remote</br>US | <a href="https://www.hashicorp.com/en/career/6914251?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 30 |
 | **CVS Health** | Associate Software Engineer | Irving, TX | <a href="https://jobs.cvshealth.com/us/en/job/CVSCHLUSR0632604EXTERNALENUS/Associate-Software-Engineer?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 30 |
 | **Citi** | Software Engineer | Tampa, FL | <a href="https://jobs.citi.com/job/-/-/287/79829803904?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 30 |
@@ -410,7 +409,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Corgi - YC** | Junior Full Stack Engineer | San Francisco, CA | <a href="https://www.ycombinator.com/companies/corgi/jobs/i4ErH1r-junior-full-stack-engineer-we-work-7-days-a-week?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
 | **Amazon** | System Development Engineer, Project Kuiper | Redmond, WA | <a href="https://www.amazon.jobs/en/jobs/2945843/system-development-engineer-project-kuiper?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
 | **Qualcomm** | Embedded DSP Software Engineer | San Diego, CA | <a href="https://careers.qualcomm.com/careers/job/446704474013?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
-| **Netflix** | Software Engineer, Cloud Security | Remote</br>US | <a href="https://explore.jobs.netflix.net/careers/job/790301953900?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
 | **SS&C** | Junior AI-Assisted Software Engineer | Union, NJ | 🔒 | Aug 13 |
 | **SS&C** | Junior AI-Assisted Software Engineer | South Orange, NJ | 🔒 | Aug 13 |
 | **RTX** | Cyber/Electronic Warfare Research Engineer I | Columbia, MD | 🔒 | Aug 13 |
@@ -434,6 +432,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **NVIDIA** | New Grad 2025: ASIC Design Engineer | Santa Clara, CA | 🔒 | Jul 05 |
 | **Galatea Associates** | Software Engineer Associate 🛂 | <details><summary>**4 locations**</summary>Somerville, MA</br>St. Petersburg, FL</br>Durham, NC</br>London, UK</details> | 🔒 | Jul 05 |
 | **Belvedere Trading** | Machine Learning and Algorithm Developer | Boulder, CO | 🔒 | Jul 05 |
+| **OpenEye** | Software Engineer | Liberty Lake, WA | 🔒 | Jun 30 |
 | **NVIDIA** | New Grad 2025: ASIC Design Engineer | Santa Clara, CA | 🔒 | Jun 30 |
 | **KLA** | New Grad: Software Engineer | Milpitas, CA | 🔒 | Jun 30 |
 | **USAA** | Software Engineer I | San Antonio, TX | 🔒 | Jun 27 |
@@ -522,6 +521,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Blue Origin** | New Grad 2025: Software Development Engineer I | <details><summary>**6 locations**</summary>Seattle, WA</br>Van Horn, TX</br>Huntsville, AL</br>Denver, CO</br>Space Coast, FL</br>Los Angeles, CA</details> | 🔒 | Apr 05 |
 | **Bloomberg** | Software Engineer, Associate | Arlington, VA | 🔒 | Apr 05 |
 | **Red Hat** | Software Quality Engineer | Raleigh, NC | 🔒 | Mar 31 |
+| **Netflix** | Software Engineer, Cloud Security | Remote</br>US | 🔒 | Mar 31 |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
 [⬆️ Back to Top ⬆️](https://github.com/cvrve/New-Grad#the-list-)
