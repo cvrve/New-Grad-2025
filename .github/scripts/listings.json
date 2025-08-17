@@ -32,7 +32,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1743416023,
+        "date_updated": 1755437821,
         "url": "https://explore.jobs.netflix.net/careers/job/790301953900",
         "company_name": "Netflix",
         "title": "Software Engineer, Cloud Security",
@@ -41,7 +41,7 @@
             "US"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "09c8ec92-f735-42fd-b7bc-2fba1c889d1b",
         "date_posted": 1743416023,
@@ -3362,7 +3362,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751245116,
+        "date_updated": 1755437821,
         "url": "https://job-boards.greenhouse.io/openeye/jobs/8050484002",
         "company_name": "OpenEye",
         "title": "Software Engineer",
@@ -3370,7 +3370,7 @@
             "Liberty Lake, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "43378415-1be0-4404-bea6-87a1939bc2d3",
         "date_posted": 1751245116,
@@ -8105,7 +8105,6 @@
         "is_visible": true,
         "sponsorship": "U.S. Citizenship is Required"
     },
-
     {
         "date_updated": 1755437357,
         "url": "https://www.sofi.com/careers/sofi-university/6678813003?gh_jid=6678813003",
