@@ -368,7 +368,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Garmin** | C#/.NET Software Engineer 1 | Cary, NC | <a href="https://careers.garmin.com/careers-home/jobs/15924?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 23 |
 | **Apple** | Cellular Platform Software Engineer, Embedded Analytics | Sunnyvale, CA | <a href="https://jobs.apple.com/en-us/details/200605754/cellular-platform-software-engineer-embedded-analytics?team=SFTWR&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 23 |
 | **Adobe** | Software Development Engineer | San Jose, CA | <a href="https://careers.adobe.com/us/en/job/ADOBUSR155500EXTERNALENUS/Software-Development-Engineer?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 23 |
-| **FurtherAI** | New Grad: Software/AI Engineer | San Francisco, CA | <a href="https://www.ycombinator.com/companies/furtherai/jobs/7GSUCXy-software-ai-engineer-new-grad?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 17 |
 | **Esri** | C++ Software Engineer I, Maps SDKs | Redlands, CA | <a href="https://www.esri.com/careers/4735889007?gh_jid=4735889007&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 17 |
 | **Doppel** | Software Engineer | San Francisco, CA</br>New York, NY | <a href="https://www.doppel.com/jobs?ashby_jid=07905bfc-1c21-465d-a6bb-39ef71744c3d&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 17 |
 | **Cloudflare** | Access Software Engineer | Austin, TX | <a href="https://job-boards.greenhouse.io/cloudflare/jobs/6886051?gh_jid=6886051&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 17 |
@@ -405,8 +404,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Roblox** | Software Engineer, Builder Tools | San Mateo, CA | <a href="https://careers.roblox.com/jobs/6759944?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
 | **Qualtrics** | Machine Learning Engineer I | Seattle, WA | <a href="https://www.qualtrics.com/careers/us/en/job/6774164/Machine-Learning-Engineer-I-Data-Insights?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
 | **Microsoft** | Software Engineer, Fullstack | Charlotte, NC | <a href="https://jobs.careers.microsoft.com/us/en/job/1816830/Software-Engineer-Fullstack-Charlotte?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
-| **Corgi - YC** | SDE I Engineer | San Francisco, CA | <a href="https://www.ycombinator.com/companies/corgi/jobs/tuERhvX-sde-i-engineer-we-work-7-days-a-week?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
-| **Corgi - YC** | Junior Full Stack Engineer | San Francisco, CA | <a href="https://www.ycombinator.com/companies/corgi/jobs/i4ErH1r-junior-full-stack-engineer-we-work-7-days-a-week?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
 | **Amazon** | System Development Engineer, Project Kuiper | Redmond, WA | <a href="https://www.amazon.jobs/en/jobs/2945843/system-development-engineer-project-kuiper?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
 | **Qualcomm** | Embedded DSP Software Engineer | San Diego, CA | <a href="https://careers.qualcomm.com/careers/job/446704474013?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
 | **SS&C** | Junior AI-Assisted Software Engineer | Union, NJ | 🔒 | Aug 13 |
@@ -484,6 +481,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Cloudflare** | Software Engineer, Network Protocols | Austin, TX | 🔒 | May 23 |
 | **Boston Dynamics** | Software Engineer | Waltham, MA | 🔒 | May 23 |
 | **Truist** | Testing Software Engineer I | Charlotte, NC | 🔒 | May 17 |
+| **FurtherAI** | New Grad: Software/AI Engineer | San Francisco, CA | 🔒 | May 17 |
 | **CACI** | Software Engineer 1 | Annapolis Junction, MD | 🔒 | May 17 |
 | **NVIDIA** | New Grad 2025: ASIC Verification Engineer | Durham, NC</br>Madison, AL | 🔒 | May 15 |
 | **Mixpanel** | Software Engineer, Fullstack | San Francisco, CA | 🔒 | May 15 |
@@ -518,6 +516,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Nordstrom** | Developer Tools Support Engineer 1 | Seattle, WA | 🔒 | Apr 08 |
 | **NVIDIA** | New Grad 2025: Deep Learning Computer Architect | Santa Clara, CA | 🔒 | Apr 05 |
 | **Layup Parts** | New Grad: Software Engineer | Huntington Beach, CA | 🔒 | Apr 05 |
+| **Corgi - YC** | Junior Full Stack Engineer | San Francisco, CA | 🔒 | Apr 05 |
+| **Corgi - YC** | SDE I Engineer | San Francisco, CA | 🔒 | Apr 05 |
 | **Blue Origin** | New Grad 2025: Software Development Engineer I | <details><summary>**6 locations**</summary>Seattle, WA</br>Van Horn, TX</br>Huntsville, AL</br>Denver, CO</br>Space Coast, FL</br>Los Angeles, CA</details> | 🔒 | Apr 05 |
 | **Bloomberg** | Software Engineer, Associate | Arlington, VA | 🔒 | Apr 05 |
 | **Red Hat** | Software Quality Engineer | Raleigh, NC | 🔒 | Mar 31 |
