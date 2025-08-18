@@ -8299,5 +8299,56 @@
         "date_posted": 1755437654,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755523369,
+        "url": "https://ats.rippling.com/en-CA/edgehog-trading/jobs/a39cf004-d79c-4588-9a5f-6bdce04a85ee",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Edgehog Trading",
+        "title": "C++ Software Developer – Trading Strategy Execution",
+        "source": "vanshb03",
+        "id": "98f74da1-e1e2-4ec0-aa59-8b8dceff78b7",
+        "date_posted": 1755523369,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755523390,
+        "url": "https://jobs.ashbyhq.com/cohere/b470a959-e111-4a65-a8eb-5665b24d48b5",
+        "locations": [
+            "Toronto, Canada",
+            "Montreal",
+            "New York, NY",
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cohere",
+        "title": "Full-Stack Senior Engineer (Front-End Leaning)",
+        "source": "vanshb03",
+        "id": "22e8dceb-d0b7-4d54-9b1c-ce7577ce1b7a",
+        "date_posted": 1755523390,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755523398,
+        "url": "https://app.dover.com/apply/wanderlog/8c09ee66-6444-42d4-b2dc-1029b2f9b23d",
+        "locations": [
+            "Remote, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wanderlog",
+        "title": "Full-Stack Software Engineer",
+        "source": "vanshb03",
+        "id": "c8b420f0-5746-43b8-8938-2c0df5fbc40b",
+        "date_posted": 1755523398,
+        "company_url": "",
+        "is_visible": true
     }
 ]
