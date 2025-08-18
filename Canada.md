@@ -44,6 +44,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Wanderlog** | Full-Stack Software Engineer | Remote, Canada | <a href="https://app.dover.com/apply/wanderlog/8c09ee66-6444-42d4-b2dc-1029b2f9b23d?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 18 |
+| **Cohere** | Full-Stack Senior Engineer (Front-End Leaning) | <details><summary>**4 locations**</summary>Toronto, Canada</br>Montreal</br>New York, NY</br>Vancouver, Canada</details> | <a href="https://jobs.ashbyhq.com/cohere/b470a959-e111-4a65-a8eb-5665b24d48b5?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 18 |
 | **Optum** | Associate Software Engineer | Vancouver, Canada</br>Remote | <a href="https://careers.unitedhealthgroup.com/job/22310390/associate-software-engineer-vancouver-ca/?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 17 |
 | **Okta** | Software Engineer I | Toronto, Canada | <a href="https://www.okta.com/company/careers/product/software-engineer-i-7169515/?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 17 |
 | **Neo Financial** | Software Developer | Calgary, Canada | <a href="https://ats.rippling.com/en-CA/neo-financial/jobs/a2fd15b5-5bee-483e-b28f-66980dad691b?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 17 |
