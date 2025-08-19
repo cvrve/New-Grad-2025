@@ -8350,5 +8350,181 @@
         "date_posted": 1755523398,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755612684,
+        "url": "https://careers.qualcomm.com/careers/job/446707442096",
+        "locations": [
+            "Markham, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm Canada ULC",
+        "title": "CPU Software Telemetry Tools Developer",
+        "source": "vanshb03",
+        "id": "84e2491a-a13b-4992-83cf-2a5feec3d600",
+        "date_posted": 1755612684,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755612691,
+        "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Concord-Ontario-CA/Jr-AI-Engineer_R00205631",
+        "locations": [
+            "Concord, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Magna",
+        "title": "AI Engineer",
+        "source": "vanshb03",
+        "id": "37dd83e6-84fa-45d3-a04b-ff54656decd2",
+        "date_posted": 1755612691,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755612698,
+        "url": "https://job-boards.greenhouse.io/lightspeedhq/jobs/7175449",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lightspeed",
+        "title": "Software Developer",
+        "source": "vanshb03",
+        "id": "85f426fd-373f-40f0-9a62-24743e3ba945",
+        "date_posted": 1755612698,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755612704,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Scientist_R223371",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Capital One",
+        "title": "Associate, Data Scientist",
+        "source": "vanshb03",
+        "id": "4793a160-5ae9-4b7b-9af5-febe1b6c74cb",
+        "date_posted": 1755612704,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755612780,
+        "url": "https://lifeattiktok.com/search/7538571931517159698",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Special Project Strategist Graduate (TikTok Shop - Operations)",
+        "source": "vanshb03",
+        "id": "1f6b6533-7d24-44a5-8b6e-5fd9303afeba",
+        "date_posted": 1755612780,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755612787,
+        "url": "https://lifeattiktok.com/search/7538896306908252434",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Product Manager Ads Attribution and Measurement Graduate (Measurement Signal and Privacy Product)",
+        "source": "vanshb03",
+        "id": "4dfe9bc3-99eb-47f9-8415-1ba4a69328c0",
+        "date_posted": 1755612787,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755612826,
+        "url": "https://lifeattiktok.com/search/7538903496654407943",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Product Manager Ads Measurement Graduate (Measurement Signal and Privacy Product)",
+        "source": "vanshb03",
+        "id": "ed21583f-1a7a-4a5e-97da-c1098ca6c388",
+        "date_posted": 1755612826,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755612835,
+        "url": "https://joinbytedance.com/search/7265752342699837757",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2026: Software Engineer in ML Systems",
+        "source": "vanshb03",
+        "id": "4975d404-56c6-48ca-b7c8-65e58a26f2c5",
+        "date_posted": 1755612835,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755612852,
+        "url": "https://joinbytedance.com/search/7536272435440716040",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2026: Software Engineer (Dev Infra)",
+        "source": "vanshb03",
+        "id": "4e18e352-0345-4532-a8ca-1f1ab3448608",
+        "date_posted": 1755612852,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755612858,
+        "url": "https://lifeattiktok.com/search/7535871317771634952",
+        "locations": [
+            "Seattle"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Software Engineer Graduate (Data Arch - E-commerce)",
+        "source": "vanshb03",
+        "id": "3499d2d8-5d25-497b-a7d7-554a83e9f31e",
+        "date_posted": 1755612858,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755612863,
+        "url": "https://lifeattiktok.com/search/7538319953965287698",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Software Engineer Graduate (Video-on-Demand Algorithm)",
+        "source": "vanshb03",
+        "id": "41609643-f4cd-48f7-b085-dd54d1c0618f",
+        "date_posted": 1755612863,
+        "company_url": "",
+        "is_visible": true
     }
 ]
