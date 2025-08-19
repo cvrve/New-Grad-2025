@@ -44,6 +44,10 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Qualcomm Canada ULC** | CPU Software Telemetry Tools Developer | Markham, Canada | <a href="https://careers.qualcomm.com/careers/job/446707442096?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
+| **Magna** | AI Engineer | Concord, Canada | <a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Concord-Ontario-CA/Jr-AI-Engineer_R00205631?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
+| **Lightspeed** | Software Developer | Montreal, Canada | <a href="https://job-boards.greenhouse.io/lightspeedhq/jobs/7175449?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
+| **Capital One** | Associate, Data Scientist | Toronto, Canada | <a href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Scientist_R223371?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | **Wanderlog** | Full-Stack Software Engineer | Remote, Canada | <a href="https://app.dover.com/apply/wanderlog/8c09ee66-6444-42d4-b2dc-1029b2f9b23d?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 18 |
 | **Cohere** | Full-Stack Senior Engineer (Front-End Leaning) | <details><summary>**4 locations**</summary>Toronto, Canada</br>Montreal</br>New York, NY</br>Vancouver, Canada</details> | <a href="https://jobs.ashbyhq.com/cohere/b470a959-e111-4a65-a8eb-5665b24d48b5?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 18 |
 | **Optum** | Associate Software Engineer | Vancouver, Canada</br>Remote | <a href="https://careers.unitedhealthgroup.com/job/22310390/associate-software-engineer-vancouver-ca/?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 17 |
