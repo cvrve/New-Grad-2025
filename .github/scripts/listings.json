@@ -8526,5 +8526,53 @@
         "date_posted": 1755612863,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755699751,
+        "url": "https://www.tesla.com/careers/search/job/248886",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "AI Engineer, Multimodal Model Optimization, Autonomy & Robotics",
+        "source": "vanshb03",
+        "id": "87ef5d84-b39e-4b31-b0b1-6d967b834d1d",
+        "date_posted": 1755699751,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755699760,
+        "url": "https://www.tesla.com/careers/search/job/242064",
+        "locations": [
+            "SPARKS, Nevada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer, Manufacturing Test",
+        "source": "vanshb03",
+        "id": "34a70041-c134-4616-9426-de7ff4cd3bc9",
+        "date_posted": 1755699760,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755699809,
+        "url": "https://www.tesla.com/careers/search/job/225609",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer, Optimus",
+        "source": "vanshb03",
+        "id": "7a25bead-3744-4dfb-a5fe-5920d51b63ca",
+        "date_posted": 1755699809,
+        "company_url": "",
+        "is_visible": true
     }
 ]
