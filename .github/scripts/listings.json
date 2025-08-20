@@ -1936,7 +1936,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748135688,
+        "date_updated": 1755699011,
         "url": "https://baincapital.wd1.myworkdayjobs.com/External_Public/job/Boston/XMLNAME-2026-Analyst--Tech-Opps_REQ_107847",
         "company_name": "BainCapital",
         "title": "New Grad 2026: Tech Opps Analyst",
@@ -1944,7 +1944,7 @@
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "0910874b-4cc5-48a7-b902-9d278341c101",
         "date_posted": 1748135688,
@@ -4306,13 +4306,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1752526203,
+        "date_updated": 1755698977,
         "url": "https://job-boards.greenhouse.io/silvus/jobs/4772754008",
         "locations": [
             "Los Angeles, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Silvus Technologies",
         "title": "Software Engineer I, SQA",
         "source": "vanshb03",
@@ -6353,13 +6353,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754558713,
+        "date_updated": 1755698978,
         "url": "https://job-boards.greenhouse.io/twilio/jobs/7061880",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Twilio",
         "title": "Machine Learning & Data Engineer",
         "source": "vanshb03",
@@ -6741,14 +6741,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1755113970,
+        "date_updated": 1755698979,
         "url": "https://job-boards.greenhouse.io/celonis/jobs/6616403003?gh_jid=6616403003",
         "company_name": "Celonis",
         "title": "Associate Value Engineer (AI-Driven Data Science & Analytics)",
         "locations": [
             "New York, NY"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "ff5bcd26-05f7-44ff-a867-cbf89f0c731f",
         "date_posted": 1755113970,
@@ -6870,14 +6870,14 @@
         "sponsorship": "U.S. Citizenship is Required"
     },
     {
-        "date_updated": 1755113970,
+        "date_updated": 1755698979,
         "url": "https://job-boards.greenhouse.io/celonis/jobs/6616403003",
         "company_name": "Celonis",
         "title": "Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program",
         "locations": [
             "New York, NY"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "c0126364-c0ae-42fe-b291-824058e4de38",
         "date_posted": 1755113970,
@@ -7213,14 +7213,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1755113970,
+        "date_updated": 1755699123,
         "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Entry-level-Mainframe-Software-Development-Engineer_R023538",
         "company_name": "Broadcom Limited",
         "title": "Entry level Mainframe Software Development Engineer",
         "locations": [
             "Plano, TX"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "f97bd1f4-1d17-4f7e-908e-535a6ca2d53e",
         "date_posted": 1755113970,
@@ -7651,14 +7651,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755182907,
+        "date_updated": 1755699129,
         "url": "https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Cleveland-OH/XMLNAME-2026-Analytics-and-Quantitative-Modeling-Rotational-Analyst-Program---Cleveland_R-33876-1",
         "company_name": "KeyBank",
         "title": "Analytics and Quantitative Modeling Rotational Analyst Program",
         "locations": [
             "Cleveland, OH"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "492a48d1-d31c-4ce1-b580-6884ca4d441f",
         "date_posted": 1755182907,
@@ -8042,14 +8042,14 @@
         "sponsorship": "Offers Sponsorship"
     },
     {
-        "date_updated": 1755437357,
+        "date_updated": 1755699135,
         "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Associate-Data-Analyst_10128347",
         "company_name": "Disney",
         "title": "Associate Data Analyst",
         "locations": [
             "Burbank, CA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "489e4838-85b8-4acc-860d-4a6e3ea16f5f",
         "date_posted": 1755437357,
@@ -8309,7 +8309,7 @@
         "sponsorship": "Other",
         "active": true,
         "company_name": "Edgehog Trading",
-        "title": "C++ Software Developer – Trading Strategy Execution",
+        "title": "C++ Software Developer \u2013 Trading Strategy Execution",
         "source": "vanshb03",
         "id": "98f74da1-e1e2-4ec0-aa59-8b8dceff78b7",
         "date_posted": 1755523369,
