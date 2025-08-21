@@ -8574,5 +8574,55 @@
         "date_posted": 1755699809,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755818765,
+        "url": "https://jobs.lever.co/nominal/cc79d7f9-93b9-4410-8435-d92d2f427215",
+        "locations": [
+            "New York, NY",
+            "Los Angeles, CA",
+            "Austin, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Nominal",
+        "title": "New Grad 2026: Software Engineer",
+        "source": "vanshb03",
+        "id": "21da06de-fbf8-46af-93c4-56d2b40f318f",
+        "date_posted": 1755818765,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755818776,
+        "url": "https://gen.wd1.myworkdayjobs.com/careers/job/USA---California-Mountain-View/Software-Engineer_54602",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Gen",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "1f2f5f0d-2a18-457f-8da0-ba9c163b42fe",
+        "date_posted": 1755818776,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755818787,
+        "url": "https://careers.amd.com/careers-home/jobs/68553",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AMD",
+        "title": "Graphics Software Development Engineer",
+        "source": "vanshb03",
+        "id": "3682111e-b873-4be5-b25f-5e281448ab92",
+        "date_posted": 1755818787,
+        "company_url": "",
+        "is_visible": true
     }
 ]
