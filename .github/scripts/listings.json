@@ -8588,7 +8588,7 @@
         "company_name": "Nominal",
         "title": "New Grad 2026: Software Engineer",
         "source": "vanshb03",
-        "id": "21da06de-fbf8-46af-93c4-56d2b40f318f",
+        "id": "21da06de-fbf8-46af`-93c4-56d2b40f318f",
         "date_posted": 1755818765,
         "company_url": "",
         "is_visible": true
@@ -8622,6 +8622,22 @@
         "source": "vanshb03",
         "id": "3682111e-b873-4be5-b25f-5e281448ab92",
         "date_posted": 1755818787,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755822571,
+        "url": "https://job-boards.greenhouse.io/rockstargames/jobs/6255644003",
+        "locations": [
+            "Manhattan, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rockstar Games",
+        "title": "Associate Software Engineer (C++)",
+        "source": "vanshb03",
+        "id": "3419ed45-1fb6-4ab7-9dc8-aee301186e80",
+        "date_posted": 1755822571,
         "company_url": "",
         "is_visible": true
     }
