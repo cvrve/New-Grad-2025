@@ -8640,5 +8640,101 @@
         "date_posted": 1755822571,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755900049,
+        "url": "https://jobs.ashbyhq.com/zip/5f28357a-c95d-485a-84f9-feff64ce9fb3",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zip",
+        "title": "New Grad 2026: Software Engineer",
+        "source": "vanshb03",
+        "id": "cdfab975-d2bc-443a-9a63-3611d32cd73e",
+        "date_posted": 1755900049,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755900065,
+        "url": "https://www.tesla.com/careers/search/job/249133",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer, Frontend, AI Infrastructure Engineering & Tools",
+        "source": "vanshb03",
+        "id": "fd63baed-e9a4-4b26-bf25-18e9001508d4",
+        "date_posted": 1755900065,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755900075,
+        "url": "https://www.tesla.com/careers/search/job/247062",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer, Communications Platform",
+        "source": "vanshb03",
+        "id": "b5599f5c-d457-419f-b1d1-05947ed818aa",
+        "date_posted": 1755900075,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755900084,
+        "url": "https://www.tesla.com/careers/search/job/248353",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer, Material Flow Robotics",
+        "source": "vanshb03",
+        "id": "d87fc739-2296-489b-ac32-3b22f27d02e2",
+        "date_posted": 1755900084,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755900089,
+        "url": "https://jobs.jobvite.com/emoneyadvisor-review/job/oD9hxfwk",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "eMoney Advisor, LLC",
+        "title": "Associate Software Engineer",
+        "source": "vanshb03",
+        "id": "338fb164-4f84-4a65-ad0a-c602baf43b5e",
+        "date_posted": 1755900089,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755900097,
+        "url": "https://jobs.apple.com/en-us/details/200615794-3956/accessibility-engineer-is-t-early-career",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apple",
+        "title": "Accessibility Engineer, IS&T, Early Career",
+        "source": "vanshb03",
+        "id": "e41bd449-18a5-4b8c-a63e-0831ec2bb473",
+        "date_posted": 1755900097,
+        "company_url": "",
+        "is_visible": true
     }
 ]
