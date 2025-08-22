@@ -44,6 +44,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Rockstar Games** | Associate Software Engineer (C++) | Manhattan, NY | <a href="https://job-boards.greenhouse.io/rockstargames/jobs/6255644003?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 22 |
 | **Nominal** | New Grad 2026: Software Engineer 🇺🇸 | New York, NY</br>Los Angeles, CA</br>Austin, TX | <a href="https://jobs.lever.co/nominal/cc79d7f9-93b9-4410-8435-d92d2f427215?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
 | **Gen** | Software Engineer | Mountain View, CA | <a href="https://gen.wd1.myworkdayjobs.com/careers/job/USA---California-Mountain-View/Software-Engineer_54602?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
 | **AMD** | Graphics Software Development Engineer | Bellevue, WA | <a href="https://careers.amd.com/careers-home/jobs/68553?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
