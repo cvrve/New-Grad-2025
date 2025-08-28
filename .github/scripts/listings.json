@@ -4146,13 +4146,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1752525912,
+        "date_updated": 1756355608,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/ASIC-Design-Engineer---New-College-Grad-2025_JR1999992",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "New Grad 2025: ASIC Design Engineer",
         "source": "vanshb03",
@@ -4391,13 +4391,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1752527695,
+        "date_updated": 1756355567,
         "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4584085006?gh_src=s9612n1f6us&utm_source=Indeed&utm_medium=organic&utm_campaign=Indeed",
         "locations": [
             "Dayton, OH"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "STR",
         "title": "Firmware Engineer",
         "source": "vanshb03",
@@ -4568,14 +4568,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753369319,
+        "date_updated": 1756355617,
         "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Houston-TX/Commodities-Trading-Rotational-Analyst-Program--2026-Start-_R1096",
         "locations": [
             "Houston, TX",
             "Stamford, CT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Castleton Commodities International",
         "title": "Commodities Trading Rotational Analyst Program",
         "source": "vanshb03",
@@ -4681,14 +4681,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753369730,
+        "date_updated": 1756355626,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Senior-VLSI-CAD-Engineer--ECO-Tools---New-College-Grad-2025_JR2000138",
         "locations": [
             "Santa Clara, CA",
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "New Grad 2025: VLSI CAD Engineer, ECO Tools",
         "source": "vanshb03",
@@ -6934,7 +6934,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1755113970,
+        "date_updated": 1756355567,
         "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/6903058",
         "company_name": "TripAdvisor",
         "title": "Software Engineer I - Backend Focus - Viator",
@@ -6942,7 +6942,7 @@
             "London, UK",
             "Oxford, UK"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "10a0e7c6-2ce2-453b-9f93-8466d7cbc097",
         "date_posted": 1755113970,
@@ -7065,14 +7065,14 @@
         "sponsorship": "Offers Sponsorship"
     },
     {
-        "date_updated": 1755113970,
+        "date_updated": 1756355650,
         "url": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/Entry-Level-Controls---Software-Test-Engineer_R0000318546",
         "company_name": "Solar Turbines",
         "title": "Entry Level Controls & Software Test Engineer",
         "locations": [
             "San Diego, CA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "927ab3e1-7e13-40ee-94ed-e4bc401490ed",
         "date_posted": 1755113970,
@@ -7097,14 +7097,14 @@
         "sponsorship": "Offers Sponsorship"
     },
     {
-        "date_updated": 1755113970,
+        "date_updated": 1756355654,
         "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist---MET_Req153698-1",
         "company_name": "The Home Depot",
         "title": "Associate Data Scientist - MET",
         "locations": [
             "Atlanta, GA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "f080d3f4-a4e5-4ed1-bbbb-2520085cb96e",
         "date_posted": 1755113970,
@@ -7909,13 +7909,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755347563,
+        "date_updated": 1756222438,
         "url": "https://jobs.lever.co/robinpowered/5b7a72e0-480a-49b6-a4cf-78ee0c6b6ce9",
         "locations": [
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Robin",
         "title": "Associate Software Engineer (AI-Native)",
         "source": "vanshb03",
@@ -8074,14 +8074,14 @@
         "sponsorship": "Offers Sponsorship"
     },
     {
-        "date_updated": 1755437357,
+        "date_updated": 1756355664,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Vermont---Essex-Junction/Manufacturing-Software-Engineer--Test-Program-Applications---Automation--2026-New-College-Graduate_JR-2502329",
         "company_name": "GlobalFoundries",
         "title": "Manufacturing Software Engineer, Test Program Applications & Automation",
         "locations": [
             "Essex Junction, VT"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "73320160-7375-400d-9bf7-739e33d8032a",
         "date_posted": 1755437357,
@@ -8204,13 +8204,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755437613,
+        "date_updated": 1756355673,
         "url": "https://zoom.wd5.myworkdayjobs.com/Zoom/job/Remote-OR/Software-Engineer_R17090-1",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zoom",
         "title": "Software Engineer",
         "source": "vanshb03",
