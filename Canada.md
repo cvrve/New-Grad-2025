@@ -44,6 +44,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Tenstorrent** | Software Engineer, AI Tools | <details><summary>**4 locations**</summary>Austin, TX</br>Santa Clara, CA</br>Toronto, Canada</br>Remote</details> | <a href="https://job-boards.greenhouse.io/tenstorrent/jobs/4833103007?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | **Qualcomm Canada ULC** | CPU Software Telemetry Tools Developer | Markham, Canada | <a href="https://careers.qualcomm.com/careers/job/446707442096?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | **Magna** | AI Engineer | Concord, Canada | <a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Concord-Ontario-CA/Jr-AI-Engineer_R00205631?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | **Lightspeed** | Software Developer | Montreal, Canada | <a href="https://job-boards.greenhouse.io/lightspeedhq/jobs/7175449?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
