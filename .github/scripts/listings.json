@@ -8902,5 +8902,250 @@
         "date_posted": 1755918960,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756356200,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1843258/Software-Engineer",
+        "locations": [
+            "Multiple Locations, United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "5a770a95-5d1b-4531-a51a-5b6899a1e41a",
+        "date_posted": 1756356200,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756356207,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1862715/Software-Engineer",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "b2ee7de3-a614-45c8-8dce-7064c1e5377a",
+        "date_posted": 1756356207,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756356214,
+        "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/4833103007",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA",
+            "Toronto, Canada",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tenstorrent",
+        "title": "Software Engineer, AI Tools",
+        "source": "vanshb03",
+        "id": "6ad7c27c-3001-4eb3-bab6-fd30865aa8d4",
+        "date_posted": 1756356214,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756356219,
+        "url": "https://jobs.ashbyhq.com/Commure-Athelas/00dbfa4a-986c-4c98-a966-47874d1ff0f8",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Commure",
+        "title": "New Grad 2026: Software Engineer",
+        "source": "vanshb03",
+        "id": "807b5b36-546d-43df-9dd3-5251b205495b",
+        "date_posted": 1756356219,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756356228,
+        "url": "https://www.samsara.com/company/careers/roles/7172579",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsara",
+        "title": "New Grad: Software Engineering",
+        "source": "vanshb03",
+        "id": "39e6d57e-60d5-4926-8ab4-08c5c5651d77",
+        "date_posted": 1756356228,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756356234,
+        "url": "https://joinbytedance.com/search/7540808448918079752",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2026: Software Engineer (AI Applications)",
+        "source": "vanshb03",
+        "id": "8b7d95f8-32c0-4c8a-968e-9ce6bb1e6b42",
+        "date_posted": 1756356234,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756356239,
+        "url": "https://joinbytedance.com/search/7542657938525538578",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2026: Machine Learning Graduate (eCommerce User Growth & Intelligent Marketing)",
+        "source": "vanshb03",
+        "id": "4693e702-9ea4-481b-80a7-1cc1cd5a35a6",
+        "date_posted": 1756356239,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756356246,
+        "url": "https://www.tesla.com/careers/search/job/248966",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Kernel Software Engineer",
+        "source": "vanshb03",
+        "id": "83f9986a-39d1-4131-aa09-0262add200dd",
+        "date_posted": 1756356246,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756356253,
+        "url": "https://www.tesla.com/careers/search/job/249481",
+        "locations": [
+            "AUSTIN, Texas"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Integration Engineer, Cell Software",
+        "source": "vanshb03",
+        "id": "a2347af1-277e-4aa8-a22e-fca433c8d579",
+        "date_posted": 1756356253,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756356264,
+        "url": "https://www.tesla.com/careers/search/job/249467",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Integration Engineer, Factory Firmware",
+        "source": "vanshb03",
+        "id": "9d096273-7562-4cf5-82d1-464946d11fd6",
+        "date_posted": 1756356264,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756356270,
+        "url": "https://www.tesla.com/careers/search/job/249335",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Mobile App Developer, Frontend, Claims & Customer Support",
+        "source": "vanshb03",
+        "id": "c7fb60d4-2c07-42db-9a0a-31ca36a60332",
+        "date_posted": 1756356270,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756356275,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/OEM-Account-Applications-Engineer---New-College-Grad-2025_JR2002780",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: OEM Account Applications Engineer",
+        "source": "vanshb03",
+        "id": "7afc610e-eb78-4b44-86d6-571df1556f79",
+        "date_posted": 1756356275,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756356281,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/GPU-Architecture-Engineer---New-College-Grad-2025_JR2002495",
+        "locations": [
+            "Santa Clara, CA",
+            "Austin, TX",
+            "Durham, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: GPU Architecture Engineer",
+        "source": "vanshb03",
+        "id": "8a8f1c17-acdf-4485-a696-e4fa8e52c37a",
+        "date_posted": 1756356281,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756356289,
+        "url": "https://www.amazon.jobs/en/jobs/3066890/system-dev-engineer-i-analytics-adc",
+        "locations": [
+            "Denver, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "System Dev Engineer I, Analytics ADC",
+        "source": "vanshb03",
+        "id": "b3a39785-e080-46c1-aad4-268fa4a65f8f",
+        "date_posted": 1756356289,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756356294,
+        "url": "https://lifeattiktok.com/search/7541178634444589319",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: AI/ML Software Engineer (Data Platform TikTok BP)",
+        "source": "vanshb03",
+        "id": "94ed660f-0bde-41a3-8aaf-ad8896984594",
+        "date_posted": 1756356294,
+        "company_url": "",
+        "is_visible": true
     }
 ]
