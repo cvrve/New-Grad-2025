@@ -9736,5 +9736,70 @@
         "date_posted": 1756922292,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756935023,
+        "url": "https://careers.garmin.com/jobs/16827",
+        "locations": [
+            "Olathe, KS"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Garmin",
+        "title": "Software Engineer I - Embedded Software",
+        "source": "vanshb03",
+        "id": "26093e95-ae02-466f-9159-da032bc2e2f5",
+        "date_posted": 1756935023,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756934953,
+        "url": "https://job-boards.greenhouse.io/2k/jobs/6688546003",
+        "locations": [
+            "Novato, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "2K Games",
+        "title": "Engineering Graduate Program",
+        "source": "vanshb03",
+        "id": "34117160-7339-4f5d-a5c9-e3554dbc4a3c",
+        "date_posted": 1756934953,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756934962,
+        "url": "https://jobs.ashbyhq.com/luma-ai/f41a9fc6-40b5-4063-b093-b50ffe919ad8",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Luma",
+        "title": "Research Scientist / Engineer - Data",
+        "source": "vanshb03",
+        "id": "1d372945-0072-4142-9082-bcaf15811246",
+        "date_posted": 1756934962,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756934978,
+        "url": "https://stripe.com/jobs/listing/software-engineer-new-grad/7210112",
+        "locations": [
+            "South San Francisco, CA",
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Stripe",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "5045948e-6164-4449-915b-65d210dc354a",
+        "date_posted": 1756934978,
+        "company_url": "",
+        "is_visible": true
     }
 ]
