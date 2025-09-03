@@ -6281,9 +6281,11 @@
     {
         "date_updated": 1754558660,
         "url": "https://uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2300249&lang=en",
-        "locations": [],
+        "locations": [
+            "Remote"
+        ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "UnitedHealth Group",
         "title": "Software Engineer - Python, ETL, SQL",
         "source": "vanshb03",
@@ -6295,9 +6297,11 @@
     {
         "date_updated": 1754558666,
         "url": "https://tas-uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2300249&lang=en",
-        "locations": [],
+        "locations": [
+            "Remote"
+        ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "UnitedHealth Group",
         "title": "Software Engineer - Python, ETL, SQL",
         "source": "vanshb03",
@@ -6309,7 +6313,9 @@
     {
         "date_updated": 1754558675,
         "url": "https://jobs.royalcaribbeangroup.com/job/Miramar-Associate-Engineer%2C-Software-FL-33132/1314694500/",
-        "locations": [],
+        "locations": [
+            "Miramar, FL"
+        ],
         "sponsorship": "Other",
         "active": true,
         "company_name": "Royal Caribbean Group",
@@ -8560,22 +8566,6 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755699809,
-        "url": "https://www.tesla.com/careers/search/job/225609",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Tesla",
-        "title": "Software Engineer, Optimus",
-        "source": "vanshb03",
-        "id": "7a25bead-3744-4dfb-a5fe-5920d51b63ca",
-        "date_posted": 1755699809,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1755818765,
         "url": "https://jobs.lever.co/nominal/cc79d7f9-93b9-4410-8435-d92d2f427215",
         "locations": [
@@ -9552,5 +9542,199 @@
         "company_url": "",
         "is_visible": true,
         "sponsorship": "U.S. Citizenship is Required"
+    },
+    {
+        "date_updated": 1756868183,
+        "url": "https://jobs.smartrecruiters.com/LinkedIn3/a3b09881-7c3e-444c-9e65-ac0e2c6a8970",
+        "locations": [
+            "Mountain View, CA",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "LinkedIn",
+        "title": "Associate Product Builder (APB) - Rotational Program",
+        "source": "vanshb03",
+        "id": "fbba2cea-df5e-4861-aebf-fbeb6e6cbb30",
+        "date_posted": 1756868183,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756871952,
+        "url": "https://careers.roblox.com/jobs/7167345",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Roblox",
+        "title": "New Grad 2026: Associate Product Designer",
+        "source": "vanshb03",
+        "id": "97125ac7-1e91-4531-a6ea-f63ee197f5af",
+        "date_posted": 1756871952,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756871962,
+        "url": "https://careers.roblox.com/jobs/7167343",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Roblox",
+        "title": "New Grad 2026: Associate Product Manager",
+        "source": "vanshb03",
+        "id": "016e56e1-44c5-46d3-a1c5-4641b27a7f41",
+        "date_posted": 1756871962,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756922189,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1868816/Software-Engineer",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "b6e2b395-5f3e-4d57-afd1-70fc63d66041",
+        "date_posted": 1756922189,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756922194,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1862399/Software-Engineer",
+        "locations": [
+            "Multiple Locations, United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "d3ca845e-59c7-48a8-b6dd-e7c9f4986775",
+        "date_posted": 1756922194,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756922206,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1869427/Software-Engineer---Security%2C-Multiple-Locations",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer, Security",
+        "source": "vanshb03",
+        "id": "2a780d7b-301a-46c3-9521-3e5d11453044",
+        "date_posted": 1756922206,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756922212,
+        "url": "https://jobs.careers.microsoft.com/us/en/job/1869430/Software-Engineer-Systems-Multiple-Locations",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer - Systems",
+        "source": "vanshb03",
+        "id": "cf35e43c-d884-49f7-a78c-341b18c17df6",
+        "date_posted": 1756922212,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756922220,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1869402/Software-Engineer---AI%2FML%2C-Multiple-Locations",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer, AI/ML",
+        "source": "vanshb03",
+        "id": "62b9e917-f342-4593-a866-9a8381508610",
+        "date_posted": 1756922220,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756922231,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1869347/Software-Engineer---Fullstack,-Redmond",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer - Fullstack",
+        "source": "vanshb03",
+        "id": "0922c4aa-f4fd-4acd-ac58-8018dc88ea53",
+        "date_posted": 1756922231,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756922236,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1869391/Software-Engineer---Fullstack%2C-Multiple-Locations",
+        "locations": [
+            "Multiple Locations, United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer - Fullstack",
+        "source": "vanshb03",
+        "id": "b391ec4d-9b6d-485b-ba39-1b10692d57c8",
+        "date_posted": 1756922236,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756922282,
+        "url": "https://jobs.ashbyhq.com/Cape/bd280ded-4298-47de-a186-1aebd1bd94b8",
+        "locations": [
+            "New York, NY",
+            "Washington, DC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cape",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "bec99abb-7363-46ef-9a57-ecf3a7ee8ece",
+        "date_posted": 1756922282,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756922292,
+        "url": "https://careers-americas.icims.com/jobs/20901/software-engineer%252c-2026-graduate-u.s./job",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Atlassian",
+        "title": "New Grad 2026: Software Engineer",
+        "source": "vanshb03",
+        "id": "87cc7698-6d20-43c9-9e46-ddee5c59f02c",
+        "date_posted": 1756922292,
+        "company_url": "",
+        "is_visible": true
     }
 ]
