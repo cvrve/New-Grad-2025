@@ -8626,13 +8626,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755822571,
+        "date_updated": 1756872070,
         "url": "https://job-boards.greenhouse.io/rockstargames/jobs/6255644003",
         "locations": [
             "Manhattan, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Rockstar Games",
         "title": "Associate Software Engineer (C++)",
         "source": "vanshb03",
