@@ -9520,5 +9520,37 @@
         "company_url": "",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1756921579,
+        "url": "https://jobs.lever.co/ivo/1629cbb2-c07c-4214-a1e2-b4e96c9cc66c",
+        "company_name": "Ivo",
+        "title": "Software Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "39031a82-c141-43ad-bbcc-f6d2bc02f9bd",
+        "date_posted": 1756921579,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Offers Sponsorship"
+    },
+    {
+        "date_updated": 1756921579,
+        "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/6852163003",
+        "company_name": "Freeform",
+        "title": "Software Engineer",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "3c26d91e-40b9-4d99-a84c-adb078047df4",
+        "date_posted": 1756921579,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "U.S. Citizenship is Required"
     }
 ]
