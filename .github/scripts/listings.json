@@ -9801,5 +9801,232 @@
         "date_posted": 1756934978,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757068097,
+        "url": "https://www.metrostar.com/job-post/?gh_jid=6667276003",
+        "company_name": "MetroStar",
+        "title": "Associate Software Developer",
+        "locations": [
+            "Reston, VA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "68e6d33d-c5c9-4a4d-9d2b-acd3ee888a79",
+        "date_posted": 1757068097,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Does Not Offer Sponsorship"
+    },
+    {
+        "date_updated": 1757068097,
+        "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Software-Engineering-Graduate--Colorado-_1193615-1",
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "Software Engineer",
+        "locations": [
+            "Ft. Collins, CO"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "bd4849b3-640a-4b0e-8100-d0ab241e6d7b",
+        "date_posted": 1757068097,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Offers Sponsorship"
+    },
+    {
+        "date_updated": 1757068097,
+        "url": "https://bonterra.wd1.myworkdayjobs.com/en-US/bonterratech/job/Remote-United-States/EA-Data-Engineer-I--Services_R2025-0310",
+        "company_name": "Bonterra",
+        "title": "Data Engineer I, Services",
+        "locations": [
+            "Remote in USA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "7a438406-92be-46da-a62d-9812e2beea9b",
+        "date_posted": 1757068097,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Does Not Offer Sponsorship"
+    },
+    {
+        "date_updated": 1757068097,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I---Legal---Compliance_R-45918",
+        "company_name": "The Travelers Companies",
+        "title": "Software Engineer I, Legal & Compliance",
+        "locations": [
+            "Hartford, CT",
+            "St Paul, MN"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "2d7b31b4-e067-4f60-b968-801880fcbfd7",
+        "date_posted": 1757068097,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1757068097,
+        "url": "https://icf.wd5.myworkdayjobs.com/en-US/ICFExternal_Career_Site/job/Reston-VA/Data-Scientist--Entry-Level-_R2502152",
+        "company_name": "ICF",
+        "title": "Junior Data Scientist",
+        "locations": [
+            "Reston, VA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "39c6c59f-bc40-44ec-bc52-aafcc8d127be",
+        "date_posted": 1757068097,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1757068097,
+        "url": "https://www.alticeusacareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1322496900/?ats=successfactors",
+        "company_name": "Altice USA",
+        "title": "Software Dev Engineer I",
+        "locations": [
+            "Plainview, NY"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "b4aac097-5de4-42fc-b590-3ae449911f69",
+        "date_posted": 1757068097,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1757068097,
+        "url": "https://choicehotels.wd5.myworkdayjobs.com/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1_R20274",
+        "company_name": "Choice Hotels",
+        "title": "Software Engineer 1",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "92b47e67-5781-4ead-8f4f-9ac5d4966924",
+        "date_posted": 1757068097,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1757068097,
+        "url": "https://apply.workable.com/qodeworld/j/5E96914ADB/apply",
+        "company_name": "qode.world",
+        "title": "Junior Data Scientist",
+        "locations": [
+            "Tampa, FL",
+            "Jackson Township, NJ",
+            "Dallas, TX"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "6bd56948-4d8e-4ad0-884e-d20bf74a0d80",
+        "date_posted": 1757068097,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1757068097,
+        "url": "https://careers.aflac.com/job/Software-Engineer-I-GA-31999/1323022100/?ats=successfactors",
+        "company_name": "Aflac",
+        "title": "Software Engineer I",
+        "locations": [
+            "Columbus, GA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "f7314607-a633-4e02-a83f-a9c060b540f5",
+        "date_posted": 1757068097,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1757068097,
+        "url": "https://jobs.ashbyhq.com/ellipsislabs/caa49297-d5a3-4d03-b8c9-bdc7b77fb0bb/application",
+        "company_name": "Ellipsis Labs",
+        "title": "Software Engineer",
+        "locations": [
+            "NYC"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "467e789e-178c-412e-bfa8-0793332e5f86",
+        "date_posted": 1757068097,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1757068097,
+        "url": "https://jobs.lever.co/valkyrietrading/6ba65cc5-53ec-4c92-ac98-dbc3326c75ab/apply",
+        "company_name": "Valkyrie Trading",
+        "title": "Junior Quantitative Researcher",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "cea4703c-8d9e-4226-8189-34e42078765c",
+        "date_posted": 1757068097,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1757068097,
+        "url": "https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c/apply",
+        "company_name": "Valkyrie Trading",
+        "title": "Junior Software Engineer",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "25a9a606-7ae0-4585-aa8c-6a6413691ea2",
+        "date_posted": 1757068097,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1757068097,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-NY-Rome/Fullstack-Web-Application-Software-Engineer---Entry-Level_316797",
+        "company_name": "CACI",
+        "title": "Fullstack Web Application Software Engineer",
+        "locations": [
+            "Rome, NY"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "8f97a2f8-42bb-4087-842d-8db44472cdd9",
+        "date_posted": 1757068097,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1757068097,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Kent-WA/Entry-Level-Software-Engineer-Test---Verification_JR2025468499-2",
+        "company_name": "The Boeing Company",
+        "title": "Software Engineer, Test & Verification",
+        "locations": [
+            "Kent, WA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "f681e142-dbea-445e-923d-fa20d94b05c6",
+        "date_posted": 1757068097,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
