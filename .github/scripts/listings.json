@@ -10028,5 +10028,182 @@
         "company_url": "",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1757305985,
+        "url": "https://jobs.lever.co/bumbleinc/6cc32636-4671-4838-a6b7-2dd16b97c110",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bumble Inc.",
+        "title": "New Grad 2026: Software Engineer",
+        "source": "vanshb03",
+        "id": "5ee323b6-8412-46a8-bf27-f3acabdb5174",
+        "date_posted": 1757305985,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757305981,
+        "url": "https://www.amazon.jobs/en/jobs/3071644/security-engineer-aws-global-services-security",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Security Engineer",
+        "source": "vanshb03",
+        "id": "49ccff0d-a7ec-46e7-a51e-9d23558a3bfc",
+        "date_posted": 1757305981,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757305990,
+        "url": "https://www.tesla.com/careers/search/job/225545",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software QA Engineer, Infotainment, Vehicle Software",
+        "source": "vanshb03",
+        "id": "5ca0d48d-7b0b-41e7-a403-05466813d4f8",
+        "date_posted": 1757305990,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757306000,
+        "url": "https://www.tesla.com/careers/search/job/250195",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer, Autonomous Mobile Robotics",
+        "source": "vanshb03",
+        "id": "358212f6-6ecf-44af-9410-6f8c88eeec78",
+        "date_posted": 1757306000,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757306005,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4835669007",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Verkada",
+        "title": "New Grad 2026: Embedded Software Engineer",
+        "source": "vanshb03",
+        "id": "33550b15-da92-4bd6-a8da-780aa2db96ea",
+        "date_posted": 1757306005,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757306007,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4835616007",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Verkada",
+        "title": "New Grad 2026: Backend Software Engineer",
+        "source": "vanshb03",
+        "id": "4ccc31d4-e188-4dbf-ba06-1b23c94a041e",
+        "date_posted": 1757306007,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757306013,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4855439007",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Verkada",
+        "title": "New Grad 2026: Frontend Software Engineer",
+        "source": "vanshb03",
+        "id": "7e639dfa-1051-4b38-aa67-9220e9c0d021",
+        "date_posted": 1757306013,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757306055,
+        "url": "https://jobs.ashbyhq.com/handshake/cf0cac2a-75c7-4872-aa6e-0d78ed98301f",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Handshake AI",
+        "title": "Fullstack Engineer I (TypeScript focused)",
+        "source": "vanshb03",
+        "id": "45e9f04b-c43c-497a-b810-a5c3805f9341",
+        "date_posted": 1757306055,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757306060,
+        "url": "https://www.tesla.com/careers/search/job/250277",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Data Engineer, Energy Service Engineering",
+        "source": "vanshb03",
+        "id": "2ae8f472-a3c8-496f-ab36-e8160de8cf81",
+        "date_posted": 1757306060,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757306063,
+        "url": "https://careers.arm.com/job/austin/graduate-software-applications-engineer/33099/85831486416",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Arm",
+        "title": "New Grad 2025: Software Applications Engineer",
+        "source": "vanshb03",
+        "id": "1b68d58c-8ca0-4c84-b879-5979caa5ec20",
+        "date_posted": 1757306063,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757306071,
+        "url": "https://careers-americas.icims.com/jobs/20906/machine-learning-engineer%252c-2026-graduate-u.s./job",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Atlassian",
+        "title": "New Grad 2026: Machine Learning Engineer",
+        "source": "vanshb03",
+        "id": "b5cac127-f458-4196-bdb7-5ef2880b7568",
+        "date_posted": 1757306071,
+        "company_url": "",
+        "is_visible": true
     }
 ]
