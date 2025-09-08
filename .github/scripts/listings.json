@@ -10318,5 +10318,104 @@
         "date_posted": 1757306243,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757306495,
+        "url": "https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Colorado-Springs-Colorado/Software-Engineer-I_R2110482",
+        "company_name": "KBR",
+        "title": "Software Engineer I",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "5626f8f6-a48c-4f43-a2e9-baab91af3977",
+        "date_posted": 1757306495,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "U.S. Citizenship is Required"
+    },
+    {
+        "date_updated": 1757306495,
+        "url": "https://jobs.lever.co/pditechnologies/dabd35a1-a15f-4702-8beb-f4c5d6a3d837",
+        "company_name": "PDI Technologies",
+        "title": "Junior Machine Learning Engineer",
+        "locations": [
+            "Alpharetta, GA",
+            "Temple, TX",
+            "Dallas, TX",
+            "Houston, TX"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "49c5fa67-6aa5-4645-be03-185e8d320447",
+        "date_posted": 1757306495,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Does Not Offer Sponsorship"
+    },
+    {
+        "date_updated": 1757306495,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Aspire-Tech-Graduate-Security-Engineer-I_R101084",
+        "company_name": "LexisNexis Risk Solutions",
+        "title": "Aspire Tech Graduate Security Engineer I",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "a00d9812-f6a7-4d2f-89fc-97c10e4cb5ab",
+        "date_posted": 1757306495,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1757306495,
+        "url": "https://careers-ebscoind.icims.com/jobs/1834/job",
+        "company_name": "EBSCO",
+        "title": "Software Dev Engineer I",
+        "locations": [
+            "Remote in USA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "d4ed9044-2930-4ee9-a4d8-6226510a7165",
+        "date_posted": 1757306495,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1757306495,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-NY-Rome/Entry-Level-Java-and-Python-Software-Engineer_316729",
+        "company_name": "CACI",
+        "title": "Entry Level Java and Python Software Engineer",
+        "locations": [
+            "Rome, NY"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "8ce11a4c-24c3-4ccb-b93c-2241289395aa",
+        "date_posted": 1757306495,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1757306495,
+        "url": "https://job-boards.greenhouse.io/boomsupersonic/jobs/5643302004",
+        "company_name": "Boom Supersonic",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Denver, CO"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "52986dc1-7a2b-44fb-b630-cc853a1a1059",
+        "date_posted": 1757306495,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
