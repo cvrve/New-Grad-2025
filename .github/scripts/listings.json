@@ -10417,5 +10417,90 @@
         "company_url": "",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1757306633,
+        "url": "https://apply.workable.com/eluvio/j/A349A0D2AF",
+        "company_name": "Eluvio",
+        "title": "New Grad: Software Engineer, AI Core Apps",
+        "locations": [
+            "Berkeley, CA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "463576e8-f5a1-4c8f-bfce-43c8f942949a",
+        "date_posted": 1757306633,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1757306633,
+        "url": "https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Minnetonka-MN-USA/Early-Careers-Rotational-Program---R-D-Engineer--AI-_250003743-1",
+        "company_name": "VIAVI",
+        "title": "Early Careers Rotational Program, R&D Engineer (AI)",
+        "locations": [
+            "Minnetonka, MN"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "53837e59-be03-45da-9349-76976a09ca6d",
+        "date_posted": 1757306633,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Offers Sponsorship"
+    },
+    {
+        "date_updated": 1757306633,
+        "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/St-Louis-MO/Technology-Development-Program--TECDP-----Artificial-Intelligence-Track---Start-Date--July-13--2026_25011433",
+        "company_name": "The Cigna Group",
+        "title": "Technology Development Program (TECDP), Artificial Intelligence",
+        "locations": [
+            "St. Louis, MO",
+            "Morris Plains, NJ",
+            "Bloomfield, CT",
+            "Austin, TX"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "b51cbf28-0f01-4c53-a2aa-ffed24df6837",
+        "date_posted": 1757306633,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "U.S. Citizenship is Required"
+    },
+    {
+        "date_updated": 1757306633,
+        "url": "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/New-York-New-York/XMLNAME-2026-Summer-Associate---Quantitative-Rotational-Program_R_1441549",
+        "company_name": "TD",
+        "title": "Quantitative Rotational Program",
+        "locations": [
+            "New York, NY"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "28a19ec1-6efe-4cc6-bdfe-104780063936",
+        "date_posted": 1757306633,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1757306633,
+        "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/St-Louis-MO/Technology-Development-Program--TECDP----Infrastructure---Cloud-Engineering-Track---Start-Date--July-13--2026_25011438-1",
+        "company_name": "The Cigna Group",
+        "title": "Technology Development Program (TECDP), Infrastructure & Cloud Engineering Track",
+        "locations": [
+            "St. Louis, MO",
+            "Bloomfield, CT",
+            "Bloomington, MN"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "902392e4-d004-4909-a4bb-b7529efcdcf7",
+        "date_posted": 1757306633,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "U.S. Citizenship is Required"
     }
 ]
