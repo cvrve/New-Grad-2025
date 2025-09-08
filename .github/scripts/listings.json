@@ -10713,5 +10713,56 @@
         "date_posted": 1757347440,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757347562,
+        "url": "https://job-boards.greenhouse.io/figma/jobs/5621649004",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Figma",
+        "title": "Associate Product Manager",
+        "source": "vanshb03",
+        "id": "227cee79-eef2-4de7-8204-ccfee93da201",
+        "date_posted": 1757347562,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757347571,
+        "url": "https://job-boards.greenhouse.io/figma/jobs/5615025004",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Figma",
+        "title": "Data Scientist",
+        "source": "vanshb03",
+        "id": "505d156b-a246-4d2c-964b-1353b3b1af18",
+        "date_posted": 1757347571,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757347576,
+        "url": "https://job-boards.greenhouse.io/figma/jobs/5616455004",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Figma",
+        "title": "Product Designer",
+        "source": "vanshb03",
+        "id": "98b7a747-d513-4281-ad63-9561495fdcc4",
+        "date_posted": 1757347576,
+        "company_url": "",
+        "is_visible": true
     }
 ]
