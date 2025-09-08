@@ -10568,5 +10568,86 @@
         "company_url": "",
         "is_visible": true,
         "sponsorship": "Offers Sponsorship"
+    },
+    {
+        "date_updated": 1757346807,
+        "url": "https://jobs.lever.co/voleon/ce0bda1f-3d5a-44ac-8ab3-8578d49d344c",
+        "locations": [
+            "Berkeley, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Voleon",
+        "title": "Associate Member of Trading Staff",
+        "source": "vanshb03",
+        "id": "c0a4bd94-3ade-4a37-a211-b3bd3e7a0c90",
+        "date_posted": 1757346807,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757346813,
+        "url": "https://careers.blackrock.com/job/-/-/45831/84712805504",
+        "locations": [
+            "Sausalito, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BlackRock",
+        "title": "Associate, Research Associate – SMA Solutions, Quantitative Investment Solutions (QIS)",
+        "source": "vanshb03",
+        "id": "f876e9d4-9382-4e47-92c7-5698fcfac0d8",
+        "date_posted": 1757346813,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757346829,
+        "url": "https://joinbytedance.com/search/7534966101852539144",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2026: Product Manager (SMB)",
+        "source": "vanshb03",
+        "id": "843857fa-d284-4413-ad26-2730be4371bd",
+        "date_posted": 1757346829,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757346832,
+        "url": "https://careers.roblox.com/jobs/7167343",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Roblox",
+        "title": "Associate Product Manager",
+        "source": "vanshb03",
+        "id": "69bd4923-90ff-4df3-9ec8-ac5ec5ace470",
+        "date_posted": 1757346832,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757346838,
+        "url": "https://app.ripplematch.com/v2/public/job/c730fa3b",
+        "locations": [
+            "Cambridge, MA",
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "HubSpot",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "3efa4479-4c6d-4a7d-8c8c-2aa8f01429a7",
+        "date_posted": 1757346838,
+        "company_url": "",
+        "is_visible": true
     }
 ]
