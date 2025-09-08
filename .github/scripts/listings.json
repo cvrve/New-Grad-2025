@@ -10649,5 +10649,69 @@
         "date_posted": 1757346838,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757347298,
+        "url": "https://www.workatastartup.com/jobs/81292",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "YouLearn",
+        "title": "Founding Engineer (Full Stack)",
+        "source": "vanshb03",
+        "id": "58ecba45-bc5a-4ce4-bf19-1eabfb82ce79",
+        "date_posted": 1757347298,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757347378,
+        "url": "https://www.workatastartup.com/jobs/81273",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "DeepGrove",
+        "title": "ML Technical Staff",
+        "source": "vanshb03",
+        "id": "2b96d66d-6cc2-4cdc-8c52-dee1c35ff72d",
+        "date_posted": 1757347378,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757347433,
+        "url": "https://www.workatastartup.com/jobs/81060",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Sonia",
+        "title": "Founding Design Engineer",
+        "source": "vanshb03",
+        "id": "78dac41c-d7eb-49be-a68a-cc8aec24f888",
+        "date_posted": 1757347433,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757347440,
+        "url": "https://www.workatastartup.com/jobs/81052",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "InQuery",
+        "title": "New Grad: Founding Engineer",
+        "source": "vanshb03",
+        "id": "67e5db9c-8e3c-4504-8519-1efa4d16c3ae",
+        "date_posted": 1757347440,
+        "company_url": "",
+        "is_visible": true
     }
 ]
