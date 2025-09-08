@@ -10205,5 +10205,118 @@
         "date_posted": 1757306071,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757306183,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1858061/Software-Engineer",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "c3a1da1c-c75d-490e-ba52-6549bd315628",
+        "date_posted": 1757306183,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757306188,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1857025/Software-Engineer",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer I",
+        "source": "vanshb03",
+        "id": "fd3824e1-cb09-48c9-a795-89614a18caf1",
+        "date_posted": 1757306188,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757306204,
+        "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4592324005",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Glean",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "5934da04-53a9-4339-a07b-86a89e796a61",
+        "date_posted": 1757306204,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757306208,
+        "url": "https://careers.publicisgroupe.com/jobs/121504",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Epsilon",
+        "title": "New Grad: Associate, Software Engineer",
+        "source": "vanshb03",
+        "id": "23712499-9468-4090-80e8-ee398751b7d1",
+        "date_posted": 1757306208,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757306213,
+        "url": "https://careers.publicisgroupe.com/jobs/121511",
+        "locations": [
+            "Irving, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Epsilon",
+        "title": "Associate, Software Engineer",
+        "source": "vanshb03",
+        "id": "7a3a7897-d824-4c3a-b8b7-612c2d70e5a1",
+        "date_posted": 1757306213,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757306221,
+        "url": "https://jobs.ashbyhq.com/decagon/2a435dd5-1212-42bb-ae5a-d7432902acd2",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Decagon",
+        "title": "New Grad 2026: Agent Software Engineer",
+        "source": "vanshb03",
+        "id": "e4de8600-7a92-43c6-ac42-27412aca28d8",
+        "date_posted": 1757306221,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757306243,
+        "url": "https://www.disneycareers.com/en/job/-/-/391/85823385568",
+        "locations": [
+            "Glendale, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Disney",
+        "title": "Software Engineer I",
+        "source": "vanshb03",
+        "id": "334897e1-96ff-43df-878b-6704f87c25ca",
+        "date_posted": 1757306243,
+        "company_url": "",
+        "is_visible": true
     }
 ]
