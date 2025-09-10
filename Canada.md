@@ -44,7 +44,10 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Tripadvisor** | Android Engineer | Ottawa, Canada | <a href="https://careers.tripadvisor.com/job?jobId=7234900&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | **TD Securities** | Machine Learning Engineer I | Toronto, ON, Canada | <a href="https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1443721?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
+| **TD** | Machine Learning Engineer I | Toronto, Canada | <a href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1443721?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
+| **Clio** | Data Engineer | <details><summary>**4 locations**</summary>Toronto, Canada</br>Calgary, Canada</br>Vancouver, Canada</br>Remote</details> | <a href="https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Data-Engineer_BF-REQ-3192?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | **Stripe** | Software Engineer - New Grad | Toronto, ON, Canada | <a href="https://stripe.com/jobs/search?gh_jid=7206505&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | **Tenstorrent** | Software Engineer, AI Tools | <details><summary>**4 locations**</summary>Austin, TX</br>Santa Clara, CA</br>Toronto, Canada</br>Remote</details> | <a href="https://job-boards.greenhouse.io/tenstorrent/jobs/4833103007?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | **Qualcomm Canada ULC** | CPU Software Telemetry Tools Developer | Markham, Canada | <a href="https://careers.qualcomm.com/careers/job/446707442096?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
