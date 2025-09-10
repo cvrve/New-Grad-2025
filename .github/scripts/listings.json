@@ -10781,5 +10781,53 @@
     "date_posted": 1757347686,
     "company_url": "",
     "is_visible": true
+    },
+    {
+        "date_updated": 1757464542,
+        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Milpitas-CA/New-Grad--Hardware-Engineer_R5410",
+        "company_name": "Symbotic",
+        "title": "New Grad: Hardware Engineer",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "8bf9e3ae-8d88-4597-bd45-3beb8c6dc18e",
+        "date_posted": 1757464542,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1757464542,
+        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Hardware-Engineer_R5411",
+        "company_name": "Symbotic",
+        "title": "New Grad-Hardware Engineer",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "71add992-f2d1-4944-b2a3-49a7471a8b8f",
+        "date_posted": 1757464542,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1757464542,
+        "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1443721",
+        "company_name": "TD Securities",
+        "title": "Machine Learning Engineer I",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "854867f9-a98a-4630-b562-350f2b21b71c",
+        "date_posted": 1757464542,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
