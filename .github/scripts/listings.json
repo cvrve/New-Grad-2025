@@ -10845,5 +10845,121 @@
         "date_posted": 1757464983,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757465361,
+        "url": "https://careers.adobe.com/us/en/job/ADOBUSR159164EXTERNALENUS/2026-University-Graduate-Application-Security-Engineer",
+        "locations": [
+            "San Jose, CA",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Adobe",
+        "title": "New Grad 2026: Application Security Engineer",
+        "source": "vanshb03",
+        "id": "74c68dd6-4c61-4756-beff-1a9379d743fc",
+        "date_posted": 1757465361,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757465364,
+        "url": "https://careers.adobe.com/us/en/job/ADOBUSR157573EXTERNALENUS/2026-University-Graduate-Machine-Learning-Engineer",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Adobe",
+        "title": "New Grad 2026: Machine Learning Engineer",
+        "source": "vanshb03",
+        "id": "2abedbd2-1a5b-469f-9a71-7ba040dc1bd8",
+        "date_posted": 1757465364,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757465367,
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4605996005",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Scale",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "7875b638-ac0c-4a3b-94da-abbf2fd32f81",
+        "date_posted": 1757465367,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757465371,
+        "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareCanada/job/Remote-Canada-ON/Full-Stack-Junior-Developer_R46739-1",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jonas Software",
+        "title": "Full Stack Developer",
+        "source": "vanshb03",
+        "id": "e358a87f-26e7-4021-a922-c2f547814069",
+        "date_posted": 1757465371,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757465376,
+        "url": "https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Data-Engineer_BF-REQ-3192",
+        "locations": [
+            "Toronto, Canada",
+            "Calgary, Canada",
+            "Vancouver, Canada",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Clio",
+        "title": "Data Engineer",
+        "source": "vanshb03",
+        "id": "16d2cade-e4e6-4662-b920-75e447570cfa",
+        "date_posted": 1757465376,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757465380,
+        "url": "https://careers.tripadvisor.com/job?jobId=7234900",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tripadvisor",
+        "title": "Android Engineer",
+        "source": "vanshb03",
+        "id": "8d233062-4e23-406e-8c42-6fc2b50363f8",
+        "date_posted": 1757465380,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757465384,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1443721",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TD",
+        "title": "Machine Learning Engineer I",
+        "source": "vanshb03",
+        "id": "cd8e4c05-5f38-4330-b1c1-3f081d0bde4a",
+        "date_posted": 1757465384,
+        "company_url": "",
+        "is_visible": true
     }
 ]
