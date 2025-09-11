@@ -1596,7 +1596,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748024404,
+        "date_updated": 1757468780,
         "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Software-Development-Engineer-I_R_104015",
         "company_name": "Remitly",
         "title": "Software Development Engineer I",
@@ -1604,7 +1604,7 @@
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "11e97b60-cf13-469e-be35-277e5fd72f57",
         "date_posted": 1748024404,
@@ -4633,13 +4633,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753369690,
+        "date_updated": 1757468803,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Verification-Engineer--CPU---New-College-Grad-2025_JR2000487-1",
         "locations": [
             "Westford, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "New Grad 2025: Verification Engineer, CPU",
         "source": "vanshb03",
@@ -4649,13 +4649,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753369711,
+        "date_updated": 1757468765,
         "url": "https://jobs.lever.co/spotify/21c24edb-f625-4895-ad23-5a6320d54813",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Spotify",
         "title": "Associate Machine Learning Engineer",
         "source": "vanshb03",
@@ -6343,13 +6343,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754558693,
+        "date_updated": 1757468765,
         "url": "https://job-boards.greenhouse.io/cooksys/jobs/4872299008",
         "locations": [
             "Nashville, TN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cook Systems",
         "title": "Software Developer",
         "source": "vanshb03",
@@ -7151,7 +7151,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1755113970,
+        "date_updated": 1757468829,
         "url": "https://amainc.wd12.myworkdayjobs.com/en-US/ama_careers/job/Hampton-VA/AI-ML-Research-Associate_R-100359",
         "company_name": "Analytical Mechanics Associates",
         "title": "AI/ML Research Associate",
@@ -7159,7 +7159,7 @@
             "Hampton, VA",
             "Remote"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "68b1c0e8-6847-44b8-9db9-44e406bc351e",
         "date_posted": 1755113970,
@@ -8584,13 +8584,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755818776,
+        "date_updated": 1757468844,
         "url": "https://gen.wd1.myworkdayjobs.com/careers/job/USA---California-Mountain-View/Software-Engineer_54602",
         "locations": [
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Gen",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -8926,7 +8926,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756356214,
+        "date_updated": 1757468766,
         "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/4833103007",
         "locations": [
             "Austin, TX",
@@ -8935,7 +8935,7 @@
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tenstorrent",
         "title": "Software Engineer, AI Tools",
         "source": "vanshb03",
@@ -9155,14 +9155,14 @@
         "sponsorship": "Offers Sponsorship"
     },
     {
-        "date_updated": 1756872100,
+        "date_updated": 1757468858,
         "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/CT---Hartford/Associate-Software-Development-Engineer_R0699201-1",
         "company_name": "CVS Health",
         "title": "Associate Software Development Engineer",
         "locations": [
             "Hartford, CT"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "ad72219c-d240-48e8-9846-bec6b9c0dc68",
         "date_posted": 1756872100,
@@ -9203,14 +9203,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1756872100,
+        "date_updated": 1757468863,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA311-Woburn-MA-225-Presidential-225-Presidential-Way-Goddard-Building-27-Woburn-MA-01801-USA/XMLNAME-2026-Fulltime---Raytheon-Missile-Defense-Sensors-Software-Engineer-I--On-site-_01789916",
         "company_name": "RTX",
         "title": "2026 Fulltime - Raytheon Missile Defense Sensors Software Engineer I",
         "locations": [
             "Burlington, MA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "9c34dfc4-c8cf-435d-b2f9-000d5fae15dd",
         "date_posted": 1756872100,
@@ -9219,14 +9219,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1756872100,
+        "date_updated": 1757468867,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA133-Tewksbury-Ma-Bldg-3-Concord-50-Apple-Hill-Drive-Concord---Building-3-Tewksbury-MA-01876-USA/XMLNAME-2026-Fulltime---Raytheon-Missile-Defense-Sensors-Software-Engineer-I--On-site-_01789917",
         "company_name": "RTX",
         "title": "2026 Fulltime - Raytheon Missile Defense Sensors Software Engineer I",
         "locations": [
             "Tewksbury, MA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "0283e414-df72-4365-8aec-84597ca23509",
         "date_posted": 1756872100,
@@ -9251,14 +9251,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1756872100,
+        "date_updated": 1757468878,
         "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Berkeley-MO/F-22-Pilot-Training-Entry-Level-Software-Engineer---Simulation_JR2025457113-1",
         "company_name": "Boeing",
         "title": "F-22 Pilot Training Entry-Level Software Engineer - Simulation",
         "locations": [
             "Berkeley, MO"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "b1b33722-d4f5-446c-a81e-12b4dfff6e48",
         "date_posted": 1756872100,
@@ -9426,7 +9426,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1756872100,
+        "date_updated": 1757468887,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Finance-Data-Scientist_R158870",
         "company_name": "Adobe",
         "title": "2026 University Graduate - Finance Data Scientist",
@@ -9434,7 +9434,7 @@
             "SF",
             "San Jose, CA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "d46ecb62-e650-4ed6-9fb6-df42c64cbc3a",
         "date_posted": 1756872100,
@@ -9443,7 +9443,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1756872100,
+        "date_updated": 1757468891,
         "url": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--Salesforce-_R-46480",
         "company_name": "The Travelers Companies",
         "title": "Software Engineer I - Salesforce",
@@ -9453,7 +9453,7 @@
             "Atlanta, GA",
             "St Paul, MN"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "9731693c-6205-4299-bfe1-6e9ff581cde8",
         "date_posted": 1756872100,
@@ -9868,14 +9868,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1757068097,
+        "date_updated": 1757468911,
         "url": "https://icf.wd5.myworkdayjobs.com/en-US/ICFExternal_Career_Site/job/Reston-VA/Data-Scientist--Entry-Level-_R2502152",
         "company_name": "ICF",
         "title": "Junior Data Scientist",
         "locations": [
             "Reston, VA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "39c6c59f-bc40-44ec-bc52-aafcc8d127be",
         "date_posted": 1757068097,
@@ -9998,14 +9998,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1757068097,
+        "date_updated": 1757468920,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-NY-Rome/Fullstack-Web-Application-Software-Engineer---Entry-Level_316797",
         "company_name": "CACI",
         "title": "Fullstack Web Application Software Engineer",
         "locations": [
             "Rome, NY"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "8f97a2f8-42bb-4087-842d-8db44472cdd9",
         "date_posted": 1757068097,
@@ -10014,14 +10014,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1757068097,
+        "date_updated": 1757468924,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Kent-WA/Entry-Level-Software-Engineer-Test---Verification_JR2025468499-2",
         "company_name": "The Boeing Company",
         "title": "Software Engineer, Test & Verification",
         "locations": [
             "Kent, WA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "f681e142-dbea-445e-923d-fa20d94b05c6",
         "date_posted": 1757068097,
@@ -10030,13 +10030,13 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1757305985,
+        "date_updated": 1757468766,
         "url": "https://jobs.lever.co/bumbleinc/6cc32636-4671-4838-a6b7-2dd16b97c110",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Bumble Inc.",
         "title": "New Grad 2026: Software Engineer",
         "source": "vanshb03",
@@ -10320,14 +10320,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757306495,
+        "date_updated": 1757468929,
         "url": "https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Colorado-Springs-Colorado/Software-Engineer-I_R2110482",
         "company_name": "KBR",
         "title": "Software Engineer I",
         "locations": [
             "Colorado Springs, CO"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "5626f8f6-a48c-4f43-a2e9-baab91af3977",
         "date_posted": 1757306495,
@@ -10336,7 +10336,7 @@
         "sponsorship": "U.S. Citizenship is Required"
     },
     {
-        "date_updated": 1757306495,
+        "date_updated": 1757468766,
         "url": "https://jobs.lever.co/pditechnologies/dabd35a1-a15f-4702-8beb-f4c5d6a3d837",
         "company_name": "PDI Technologies",
         "title": "Junior Machine Learning Engineer",
@@ -10346,7 +10346,7 @@
             "Dallas, TX",
             "Houston, TX"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "49c5fa67-6aa5-4645-be03-185e8d320447",
         "date_posted": 1757306495,
@@ -10387,14 +10387,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1757306495,
+        "date_updated": 1757468939,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-NY-Rome/Entry-Level-Java-and-Python-Software-Engineer_316729",
         "company_name": "CACI",
         "title": "Entry Level Java and Python Software Engineer",
         "locations": [
             "Rome, NY"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "8ce11a4c-24c3-4ccb-b93c-2241289395aa",
         "date_posted": 1757306495,
@@ -10522,14 +10522,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757344867,
+        "date_updated": 1757468968,
         "url": "https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Durham-NC/Associate-Software-Engineer_2526628",
         "company_name": "Labcorp",
         "title": "Associate Software Engineer",
         "locations": [
             "Durham, NC"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "c9fdcaa5-3d85-447a-b914-6e2019f096d4",
         "date_posted": 1757344867,
@@ -10538,14 +10538,14 @@
         "sponsorship": "Offers Sponsorship"
     },
     {
-        "date_updated": 1757344867,
+        "date_updated": 1757468973,
         "url": "https://extraspace.wd5.myworkdayjobs.com/en-US/ESS_External/job/Salt-Lake-City-UT-United-States/Associate-Software-Engineer_R-72920",
         "company_name": "Extra Space Storage",
         "title": "Associate Software Engineer",
         "locations": [
             "Salt Lake City, UT"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "fafd8da2-9671-4a89-a4e3-fa3d8e2ba4bd",
         "date_posted": 1757344867,
