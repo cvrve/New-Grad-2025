@@ -11233,5 +11233,53 @@
         "date_posted": 1757578703,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757579183,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/en-GB/rec_rtx_ext_gateway/job/RI201-127-John-Clarke-Road-Middletwn-127-John-Clarke-Road-Suite-3-Middletown-RI-02842-USA/Software-Engineer-I---C-C---Linux--Onsite-_01791668",
+        "locations": [
+            "Middletown, RI"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "RTX Corporation",
+        "title": "Software Engineer I - C/C++ Linux (Onsite)",
+        "source": "vanshb03",
+        "id": "ccaa9b63-d58f-46ea-acf7-eaa2549814ce",
+        "date_posted": 1757579183,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757579220,
+        "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?jobId=560273",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SpiderRock",
+        "title": "New Grad 2026: Software Engineer",
+        "source": "vanshb03",
+        "id": "b3715f11-2a50-4f9f-b16f-a98be5e2fa23",
+        "date_posted": 1757579220,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757579231,
+        "url": "https://d3.com/careers#jobs-listing",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "D3 Global Inc",
+        "title": "New Grad: Backend Engineer",
+        "source": "vanshb03",
+        "id": "e8e22e0e-76a9-4ea8-b7ec-b87ba3d07a9c",
+        "date_posted": 1757579231,
+        "company_url": "",
+        "is_visible": true
     }
 ]
