@@ -10594,7 +10594,7 @@
         "sponsorship": "Other",
         "active": true,
         "company_name": "BlackRock",
-        "title": "Associate, Research Associate – SMA Solutions, Quantitative Investment Solutions (QIS)",
+        "title": "Associate, Research Associate \u2013 SMA Solutions, Quantitative Investment Solutions (QIS)",
         "source": "vanshb03",
         "id": "f876e9d4-9382-4e47-92c7-5698fcfac0d8",
         "date_posted": 1757346813,
@@ -10766,21 +10766,21 @@
         "is_visible": true
     },
     {
-    "date_updated": 1757347686,
-    "url": "https://www.workatastartup.com/jobs/80936",
-    "locations": [
-        "New York, NY",
-        "Remote"
-    ],
-    "sponsorship": "U.S. Citizenship is Required",
-    "active": true,
-    "company_name": "Gander",
-    "title": "Founding Engineer",
-    "source": "vanshb03",
-    "id": "1ee7437b-54ec-463e-a827-ab179a9eb08d",
-    "date_posted": 1757347686,
-    "company_url": "",
-    "is_visible": true
+        "date_updated": 1757347686,
+        "url": "https://www.workatastartup.com/jobs/80936",
+        "locations": [
+            "New York, NY",
+            "Remote"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Gander",
+        "title": "Founding Engineer",
+        "source": "vanshb03",
+        "id": "1ee7437b-54ec-463e-a827-ab179a9eb08d",
+        "date_posted": 1757347686,
+        "company_url": "",
+        "is_visible": true
     },
     {
         "date_updated": 1757464542,
@@ -11119,6 +11119,22 @@
         "source": "vanshb03",
         "id": "9cc3de6b-1ec9-48bb-a6c8-98101d3f151b",
         "date_posted": 1757468043,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757571659,
+        "url": "https://www.janestreet.com/join-jane-street/position/8053215002/",
+        "company_name": "Jane Street",
+        "title": "Cybersecurity Analyst",
+        "locations": [
+            "New York"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "cslegasse",
+        "id": "b3337990-2f02-4417-9430-85c72fc5c5a7",
+        "date_posted": 1757571659,
         "company_url": "",
         "is_visible": true
     }

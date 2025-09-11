@@ -44,6 +44,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Jane Street** | Cybersecurity Analyst 🇺🇸 | New York | <a href="https://www.janestreet.com/join-jane-street/position/8053215002/?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | **Visa** | New Grad 2026: Site Reliability Engineer 🛂 | Ashburn, VA | <a href="https://jobs.smartrecruiters.com/visa/744000080909305-site-reliability-engineer-new-college-grad-2026?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | **Visa** | New Grad 2026: Site Reliability Engineer 🛂 | Austin, TX | <a href="https://jobs.smartrecruiters.com/visa/744000080908246-site-reliability-engineer-new-college-grad-2026?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | **Visa** | New Grad 2026: Software Engineer 🛂 | Highlands Ranch, CO | <a href="https://jobs.smartrecruiters.com/visa/744000080906828-software-engineer-new-college-grad-2026?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
