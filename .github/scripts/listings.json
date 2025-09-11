@@ -11153,5 +11153,85 @@
         "date_posted": 1757571691,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757545180,
+        "url": "https://jobs.apple.com/en-us/details/200620177-3543/wi-fi-software-systems-performance-engineer",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apple",
+        "title": "Wi-Fi Software Systems Performance Engineer",
+        "source": "vanshb03",
+        "id": "02314778-9f50-45a9-b3dd-9b8ed6206f8e",
+        "date_posted": 1757545180,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757578688,
+        "url": "https://careers.nordstrom.com/engineer-1-full-stack-store-pos-team-hybrid-seattle-wa/job/4D8A4B0EBC4BABF554018E5C28260729",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nordstrom",
+        "title": "Engineer 1, Full Stack, Store POS+ Team",
+        "source": "vanshb03",
+        "id": "495e6045-ebf8-46e1-b904-d1f3e1042339",
+        "date_posted": 1757578688,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757578693,
+        "url": "https://www.tesla.com/careers/search/job/250792",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Backend Software Engineer, Residential Energy Experience",
+        "source": "vanshb03",
+        "id": "367a8a27-acad-4de4-9f62-c5e91309126c",
+        "date_posted": 1757578693,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757578698,
+        "url": "https://www.tesla.com/careers/search/job/250710",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software QA Engineer, Insurance",
+        "source": "vanshb03",
+        "id": "474423cd-0ec9-4326-837a-2706d18834a0",
+        "date_posted": 1757578698,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757578703,
+        "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-iOS-IL-60607/1322170500/",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "McDonald's Corporation",
+        "title": "Software Engineer I, iOS",
+        "source": "vanshb03",
+        "id": "204a1e62-9ebd-4919-96e1-b89d06b67ad8",
+        "date_posted": 1757578703,
+        "company_url": "",
+        "is_visible": true
     }
 ]
