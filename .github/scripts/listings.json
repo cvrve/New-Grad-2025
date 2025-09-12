@@ -11364,5 +11364,102 @@
         "company_url": "",
         "is_visible": true,
         "sponsorship": "Offers Sponsorship"
+    },
+    {
+        "date_updated": 1757670431,
+        "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
+        "company_name": "Susquehanna International Group (SIG)",
+        "title": "New Grad: Software Developer, Sprc",
+        "locations": [
+            "Ardmore, PA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "83035c63-cf51-43dd-af16-3dbceba30fce",
+        "date_posted": 1757670431,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1757670431,
+        "url": "https://careers-i3-corps.icims.com/jobs/4833/job?mobile=true&needsRedirect=false",
+        "company_name": "Integration Innovation (i3)",
+        "title": "Entry Level Full-Stack Software Engineer",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "2c3fabe3-95cd-418d-988f-e31b79b4ebfb",
+        "date_posted": 1757670431,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1757670431,
+        "url": "https://apply.workable.com/thorlabs/j/E79FA34ED4/apply",
+        "company_name": "Thorlabs",
+        "title": "Software Engineer I",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "44acf3c6-0df4-43bb-a233-ce8b9d2147f7",
+        "date_posted": 1757670431,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1757670431,
+        "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
+        "company_name": "Sev1Tech",
+        "title": "Entry Level Software Developer",
+        "locations": [
+            "Lawton, OK"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "b613ccb0-7dc2-4056-b507-9415cf812734",
+        "date_posted": 1757670431,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1757670431,
+        "url": "https://careers-gdms.icims.com/jobs/67972/job?mobile=true&needsRedirect=false",
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Entry Level Software Engineer",
+        "locations": [
+            "Pittsfield, MA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "7ed10785-49a3-4087-9990-79a4584496ac",
+        "date_posted": 1757670431,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1757670431,
+        "url": "https://job-boards.greenhouse.io/gomotive/jobs/8134258002",
+        "company_name": "Motive",
+        "title": "Entry Level Backend Engineer",
+        "locations": [
+            "Remote",
+            "Canada"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "48b8e467-24ba-40d0-a5f3-678bdcc36779",
+        "date_posted": 1757670431,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
