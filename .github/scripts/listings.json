@@ -2225,22 +2225,6 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748583962,
-        "url": "https://www.uber.com/global/en/careers/list/144046/",
-        "company_name": "Uber",
-        "title": "Software Engineer I - Container Platform",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "vanshb03",
-        "id": "1df0d202-9a23-4c23-a6dd-98d1f6a1887e",
-        "date_posted": 1748583962,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1748584030,
         "url": "https://www.nuro.ai/careersitem?gh_jid=6932596",
         "company_name": "Nuro",
@@ -11461,5 +11445,120 @@
         "company_url": "",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1757670412,
+        "url": "https://www.workatastartup.com/jobs/81444",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sonia",
+        "title": "Founding AI Engineer",
+        "source": "vanshb03",
+        "id": "9de93f43-ebc6-4afe-818f-7164e91f2644",
+        "date_posted": 1757670412,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757670708,
+        "url": "https://careers.garmin.com/jobs/16774",
+        "locations": [
+            "Chandler, AZ",
+            "Olathe, KS"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Garmin",
+        "title": "Software Engineer I, Aviation Web Development",
+        "source": "vanshb03",
+        "id": "6914b142-7dd6-4443-a881-e62c539ab833",
+        "date_posted": 1757670708,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757670719,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Java-Software-Engineer-AMTS_JR309960-1",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Salesforce",
+        "title": "Java Software Engineer AMTS",
+        "source": "vanshb03",
+        "id": "c77b52a1-4ffe-44df-abab-c67a7a4e4527",
+        "date_posted": 1757670719,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757670723,
+        "url": "https://www.uber.com/global/en/careers/list/144046/",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Uber",
+        "title": "Software Engineer I - Container Platform",
+        "source": "vanshb03",
+        "id": "ea4924d8-5997-433c-bb58-e5a92450a2a2",
+        "date_posted": 1757670723,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757670728,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1874807/Software-Engineer",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "e47c8751-0247-45e5-9cfb-b67720569b18",
+        "date_posted": 1757670728,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757670732,
+        "url": "https://careers.adobe.com/us/en/job/ADOBUSR159933EXTERNALENUS/2026-University-Graduate-Software-Engineer",
+        "locations": [
+            "San Jose, CA",
+            "Lehi, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Adobe",
+        "title": "New Grad 2026: Software Engineer",
+        "source": "vanshb03",
+        "id": "3cd950c6-c512-41d2-ac29-0a0a91eb97f4",
+        "date_posted": 1757670732,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757670758,
+        "url": "https://careers.adobe.com/us/en/job/ADOBUSR159163EXTERNALENUS/2026-University-Graduate-Software-Engineer",
+        "locations": [
+            "San Jose, CA",
+            "Lehi, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Adobe",
+        "title": "New Grad 2026: Software Engineer",
+        "source": "vanshb03",
+        "id": "5e25a939-4ed8-42d0-a22c-12be2ae4ca47",
+        "date_posted": 1757670758,
+        "company_url": "",
+        "is_visible": true
     }
 ]
