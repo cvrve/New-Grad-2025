@@ -11281,5 +11281,88 @@
         "date_posted": 1757579231,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757670431,
+        "url": "https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false",
+        "company_name": "Dayton Freight Lines",
+        "title": "Entry Level Software Developer",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "2d4f397b-bd4f-4200-b13f-9d8321eb8495",
+        "date_posted": 1757670431,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1757670431,
+        "url": "https://lplfinancial.wd1.myworkdayjobs.com/en-US/External/job/San-Diego-CA/New-Grad-2026---Technology--Software-Development_R-046207-1",
+        "company_name": "LPL Financial Holdings",
+        "title": "New Grad 2026: Technology, Software Development",
+        "locations": [
+            "Austin, TX",
+            "Fort Mill, SC",
+            "San Diego, CA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "017d7b43-4339-4708-9375-af97145ab15d",
+        "date_posted": 1757670431,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1757670431,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Engineer--Junior_R0226048",
+        "company_name": "Booz Allen",
+        "title": "Junior Data Engineer",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "e70eb5c9-e50e-4745-8781-27d067c360c6",
+        "date_posted": 1757670431,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1757670431,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Junior-Product-Manager_R159932",
+        "company_name": "Adobe",
+        "title": "New Grad: Junior Product Manager",
+        "locations": [
+            "San Francisco, CA",
+            "San Jose, CA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "a2bd88c9-46ec-4f9d-8596-6c5a1a8e7ee5",
+        "date_posted": 1757670431,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1757670431,
+        "url": "https://jobs.ashbyhq.com/eliseai/1ffbd278-a5fe-443c-984f-521d61a97353",
+        "company_name": "EliseAI",
+        "title": "Software Engineer",
+        "locations": [
+            "New York, NY"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "018a1202-7227-4245-8869-141708b0c588",
+        "date_posted": 1757670431,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Offers Sponsorship"
     }
 ]
