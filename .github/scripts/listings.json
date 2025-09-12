@@ -8374,13 +8374,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755612698,
+        "date_updated": 1757672446,
         "url": "https://job-boards.greenhouse.io/lightspeedhq/jobs/7175449",
         "locations": [
             "Montreal, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Lightspeed",
         "title": "Software Developer",
         "source": "vanshb03",
@@ -11558,6 +11558,22 @@
         "source": "vanshb03",
         "id": "5e25a939-4ed8-42d0-a22c-12be2ae4ca47",
         "date_posted": 1757670758,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757670909,
+        "url": "https://boards.greenhouse.io/embed/job_app?for=blackedgecapital&token=4600444005",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "BlackEdge Capital",
+        "title": "Quantitative Researcher",
+        "source": "vanshb03",
+        "id": "9d3c397a-45e9-419e-a864-9d6380c16fff",
+        "date_posted": 1757670909,
         "company_url": "",
         "is_visible": true
     }
