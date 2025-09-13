@@ -44,6 +44,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Twilio** | Software Engineer, Early Career - Messaging API | Remote</br>Canada | <a href="https://job-boards.greenhouse.io/twilio/jobs/7245466?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
 | **Motive** | Entry Level Backend Engineer | Remote</br>Canada | <a href="https://job-boards.greenhouse.io/gomotive/jobs/8134258002?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | **Atlassian** | New Grad 2026: Software Engineer | Canada | <a href="https://join.atlassian.com/atlassian-talent-community/jobs/20908?lang=en-us&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | **Tripadvisor** | Android Engineer | Ottawa, Canada | <a href="https://careers.tripadvisor.com/job?jobId=7234900&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |

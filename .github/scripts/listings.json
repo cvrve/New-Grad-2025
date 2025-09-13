@@ -11576,5 +11576,22 @@
         "date_posted": 1757670909,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757750722,
+        "url": "https://job-boards.greenhouse.io/twilio/jobs/7245466",
+        "company_name": "Twilio",
+        "title": "Software Engineer, Early Career - Messaging API",
+        "locations": [
+            "Remote",
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "PatrickWWWANG",
+        "id": "643f9358-95b4-4e2b-bb93-77963333f41d",
+        "date_posted": 1757750722,
+        "company_url": "",
+        "is_visible": true
     }
 ]
