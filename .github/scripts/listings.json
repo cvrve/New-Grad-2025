@@ -11593,5 +11593,70 @@
         "date_posted": 1757750722,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757801227,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1873806/Software-Engineer",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "cbcc7bee-db3a-4dd3-89cb-0888bf8702b6",
+        "date_posted": 1757801227,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757801241,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1869402/Software-Engineer---AI%2FML%2C-Multiple-Locations",
+        "locations": [
+            "Redmond, WA",
+            "Multiple Locations"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer - AI/ML, Multiple Locations",
+        "source": "vanshb03",
+        "id": "1e61f849-f492-4137-b2ed-87eda4980a3d",
+        "date_posted": 1757801241,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757801250,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1869430/Software-Engineer---Systems%2C-Multiple-Locations",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer, Systems",
+        "source": "vanshb03",
+        "id": "38350827-60d9-4e1c-8e4f-6fb2ab81557d",
+        "date_posted": 1757801250,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757801262,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1872822/Software-Engineer---CTJ---Poly",
+        "locations": [
+            "Reston, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer - CTJ - Poly",
+        "source": "vanshb03",
+        "id": "b85c8e98-a972-400a-b50d-3db143bed60c",
+        "date_posted": 1757801262,
+        "company_url": "",
+        "is_visible": true
     }
 ]
