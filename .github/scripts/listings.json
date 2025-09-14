@@ -11658,5 +11658,53 @@
         "date_posted": 1757801262,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757825139,
+        "url": "https://jobs.ashbyhq.com/Anima/a6b86f92-0679-423b-b575-a23f8677dfd1",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Anima",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "06e99988-3ec2-4eba-9684-d3dae244f258",
+        "date_posted": 1757825139,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757825155,
+        "url": "https://www.coalitioninc.com/job-posting/4560711005",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Coalition",
+        "title": "Software Engineer I",
+        "source": "vanshb03",
+        "id": "1a6da461-bc07-4798-8d6a-13f4d81c361e",
+        "date_posted": 1757825155,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757825162,
+        "url": "https://jobs.ashbyhq.com/eliseai/1ffbd278-a5fe-443c-984f-521d61a97353",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "EliseAI",
+        "title": "New Grad 2026: Software Engineer",
+        "source": "vanshb03",
+        "id": "0074105b-98b2-4cc5-83af-f06e4757250b",
+        "date_posted": 1757825162,
+        "company_url": "",
+        "is_visible": true
     }
 ]
