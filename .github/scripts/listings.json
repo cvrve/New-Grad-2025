@@ -11706,5 +11706,38 @@
         "date_posted": 1757825162,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757827837,
+        "url": "https://www.workatastartup.com/jobs/81629",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Planbase",
+        "title": "Founding Engineer (Full-Stack)",
+        "source": "vanshb03",
+        "id": "5ea81105-ef41-42f4-a04b-9979a953a02b",
+        "date_posted": 1757827837,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757827869,
+        "url": "https://www.workatastartup.com/jobs/81628",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Benchify",
+        "title": "Founding Engineer",
+        "source": "vanshb03",
+        "id": "2c6f116d-6bf7-48e7-be11-cac0fb64b1b6",
+        "date_posted": 1757827869,
+        "company_url": "",
+        "is_visible": true
     }
 ]
