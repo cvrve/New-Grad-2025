@@ -11739,5 +11739,153 @@
         "date_posted": 1757827869,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757962691,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano,-TX/Technology-Development-Program-Associate---August-2026_R218706-1",
+        "locations": [
+            "Plano, TX",
+            "Richmond, VA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Capital One",
+        "title": "Technology Development Program Associate",
+        "source": "vanshb03",
+        "id": "e59339b0-3156-4ebf-9a0e-753310f7cc8d",
+        "date_posted": 1757962691,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757962700,
+        "url": "https://careers.duolingo.com/jobs/8162849002",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Duolingo",
+        "title": "New Grad: Data Scientist",
+        "source": "vanshb03",
+        "id": "2461c1f7-c195-417c-83aa-76d348380202",
+        "date_posted": 1757962700,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757962705,
+        "url": "https://careers.duolingo.com/jobs/8155283002",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Duolingo",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "f98ead95-0331-41fd-8a6e-998120f25f28",
+        "date_posted": 1757962705,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757963899,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Plano-TX/Product-Development-Program-Associate---2026_R219614-1",
+        "locations": [
+            "Plano, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Capital One",
+        "title": "Product Development Program Associate",
+        "source": "vanshb03",
+        "id": "55f9284f-90e3-4613-b0e6-378ef7a2db01",
+        "date_posted": 1757963899,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757963916,
+        "url": "https://navexglobal.wd5.myworkdayjobs.com/navex/job/Hybrid-Lake-Oswego-OR/Associate-Software-Engineer_R6157",
+        "locations": [
+            "Lake Oswego, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NAVEX",
+        "title": "Associate Software Engineer",
+        "source": "vanshb03",
+        "id": "b7e55b78-e206-4c4d-8ade-25baec722ebe",
+        "date_posted": 1757963916,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757963937,
+        "url": "https://tiaa.wd1.myworkdayjobs.com/search/job/Charlotte-NC-USA/XMLNAME-2026-Early-Talent-Rotational-Program--Technology_R250900271-1",
+        "locations": [
+            "Charlotte, NC",
+            "Dallas, TX",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TIAA",
+        "title": "Early Talent Rotational Program: Technology",
+        "source": "vanshb03",
+        "id": "e0931bd1-e27f-4005-b507-12bedad41e44",
+        "date_posted": 1757963937,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757963943,
+        "url": "https://job-boards.greenhouse.io/alphataraxia/jobs/4875669007",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Alphataraxia Management (ATX)",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "d45a9cd9-f9d8-4685-bfd6-8c332df34491",
+        "date_posted": 1757963943,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757963945,
+        "url": "https://costar.wd1.myworkdayjobs.com/costar_campus/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R37014",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "CoStar Group",
+        "title": "Associate Software Engineer",
+        "source": "vanshb03",
+        "id": "df8e94fc-4d80-491c-80ae-24cd971dae94",
+        "date_posted": 1757963945,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757963955,
+        "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Associate-Software-Engineer_R320511",
+        "locations": [
+            "Reno, NV",
+            "Las Vegas, NV"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Light & Wonder",
+        "title": "Associate Software Engineer",
+        "source": "vanshb03",
+        "id": "ee6e8880-a3ef-4a2e-bf35-4bfebba70787",
+        "date_posted": 1757963955,
+        "company_url": "",
+        "is_visible": true
     }
 ]
