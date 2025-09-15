@@ -44,8 +44,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
-| **Twilio** | Software Engineer, Early Career - Messaging API | Remote</br>Canada | <a href="https://job-boards.greenhouse.io/twilio/jobs/7245466?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
-| **Motive** | Entry Level Backend Engineer | Remote</br>Canada | <a href="https://job-boards.greenhouse.io/gomotive/jobs/8134258002?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | **Atlassian** | New Grad 2026: Software Engineer | Canada | <a href="https://join.atlassian.com/atlassian-talent-community/jobs/20908?lang=en-us&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | **Tripadvisor** | Android Engineer | Ottawa, Canada | <a href="https://careers.tripadvisor.com/job?jobId=7234900&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | **TD Securities** | Machine Learning Engineer I | Toronto, ON, Canada | <a href="https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1443721?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
@@ -79,6 +77,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Oracle** | Software Developer - Rotational Program - NetSuite | Kitchiner, Canada | <a href="https://careers.oracle.com/jobs/#en/sites/jobsearch/job/264377?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 19 |
 | **Applied Systems** | Software Engineer | Toronto, Canada | <a href="https://canada-appliedsystems.icims.com/jobs/6506/software-engineer/job?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 14 |
 | **Amazon** | New Grad 2025: Software Development Engineer I | Vancouver, BC</br>Toronto, Canada | <a href="https://amazon.jobs/en/jobs/2855790/software-development-engineer-i-2025-computer-science?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 12 |
+| **Twilio** | Software Engineer, Early Career - Messaging API | Remote</br>Canada | 🔒 | Sep 13 |
+| **Motive** | Entry Level Backend Engineer | Remote</br>Canada | 🔒 | Sep 12 |
 | **Tenstorrent** | Software Engineer, AI Tools | <details><summary>**4 locations**</summary>Austin, TX</br>Santa Clara, CA</br>Toronto, Canada</br>Remote</details> | 🔒 | Aug 28 |
 | **Lightspeed** | Software Developer | Montreal, Canada | 🔒 | Aug 19 |
 | **Capital One** | Associate, Data Scientist | Toronto, Canada | 🔒 | Aug 19 |
