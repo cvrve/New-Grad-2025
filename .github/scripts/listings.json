@@ -4322,14 +4322,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1752526221,
+        "date_updated": 1757963733,
         "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/6640194003?utm_source=Simplify&ref=Simplify",
         "locations": [
             "San Francisco, CA",
             "New York City, NY"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Sigma",
         "title": "New Grad: Software Engineer",
         "source": "vanshb03",
@@ -11430,7 +11430,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1757670431,
+        "date_updated": 1757963734,
         "url": "https://job-boards.greenhouse.io/gomotive/jobs/8134258002",
         "company_name": "Motive",
         "title": "Entry Level Backend Engineer",
@@ -11438,7 +11438,7 @@
             "Remote",
             "Canada"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "48b8e467-24ba-40d0-a5f3-678bdcc36779",
         "date_posted": 1757670431,
@@ -11578,7 +11578,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757750722,
+        "date_updated": 1757963734,
         "url": "https://job-boards.greenhouse.io/twilio/jobs/7245466",
         "company_name": "Twilio",
         "title": "Software Engineer, Early Career - Messaging API",
@@ -11587,7 +11587,7 @@
             "Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "PatrickWWWANG",
         "id": "643f9358-95b4-4e2b-bb93-77963333f41d",
         "date_posted": 1757750722,
