@@ -129,7 +129,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1743853769,
+        "date_updated": 1758024602,
         "url": "https://job-boards.greenhouse.io/twitch/jobs/7938822002",
         "company_name": "Twitch",
         "title": "Software Development Engineer - Safety ML",
@@ -137,7 +137,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "7e15c90e-ab8e-4fc6-bb07-a39b7a07cc43",
         "date_posted": 1743853769,
