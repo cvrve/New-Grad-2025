@@ -116,8 +116,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Tesla** | Software QA Engineer, Infotainment, Vehicle Software | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/225545?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Sonia** | Founding Design Engineer 🇺🇸 | San Francisco, CA | <a href="https://www.workatastartup.com/jobs/81060?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Roblox** | Associate Product Manager | San Mateo, CA | <a href="https://careers.roblox.com/jobs/7167343?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
-| **Microsoft** | Software Engineer I | Atlanta, GA | <a href="https://jobs.careers.microsoft.com/global/en/job/1857025/Software-Engineer?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
-| **Microsoft** | Software Engineer | Atlanta, GA | <a href="https://jobs.careers.microsoft.com/global/en/job/1858061/Software-Engineer?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **LexisNexis Risk Solutions** | Aspire Tech Graduate Security Engineer I | Raleigh, NC | <a href="https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Aspire-Tech-Graduate-Security-Engineer-I_R101084?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **InQuery** | New Grad: Founding Engineer | New York, NY | <a href="https://www.workatastartup.com/jobs/81052?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **HubSpot** | Software Engineer 🛂 | Cambridge, MA</br>Remote | <a href="https://app.ripplematch.com/v2/public/job/c730fa3b?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
@@ -190,8 +188,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Tesla** | Kernel Software Engineer | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/248966?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | **Samsara** | New Grad: Software Engineering | San Francisco, CA | <a href="https://www.samsara.com/company/careers/roles/7172579?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | **NVIDIA** | New Grad 2025: GPU Architecture Engineer | Santa Clara, CA</br>Austin, TX</br>Durham, NC | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/GPU-Architecture-Engineer---New-College-Grad-2025_JR2002495?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
-| **Microsoft** | Software Engineer | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1862715/Software-Engineer?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
-| **Microsoft** | Software Engineer | Multiple Locations, United States | <a href="https://jobs.careers.microsoft.com/global/en/job/1843258/Software-Engineer?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | **Commure** | New Grad 2026: Software Engineer | Mountain View, CA | <a href="https://jobs.ashbyhq.com/Commure-Athelas/00dbfa4a-986c-4c98-a966-47874d1ff0f8?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | **ByteDance** | New Grad 2026: Machine Learning Graduate (eCommerce User Growth & Intelligent Marketing) | San Jose, CA | <a href="https://joinbytedance.com/search/7542657938525538578?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | **ByteDance** | New Grad 2026: Software Engineer (AI Applications) | San Jose, CA | <a href="https://joinbytedance.com/search/7540808448918079752?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
@@ -266,8 +262,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Prosidian Consulting** | ITSM IT Security Engineer I | Washington, DC | <a href="https://jobs.smartrecruiters.com/prosidianconsulting/743999691677974?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | **Peraton** | Software Engineering, Associate 🇺🇸 | Herndon, VA | <a href="https://careers-peraton.icims.com/jobs/158789/software-engineering%2c-associate/job?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | **NVIDIA** | Research Scientist, Robotics Research | Seattle, WA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Scientist--Robotics-Research---New-College-Grad-2025_JR2001017?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
-| **Microsoft** | Software Engineer: Microsoft AI Development Acceleration Program, Redmond | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1860403/Software-Engineer%3A-Microsoft-AI-Development-Acceleration-Program%2C-Redmond?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
-| **Microsoft** | Software Engineer | Atlanta, GA | <a href="https://jobs.careers.microsoft.com/global/en/job/1858310/Software-Engineer?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | **Meta** | Software Engineer | Sunnyvale, CA | <a href="https://www.metacareers.com/jobs/8187200048015588?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | **Maxar** | Forward Deployed Software Engineer I | Herndon, VA | <a href="https://maxar.wd1.myworkdayjobs.com/en-US/Maxar/job/Herndon-VA/Forward-Deployed-Software-Engineer-I_R22647-1?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | **Jump Trading** | Tech Ops Engineer | Chicago, IL | <a href="https://www.jumptrading.com/careers/7078491/?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
@@ -336,7 +330,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Ping Identity** | Software Engineer I | Denver, CO | <a href="https://job-boards.greenhouse.io/pingidentity/jobs/8084784002?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
 | **Oracle** | Undergrad Software Engineer 🛂 | Seattle, WA | <a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/304100?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
 | **Niantic** | Software Engineer, Client | San Francisco, CA | <a href="https://job-boards.greenhouse.io/niantic/jobs/8108536002?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
-| **Microsoft** | Software Engineer | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1857028/Software-Engineer?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
 | **Mathtech** | Associate Software Developer | Hamilton, NJ | <a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf1a92f4-16eb-4267-86ca-bc956024f426&jobId=553315&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
 | **Lumafield** | Embedded Software Engineer | Boston, MA</br>Everett, MA | <a href="https://jobs.lever.co/lumafield/0bdaed8e-3234-4073-afa6-410d1362fe25?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
 | **Jacobs** | Software Engineer, Entry | Kennedy Space Center, FL | <a href="https://jacobs.taleo.net/careersection/ex3/jobdetail.ftl?job=ADV000B3R&lang=en&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
@@ -376,7 +369,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Qualtrics** | Machine Learning Engineer | Seattle, WA | <a href="https://www.qualtrics.com/careers/us/en/job/QUALUS6580294EXTERNALENUS/Machine-Learning-Engineer?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
 | **Microsoft** | Software Engineer - Azure Data | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1853826/Software-Engineer---Azure-Data?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
 | **Microsoft** | Software Engineer I | Multiple Locations, United States | <a href="https://jobs.careers.microsoft.com/global/en/job/1851452/Software-Engineer?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
-| **Microsoft** | Hardware Engineer | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1849297/Hardware-Engineer?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
 | **Hudson River Trading** | Trade Operations | Austin, TX | <a href="https://www.hudsonrivertrading.com/hrt-job/junior-electronic-trading-support-engineer/?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
 | **Hudson River Trading** | Trade Operations | New York, NY | <a href="https://www.hudsonrivertrading.com/hrt-job/junior-electronic-trading-support-engineer-2/?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
 | **ByteDance** | New Grad 2026: Software Engineer | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7532618536427391240/detail?spread=BSPP2KS&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
@@ -396,12 +388,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Phonely** | Software Engineer (Early Career) | San Francisco, CA | <a href="https://www.ycombinator.com/companies/phonely/jobs/nSlxo4y-software-engineer-early-career?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | **Neuralink** | Software Engineer, Next Gen | Fremont, CA | <a href="https://job-boards.greenhouse.io/neuralink/jobs/6658884003?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | **Microsoft** | Firmware Engineer | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1847616/Firmware-Engineer?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
-| **Microsoft** | Critical Infrastructure Network Engineer | Atlanta, GA | <a href="https://jobs.careers.microsoft.com/global/en/job/1850029/Critical-Infrastructure-Network-Engineer?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
-| **Microsoft** | Software Engineer | Multiple Locations, United States | <a href="https://jobs.careers.microsoft.com/global/en/job/1847569/Software-Engineer?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | **xAI** | AI Researcher & Engineer - Multimodal (Real-time Video) 🛂 | San Francisco, CA</br>Palo Alto, CA | <a href="https://job-boards.greenhouse.io/xai/jobs/4786668007?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
 | **Qualcomm Technologies, Inc.** | GPU Software Engineer | San Diego, CA | <a href="https://careers.qualcomm.com/careers/job/446706913920?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
 | **Microsoft** | Site Reliability Engineer 🇺🇸 | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1844417/Site-Reliability-Engineer---CTJ---Top-Secret?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
-| **Microsoft** | Software Engineer | Multiple Locations, United States | <a href="https://jobs.careers.microsoft.com/us/en/job/1844322/Software-Engineer?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
 | **Porter** | Full Stack Engineer | New York, NY | <a href="https://www.ycombinator.com/companies/porter/jobs/6QhplSz-full-stack-engineer?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 15 |
 | **Optiver** | New Grad 2026: FPGA Engineer | Austin, TX | <a href="https://optiver.com/working-at-optiver/career-opportunities/7973721002/?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 15 |
 | **Optiver** | New Grad 2026: FPGA Engineer | Chicago, IL | <a href="https://optiver.com/working-at-optiver/career-opportunities/8033327002/?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 15 |
@@ -413,7 +402,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Old Mission** | New Grad 2026: Junior Software Engineer | Chicago, IL | <a href="https://www.oldmissioncapital.com/careers/?gh_jid=6602927003&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 14 |
 | **NVIDIA** | New Grad 2025: ASIC Design Verification Engineer | Austin, TX | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/ASIC-Verification-Engineer---New-College-Grad-2025_JR1998960?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 14 |
 | **Nuro** | New Grad: Software Engineer, Routing | Mountain View, CA | <a href="https://www.nuro.ai/careersitem?gh_jid=7066706&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 14 |
-| **Microsoft** | Software Engineer | Multiple Locations, United States | <a href="https://jobs.careers.microsoft.com/global/en/job/1845958/Software-Engineer?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 14 |
 | **Cryptic Vector** | Full Stack Developer 🇺🇸 | Cincinnati, OH | <a href="https://recruiting.paylocity.com/recruiting/jobs/Details/3409369/Cryptic-Vector/Full-Stack-Developer?source=Indeed_Feed&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 14 |
 | **Candid Health** | New Grad: Software Engineer | San Francisco, CA</br>Denver, CO</br>New York, NY | <a href="https://jobs.ashbyhq.com/candidhealth/f0e529c1-b8d8-4add-aaef-23b174053b8b?utm_source=Simplify&ref=Simplify&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 14 |
 | **Candid Health** | New Grad: Forward Deployed Software Engineer | San Francisco, CA</br>Denver, CO</br>New York, NY | <a href="https://jobs.ashbyhq.com/candidhealth/8d1922f8-e89d-433e-a21f-b724eabc003b?utm_source=Simplify&ref=Simplify&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 14 |
@@ -489,7 +477,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **N1** | Software Engineer (Backend Rust) | New York City | <a href="https://jobs.ashbyhq.com/n1/99a78724-a7eb-4801-9e75-cf4465950567?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 06 |
 | **N1** | Software Engineer (Full Stack) | New York City | <a href="https://jobs.ashbyhq.com/n1/2213cef6-fbcd-42f7-8e0e-c6a23bfc1119?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 06 |
 | **Omnicell** | Software Engineer I | Cranberry Township, PA | <a href="https://elrj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/search/job/4261?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 31 |
-| **Microsoft** | Software Engineer | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1826495/Software-Engineer?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 31 |
 | **Tesla** | Software Engineer, ML Inference Compiler & Deployment, GPU, CPU | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/243628?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 30 |
 | **SquareTrade** | Associate Software Engineer | Brisbane, CA | <a href="https://jobs.smartrecruiters.com/SquareTrade1/744000045758179-associate-software-engineer?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 30 |
 | **Spectrum** | Software Engineer I | Englewood, CO | <a href="https://jobs.spectrum.com/job/-/-/4673/81850982400?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 30 |
@@ -510,8 +497,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Qualcomm** | Graphics Software Engineer | San Diego, CA | <a href="https://careers.qualcomm.com/careers/job/446705739046?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 23 |
 | **Qualcomm** | Software Engineer | San Diego, CA | <a href="https://careers.qualcomm.com/careers/job/446705907067?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 23 |
 | **NVIDIA** | New Grad 2025: ASIC Verification Engineer | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/ASIC-Verification-Engineer---New-College-Grad-2025_JR1997551?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 23 |
-| **Microsoft** | Software Engineer | Multiple Locations | <a href="https://jobs.careers.microsoft.com/global/en/job/1821540/Software-Engineer?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 23 |
-| **Microsoft** | Software Engineer | Multiple Locations | <a href="https://jobs.careers.microsoft.com/global/en/job/1822239/Software-Engineer?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 23 |
 | **KBR** | Full Stack Software Engineer | Moffett Field, CA | <a href="https://bs.com/KBR_Careers/job/Moffett-Field-California/Full-Stack-Software-Engineer_R2106782?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 23 |
 | **Garmin** | C#/.NET Software Engineer 1 | Cary, NC | <a href="https://careers.garmin.com/careers-home/jobs/15924?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 23 |
 | **Apple** | Cellular Platform Software Engineer, Embedded Analytics | Sunnyvale, CA | <a href="https://jobs.apple.com/en-us/details/200605754/cellular-platform-software-engineer-embedded-analytics?team=SFTWR&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 23 |
@@ -558,6 +543,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Adobe** | New Grad: Junior Product Manager | San Francisco, CA</br>San Jose, CA | 🔒 | Sep 12 |
 | **TD** | Quantitative Rotational Program | New York, NY | 🔒 | Sep 08 |
 | **PDI Technologies** | Junior Machine Learning Engineer 🛂 | <details><summary>**4 locations**</summary>Alpharetta, GA</br>Temple, TX</br>Dallas, TX</br>Houston, TX</details> | 🔒 | Sep 08 |
+| **Microsoft** | Software Engineer | Atlanta, GA | 🔒 | Sep 08 |
+| **Microsoft** | Software Engineer I | Atlanta, GA | 🔒 | Sep 08 |
 | **Labcorp** | Associate Software Engineer | Durham, NC | 🔒 | Sep 08 |
 | **KBR** | Software Engineer I 🇺🇸 | Colorado Springs, CO | 🔒 | Sep 08 |
 | **Extra Space Storage** | Associate Software Engineer | Salt Lake City, UT | 🔒 | Sep 08 |
@@ -576,6 +563,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Boeing** | F-22 Pilot Training Entry-Level Software Engineer - Simulation 🇺🇸 | Berkeley, MO | 🔒 | Sep 03 |
 | **Adobe** | 2026 University Graduate - Finance Data Scientist | SF</br>San Jose, CA | 🔒 | Sep 03 |
 | **NVIDIA** | New Grad 2025: OEM Account Applications Engineer | Santa Clara, CA | 🔒 | Aug 28 |
+| **Microsoft** | Software Engineer | Multiple Locations, United States | 🔒 | Aug 28 |
+| **Microsoft** | Software Engineer | Redmond, WA | 🔒 | Aug 28 |
 | **Rockstar Games** | Associate Software Engineer (C++) | Manhattan, NY | 🔒 | Aug 22 |
 | **Gen** | Software Engineer | Mountain View, CA | 🔒 | Aug 21 |
 | **Zoom** | Software Engineer | Remote | 🔒 | Aug 17 |
@@ -594,6 +583,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **RTX** | Cyber/Electronic Warfare Research Engineer I | Columbia, MD | 🔒 | Aug 13 |
 | **Radiance Technologies** | Junior Full Stack Software Engineer | Beavercreek, OH | 🔒 | Aug 13 |
 | **Moog** | Associate Software Engineer 🇺🇸 | Torrance, CA | 🔒 | Aug 13 |
+| **Microsoft** | Software Engineer | Atlanta, GA | 🔒 | Aug 13 |
+| **Microsoft** | Software Engineer: Microsoft AI Development Acceleration Program, Redmond | Redmond, WA | 🔒 | Aug 13 |
 | **DIRECTV** | IT Software Engineer 1 | El Segundo, CA</br>Remote in USA | 🔒 | Aug 13 |
 | **DIRECTV** | IT Software Engineer 1 | Remote in USA | 🔒 | Aug 13 |
 | **CVS Health** | Associate Cloud Architect | Remote, TX | 🔒 | Aug 13 |
@@ -608,16 +599,21 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **UnitedHealth Group** | Software Engineer - Python, ETL, SQL | Remote | 🔒 | Aug 07 |
 | **Twilio** | Machine Learning & Data Engineer | Remote | 🔒 | Aug 07 |
 | **The Boeing Company** | Associate Software Engineer 🛂 | Daytona Beach, FL | 🔒 | Aug 07 |
+| **Microsoft** | Software Engineer | Redmond, WA | 🔒 | Aug 07 |
 | **Cook Systems** | Software Developer | Nashville, TN | 🔒 | Aug 07 |
 | **Autodesk** | New Grad 2025: Software Engineer | San Francisco, CA | 🔒 | Aug 07 |
 | **Adobe** | Software Development Engineer | Lehi, UT | 🔒 | Aug 07 |
 | **T-Mobile** | Associate Product Manager | Bellevue, WA | 🔒 | Jul 30 |
 | **Salesforce** | Product Security Engineer | San Francisco, CA</br>Seattle, WA</br>Bellevue, WA | 🔒 | Jul 30 |
+| **Microsoft** | Hardware Engineer | Redmond, WA | 🔒 | Jul 30 |
 | **Salesforce** | Associate Product Manager | San Francisco, CA | 🔒 | Jul 25 |
 | **Spotify** | Associate Machine Learning Engineer | New York, NY | 🔒 | Jul 24 |
 | **NVIDIA** | New Grad 2025: Verification Engineer, CPU | Westford, MA | 🔒 | Jul 24 |
 | **NVIDIA** | New Grad 2025: VLSI CAD Engineer, ECO Tools | Santa Clara, CA</br>Austin, TX | 🔒 | Jul 24 |
+| **Microsoft** | Software Engineer | Multiple Locations, United States | 🔒 | Jul 24 |
+| **Microsoft** | Critical Infrastructure Network Engineer | Atlanta, GA | 🔒 | Jul 24 |
 | **Castleton Commodities International** | Commodities Trading Rotational Analyst Program | Houston, TX</br>Stamford, CT | 🔒 | Jul 24 |
+| **Microsoft** | Software Engineer | Multiple Locations, United States | 🔒 | Jul 20 |
 | **Google DeepMind** | Software Engineer, Full Stack - Gemini | Mountain View, CA | 🔒 | Jul 20 |
 | **Benchling** | Software Engineer, Full Stack (Lab Auto) | Boston, MA | 🔒 | Jul 20 |
 | **STR** | Firmware Engineer 🇺🇸 | Dayton, OH | 🔒 | Jul 14 |
@@ -627,6 +623,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **NVIDIA** | New Grad 2025: ASIC Hardware Design Engineer | Austin, TX | 🔒 | Jul 14 |
 | **NVIDIA** | New Grad 2025: Systems Software Engineer | Hillsboro, OR | 🔒 | Jul 14 |
 | **NVIDIA** | New Grad 2025: Hardware Applications Engineer, Datacenter | Santa Clara, CA | 🔒 | Jul 14 |
+| **Microsoft** | Software Engineer | Multiple Locations, United States | 🔒 | Jul 14 |
 | **NVIDIA** | New Grad 2025: ASIC Design Engineer | Santa Clara, CA | 🔒 | Jul 05 |
 | **Galatea Associates** | Software Engineer Associate 🛂 | <details><summary>**4 locations**</summary>Somerville, MA</br>St. Petersburg, FL</br>Durham, NC</br>London, UK</details> | 🔒 | Jul 05 |
 | **Belvedere Trading** | Machine Learning and Algorithm Developer | Boulder, CO | 🔒 | Jul 05 |
@@ -657,6 +654,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Sigma** | New Grad: Software Engineer | San Francisco, CA</br>New York City, NY | 🔒 | Jun 02 |
 | **PlayStation** | Software Engineer I - Application Framework | San Mateo, CA | 🔒 | Jun 01 |
 | **Vertex Inc** | New Grad 2025: Software Developer | Remote</br>US | 🔒 | May 31 |
+| **Microsoft** | Software Engineer | Redmond, WA | 🔒 | May 31 |
 | **Disney** | Software Engineer I | Seattle, WA | 🔒 | May 31 |
 | **Disney** | Software Engineer I | <details><summary>**6 locations**</summary>Glendale, CA</br>Seattle, WA</br>San Francisco, CA</br>New York, NY</br>Bristol, CT</br>Santa Monica, CA</details> | 🔒 | May 31 |
 | **RTX** | C/C++ and Java Software Development Engineer I | Portsmouth, RI | 🔒 | May 30 |
@@ -677,6 +675,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Remitly** | Software Development Engineer I | Seattle, WA | 🔒 | May 23 |
 | **Perforce** | Associate Software Engineer | Minneapolis, MN | 🔒 | May 23 |
 | **NVIDIA** | New Grad 2025: ASIC Floorplan Design Engineer | Santa Clara, CA | 🔒 | May 23 |
+| **Microsoft** | Software Engineer | Multiple Locations | 🔒 | May 23 |
+| **Microsoft** | Software Engineer | Multiple Locations | 🔒 | May 23 |
 | **Lucid** | Software Engineer, Linux System Software | Seattle, WA | 🔒 | May 23 |
 | **Horace Mann** | Software Engineer I | Springfield, IL</br>Addison, TX</br>Remote | 🔒 | May 23 |
 | **Fifth Third Bank** | Data Engineer I - Finance IT | Cincinnati, OH | 🔒 | May 23 |
