@@ -162,7 +162,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Microsoft** | Software Engineer - Systems | Redmond, WA | <a href="https://jobs.careers.microsoft.com/us/en/job/1869430/Software-Engineer-Systems-Multiple-Locations?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | **Microsoft** | Software Engineer, Security | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1869427/Software-Engineer---Security%2C-Multiple-Locations?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | **Microsoft** | Software Engineer | Multiple Locations, United States | <a href="https://jobs.careers.microsoft.com/global/en/job/1862399/Software-Engineer?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
-| **Microsoft** | Software Engineer | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1868816/Software-Engineer?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | **Microsoft** | Software Engineer - Fullstack | United States | <a href="https://jobs.careers.microsoft.com/us/en/job/1869391?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | **Lumen Technologies** | Information Security Engineer I | Remote in USA | <a href="https://jobs.lumen.com/global/en/job/339747?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | **Lumen Technologies** | Information Security Engineer I | Remote in USA | <a href="https://jobs.lumen.com/global/en/job/339750?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
@@ -559,6 +558,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **The Travelers Companies** | Software Engineer I - Salesforce | <details><summary>**4 locations**</summary>Sparks, MD</br>Hartford, CT</br>Atlanta, GA</br>St Paul, MN</details> | 🔒 | Sep 03 |
 | **RTX** | 2026 Fulltime - Raytheon Missile Defense Sensors Software Engineer I | Tewksbury, MA | 🔒 | Sep 03 |
 | **RTX** | 2026 Fulltime - Raytheon Missile Defense Sensors Software Engineer I | Burlington, MA | 🔒 | Sep 03 |
+| **Microsoft** | Software Engineer | Redmond, WA | 🔒 | Sep 03 |
 | **CVS Health** | Associate Software Development Engineer | Hartford, CT | 🔒 | Sep 03 |
 | **Boeing** | F-22 Pilot Training Entry-Level Software Engineer - Simulation 🇺🇸 | Berkeley, MO | 🔒 | Sep 03 |
 | **Adobe** | 2026 University Graduate - Finance Data Scientist | SF</br>San Jose, CA | 🔒 | Sep 03 |
