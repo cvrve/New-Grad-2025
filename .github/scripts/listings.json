@@ -1808,7 +1808,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748025511,
+        "date_updated": 1758024769,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1822239/Software-Engineer",
         "company_name": "Microsoft",
         "title": "Software Engineer",
@@ -1816,7 +1816,7 @@
             "Multiple Locations"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "d4aa7954-53c4-4325-a970-dbe3c7448627",
         "date_posted": 1748025511,
@@ -1824,7 +1824,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748025538,
+        "date_updated": 1758024769,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1821540/Software-Engineer",
         "company_name": "Microsoft",
         "title": "Software Engineer",
@@ -1832,7 +1832,7 @@
             "Multiple Locations"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "e08d0345-8682-414e-ad08-d9c960ec597d",
         "date_posted": 1748025538,
@@ -2387,7 +2387,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748717350,
+        "date_updated": 1758024769,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1826495/Software-Engineer",
         "company_name": "Microsoft",
         "title": "Software Engineer",
@@ -2395,7 +2395,7 @@
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "2f8c0ea0-2be5-4f6a-bd01-e93c3f7b2264",
         "date_posted": 1748717350,
@@ -4114,13 +4114,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1752525196,
+        "date_updated": 1758024769,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1845958/Software-Engineer",
         "locations": [
             "Multiple Locations, United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -4520,13 +4520,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753043469,
+        "date_updated": 1758024770,
         "url": "https://jobs.careers.microsoft.com/us/en/job/1844322/Software-Engineer",
         "locations": [
             "Multiple Locations, United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -4730,13 +4730,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753370216,
+        "date_updated": 1758024770,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1847569/Software-Engineer",
         "locations": [
             "Multiple Locations, United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -4746,13 +4746,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753370231,
+        "date_updated": 1758024770,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1850029/Critical-Infrastructure-Network-Engineer",
         "locations": [
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Critical Infrastructure Network Engineer",
         "source": "vanshb03",
@@ -5227,13 +5227,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753910557,
+        "date_updated": 1758024770,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1849297/Hardware-Engineer",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Hardware Engineer",
         "source": "vanshb03",
@@ -6215,13 +6215,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754558347,
+        "date_updated": 1758024770,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1857028/Software-Engineer",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -7300,13 +7300,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755115149,
+        "date_updated": 1758024771,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1858310/Software-Engineer",
         "locations": [
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -7381,13 +7381,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755115181,
+        "date_updated": 1758024771,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1860403/Software-Engineer%3A-Microsoft-AI-Development-Acceleration-Program%2C-Redmond",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer: Microsoft AI Development Acceleration Program, Redmond",
         "source": "vanshb03",
@@ -8878,13 +8878,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756356200,
+        "date_updated": 1758024771,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1843258/Software-Engineer",
         "locations": [
             "Multiple Locations, United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -8894,13 +8894,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756356207,
+        "date_updated": 1758024771,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1862715/Software-Engineer",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -10191,13 +10191,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757306183,
+        "date_updated": 1758024772,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1858061/Software-Engineer",
         "locations": [
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -10207,13 +10207,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757306188,
+        "date_updated": 1758024772,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1857025/Software-Engineer",
         "locations": [
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer I",
         "source": "vanshb03",
