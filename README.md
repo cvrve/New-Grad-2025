@@ -546,7 +546,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Amazon** | Software Dev Engineer | <details><summary>**8 locations**</summary>Austin, TX</br>New York, NY</br>Seattle, WA</br>Culver City, CA</br>Santa Clara, CA</br>Bellevue, WA</br>Denver, CO</br>Palo Alto, CA</details> | <a href="https://www.amazon.jobs/en/jobs/2950609/software-dev-engineer-computer-science?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 12 |
 | **Credit Genie** | New Grad: Software Engineer | New York, NY | <a href="https://jobs.ashbyhq.com/creditgenie/016056e0-61cd-4a19-9d42-5f3cd88fed02?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 09 |
 | **Twitch** | Software Engineer | Seattle, WA</br>San Francisco, CA | <a href="https://www.amazon.jobs/en/jobs/2944002/software-engineer?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
-| **Twitch** | Software Development Engineer - Safety ML | San Francisco, CA | <a href="https://job-boards.greenhouse.io/twitch/jobs/7938822002?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
 | **Tesla** | Software Engineer, Traction Control & Stability | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/240332?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
 | **Roblox** | New Grad 2025: Software Engineer, Game Solutions Engineering | San Mateo, CA | <a href="https://careers.roblox.com/jobs/6749070?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
 | **Roblox** | Software Engineer, Builder Tools | San Mateo, CA | <a href="https://careers.roblox.com/jobs/6759944?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
@@ -718,6 +717,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Amentum** | Entry Level Software Engineer | Fredericksburg, VA | 🔒 | Apr 10 |
 | **Amentum** | Entry Level Software Engineer | Dahlgren, VA | 🔒 | Apr 10 |
 | **Nordstrom** | Developer Tools Support Engineer 1 | Seattle, WA | 🔒 | Apr 08 |
+| **Twitch** | Software Development Engineer - Safety ML | San Francisco, CA | 🔒 | Apr 05 |
 | **NVIDIA** | New Grad 2025: Deep Learning Computer Architect | Santa Clara, CA | 🔒 | Apr 05 |
 | **Layup Parts** | New Grad: Software Engineer | Huntington Beach, CA | 🔒 | Apr 05 |
 | **Corgi - YC** | Junior Full Stack Engineer | San Francisco, CA | 🔒 | Apr 05 |
