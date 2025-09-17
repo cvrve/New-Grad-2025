@@ -372,7 +372,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Hudson River Trading** | Trade Operations | New York, NY | <a href="https://www.hudsonrivertrading.com/hrt-job/junior-electronic-trading-support-engineer-2/?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
 | **ByteDance** | New Grad 2026: Software Engineer | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7532618536427391240/detail?spread=BSPP2KS&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
 | **ByteDance** | New Grad 2026: Backend Software Engineer (Customer Service Platform) | Seattle, WA | <a href="https://jobs.bytedance.com/en/position/7527836662400026898/detail?spread=BSPP2KS&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
-| **BlackEdge Capital** | Quantitative Trader | Chicago, IL | <a href="https://boards.greenhouse.io/embed/job_app?for=blackedgecapital&token=4590407005&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
 | **Amazon** | System Development Engineer, OTS Delivery Software Engineering | Austin, TX | <a href="https://www.amazon.jobs/en/jobs/3047432/system-development-engineer-ots-delivery-software-engineering?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
 | **Amazon** | System Development Engineer, AWS Vetting | Cupertino, CA | <a href="https://www.amazon.jobs/en/jobs/3044177/system-development-engineer-aws-vetting?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
 | **TikTok** | New Grad 2025: Product Manager | San Jose, CA | <a href="https://lifeattiktok.com/search/7400808756194461961?spread=5MWH5CQ&utm_source=apmseason&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 25 |
@@ -606,6 +605,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **T-Mobile** | Associate Product Manager | Bellevue, WA | 🔒 | Jul 30 |
 | **Salesforce** | Product Security Engineer | San Francisco, CA</br>Seattle, WA</br>Bellevue, WA | 🔒 | Jul 30 |
 | **Microsoft** | Hardware Engineer | Redmond, WA | 🔒 | Jul 30 |
+| **BlackEdge Capital** | Quantitative Trader | Chicago, IL | 🔒 | Jul 30 |
 | **Salesforce** | Associate Product Manager | San Francisco, CA | 🔒 | Jul 25 |
 | **Spotify** | Associate Machine Learning Engineer | New York, NY | 🔒 | Jul 24 |
 | **NVIDIA** | New Grad 2025: Verification Engineer, CPU | Westford, MA | 🔒 | Jul 24 |
