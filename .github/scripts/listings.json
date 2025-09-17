@@ -11887,5 +11887,54 @@
         "date_posted": 1757963955,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758028094,
+        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7313083003",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Sigma Computing",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "98db9042-4177-4862-830e-01186d778556",
+        "date_posted": 1758028094,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758125044,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1872741/Software-Engineer",
+        "locations": [
+            "Multiple Locations"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "044b66ff-57a9-42dc-8144-2546afa07952",
+        "date_posted": 1758125044,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758125002,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1876157/Software-Engineer",
+        "locations": [
+            "Multiple Locations"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "62d1d9ff-bde7-46b8-b7e4-c43894af09d7",
+        "date_posted": 1758125002,
+        "company_url": "",
+        "is_visible": true
     }
 ]
