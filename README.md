@@ -44,6 +44,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Microsoft** | Software Engineer | Multiple Locations | <a href="https://jobs.careers.microsoft.com/global/en/job/1872741/Software-Engineer?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
+| **Microsoft** | Software Engineer | Multiple Locations | <a href="https://jobs.careers.microsoft.com/global/en/job/1876157/Software-Engineer?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
+| **Sigma Computing** | New Grad: Software Engineer 🛂 | San Francisco, CA</br>New York, NY | <a href="https://job-boards.greenhouse.io/sigmacomputing/jobs/7313083003?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 16 |
 | **TIAA** | Early Talent Rotational Program: Technology | Charlotte, NC</br>Dallas, TX</br>New York, NY | <a href="https://tiaa.wd1.myworkdayjobs.com/search/job/Charlotte-NC-USA/XMLNAME-2026-Early-Talent-Rotational-Program--Technology_R250900271-1?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | **NAVEX** | Associate Software Engineer | Lake Oswego, OR | <a href="https://navexglobal.wd5.myworkdayjobs.com/navex/job/Hybrid-Lake-Oswego-OR/Associate-Software-Engineer_R6157?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | **Light & Wonder** | Associate Software Engineer | Reno, NV</br>Las Vegas, NV | <a href="https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Associate-Software-Engineer_R320511?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
