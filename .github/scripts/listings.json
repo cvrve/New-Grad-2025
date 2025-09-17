@@ -11936,5 +11936,150 @@
         "date_posted": 1758125002,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758125187,
+        "url": "https://veteransunited.wd1.myworkdayjobs.com/en-US/vuhl/job/Remote-MO/Associate-Software-Engineer_R5288",
+        "company_name": "Veterans United Home Loans",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Remote, MO"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "687364b9-5ab8-4a09-98c8-913e7679c224",
+        "date_posted": 1758125187,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Offers Sponsorship"
+    },
+    {
+        "date_updated": 1758125187,
+        "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4054592006",
+        "company_name": "NewsBreak",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "9cae6ffc-54b3-40de-b9c3-6200d77dcb4b",
+        "date_posted": 1758125187,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1758125187,
+        "url": "https://jobs.ashbyhq.com/eventualcomputing/becb5675-3480-4d2b-b126-2acad40fd088/application",
+        "company_name": "Eventual",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "cf97f5fb-b4f1-4cbc-aa5b-7b933ce604a7",
+        "date_posted": 1758125187,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1758125187,
+        "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Quantitative-Analyst-I_R61935",
+        "company_name": "Fifth Third",
+        "title": "Quantitative Analyst I",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "b59c2626-16a9-4a50-98af-c23abfb9a687",
+        "date_posted": 1758125187,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1758125187,
+        "url": "https://ovative.wd12.myworkdayjobs.com/en-US/ovative/job/Minneapolis/Analyst--Data---Software-Engineering---October-2025-Start-Date_JR100105",
+        "company_name": "Ovative Group",
+        "title": "Analyst, Data & Software Engineering",
+        "locations": [
+            "Minneapolis, MN",
+            "Chicago, IL"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "8f0c13f6-e4b8-4d23-be2b-e147e523a61e",
+        "date_posted": 1758125187,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "U.S. Citizenship is Required"
+    },
+    {
+        "date_updated": 1758125187,
+        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5585768004",
+        "company_name": "Lucid Software",
+        "title": "Software Engineer",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "515cf253-f510-4d9c-998d-bfe63d19ae99",
+        "date_posted": 1758125187,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Offers Sponsorship"
+    },
+    {
+        "date_updated": 1758125187,
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Melbourne-FL/Software-Engineer--Apps--I_5898",
+        "company_name": "AV",
+        "title": "Software Engineer (Apps) I",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "3e931265-46e0-45a3-bc2b-29fdcc61084b",
+        "date_posted": 1758125187,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "U.S. Citizenship is Required"
+    },
+    {
+        "date_updated": 1758125187,
+        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5585759004",
+        "company_name": "Lucid Software",
+        "title": "Software Engineer",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "875399e6-3587-4044-95d4-d5bea85c9253",
+        "date_posted": 1758125187,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Offers Sponsorship"
+    },
+    {
+        "date_updated": 1758125187,
+        "url": "https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Remote-Colorado/Software-Engineer-I_R144461",
+        "company_name": "O'Reilly Auto Parts",
+        "title": "Software Engineer I",
+        "locations": [
+            "Colorado, CO"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "20ab0410-a072-4a67-9f2f-e60b67321e3d",
+        "date_posted": 1758125187,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
