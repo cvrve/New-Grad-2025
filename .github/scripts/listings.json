@@ -4955,13 +4955,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753910236,
+        "date_updated": 1758125116,
         "url": "https://boards.greenhouse.io/embed/job_app?for=blackedgecapital&token=4590407005",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "BlackEdge Capital",
         "title": "Quantitative Trader",
         "source": "vanshb03",
