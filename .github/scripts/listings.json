@@ -9291,7 +9291,7 @@
         "locations": [
             "Remote in USA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "2cd58d15-f5a8-4ae2-9b1e-13f000acc2e5",
         "date_posted": 1756872100,
@@ -9401,7 +9401,7 @@
         "locations": [
             "Remote in USA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "6d7aa32a-9154-4efc-bf60-473f38b99886",
         "date_posted": 1756872100,
