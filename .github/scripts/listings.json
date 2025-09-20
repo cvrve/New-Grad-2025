@@ -7226,7 +7226,7 @@
         "locations": [
             "San Francisco, CA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "4f0136c5-f568-421a-bdbb-c43d63efb9df",
         "date_posted": 1755113970,
@@ -11502,7 +11502,7 @@
             "Sunnyvale, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Uber",
         "title": "Software Engineer I - Container Platform",
         "source": "vanshb03",
