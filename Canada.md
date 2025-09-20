@@ -64,7 +64,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **AMD** | Firmware Security Engineer | Vancouver, Canada | <a href="https://careers.amd.com/careers-home/jobs/68783?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 17 |
 | **Global Relay** | Junior Software Developer Engineer in Test - C# | Vancouver, BC, Canada | <a href="https://www.globalrelay.com/careers/jobs?gh_jid=5616305004&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | **EvenUp** | Early Career Machine Learning Engineer | San Francisco, CA</br>Toronto, Canada | <a href="https://jobs.ashbyhq.com/evenup/fe3d36b4-696b-4c47-be72-2186b266035b?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
-| **DRW** | Options Execution Trader | Montreal, Canada | <a href="https://job-boards.greenhouse.io/drweng/jobs/7090734?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | **AMD** | Software Developer - GPU IO Libraries | Calgary, Canada</br>Remote | <a href="https://careers.amd.com/careers-home/jobs/67592?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | **Nokia** | Jr. Applied R&D Engineer | Canada | <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20842?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 15 |
 | **Mastercard** | Software Engineer I | Vancouver, Canada | <a href="https://careers.mastercard.com/us/en/job/MASRUSR245943EXTERNALENUS/Software-Engineer-I-SDET-Java?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 15 |
@@ -85,6 +84,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Spotify** | Fullstack Engineer | Toronto, Canada</br>Remote | 🔒 | Jul 30 |
 | **Clio** | Machine Learning Engineer | <details><summary>**4 locations**</summary>Remote</br>Toronto, Canada</br>Calgary, Canada</br>Vancouver, Canada</details> | 🔒 | Jul 30 |
 | **Highspot** | Software Development Engineer | Vancouver, Canada | 🔒 | Jul 24 |
+| **DRW** | Options Execution Trader | Montreal, Canada | 🔒 | Jul 24 |
 | **TD Bank** | Software Engineer I | Toronto, Canada | 🔒 | May 23 |
 | **Cloudflare** | Software Engineer, Experiment and Data Capture | <details><summary>**5 locations**</summary>Austin, TX</br>Atlanta, GA</br>Denver, CO</br>Washington D.C., DC</br>Toronto, Canada</details> | 🔒 | May 23 |
 | **Affirm** | Machine Learning Engineer | Remote</br>Canada | 🔒 | May 19 |
