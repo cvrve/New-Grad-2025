@@ -12145,5 +12145,55 @@
         "date_posted": 1758382975,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758383486,
+        "url": "https://td.wd3.myworkdayjobs.com/td_bank_careers/job/New-York-New-York/XMLNAME-2026-Full-Time-Analyst-Rotational-Program---Software-Engineering_R_1446300",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TD",
+        "title": "Full Time Analyst Rotational Program, Software Engineering",
+        "source": "vanshb03",
+        "id": "e0a5fee7-4b38-48e0-b6e3-e94ed0b4f6ac",
+        "date_posted": 1758383486,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758383531,
+        "url": "https://aig.wd1.myworkdayjobs.com/early_careers/job/NC-Charlotte/XMLNAME-2026---Early-Career---Technology---Analyst---United-States--Jersey-City--NJ--or-Charlotte--NC-_JR2504979",
+        "locations": [
+            "Jersey City, NJ",
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AIG",
+        "title": "New Grad 2026: Technology Analyst",
+        "source": "vanshb03",
+        "id": "87a8e8c6-61ef-4a92-b0eb-adad6fbacfbf",
+        "date_posted": 1758383531,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758383542,
+        "url": "https://aig.wd1.myworkdayjobs.com/aig/job/NC-Charlotte/XMLNAME-2026---Early-Career---Technology---Analyst---United-States--Jersey-City--NJ--or-Charlotte--NC-_JR2504979-1",
+        "locations": [
+            "Jersey City, NJ",
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AIG",
+        "title": "New Grad 2026: Technology Analyst",
+        "source": "vanshb03",
+        "id": "c2019e42-0a19-419b-8d5c-ddff8b9a2f6c",
+        "date_posted": 1758383542,
+        "company_url": "",
+        "is_visible": true
     }
 ]
