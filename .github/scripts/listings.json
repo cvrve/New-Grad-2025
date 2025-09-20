@@ -12211,5 +12211,37 @@
         "date_posted": 1758384217,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758387560,
+        "url": "https://www.workatastartup.com/jobs/80837",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Channel3",
+        "title": "Founding Engineer",
+        "source": "vanshb03",
+        "id": "499a6ee9-9921-459a-8ca3-d6bcf5979b62",
+        "date_posted": 1758387560,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758392904,
+        "url": "https://jobs.ashbyhq.com/interaction/56b66af2-bce5-4ad7-baf9-ace14eb6a29a",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Interaction",
+        "title": "Member of Technical Staff",
+        "source": "vanshb03",
+        "id": "b14e6735-8713-4ef6-a229-cb17216efcfb",
+        "date_posted": 1758392904,
+        "company_url": "",
+        "is_visible": true
     }
 ]
