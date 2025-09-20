@@ -3528,7 +3528,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751245729,
+        "date_updated": 1758393064,
         "url": "https://boards.greenhouse.io/embed/job_app?token=8026923002",
         "company_name": "Tesla",
         "title": "New Grad 2025: Software Engineer",
@@ -3536,7 +3536,7 @@
             "Hawthorne, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "73563134-bf8f-4327-8c2b-a4d53cef7fef",
         "date_posted": 1751245729,
@@ -4762,13 +4762,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753370249,
+        "date_updated": 1758393065,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1847616/Firmware-Engineer",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Firmware Engineer",
         "source": "vanshb03",
@@ -4778,13 +4778,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753370396,
+        "date_updated": 1758393065,
         "url": "https://job-boards.greenhouse.io/drweng/jobs/7090734",
         "locations": [
             "Montreal, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "DRW",
         "title": "Options Execution Trader",
         "source": "vanshb03",
@@ -11512,13 +11512,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757670728,
+        "date_updated": 1758393067,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1874807/Software-Engineer",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -11595,13 +11595,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757801227,
+        "date_updated": 1758393067,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1873806/Software-Engineer",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer",
         "source": "vanshb03",
