@@ -7451,7 +7451,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Rippling",
         "title": "New Grad 2025: Software Engineer",
         "source": "vanshb03",
@@ -8104,7 +8104,7 @@
             "Seattle, WA",
             "Helena, MT"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "83765dd0-a06d-4266-bb7d-9b2c11b0ab3a",
         "date_posted": 1755437357,
@@ -10133,7 +10133,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Handshake AI",
         "title": "Fullstack Engineer I (TypeScript focused)",
         "source": "vanshb03",
@@ -10625,7 +10625,7 @@
             "Remote"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "HubSpot",
         "title": "Software Engineer",
         "source": "vanshb03",
