@@ -1856,7 +1856,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748025597,
+        "date_updated": 1758126261,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/ASIC-Verification-Engineer---New-College-Grad-2025_JR1997551",
         "company_name": "NVIDIA",
         "title": "New Grad 2025: ASIC Verification Engineer",
@@ -1864,7 +1864,7 @@
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "c57cbd91-a34b-47f2-aa7b-01d70d72a16a",
         "date_posted": 1748025597,
@@ -5373,7 +5373,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753910672,
+        "date_updated": 1758126283,
         "url": "https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Remote---Canada/Machine-Learning-Engineer_BF-REQ-3169",
         "locations": [
             "Remote",
@@ -5382,7 +5382,7 @@
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Clio",
         "title": "Machine Learning Engineer",
         "source": "vanshb03",
@@ -8113,13 +8113,13 @@
         "sponsorship": "U.S. Citizenship is Required"
     },
     {
-        "date_updated": 1755437565,
+        "date_updated": 1758126304,
         "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Software-Developer---New-Grad-2025_R028667-1",
         "locations": [
             "Ottawa, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ciena",
         "title": "New Grad 2025: Software Developer",
         "source": "vanshb03",
@@ -9073,7 +9073,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756356281,
+        "date_updated": 1758126320,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/GPU-Architecture-Engineer---New-College-Grad-2025_JR2002495",
         "locations": [
             "Santa Clara, CA",
@@ -9081,7 +9081,7 @@
             "Durham, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "New Grad 2025: GPU Architecture Engineer",
         "source": "vanshb03",
@@ -11806,13 +11806,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757963916,
+        "date_updated": 1758126514,
         "url": "https://navexglobal.wd5.myworkdayjobs.com/navex/job/Hybrid-Lake-Oswego-OR/Associate-Software-Engineer_R6157",
         "locations": [
             "Lake Oswego, OR"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NAVEX",
         "title": "Associate Software Engineer",
         "source": "vanshb03",
@@ -11872,14 +11872,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757963955,
+        "date_updated": 1758126530,
         "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Associate-Software-Engineer_R320511",
         "locations": [
             "Reno, NV",
             "Las Vegas, NV"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Light & Wonder",
         "title": "Associate Software Engineer",
         "source": "vanshb03",
@@ -11986,14 +11986,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1758125187,
+        "date_updated": 1758126539,
         "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Quantitative-Analyst-I_R61935",
         "company_name": "Fifth Third",
         "title": "Quantitative Analyst I",
         "locations": [
             "Cincinnati, OH"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "b59c2626-16a9-4a50-98af-c23abfb9a687",
         "date_posted": 1758125187,
@@ -12002,7 +12002,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1758125187,
+        "date_updated": 1758126544,
         "url": "https://ovative.wd12.myworkdayjobs.com/en-US/ovative/job/Minneapolis/Analyst--Data---Software-Engineering---October-2025-Start-Date_JR100105",
         "company_name": "Ovative Group",
         "title": "Analyst, Data & Software Engineering",
@@ -12010,7 +12010,7 @@
             "Minneapolis, MN",
             "Chicago, IL"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "8f0c13f6-e4b8-4d23-be2b-e147e523a61e",
         "date_posted": 1758125187,
