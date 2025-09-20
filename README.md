@@ -44,6 +44,10 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Nike** | Software Engineer I - Innovation | Beaverton, OR | <a href="https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Software-Engineer-I---Innovation_R-69655?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
+| **Las Vegas Sands Corp.** | Associate Software Engineer | Dallas, TX | <a href="https://sands.wd1.myworkdayjobs.com/referral_sands_careers/job/Dallas-Texas/Software-Engineer_R25_0337?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
+| **CoStar Group** | Associate Software Engineer 🛂 | San Diego, CA | <a href="https://costar.wd1.myworkdayjobs.com/confidential/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R37014-1?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
+| **Converse** | Associate Software Engineer, Converse Tech | Boston, MA | <a href="https://nike.wd1.myworkdayjobs.com/nke/job/Boston-Massachusetts/Associate-Software-Engineer--Converse-Tech_R-66359?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | **Veterans United Home Loans** | Associate Software Engineer | Remote, MO | <a href="https://veteransunited.wd1.myworkdayjobs.com/en-US/vuhl/job/Remote-MO/Associate-Software-Engineer_R5288?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | **O'Reilly Auto Parts** | Software Engineer I | Colorado, CO | <a href="https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Remote-Colorado/Software-Engineer-I_R144461?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | **NewsBreak** | New Grad: Software Engineer | Mountain View, CA | <a href="https://job-boards.greenhouse.io/newsbreak/jobs/4054592006?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
