@@ -12081,5 +12081,69 @@
         "company_url": "",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1758382918,
+        "url": "https://costar.wd1.myworkdayjobs.com/confidential/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R37014-1",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "CoStar Group",
+        "title": "Associate Software Engineer",
+        "source": "vanshb03",
+        "id": "bc8740b9-4826-4c7b-8812-57f3b28fe6ac",
+        "date_posted": 1758382918,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758382930,
+        "url": "https://sands.wd1.myworkdayjobs.com/referral_sands_careers/job/Dallas-Texas/Software-Engineer_R25_0337",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Las Vegas Sands Corp.",
+        "title": "Associate Software Engineer",
+        "source": "vanshb03",
+        "id": "566ccf0d-0813-42fe-9f15-c97687af22b6",
+        "date_posted": 1758382930,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758382966,
+        "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Software-Engineer-I---Innovation_R-69655",
+        "locations": [
+            "Beaverton, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nike",
+        "title": "Software Engineer I - Innovation",
+        "source": "vanshb03",
+        "id": "42acb57e-9e30-48bb-b6f9-87dc1df7df40",
+        "date_posted": 1758382966,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758382975,
+        "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Boston-Massachusetts/Associate-Software-Engineer--Converse-Tech_R-66359",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Converse",
+        "title": "Associate Software Engineer, Converse Tech",
+        "source": "vanshb03",
+        "id": "9f506050-da30-4e78-93cf-3b3429967cbc",
+        "date_posted": 1758382975,
+        "company_url": "",
+        "is_visible": true
     }
 ]
