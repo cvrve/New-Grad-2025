@@ -134,7 +134,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **LexisNexis Risk Solutions** | Aspire Tech Graduate Security Engineer I | Raleigh, NC | <a href="https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Aspire-Tech-Graduate-Security-Engineer-I_R101084?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **InQuery** | New Grad: Founding Engineer | New York, NY | <a href="https://www.workatastartup.com/jobs/81052?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Glean** | Software Engineer | Palo Alto, CA | <a href="https://job-boards.greenhouse.io/gleanwork/jobs/4592324005?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
-| **Gander** | Founding Engineer 🇺🇸 | New York, NY</br>Remote | <a href="https://www.workatastartup.com/jobs/80936?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Figma** | Product Designer | San Francisco, CA</br>New York, NY | <a href="https://job-boards.greenhouse.io/figma/jobs/5616455004?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Figma** | Data Scientist | San Francisco, CA</br>New York, NY | <a href="https://job-boards.greenhouse.io/figma/jobs/5615025004?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Figma** | Associate Product Manager | San Francisco, CA</br>New York, NY | <a href="https://job-boards.greenhouse.io/figma/jobs/5621649004?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
@@ -556,6 +555,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **KBR** | Software Engineer I 🇺🇸 | Colorado Springs, CO | 🔒 | Sep 08 |
 | **HubSpot** | Software Engineer 🛂 | Cambridge, MA</br>Remote | 🔒 | Sep 08 |
 | **Handshake AI** | Fullstack Engineer I (TypeScript focused) | San Francisco, CA</br>New York, NY | 🔒 | Sep 08 |
+| **Gander** | Founding Engineer | New York, NY</br>Remote | 🔒 | Sep 08 |
 | **Extra Space Storage** | Associate Software Engineer | Salt Lake City, UT | 🔒 | Sep 08 |
 | **Capital One** | Technology Development Program 🛂 | McLean, VA</br>Richmond, VA</br>Plano, TX | 🔒 | Sep 08 |
 | **CACI** | Entry Level Java and Python Software Engineer | Rome, NY | 🔒 | Sep 08 |

@@ -10750,14 +10750,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757347686,
+        "date_updated": 1758501717,
         "url": "https://www.workatastartup.com/jobs/80936",
         "locations": [
             "New York, NY",
             "Remote"
         ],
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "company_name": "Gander",
         "title": "Founding Engineer",
         "source": "vanshb03",
