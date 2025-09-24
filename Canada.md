@@ -58,7 +58,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Okta** | Software Engineer I | Toronto, Canada | <a href="https://www.okta.com/company/careers/product/software-engineer-i-7169515/?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 17 |
 | **Neo Financial** | Software Developer | Calgary, Canada | <a href="https://ats.rippling.com/en-CA/neo-financial/jobs/a2fd15b5-5bee-483e-b28f-66980dad691b?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 17 |
 | **Mastercard** | Software Engineer I (Backend - Java) | Vancouver, Canada | <a href="https://careers.mastercard.com/us/en/job/MASRUSR258140EXTERNALENUS/Software-Engineer-I-Backend-Java?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 17 |
-| **GitLab** | Associate Security Engineer, Application Security | Remote, Canada</br>Remote | <a href="https://job-boards.greenhouse.io/gitlab/jobs/8096528002?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 17 |
 | **Codan Limited** | Associate Software Engineer | Victoria, Canada | <a href="https://careers.codan.com.au/job/Victoria-Associate-Software-Engineer-Cana/1213160701/?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 17 |
 | **AMD** | ROCm AI - GPU Software Engineer | Markham, Canada | <a href="https://careers.amd.com/careers-home/jobs/68831?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 17 |
 | **AMD** | Firmware Security Engineer | Vancouver, Canada | <a href="https://careers.amd.com/careers-home/jobs/68783?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 17 |
@@ -79,6 +78,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Tenstorrent** | Software Engineer, AI Tools | <details><summary>**4 locations**</summary>Austin, TX</br>Santa Clara, CA</br>Toronto, Canada</br>Remote</details> | 🔒 | Aug 28 |
 | **Lightspeed** | Software Developer | Montreal, Canada | 🔒 | Aug 19 |
 | **Capital One** | Associate, Data Scientist | Toronto, Canada | 🔒 | Aug 19 |
+| **GitLab** | Associate Security Engineer, Application Security | Remote, Canada</br>Remote | 🔒 | Aug 17 |
 | **Ciena** | New Grad 2025: Software Developer | Ottawa, Canada | 🔒 | Aug 17 |
 | **Capital One** | Associate, Software Engineer | Toronto, Canada | 🔒 | Aug 17 |
 | **Spotify** | Fullstack Engineer | Toronto, Canada</br>Remote | 🔒 | Jul 30 |
