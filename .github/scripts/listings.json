@@ -4274,13 +4274,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1752526189,
+        "date_updated": 1758689184,
         "url": "https://jobs.lever.co/shieldai/38178f1e-34c5-481d-9914-c18a2263776f/apply",
         "locations": [
             "Dallas, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Shield AI",
         "title": "Software Engineer I, Hardware Test",
         "source": "vanshb03",
@@ -8210,14 +8210,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755437620,
+        "date_updated": 1758689190,
         "url": "https://job-boards.greenhouse.io/gitlab/jobs/8096528002",
         "locations": [
             "Remote, Canada",
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GitLab",
         "title": "Associate Security Engineer, Application Security",
         "source": "vanshb03",
@@ -10387,14 +10387,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1757306495,
+        "date_updated": 1758689193,
         "url": "https://job-boards.greenhouse.io/boomsupersonic/jobs/5643302004",
         "company_name": "Boom Supersonic",
         "title": "New Grad: Software Engineer",
         "locations": [
             "Denver, CO"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "52986dc1-7a2b-44fb-b630-cc853a1a1059",
         "date_posted": 1757306495,
@@ -11922,13 +11922,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758125002,
+        "date_updated": 1758689195,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1876157/Software-Engineer",
         "locations": [
             "Multiple Locations"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -12241,6 +12241,40 @@
         "source": "vanshb03",
         "id": "b14e6735-8713-4ef6-a229-cb17216efcfb",
         "date_posted": 1758392904,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758689296,
+        "url": "https://jobs.ashbyhq.com/notion/f7399542-9122-481a-bf64-43bf8093748b",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Notion",
+        "title": "Software Engineer, Fullstack, Early Career",
+        "source": "vanshb03",
+        "id": "1c67c620-a130-4ade-9fa4-a4de51ac9cf7",
+        "date_posted": 1758689296,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758689300,
+        "url": "https://jobs.ashbyhq.com/notion/add58865-8b9f-4cf7-9720-2908ba5f4d80",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Notion",
+        "title": "Software Engineer, Infrastructure, Early Career",
+        "source": "vanshb03",
+        "id": "4051ecc3-bb1d-4ba6-8c83-1f10e9633e06",
+        "date_posted": 1758689300,
         "company_url": "",
         "is_visible": true
     }
