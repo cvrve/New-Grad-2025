@@ -12277,5 +12277,22 @@
         "date_posted": 1758689300,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758841350,
+        "url": "https://app.ripplematch.com/v2/public/job/2ddc776c",
+        "company_name": "Plaid",
+        "title": "Software Engineer",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "johnadams145",
+        "id": "e2ed1362-affc-4477-9935-b0d10cf62e07",
+        "date_posted": 1758841350,
+        "company_url": "",
+        "is_visible": true
     }
 ]
