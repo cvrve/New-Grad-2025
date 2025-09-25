@@ -12294,5 +12294,21 @@
         "date_posted": 1758841350,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758841377,
+        "url": "https://northmark.wd108.myworkdayjobs.com/en-US/NMS/job/Graduate-Program_R12714",
+        "company_name": "NorthMark Strategies",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "TimothyNaumov",
+        "id": "754cebef-41c8-4312-8b5a-4c8f81ac3d41",
+        "date_posted": 1758841377,
+        "company_url": "",
+        "is_visible": true
     }
 ]
