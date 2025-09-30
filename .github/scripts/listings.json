@@ -12699,5 +12699,139 @@
         "date_posted": 1759260774,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759261119,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/116510",
+        "company_name": "Honeywell",
+        "title": "Software Engineer I",
+        "locations": [
+            "Fort Mill, SC"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "04dc09cc-6a15-4b6c-81d9-9ce85d513b36",
+        "date_posted": 1759261119,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "U.S. Citizenship is Required"
+    },
+    {
+        "date_updated": 1759261119,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/119931",
+        "company_name": "HoneyWell",
+        "title": "Software Engineer I",
+        "locations": [
+            "Clearwater, FL"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "d504c3bc-9216-4430-99f9-5637046ca7d8",
+        "date_posted": 1759261119,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "U.S. Citizenship is Required"
+    },
+    {
+        "date_updated": 1759261119,
+        "url": "https://www.esri.com/careers/4921407007?gh_jid=4921407007",
+        "company_name": "Esri",
+        "title": "Software Development Engineer 1",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "e7033ae3-4fdf-4b13-bcec-f06522c7de00",
+        "date_posted": 1759261119,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "U.S. Citizenship is Required"
+    },
+    {
+        "date_updated": 1759261119,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/Software-Engineer---Early-Career_JR-202517310",
+        "company_name": "General Motors",
+        "title": "Software Engineer",
+        "locations": [
+            "Milford Charter Twp, MI",
+            "Austin, TX",
+            "Mountain View, CA",
+            "Warren, MI"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "4eac4bbc-42c1-432f-a616-ae90f3b08174",
+        "date_posted": 1759261119,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Does Not Offer Sponsorship"
+    },
+    {
+        "date_updated": 1759261119,
+        "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1329771000/?ats=successfactors",
+        "company_name": "McDonald's",
+        "title": "Software Engineer 1",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "d498e3ce-cfb7-4ead-b889-14e9ea23cc76",
+        "date_posted": 1759261119,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1759261119,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Modem-Hardware---Engineer-New-Grad_R028721",
+        "company_name": "Ciena",
+        "title": "New Grad: Modem Hardware Engineer",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "71179904-acf0-4613-864d-45002cca44de",
+        "date_posted": 1759261119,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1759261119,
+        "url": "https://jobs.comcast.com/job/-/-/45483/86516813920",
+        "company_name": "Comcast",
+        "title": "Software Engineer 1",
+        "locations": [
+            "Chicago, IL",
+            "Englewood, CO"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "5e55899d-b3f7-4b46-ad42-c0a0d05a7997",
+        "date_posted": 1759261119,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1759261119,
+        "url": "https://lplfinancial.wd1.myworkdayjobs.com/en-US/External/job/Fort-MillCharlotte/Engineer-I--Software-Development_R-046445",
+        "company_name": "LPL Financial Holdings",
+        "title": "Engineer I, Software Development",
+        "locations": [
+            "Austin, TX",
+            "Fort Mill, SC",
+            "Charlotte, NC"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "1145a07e-2eb2-4f5d-bc12-89d752283058",
+        "date_posted": 1759261119,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
