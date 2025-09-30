@@ -8000,13 +8000,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755347671,
+        "date_updated": 1758918596,
         "url": "https://job-boards.greenhouse.io/chime/jobs/8101747002",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Chime",
         "title": "New Grad: Product Security Engineer",
         "source": "vanshb03",
@@ -11906,13 +11906,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758125044,
+        "date_updated": 1758918598,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1872741/Software-Engineer",
         "locations": [
             "Multiple Locations"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer",
         "source": "vanshb03",
