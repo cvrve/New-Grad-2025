@@ -12683,5 +12683,21 @@
         "company_url": "",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1759260774,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/79125737784648390",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Google",
+        "title": "Software Engineer, Early Career, Campus",
+        "source": "vanshb03",
+        "id": "21405d15-54dd-45da-a0f1-9ea32ffc3f54",
+        "date_posted": 1759260774,
+        "company_url": "",
+        "is_visible": true
     }
 ]
