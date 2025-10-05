@@ -1381,7 +1381,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1747461336,
+        "date_updated": 1759638643,
         "url": "https://job-boards.greenhouse.io/cloudflare/jobs/6886051?gh_jid=6886051",
         "company_name": "Cloudflare",
         "title": "Access Software Engineer",
@@ -1389,7 +1389,7 @@
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "5d35a071-5044-4c8c-85ac-6dc8705fc670",
         "date_posted": 1747461336,
@@ -4859,13 +4859,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753480412,
+        "date_updated": 1759638645,
         "url": "https://jobs.lever.co/Arcade/b4a66c25-9661-4f5a-9aec-32da76aa0702",
         "locations": [
             "Presidio, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Arcade",
         "title": "Associate Product Manager",
         "source": "vanshb03",
@@ -6408,13 +6408,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754558754,
+        "date_updated": 1759638645,
         "url": "https://job-boards.greenhouse.io/pingidentity/jobs/8084784002",
         "locations": [
             "Denver, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ping Identity",
         "title": "Software Engineer I",
         "source": "vanshb03",
@@ -9362,14 +9362,14 @@
         "sponsorship": "Offers Sponsorship"
     },
     {
-        "date_updated": 1756872100,
+        "date_updated": 1759638646,
         "url": "https://jobs.careers.microsoft.com/us/en/job/1869391",
         "company_name": "Microsoft",
         "title": "Software Engineer - Fullstack",
         "locations": [
             "United States"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "4c780295-6f08-4965-ae49-de2503dd4f78",
         "date_posted": 1756872100,
@@ -9609,13 +9609,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756922206,
+        "date_updated": 1759638646,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1869427/Software-Engineer---Security%2C-Multiple-Locations",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer, Security",
         "source": "vanshb03",
@@ -9625,13 +9625,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756922212,
+        "date_updated": 1759638646,
         "url": "https://jobs.careers.microsoft.com/us/en/job/1869430/Software-Engineer-Systems-Multiple-Locations",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer - Systems",
         "source": "vanshb03",
@@ -9641,13 +9641,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756922220,
+        "date_updated": 1759638647,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1869402/Software-Engineer---AI%2FML%2C-Multiple-Locations",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer, AI/ML",
         "source": "vanshb03",
@@ -9657,13 +9657,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756922231,
+        "date_updated": 1759638647,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1869347/Software-Engineer---Fullstack,-Redmond",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer - Fullstack",
         "source": "vanshb03",
@@ -9673,13 +9673,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756922236,
+        "date_updated": 1759638647,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1869391/Software-Engineer---Fullstack%2C-Multiple-Locations",
         "locations": [
             "Multiple Locations, United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer - Fullstack",
         "source": "vanshb03",
@@ -10699,14 +10699,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757347562,
+        "date_updated": 1759638647,
         "url": "https://job-boards.greenhouse.io/figma/jobs/5621649004",
         "locations": [
             "San Francisco, CA",
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Figma",
         "title": "Associate Product Manager",
         "source": "vanshb03",
@@ -11611,14 +11611,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757801241,
+        "date_updated": 1759638647,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1869402/Software-Engineer---AI%2FML%2C-Multiple-Locations",
         "locations": [
             "Redmond, WA",
             "Multiple Locations"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer - AI/ML, Multiple Locations",
         "source": "vanshb03",
@@ -11628,13 +11628,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757801250,
+        "date_updated": 1759638648,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1869430/Software-Engineer---Systems%2C-Multiple-Locations",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer, Systems",
         "source": "vanshb03",
@@ -12408,14 +12408,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1758917913,
+        "date_updated": 1759638648,
         "url": "https://jobs.lever.co/wolve/b42f4d54-02e1-4549-a6a5-7cd5673c8216",
         "company_name": "Wolverine Trading",
         "title": "C++ Software Engineer",
         "locations": [
             "Chicago, IL"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "782c9bf7-6996-45a9-9738-11fe9ddce5ea",
         "date_posted": 1758917913,
