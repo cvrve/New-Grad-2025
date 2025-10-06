@@ -12853,5 +12853,72 @@
         "date_posted": 1759786074,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759786116,
+        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-Engineer-I_1604624",
+        "company_name": "Centene",
+        "title": "Data Engineer I",
+        "locations": [
+            "Remote"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "4878e9ee-d7a9-4ed5-8f72-977020ef6c3e",
+        "date_posted": 1759786116,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1759786116,
+        "url": "https://aexp.eightfold.ai/careers/job/38270703",
+        "company_name": "American Express",
+        "title": "Software Engineer 1, Technology",
+        "locations": [
+            "Plantation, FL"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "2fadd3ac-6894-4d22-9d69-f498454ebd43",
+        "date_posted": 1759786116,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Does Not Offer Sponsorship"
+    },
+    {
+        "date_updated": 1759786116,
+        "url": "https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Lincoln-NE/Data-Analyst-I---Consumer-Loan-Analytics_R21677-1",
+        "company_name": "Nelnet",
+        "title": "Data Analyst I, Consumer Loan Analytics",
+        "locations": [
+            "Lincoln, NE",
+            "Madison, WI",
+            "Brownsville, TX",
+            "Centennial, CO"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "002bb8e2-0d60-40af-9c7a-fa4049226971",
+        "date_posted": 1759786116,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Does Not Offer Sponsorship"
+    },
+    {
+        "date_updated": 1759786116,
+        "url": "https://careers-gdms.icims.com/jobs/68413",
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Junior Software Engineer",
+        "locations": [
+            "Dedham, MA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "c40c9f50-3e5d-463c-84b6-ee03c44e7c0c",
+        "date_posted": 1759786116,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "U.S. Citizenship is Required"
     }
 ]
