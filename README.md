@@ -74,8 +74,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **AIG** | New Grad 2026: Technology Analyst | Jersey City, NJ</br>Charlotte, NC | <a href="https://aig.wd1.myworkdayjobs.com/early_careers/job/NC-Charlotte/XMLNAME-2026---Early-Career---Technology---Analyst---United-States--Jersey-City--NJ--or-Charlotte--NC-_JR2504979?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | **Veterans United Home Loans** | Associate Software Engineer | Remote, MO | <a href="https://veteransunited.wd1.myworkdayjobs.com/en-US/vuhl/job/Remote-MO/Associate-Software-Engineer_R5288?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | **NewsBreak** | New Grad: Software Engineer | Mountain View, CA | <a href="https://job-boards.greenhouse.io/newsbreak/jobs/4054592006?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
-| **Lucid Software** | Software Engineer | Raleigh, NC | <a href="https://job-boards.greenhouse.io/lucidsoftware/jobs/5585768004?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
-| **Lucid Software** | Software Engineer | Salt Lake City, UT | <a href="https://job-boards.greenhouse.io/lucidsoftware/jobs/5585759004?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | **Eventual** | New Grad: Software Engineer | San Francisco, CA | <a href="https://jobs.ashbyhq.com/eventualcomputing/becb5675-3480-4d2b-b126-2acad40fd088/application?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | **Sigma Computing** | New Grad: Software Engineer 🛂 | San Francisco, CA</br>New York, NY | <a href="https://job-boards.greenhouse.io/sigmacomputing/jobs/7313083003?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 16 |
 | **Duolingo** | New Grad: Software Engineer | Pittsburgh, PA | <a href="https://careers.duolingo.com/jobs/8155283002?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
@@ -445,7 +443,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Roblox** | Software Engineer, Infra Foundation | San Mateo, CA | <a href="https://careers.roblox.com/jobs/6993225?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
 | **Qualcomm** | IOT Software Engineer | San Diego, CA | <a href="https://careers.qualcomm.com/careers/job/446706462906?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
 | **Qualcomm** | Software Product Application Engineer | San Diego, CA | <a href="https://careers.qualcomm.com/careers/job/446706411550?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
-| **OpenEye** | Software Engineer I - OWS | Liberty Lake, WA | <a href="https://job-boards.greenhouse.io/openeye/jobs/8028394002?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
 | **Meta** | Software Engineer | Menlo Park, CA | <a href="https://www.metacareers.com/jobs/1947521902323717?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
 | **Amazon** | System Development Engineer I, Ops Tech Solutions | Santa Clara, CA | <a href="https://www.amazon.jobs/en/jobs/3018378/system-development-engineer-i-ops-tech-solutions?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
 | **Da Vinci** | Graduate C++ Software Engineer | Miami, FL | <a href="https://davincitrading.com/job/graduate-c-software-engineer-2/?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 21 |
@@ -553,6 +550,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **O'Reilly Auto Parts** | Software Engineer I | Colorado, CO | 🔒 | Sep 17 |
 | **Microsoft** | Software Engineer | Multiple Locations | 🔒 | Sep 17 |
 | **Microsoft** | Software Engineer | Multiple Locations | 🔒 | Sep 17 |
+| **Lucid Software** | Software Engineer | Raleigh, NC | 🔒 | Sep 17 |
+| **Lucid Software** | Software Engineer | Salt Lake City, UT | 🔒 | Sep 17 |
 | **Fifth Third** | Quantitative Analyst I | Cincinnati, OH | 🔒 | Sep 17 |
 | **AV** | Software Engineer (Apps) I 🇺🇸 | Melbourne, FL | 🔒 | Sep 17 |
 | **TIAA** | Early Talent Rotational Program: Technology | Charlotte, NC</br>Dallas, TX</br>New York, NY | 🔒 | Sep 15 |
@@ -690,6 +689,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **KLA** | New Grad: Software Engineer | Milpitas, CA | 🔒 | Jun 30 |
 | **USAA** | Software Engineer I | San Antonio, TX | 🔒 | Jun 27 |
 | **RTX** | Software Engineer I (Java) | Fulton, MD | 🔒 | Jun 27 |
+| **OpenEye** | Software Engineer I - OWS | Liberty Lake, WA | 🔒 | Jun 27 |
 | **NVIDIA** | New Grad 2026: ASIC Design Efficiency Engineer | Santa Clara, CA | 🔒 | Jun 27 |
 | **NVIDIA** | New Grad 2025: ASIC Hardware Design Engineer | Austin, TX | 🔒 | Jun 27 |
 | **Cadence** | New Grad: C++ Software Engineer | Boston, MA | 🔒 | Jun 27 |
