@@ -12920,5 +12920,88 @@
         "company_url": "",
         "is_visible": true,
         "sponsorship": "U.S. Citizenship is Required"
+    },
+    {
+        "date_updated": 1759786354,
+        "url": "https://www.tesla.com/careers/search/job/252374",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Machine Learning Infrastructure Simulation Engineer, Optimus",
+        "source": "vanshb03",
+        "id": "436ee1f6-af06-4ec9-aa6a-ac3930534368",
+        "date_posted": 1759786354,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759786359,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Deep-Learning-Algorithm-Engineer--Dynamo---New-College-Grad-2025_JR2001320-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: Deep Learning Algorithm Engineer, Dynamo",
+        "source": "vanshb03",
+        "id": "9324ff3c-e84b-47c5-85e0-d7808d49b21a",
+        "date_posted": 1759786359,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759786400,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1884064/Software-Engineer",
+        "locations": [
+            "Redmond, WA",
+            "Mountain View, CA",
+            "Atlanta, GA",
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "639ba883-c746-42e3-8daa-5aa6fc6d3c9a",
+        "date_posted": 1759786400,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759786404,
+        "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/5665656004",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Grafana Labs",
+        "title": "Software Security Engineer",
+        "source": "vanshb03",
+        "id": "758989e2-7cbc-4e04-abd5-759ac6c656d3",
+        "date_posted": 1759786404,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759786426,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1879561/Software-Engineer",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "0010debe-62f8-475a-ad7f-497879320f78",
+        "date_posted": 1759786426,
+        "company_url": "",
+        "is_visible": true
     }
 ]
