@@ -3122,7 +3122,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751050370,
+        "date_updated": 1759786192,
         "url": "https://job-boards.greenhouse.io/openeye/jobs/8028394002",
         "company_name": "OpenEye",
         "title": "Software Engineer I - OWS",
@@ -3130,7 +3130,7 @@
             "Liberty Lake, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "a593aa93-7f48-45e2-a602-a4e7d3259b65",
         "date_posted": 1751050370,
@@ -12019,14 +12019,14 @@
         "sponsorship": "U.S. Citizenship is Required"
     },
     {
-        "date_updated": 1758125187,
+        "date_updated": 1759786194,
         "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5585768004",
         "company_name": "Lucid Software",
         "title": "Software Engineer",
         "locations": [
             "Raleigh, NC"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "515cf253-f510-4d9c-998d-bfe63d19ae99",
         "date_posted": 1758125187,
@@ -12051,14 +12051,14 @@
         "sponsorship": "U.S. Citizenship is Required"
     },
     {
-        "date_updated": 1758125187,
+        "date_updated": 1759786194,
         "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5585759004",
         "company_name": "Lucid Software",
         "title": "Software Engineer",
         "locations": [
             "Salt Lake City, UT"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "875399e6-3587-4044-95d4-d5bea85c9253",
         "date_posted": 1758125187,
