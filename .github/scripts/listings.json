@@ -12833,5 +12833,25 @@
         "company_url": "",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1759786074,
+        "url": "https://careersatdoordash.com/jobs/software-engineer-i-entry-level-graduation-date-fall-2025-summer-2026/7263610/",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA",
+            "Los Angeles, CA",
+            "Seattle, WA",
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DoorDash",
+        "title": "New Grad: Software Engineer I",
+        "source": "vanshb03",
+        "id": "70264109-99ca-4129-bc64-efa7eb25fa59",
+        "date_posted": 1759786074,
+        "company_url": "",
+        "is_visible": true
     }
 ]
