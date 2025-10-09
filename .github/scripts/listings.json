@@ -13118,5 +13118,21 @@
         "date_posted": 1759976759,
         "company_url": "",
         "is_visible": true
+    },
+    {
+    "date_updated": 1759976813,
+    "url": "https://university-uber.icims.com/jobs/149558/job",
+    "locations": [
+        "San Francisco, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Uber",
+    "title": "New Grad 2025: Software Engineer I",
+    "source": "vanshb03",
+    "id": "bb23c197-5910-4caf-923b-9118085f6545",
+    "date_posted": 1759976813,
+    "company_url": "",
+    "is_visible": true
     }
 ]
