@@ -13003,5 +13003,120 @@
         "date_posted": 1759786426,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759976724,
+        "url": "https://jobs.lever.co/wolve/b42f4d54-02e1-4549-a6a5-7cd5673c8216",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wolverine Trading",
+        "title": "C++ Software Engineer",
+        "source": "vanshb03",
+        "id": "2bd82fb6-a5fe-4ba4-a683-0241a9ed7c34",
+        "date_posted": 1759976724,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759976727,
+        "url": "https://jobs.lever.co/gauntlet/05622c55-52bf-47a9-8d88-e83d70fc5bad",
+        "locations": [
+            "New York City, NY",
+            "San Francisco, CA",
+            "Los Angeles, CA",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Gauntlet",
+        "title": "New Grad: Quant Research Engineer",
+        "source": "vanshb03",
+        "id": "57c64308-91d1-47a6-92da-aff6b4ff4328",
+        "date_posted": 1759976727,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759976734,
+        "url": "https://www.tesla.com/careers/search/job/252946",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Full Stack Software Engineer, Battery Optimization",
+        "source": "vanshb03",
+        "id": "e7c43879-2eef-4a1a-aaeb-1e6a3437a91b",
+        "date_posted": 1759976734,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759976738,
+        "url": "https://www.tesla.com/careers/search/job/252915",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Sensing Software Engineer",
+        "source": "vanshb03",
+        "id": "05aac9ba-bba0-4927-9c11-0e09fc79f493",
+        "date_posted": 1759976738,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759976740,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/CAD-Engineer--Physical-Design---New-College-Grad-2026_JR2005254",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2026: CAD Engineer, Physical Design",
+        "source": "vanshb03",
+        "id": "3719b601-3315-4f2b-8534-bcafe02981d1",
+        "date_posted": 1759976740,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759976753,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1882254/Software-Engineer",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "87275846-4644-40c6-afed-b5f84329b050",
+        "date_posted": 1759976753,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759976759,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1887174/Software-Engineer",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "f7a04081-ee0e-414d-a199-dc895946a54d",
+        "date_posted": 1759976759,
+        "company_url": "",
+        "is_visible": true
     }
 ]
