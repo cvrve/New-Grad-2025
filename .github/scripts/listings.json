@@ -13134,5 +13134,72 @@
     "date_posted": 1759976813,
     "company_url": "",
     "is_visible": true
+    },
+    {
+        "date_updated": 1760071515,
+        "url": "https://jobs.ashbyhq.com/anyscale/31d09081-f5e7-45e4-b561-1c53d0ca9200",
+        "locations": [
+            "San Francisco, CA",
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Anyscale",
+        "title": "New Grad 2026: Software Engineer",
+        "source": "vanshb03",
+        "id": "13003e48-b8f4-417c-b9cb-2db87d60285c",
+        "date_posted": 1760071515,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760071571,
+        "url": "https://joinbytedance.com/search/7540061337369954567",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2026: Site Reliability Engineer (Edge Services)",
+        "source": "vanshb03",
+        "id": "def13002-015f-4964-b2f3-1d8627798703",
+        "date_posted": 1760071571,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760071576,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Software-Engineer--CAD-Automation---New-College-Grad-2025_JR2005867",
+        "locations": [
+            "Santa Clara, CA",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: Software Engineer, CAD Automation",
+        "source": "vanshb03",
+        "id": "f32fe477-4afd-40f3-a631-df8458e347ac",
+        "date_posted": 1760071576,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760071659,
+        "url": "https://careers.adobe.com/us/en/job/ADOBUSR158639EXTERNALENUS/2026-University-Graduate-AI-Context-Engineer",
+        "locations": [
+            "San Jose, CA",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Adobe",
+        "title": "New Grad 2026: AI Context Engineer",
+        "source": "vanshb03",
+        "id": "96d71f60-b57a-4a49-b716-a4627b549e83",
+        "date_posted": 1760071659,
+        "company_url": "",
+        "is_visible": true
     }
 ]
