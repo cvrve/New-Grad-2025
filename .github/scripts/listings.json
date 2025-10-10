@@ -7673,14 +7673,14 @@
         "sponsorship": "U.S. Citizenship is Required"
     },
     {
-        "date_updated": 1755206165,
+        "date_updated": 1760078848,
         "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8091749002",
         "locations": [
             "Santa Clara, CA",
             "San Diego, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "XPENG",
         "title": "Autonomous Driving Center Full-Time Position",
         "source": "vanshb03",
@@ -12954,7 +12954,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759786400,
+        "date_updated": 1760078850,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1884064/Software-Engineer",
         "locations": [
             "Redmond, WA",
@@ -12963,7 +12963,7 @@
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -13005,13 +13005,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759976724,
+        "date_updated": 1760078850,
         "url": "https://jobs.lever.co/wolve/b42f4d54-02e1-4549-a6a5-7cd5673c8216",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Wolverine Trading",
         "title": "C++ Software Engineer",
         "source": "vanshb03",
@@ -13120,20 +13120,20 @@
         "is_visible": true
     },
     {
-    "date_updated": 1759976813,
-    "url": "https://university-uber.icims.com/jobs/149558/job",
-    "locations": [
-        "San Francisco, CA"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Uber",
-    "title": "New Grad 2025: Software Engineer I",
-    "source": "vanshb03",
-    "id": "bb23c197-5910-4caf-923b-9118085f6545",
-    "date_posted": 1759976813,
-    "company_url": "",
-    "is_visible": true
+        "date_updated": 1759976813,
+        "url": "https://university-uber.icims.com/jobs/149558/job",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Uber",
+        "title": "New Grad 2025: Software Engineer I",
+        "source": "vanshb03",
+        "id": "bb23c197-5910-4caf-923b-9118085f6545",
+        "date_posted": 1759976813,
+        "company_url": "",
+        "is_visible": true
     },
     {
         "date_updated": 1760071515,
