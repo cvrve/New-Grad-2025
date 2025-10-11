@@ -13397,5 +13397,101 @@
         "date_posted": 1760208486,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760208568,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R226913",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Capital One",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "347c3e5b-d41a-4796-a544-7b72ed0a776c",
+        "date_posted": 1760208568,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760208574,
+        "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/RLS-Photonics-Software-Engineer---2026-New-Grads_R029181",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ciena",
+        "title": "New Grad 2026: RLS Photonics Software Engineer",
+        "source": "vanshb03",
+        "id": "65233a67-d1ec-4649-a171-b376a7419cc5",
+        "date_posted": 1760208574,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760208577,
+        "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Software-Engineer-Packet-Platform---New-Grad_R029137",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ciena",
+        "title": "New Grad: Software Engineer Packet Platform",
+        "source": "vanshb03",
+        "id": "f70981fd-478e-4679-b67c-0956cfcdf926",
+        "date_posted": 1760208577,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760208581,
+        "url": "https://efpv.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6828",
+        "locations": [
+            "Burnaby, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Infoblox",
+        "title": "Associate Data Engineer",
+        "source": "vanshb03",
+        "id": "4969dd28-99f3-46e0-a118-4d3d98b9aabf",
+        "date_posted": 1760208581,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760208587,
+        "url": "https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Calgary/Software-Developer_BF-REQ-3857",
+        "locations": [
+            "Calgary, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Clio",
+        "title": "Software Developer",
+        "source": "vanshb03",
+        "id": "3eda5752-038b-42db-8e6d-f8ff3c8e51c0",
+        "date_posted": 1760208587,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760208592,
+        "url": "https://careers.quadient.com/en/jobs/junior-software-engineer",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Quadient",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "078420f1-d46c-4bf9-aafa-59ea500d2520",
+        "date_posted": 1760208592,
+        "company_url": "",
+        "is_visible": true
     }
 ]
