@@ -6539,13 +6539,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755112283,
+        "date_updated": 1760207843,
         "url": "https://www.metacareers.com/jobs/8187200048015588",
         "locations": [
             "Sunnyvale, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Meta",
         "title": "Software Engineer",
         "source": "vanshb03",

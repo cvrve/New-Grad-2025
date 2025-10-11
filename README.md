@@ -273,7 +273,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Prosidian Consulting** | ITSM IT Security Engineer I | Washington, DC | <a href="https://jobs.smartrecruiters.com/prosidianconsulting/743999691677974?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | **Peraton** | Software Engineering, Associate 🇺🇸 | Herndon, VA | <a href="https://careers-peraton.icims.com/jobs/158789/software-engineering%2c-associate/job?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | **NVIDIA** | Research Scientist, Robotics Research | Seattle, WA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Scientist--Robotics-Research---New-College-Grad-2025_JR2001017?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
-| **Meta** | Software Engineer | Sunnyvale, CA | <a href="https://www.metacareers.com/jobs/8187200048015588?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | **Maxar** | Forward Deployed Software Engineer I | Herndon, VA | <a href="https://maxar.wd1.myworkdayjobs.com/en-US/Maxar/job/Herndon-VA/Forward-Deployed-Software-Engineer-I_R22647-1?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | **Jump Trading** | Tech Ops Engineer | Chicago, IL | <a href="https://www.jumptrading.com/careers/7078491/?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | **i3** | Full-Stack Software Engineer 🇺🇸 | Hunstville, AL | <a href="https://careers-i3-corps.icims.com/jobs/4833/entry-level-full-stack-software-engineer/job?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
@@ -652,6 +651,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Moog** | Associate Software Engineer 🇺🇸 | Torrance, CA | 🔒 | Aug 13 |
 | **Microsoft** | Software Engineer | Atlanta, GA | 🔒 | Aug 13 |
 | **Microsoft** | Software Engineer: Microsoft AI Development Acceleration Program, Redmond | Redmond, WA | 🔒 | Aug 13 |
+| **Meta** | Software Engineer | Sunnyvale, CA | 🔒 | Aug 13 |
 | **DIRECTV** | IT Software Engineer 1 | El Segundo, CA</br>Remote in USA | 🔒 | Aug 13 |
 | **DIRECTV** | IT Software Engineer 1 | Remote in USA | 🔒 | Aug 13 |
 | **CVS Health** | Associate Cloud Architect | Remote, TX | 🔒 | Aug 13 |
