@@ -13381,5 +13381,21 @@
         "date_posted": 1760208386,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760208486,
+        "url": "https://www.quinstreet.com/careers/?gh_jid=7316288",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "QuinStreet",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "27dd0a39-9291-445b-83fc-ba823fc3c6cf",
+        "date_posted": 1760208486,
+        "company_url": "",
+        "is_visible": true
     }
 ]
