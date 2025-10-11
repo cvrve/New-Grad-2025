@@ -7591,13 +7591,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755115525,
+        "date_updated": 1760207647,
         "url": "https://boards.greenhouse.io/embed/job_app?for=blackedgecapital&token=4595489005",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "BlackEdge Capital",
         "title": "New Grad 2026: Quantitative Developer",
         "source": "vanshb03",
