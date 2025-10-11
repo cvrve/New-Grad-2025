@@ -336,7 +336,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Tesla** | Automation Controls Engineer, Megapack | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/247595?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
 | **Tesla** | Machine Learning Engineer, Model Optimization & Deployment, Optimus | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/247659?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
 | **Royal Caribbean Group** | Associate Engineer, Software | Miramar, FL | <a href="https://jobs.royalcaribbeangroup.com/job/Miramar-Associate-Engineer%2C-Software-FL-33132/1314694500/?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
-| **Oracle** | Undergrad Software Engineer 🛂 | Seattle, WA | <a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/304100?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
 | **Niantic** | Software Engineer, Client | San Francisco, CA | <a href="https://job-boards.greenhouse.io/niantic/jobs/8108536002?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
 | **Mathtech** | Associate Software Developer | Hamilton, NJ | <a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf1a92f4-16eb-4267-86ca-bc956024f426&jobId=553315&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
 | **Lumafield** | Embedded Software Engineer | Boston, MA</br>Everett, MA | <a href="https://jobs.lever.co/lumafield/0bdaed8e-3234-4073-afa6-410d1362fe25?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
@@ -668,6 +667,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Twilio** | Machine Learning & Data Engineer | Remote | 🔒 | Aug 07 |
 | **The Boeing Company** | Associate Software Engineer 🛂 | Daytona Beach, FL | 🔒 | Aug 07 |
 | **Ping Identity** | Software Engineer I | Denver, CO | 🔒 | Aug 07 |
+| **Oracle** | Undergrad Software Engineer | Seattle, WA | 🔒 | Aug 07 |
 | **Microsoft** | Software Engineer | Redmond, WA | 🔒 | Aug 07 |
 | **Cook Systems** | Software Developer | Nashville, TN | 🔒 | Aug 07 |
 | **Autodesk** | New Grad 2025: Software Engineer | San Francisco, CA | 🔒 | Aug 07 |

@@ -6488,13 +6488,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754558843,
+        "date_updated": 1760207857,
         "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/304100",
         "locations": [
             "Seattle, WA"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "company_name": "Oracle",
         "title": "Undergrad Software Engineer",
         "source": "vanshb03",
