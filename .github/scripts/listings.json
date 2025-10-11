@@ -13201,5 +13201,185 @@
         "date_posted": 1760071659,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760208290,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Software-Engineering-AMTS_JR313404-2",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Salesforce",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "4046c5c5-94cd-458e-b12f-633e131a50d1",
+        "date_posted": 1760208290,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760208339,
+        "url": "https://job-boards.greenhouse.io/speechify/jobs/5672315004",
+        "locations": [
+            "San Angelo, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Speechify",
+        "title": "Software Engineer, Platform",
+        "source": "vanshb03",
+        "id": "ffd83463-28ac-4ee6-b87a-52f3b155c7e2",
+        "date_posted": 1760208339,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760208344,
+        "url": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Software-Development-Graduate_3152963",
+        "locations": [
+            "Spring, TX",
+            "Palo Alto, CA",
+            "Boise, ID",
+            "Corvallis, OR",
+            "Vancouver, WA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "HP",
+        "title": "Software Development Engineer",
+        "source": "vanshb03",
+        "id": "34837f78-7607-4c3f-b87f-b4e98c70916e",
+        "date_posted": 1760208344,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760208348,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/Software-Developer_R0226649",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Booz Allen Hamilton",
+        "title": "Full-Stack Developer, Junior",
+        "source": "vanshb03",
+        "id": "f0c2557a-95de-44b2-972b-aa8bd5de3e0c",
+        "date_posted": 1760208348,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760208355,
+        "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/XIAM-Software-Engineer_R-388461",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Humana",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "b3d7d908-8f63-4efa-bd4a-261a5f7a3d75",
+        "date_posted": 1760208355,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760208362,
+        "url": "https://job-boards.greenhouse.io/appian/jobs/7287884",
+        "locations": [
+            "McLean, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Appian",
+        "title": "Product Engineer",
+        "source": "vanshb03",
+        "id": "d60ff0cd-182f-4126-b3de-924082837c85",
+        "date_posted": 1760208362,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760208367,
+        "url": "https://uneekor.bamboohr.com/careers/119",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Uneekor",
+        "title": "Software Quality Assurance Engineer",
+        "source": "vanshb03",
+        "id": "96165ad0-ac79-4fe7-a228-da3769cf30ec",
+        "date_posted": 1760208367,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760208370,
+        "url": "https://job-boards.greenhouse.io/mergeworld/jobs/7315751",
+        "locations": [
+            "Denver, CO"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "MERGE",
+        "title": "Associate Agentic Engineer",
+        "source": "vanshb03",
+        "id": "0ccbe21c-b30a-425e-90b3-5d6ff3453f3c",
+        "date_posted": 1760208370,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760208377,
+        "url": "https://travelers.wd5.myworkdayjobs.com/external/job/CT---Hartford/Software-Engineer-I--Python--Web-Development--LLM-_R-47356",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Travelers",
+        "title": "Software Engineer I",
+        "source": "vanshb03",
+        "id": "a4a1a547-c468-407e-84b7-846e3578b2ea",
+        "date_posted": 1760208377,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760208382,
+        "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Software-Engineer_J-00328147",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ASML",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "1bc437ec-ad15-440d-986a-f233bd1b4a79",
+        "date_posted": 1760208382,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760208386,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/Software-Engineer_R0228061",
+        "locations": [
+            "Rome, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Booz Allen Hamilton",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "a56617e2-d354-4996-b3fc-d53534c1aa84",
+        "date_posted": 1760208386,
+        "company_url": "",
+        "is_visible": true
     }
 ]
