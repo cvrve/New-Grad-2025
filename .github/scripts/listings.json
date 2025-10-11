@@ -6706,7 +6706,7 @@
         "locations": [
             "Herndon, VA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "5b91c136-e063-42c9-a37c-b43ab978d71b",
         "date_posted": 1755113970,
@@ -12147,13 +12147,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758383486,
+        "date_updated": 1760208858,
         "url": "https://td.wd3.myworkdayjobs.com/td_bank_careers/job/New-York-New-York/XMLNAME-2026-Full-Time-Analyst-Rotational-Program---Software-Engineering_R_1446300",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TD",
         "title": "Full Time Analyst Rotational Program, Software Engineering",
         "source": "vanshb03",
@@ -12855,14 +12855,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759786116,
+        "date_updated": 1760208890,
         "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-Engineer-I_1604624",
         "company_name": "Centene",
         "title": "Data Engineer I",
         "locations": [
             "Remote"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "4878e9ee-d7a9-4ed5-8f72-977020ef6c3e",
         "date_posted": 1759786116,
@@ -12887,7 +12887,7 @@
         "sponsorship": "Does Not Offer Sponsorship"
     },
     {
-        "date_updated": 1759786116,
+        "date_updated": 1760208895,
         "url": "https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Lincoln-NE/Data-Analyst-I---Consumer-Loan-Analytics_R21677-1",
         "company_name": "Nelnet",
         "title": "Data Analyst I, Consumer Loan Analytics",
@@ -12897,7 +12897,7 @@
             "Brownsville, TX",
             "Centennial, CO"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "002bb8e2-0d60-40af-9c7a-fa4049226971",
         "date_posted": 1759786116,
