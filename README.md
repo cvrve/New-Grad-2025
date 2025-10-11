@@ -292,7 +292,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Boston Scientific** | Software Engineer I - Engineering - Development | Roseville, MN | <a href="https://bostonscientific.eightfold.ai/careers/job/563602803047194?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | **Boston Scientific** | Software Engineer I - Engineering - Development | Roseville, MN | <a href="https://bostonscientific.eightfold.ai/careers/job/563602803067424?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | **Boston Scientific** | Software Engineer I - Engineering - Development | Roseville, MN | <a href="https://bostonscientific.eightfold.ai/careers/job/563602803102071?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
-| **BlackEdge Capital** | New Grad 2026: Quantitative Developer | Chicago, IL | <a href="https://boards.greenhouse.io/embed/job_app?for=blackedgecapital&token=4595489005&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | **Anduril Industries** | Early Career Software Engineer 🛂 | Costa Mesa, CA | <a href="https://job-boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007&gh_src=&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | **Anduril Industries** | Air Dominance & Strike - Flight Software Engineer, Embedded C/C++ 🛂 | Costa Mesa, CA | <a href="https://job-boards.greenhouse.io/andurilindustries/jobs/4164476007?gh_jid=4164476007&gh_src=&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | **Anduril Industries** | Software Engineer, Connected Warfare 🇺🇸 | Costa Mesa, CA | <a href="https://job-boards.greenhouse.io/andurilindustries/jobs/4776690007?gh_jid=4776690007&gh_src=&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
@@ -661,6 +660,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Broadcom Limited** | Entry level Mainframe Software Development Engineer | Plano, TX | 🔒 | Aug 13 |
 | **Boeing** | Software and Electrical Systems Simulation Integration Engineer 🛂 | Long Beach, CA | 🔒 | Aug 13 |
 | **BMO** | Software Engineer | Chicago, IL | 🔒 | Aug 13 |
+| **BlackEdge Capital** | New Grad 2026: Quantitative Developer | Chicago, IL | 🔒 | Aug 13 |
 | **Barclays** | Quantitative Analytics Associate Graduate Program | Manhattan, NY | 🔒 | Aug 13 |
 | **Analytical Mechanics Associates** | AI/ML Research Associate 🇺🇸 | Hampton, VA</br>Remote | 🔒 | Aug 13 |
 | **UnitedHealth Group** | Software Engineer - Python, ETL, SQL | Remote | 🔒 | Aug 07 |
