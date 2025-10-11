@@ -345,7 +345,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **ByteDance** | Site Reliability Engineer Graduate [Security Engineering-US] | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7534838755829696776/detail?spread=BSPP2KS&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
 | **ByteDance** | New Grad 2026: Software Engineer, Authorization-US | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7531126749275851026/detail?spread=BSPP2KS&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
 | **Amazon** | System Development Engineer, Amazon Robotics | Arlington, VA | <a href="https://www.amazon.jobs/en/jobs/3051896/system-development-engineer-amazon-robotics?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
-| **Reddit** | New Grad: Software Engineer 🛂 | San Francisco, CA</br>Chicago, IL</br>Los Angeles, CA | <a href="https://app.ripplematch.com/v2/public/job/340fb9c1?tl=505c5953&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
 | **Hume AI** | Product Manager, Growth | New York, NY</br>Remote</br>San Francisco, CA | <a href="https://job-boards.greenhouse.io/humeai/jobs/4856037008?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
 | **StubHub** | Associate Product Manager - Consumer Experience | New York, NY | <a href="https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4648133101?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 03 |
 | **Ramp** | New Grad 2026: Software Engineer - Frontend | New York, NY | <a href="https://jobs.ashbyhq.com/ramp/a1229aec-1105-4c47-8533-b912e732ed89?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 03 |
@@ -672,6 +671,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Cook Systems** | Software Developer | Nashville, TN | 🔒 | Aug 07 |
 | **Autodesk** | New Grad 2025: Software Engineer | San Francisco, CA | 🔒 | Aug 07 |
 | **Adobe** | Software Development Engineer | Lehi, UT | 🔒 | Aug 07 |
+| **Reddit** | New Grad: Software Engineer | San Francisco, CA</br>Chicago, IL</br>Los Angeles, CA | 🔒 | Aug 05 |
 | **T-Mobile** | Associate Product Manager | Bellevue, WA | 🔒 | Jul 30 |
 | **Salesforce** | Product Security Engineer | San Francisco, CA</br>Seattle, WA</br>Bellevue, WA | 🔒 | Jul 30 |
 | **Microsoft** | Hardware Engineer | Redmond, WA | 🔒 | Jul 30 |

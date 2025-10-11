@@ -5587,15 +5587,15 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754382386,
+        "date_updated": 1760207935,
         "url": "https://app.ripplematch.com/v2/public/job/340fb9c1?tl=505c5953",
         "locations": [
             "San Francisco, CA",
             "Chicago, IL",
             "Los Angeles, CA"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "company_name": "Reddit",
         "title": "New Grad: Software Engineer",
         "source": "vanshb03",
