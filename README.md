@@ -44,6 +44,10 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Tesla** | Infrastructure & DevOps Engineer, AI Hardware | Austin, TX</br>Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/253222?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
+| **Tesla** | Verification Infrastructure & DevOps Engineer, AI Hardware | Austin, TX</br>Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/253221?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
+| **Microsoft** | Software Engineer | Multiple Locations | <a href="https://jobs.careers.microsoft.com/global/en/job/1872621/Software-Engineer?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
+| **Microsoft** | Software Engineer | Multiple Locations | <a href="https://jobs.careers.microsoft.com/global/en/job/1848352/Software-Engineer?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | **Uneekor** | Software Quality Assurance Engineer | Dallas, TX | <a href="https://uneekor.bamboohr.com/careers/119?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | **Travelers** | Software Engineer I 🛂 | Hartford, CT | <a href="https://travelers.wd5.myworkdayjobs.com/external/job/CT---Hartford/Software-Engineer-I--Python--Web-Development--LLM-_R-47356?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | **Speechify** | Software Engineer, Platform | San Angelo, TX | <a href="https://job-boards.greenhouse.io/speechify/jobs/5672315004?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
@@ -68,7 +72,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Gauntlet** | New Grad: Quant Research Engineer | <details><summary>**4 locations**</summary>New York City, NY</br>San Francisco, CA</br>Los Angeles, CA</br>Remote</details> | <a href="https://jobs.lever.co/gauntlet/05622c55-52bf-47a9-8d88-e83d70fc5bad?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | **Tesla** | Machine Learning Infrastructure Simulation Engineer, Optimus | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/252374?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | **NVIDIA** | New Grad 2025: Deep Learning Algorithm Engineer, Dynamo | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Deep-Learning-Algorithm-Engineer--Dynamo---New-College-Grad-2025_JR2001320-1?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
-| **Grafana Labs** | Software Security Engineer | Remote | <a href="https://job-boards.greenhouse.io/grafanalabs/jobs/5665656004?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | **General Dynamics Mission Systems** | Junior Software Engineer 🇺🇸 | Dedham, MA | <a href="https://careers-gdms.icims.com/jobs/68413?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | **DoorDash** | New Grad: Software Engineer I | <details><summary>**5 locations**</summary>New York, NY</br>San Francisco, CA</br>Los Angeles, CA</br>Seattle, WA</br>Sunnyvale, CA</details> | <a href="https://careersatdoordash.com/jobs/software-engineer-i-entry-level-graduation-date-fall-2025-summer-2026/7263610/?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | **American Express** | Software Engineer 1, Technology 🛂 | Plantation, FL | <a href="https://aexp.eightfold.ai/careers/job/38270703?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
@@ -542,6 +545,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Nelnet** | Data Analyst I, Consumer Loan Analytics 🛂 | <details><summary>**4 locations**</summary>Lincoln, NE</br>Madison, WI</br>Brownsville, TX</br>Centennial, CO</details> | 🔒 | Oct 06 |
 | **Microsoft** | Software Engineer | Remote | 🔒 | Oct 06 |
 | **Microsoft** | Software Engineer | <details><summary>**4 locations**</summary>Redmond, WA</br>Mountain View, CA</br>Atlanta, GA</br>Boston, MA</details> | 🔒 | Oct 06 |
+| **Grafana Labs** | Software Security Engineer | Remote | 🔒 | Oct 06 |
 | **Centene** | Data Engineer I | Remote | 🔒 | Oct 06 |
 | **LPL Financial Holdings** | Engineer I, Software Development | Austin, TX</br>Fort Mill, SC</br>Charlotte, NC | 🔒 | Sep 30 |
 | **Wolverine Trading** | C++ Software Engineer | Chicago, IL | 🔒 | Sep 26 |
