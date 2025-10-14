@@ -12973,13 +12973,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759786404,
+        "date_updated": 1760482750,
         "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/5665656004",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Grafana Labs",
         "title": "Software Security Engineer",
         "source": "vanshb03",
@@ -13491,6 +13491,72 @@
         "source": "vanshb03",
         "id": "078420f1-d46c-4bf9-aafa-59ea500d2520",
         "date_posted": 1760208592,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760482719,
+        "url": "https://www.tesla.com/careers/search/job/253221",
+        "locations": [
+            "Austin, TX",
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Verification Infrastructure & DevOps Engineer, AI Hardware",
+        "source": "vanshb03",
+        "id": "0a02e44f-5454-4d3b-b153-8afd8a594a04",
+        "date_posted": 1760482719,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760482723,
+        "url": "https://www.tesla.com/careers/search/job/253222",
+        "locations": [
+            "Austin, TX",
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Infrastructure & DevOps Engineer, AI Hardware",
+        "source": "vanshb03",
+        "id": "3476a13b-189f-4142-8ca1-27373ef6d39b",
+        "date_posted": 1760482723,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760482728,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1848352/Software-Engineer",
+        "locations": [
+            "Multiple Locations"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "e54a2cce-acfc-4336-b1ee-a1db3f25b8aa",
+        "date_posted": 1760482728,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760482734,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1872621/Software-Engineer",
+        "locations": [
+            "Multiple Locations"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "1a8a29fd-3d2f-4624-b81f-91cca149fd8d",
+        "date_posted": 1760482734,
         "company_url": "",
         "is_visible": true
     }
