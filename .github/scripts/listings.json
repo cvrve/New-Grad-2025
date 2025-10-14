@@ -13559,5 +13559,245 @@
         "date_posted": 1760482734,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760482769,
+        "url": "https://aurora.tech/careers/8137861002",
+        "company_name": "Aurora",
+        "title": "Security Software Engineer I",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "0b06f290-8376-4237-b97c-865627128884",
+        "date_posted": 1760482769,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Offers Sponsorship"
+    },
+    {
+        "date_updated": 1760482769,
+        "url": "https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/XMLNAME-2026-Early-Career---Gen-AI---Data-Engineering-Analyst---United-States--Atlanta--GA--_JR2505609-1",
+        "company_name": "AIG",
+        "title": "Early Career Analyst, Gen AI, Data Engineering",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "4031dc4a-ff3c-4ed5-9f1e-f2ec1906d73a",
+        "date_posted": 1760482769,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1760482769,
+        "url": "https://jobs.ashbyhq.com/lambda/1b1cac37-a29c-46b2-ad1a-a946d1e87d41",
+        "company_name": "Lambda",
+        "title": "Cloud Support Engineer I (Support Response)",
+        "locations": [
+            "Remote in USA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "ff0a574c-5a1c-44d0-a6c4-3a75b273e08b",
+        "date_posted": 1760482769,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Does Not Offer Sponsorship"
+    },
+    {
+        "date_updated": 1760482769,
+        "url": "https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Associate-Software-QA-Engineer--Hybrid---Acton--MA-_REQ-2025-13185",
+        "company_name": "Insulet Corporation",
+        "title": "Associate Software QA Engineer",
+        "locations": [
+            "Acton, MA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "82c1c79b-cbb8-4699-8ec6-77f8d4366ed5",
+        "date_posted": 1760482769,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1760482769,
+        "url": "https://carislifesciences.wd12.myworkdayjobs.com/en-US/cls/job/Irving-TX--75063/Associate-Software-Engineer---Clinical-Systems--External-Apps-_JR104015",
+        "company_name": "Caris",
+        "title": "Associate Software Engineer, Clinical Systems",
+        "locations": [
+            "Irving, TX"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "e91173d3-b036-4e7f-a313-72b6b74d6e51",
+        "date_posted": 1760482769,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Does Not Offer Sponsorship"
+    },
+    {
+        "date_updated": 1760482769,
+        "url": "https://carislifesciences.wd12.myworkdayjobs.com/en-US/cls/job/Irving-TX--75063/Associate-Software-Engineer---Clinical-Systems--Lab-Ops-_JR104012-1",
+        "company_name": "Caris",
+        "title": "Associate Software Engineer, Clinical Systems",
+        "locations": [
+            "Irving, TX"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "74403e9b-cf9c-4844-a13f-ee3afe79f578",
+        "date_posted": 1760482769,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Does Not Offer Sponsorship"
+    },
+    {
+        "date_updated": 1760482769,
+        "url": "https://carislifesciences.wd12.myworkdayjobs.com/en-US/cls/job/Irving-TX--75063/Associate-Software-Engineer---Clinical-Systems--Digital-Path-_JR104014",
+        "company_name": "Caris",
+        "title": "Associate Software Engineer, Clinical Systems",
+        "locations": [
+            "Irving, TX"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "0da2fcde-db24-4952-aaf2-9e9ac2521397",
+        "date_posted": 1760482769,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Does Not Offer Sponsorship"
+    },
+    {
+        "date_updated": 1760482769,
+        "url": "https://aurora.tech/jobs/8209480002?gh_jid=8209480002",
+        "company_name": "Aurora Innovation",
+        "title": "Software Engineer 1",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "c79ba0d8-b60c-4344-8550-45a73cb92050",
+        "date_posted": 1760482769,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1760482769,
+        "url": "https://aurora.tech/jobs/8191750002?gh_jid=8191750002",
+        "company_name": "Aurora Innovation",
+        "title": "Software Engineer 1",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "58733930-a2d2-45da-a177-7fc8f45219f5",
+        "date_posted": 1760482769,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1760482769,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer---Developer_JR2025467505-1",
+        "company_name": "The Boeing Company",
+        "title": "Entry Level Software Engineer",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "79e2cae1-2d00-468c-b452-3a6f445a3524",
+        "date_posted": 1760482769,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1760482769,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HTX36-Richardson-TX-3200-E-Renner-Rd---Richardson-TX-75082-2402-USA/Software-Engineer-I--Onsite-_01799291",
+        "company_name": "RTX",
+        "title": "Software Engineer I",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "6f313f4f-2f2d-4188-afa1-1f566a655045",
+        "date_posted": 1760482769,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1760482769,
+        "url": "https://creditacceptance.wd5.myworkdayjobs.com/en-US/Credit_Acceptance/job/Michigan--Southfield-Office/Software-Engineer-I--Engineering_R13134",
+        "company_name": "Credit Acceptance Careers",
+        "title": "Software Engineer I - Engineering",
+        "locations": [
+            "Southfield, MI"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "e0e4a970-5c6e-4197-842b-50df316c4bd5",
+        "date_posted": 1760482769,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1760482769,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Developer---2026-Grads_R029193",
+        "company_name": "Ciena",
+        "title": "New Grad 2026: Software Developer",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "3c80a226-5d94-449c-b0b0-a17306419174",
+        "date_posted": 1760482769,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1760482769,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2025-Fulltime-Raytheon-Software-Engineer-I---Test-Equipment---Onsite_01799429",
+        "company_name": "RTX",
+        "title": "New Grad 2025: Fulltime Raytheon Software Engineer I, Test Equipment",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "3d22233c-0b6c-4e85-b93e-877ecd96e89a",
+        "date_posted": 1760482769,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1760482769,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--Inference-and-Model-Optimization---New-College-Grad-2025_JR2004584",
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: Deep Learning Software Engineer, Inference and Model Optimization",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "ca48b7fc-b444-49d5-b15b-247ff98fc831",
+        "date_posted": 1760482769,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
