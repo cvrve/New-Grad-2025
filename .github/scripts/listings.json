@@ -2801,7 +2801,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749297540,
+        "date_updated": 1760410087,
         "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/4749914007",
         "company_name": "TransMarket Group",
         "title": "Python Developer / Data Engineer",
@@ -2809,7 +2809,7 @@
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "06ea261d-3809-4b13-a033-e4e25b635bb0",
         "date_posted": 1749297540,
@@ -3560,13 +3560,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751749491,
+        "date_updated": 1760410087,
         "url": "https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Palantir",
         "title": "New Grad 2026: Forward Deployed Software Engineer",
         "source": "vanshb03",
@@ -9346,14 +9346,14 @@
         "sponsorship": "Offers Sponsorship"
     },
     {
-        "date_updated": 1756872100,
+        "date_updated": 1760410091,
         "url": "https://job-boards.greenhouse.io/spacex/jobs/8145483002?gh_jid=8145483002",
         "company_name": "SpaceX",
         "title": "Software Engineer",
         "locations": [
             "Hawthorne, CA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "35c631ff-94e5-46ab-9dc6-d43ea521ee82",
         "date_posted": 1756872100,
@@ -11840,13 +11840,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757963943,
+        "date_updated": 1760410092,
         "url": "https://job-boards.greenhouse.io/alphataraxia/jobs/4875669007",
         "locations": [
             "Washington, DC"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Alphataraxia Management (ATX)",
         "title": "New Grad: Software Engineer",
         "source": "vanshb03",
@@ -12989,13 +12989,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759786426,
+        "date_updated": 1760410093,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1879561/Software-Engineer",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -13319,13 +13319,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760208370,
+        "date_updated": 1760410093,
         "url": "https://job-boards.greenhouse.io/mergeworld/jobs/7315751",
         "locations": [
             "Denver, CO"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "MERGE",
         "title": "Associate Agentic Engineer",
         "source": "vanshb03",
