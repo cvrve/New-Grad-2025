@@ -82,7 +82,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Tesla** | Sensing Software Engineer | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/252915?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | **Tesla** | Full Stack Software Engineer, Battery Optimization | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/252946?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | **NVIDIA** | New Grad 2026: CAD Engineer, Physical Design | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/CAD-Engineer--Physical-Design---New-College-Grad-2026_JR2005254?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
-| **Microsoft** | Software Engineer | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1887174/Software-Engineer?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | **Microsoft** | Software Engineer | Remote | <a href="https://jobs.careers.microsoft.com/global/en/job/1882254/Software-Engineer?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | **Gauntlet** | New Grad: Quant Research Engineer | <details><summary>**4 locations**</summary>New York City, NY</br>San Francisco, CA</br>Los Angeles, CA</br>Remote</details> | <a href="https://jobs.lever.co/gauntlet/05622c55-52bf-47a9-8d88-e83d70fc5bad?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | **Tesla** | Machine Learning Infrastructure Simulation Engineer, Optimus | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/252374?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
@@ -557,6 +556,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Qualcomm** | Embedded DSP Software Engineer | San Diego, CA | <a href="https://careers.qualcomm.com/careers/job/446704474013?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
 | **MERGE** | Associate Agentic Engineer 🛂 | Denver, CO | 🔒 | Oct 11 |
 | **Wolverine Trading** | C++ Software Engineer | Chicago, IL | 🔒 | Oct 09 |
+| **Microsoft** | Software Engineer | Redmond, WA | 🔒 | Oct 09 |
 | **Nelnet** | Data Analyst I, Consumer Loan Analytics 🛂 | <details><summary>**4 locations**</summary>Lincoln, NE</br>Madison, WI</br>Brownsville, TX</br>Centennial, CO</details> | 🔒 | Oct 06 |
 | **Microsoft** | Software Engineer | Remote | 🔒 | Oct 06 |
 | **Microsoft** | Software Engineer | <details><summary>**4 locations**</summary>Redmond, WA</br>Mountain View, CA</br>Atlanta, GA</br>Boston, MA</details> | 🔒 | Oct 06 |
