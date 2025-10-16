@@ -13104,13 +13104,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759976759,
+        "date_updated": 1760647228,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1887174/Software-Engineer",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer",
         "source": "vanshb03",
