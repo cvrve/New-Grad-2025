@@ -13963,5 +13963,89 @@
         "date_posted": 1760650385,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760650536,
+        "url": "https://www.workatastartup.com/jobs/83503",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Apten",
+        "title": "Software Engineer (Full Stack)",
+        "source": "vanshb03",
+        "id": "53f33602-91dd-4278-a898-d266efde874e",
+        "date_posted": 1760650536,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760650567,
+        "url": "https://www.workatastartup.com/jobs/83356",
+        "locations": [
+            "San Francisco, CA",
+            "San Mateo, CA",
+            "Palo Alto, CA",
+            "Menlo Park, CA",
+            "Redwood City, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "StarSling (X25)",
+        "title": "New Grad: Full-Stack Software Engineer",
+        "source": "vanshb03",
+        "id": "571c24f4-2886-41dc-a3df-e41b5c15149a",
+        "date_posted": 1760650567,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760650573,
+        "url": "https://www.workatastartup.com/jobs/83287",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Taro",
+        "title": "Founding Software Engineer",
+        "source": "vanshb03",
+        "id": "f8622690-1706-4c9f-aec2-3574ae9db8e4",
+        "date_posted": 1760650573,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760650581,
+        "url": "https://www.workatastartup.com/jobs/83031",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Herdora",
+        "title": "Member of Technical Staff",
+        "source": "vanshb03",
+        "id": "f73582c1-ac07-479d-9019-bf6feae25990",
+        "date_posted": 1760650581,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760650584,
+        "url": "https://www.workatastartup.com/jobs/83025",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Corgi",
+        "title": "Full Stack Engineer",
+        "source": "vanshb03",
+        "id": "84a99fc5-905d-4857-bcc2-e0aff12e4c43",
+        "date_posted": 1760650584,
+        "company_url": "",
+        "is_visible": true
     }
 ]
