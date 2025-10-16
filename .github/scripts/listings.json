@@ -13799,5 +13799,169 @@
         "company_url": "",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1760650230,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/en-GB/rec_rtx_ext_gateway/job/MD440-8170-Maple-Lawn-Blvd-Fulton-MD-8170-Maple-Lawn-Boulevard---Fulton-MD-20759-USA/Software-Engineer-I--Onsite-_01801021",
+        "locations": [
+            "Fulton, MD"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Raytheon Technologies",
+        "title": "Software Engineer I",
+        "source": "vanshb03",
+        "id": "017671c8-c890-42c0-86b5-97a2e3791ee1",
+        "date_posted": 1760650230,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760650256,
+        "url": "https://groundswell.wd12.myworkdayjobs.com/groundswell/job/McLean-VA/Technical-Consultant--Campus-Recruiting-Entry-Level-_JR100868",
+        "locations": [
+            "McLean, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Groundswell",
+        "title": "Technical Consultant",
+        "source": "vanshb03",
+        "id": "26f4d335-3aeb-4131-af9b-d7ee92021ac7",
+        "date_posted": 1760650256,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760650270,
+        "url": "https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/USA-Frisco-6160-Warren-Parkway/AI-Solutions-Engineer--CoCounsel-AI-Applications_JREQ193428",
+        "locations": [
+            "Frisco, TX",
+            "Minneapolis, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Thomson Reuters",
+        "title": "AI Solutions Engineer, CoCounsel AI Applications",
+        "source": "vanshb03",
+        "id": "942add2f-ffdb-4f20-b3fc-9019448a3395",
+        "date_posted": 1760650270,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760650392,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/90452041138086598-software-engineer-ii-early-career-google-cloud-ai-catalyst-program",
+        "locations": [
+            "Sunnyvale, CA",
+            "Kirkland, WA",
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Google",
+        "title": "Software Engineer II, Early Career, Google Cloud AI Catalyst Program",
+        "source": "vanshb03",
+        "id": "463ced3a-24c9-4188-b34b-468bf79a0532",
+        "date_posted": 1760650392,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760650354,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1891876/AI%2FML-Engineer",
+        "locations": [
+            "Multiple Locations"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "AI/ML Engineer",
+        "source": "vanshb03",
+        "id": "b403b82e-6eed-4a34-ba17-50f97164948e",
+        "date_posted": 1760650354,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760650359,
+        "url": "https://www.tesla.com/careers/search/job/253464",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Frontend Software Engineer, Energy Charging",
+        "source": "vanshb03",
+        "id": "3c71b20d-ba1f-4c8e-a697-0175c10cf3f8",
+        "date_posted": 1760650359,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760650368,
+        "url": "https://www.shopify.com/careers/software-engineer-monorepo-systems-rust-nix_95aac134-c21a-456d-b8b3-a9aac6aa6118",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shopify",
+        "title": "Software Engineer - Monorepo Systems (Rust & Nix)",
+        "source": "vanshb03",
+        "id": "80ecb2a1-ac03-4c3c-bbe0-d78b4248c511",
+        "date_posted": 1760650368,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760650371,
+        "url": "https://job-boards.greenhouse.io/dagsterlabs/jobs/7497803003",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dagster Labs",
+        "title": "New Grad 2025: Software Engineer",
+        "source": "vanshb03",
+        "id": "d3fdde14-ca83-46a6-bb9b-4703c547fe83",
+        "date_posted": 1760650371,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760650375,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/AI-and-ML-Infra-Software-Engineer--GPU-Clusters---New-College-Grad-2026_JR2005097",
+        "locations": [
+            "Santa Clara, CA",
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2026: AI and ML Infra Software Engineer, GPU Clusters",
+        "source": "vanshb03",
+        "id": "c7b511b2-db58-4c34-8fee-59d182ac89db",
+        "date_posted": 1760650375,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760650385,
+        "url": "https://lifeattiktok.com/search/7559731427425257746",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Machine Learning Engineer",
+        "source": "vanshb03",
+        "id": "3b5b0a6c-bc07-4c47-bfa0-0353fac8774d",
+        "date_posted": 1760650385,
+        "company_url": "",
+        "is_visible": true
     }
 ]
