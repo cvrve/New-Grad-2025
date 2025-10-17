@@ -14047,5 +14047,69 @@
         "date_posted": 1760650584,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760650993,
+        "url": "https://www.workatastartup.com/jobs/82935",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Maitai",
+        "title": "Full-Stack Engineer - Agent Marketplace (In-Person RWC Only)",
+        "source": "vanshb03",
+        "id": "b8b4057d-f01d-43b8-93ad-dada78fd38c0",
+        "date_posted": 1760650993,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760650998,
+        "url": "https://www.workatastartup.com/jobs/82877",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Stamp",
+        "title": "Founding Machine Learning Engineer",
+        "source": "vanshb03",
+        "id": "3b692199-6a1e-4dc4-a65b-ed6435afb652",
+        "date_posted": 1760650998,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760651002,
+        "url": "https://www.workatastartup.com/jobs/82875",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Stamp (W25)",
+        "title": "Founding Mobile Engineer",
+        "source": "vanshb03",
+        "id": "9a9ba718-a5dd-446b-8c29-7f4f7dfacb90",
+        "date_posted": 1760651002,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760651005,
+        "url": "https://www.workatastartup.com/jobs/82876",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Stamp",
+        "title": "Founding Full Stack Engineer",
+        "source": "vanshb03",
+        "id": "eeac5b39-0214-4dc0-ab56-e3f78839c8c5",
+        "date_posted": 1760651005,
+        "company_url": "",
+        "is_visible": true
     }
 ]
