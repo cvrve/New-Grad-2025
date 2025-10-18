@@ -14111,5 +14111,151 @@
         "date_posted": 1760651005,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760784944,
+        "url": "https://www.shopify.com/careers/demo-engineer-software-development_a6126bad-c0ba-4d02-94fb-7c5e21bef9f5",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shopify",
+        "title": "Demo Engineer, Software Development",
+        "source": "vanshb03",
+        "id": "a0fe1a67-58b6-4b35-947b-ef5965e1a3d5",
+        "date_posted": 1760784944,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760784955,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1893324/Software-Engineer",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "22c77269-f57b-4b8a-8b99-35edfc2acf4e",
+        "date_posted": 1760784955,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760784960,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1861303/Software-Engineer",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "0ac49bdf-0bbf-44d4-871d-d461b79b55ca",
+        "date_posted": 1760784960,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760784965,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1862715/Software-Engineer",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "afcf4192-5e61-4270-af56-57dd1b0cc852",
+        "date_posted": 1760784965,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760784969,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Compiler-Engineer--LLVM--New-College-Grad-2025_JR2005960",
+        "locations": [
+            "Santa Clara, CA",
+            "Austin, TX",
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: Compiler Engineer, LLVM",
+        "source": "vanshb03",
+        "id": "eafa74c0-e326-402a-b207-d2ea3e9b3f8b",
+        "date_posted": 1760784969,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760784977,
+        "url": "https://www.tesla.com/careers/search/job/253715",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Backend Software Engineer, Optimus & Robotaxi",
+        "source": "vanshb03",
+        "id": "6798ac93-ffb7-490f-93f4-fe651d3fa6d4",
+        "date_posted": 1760784977,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760784980,
+        "url": "https://www.tesla.com/careers/search/job/253673",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Backend Software Engineer, IT Data & Analytics",
+        "source": "vanshb03",
+        "id": "346292a7-e058-401f-938d-cac12c68acf0",
+        "date_posted": 1760784980,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760784983,
+        "url": "https://www.tesla.com/careers/search/job/253636",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Security Engineer, Energy Product Software",
+        "source": "vanshb03",
+        "id": "d4871d2c-70ca-4cef-8f4c-67707605ad5c",
+        "date_posted": 1760784983,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760784988,
+        "url": "https://www.amazon.jobs/en/jobs/3110582/system-development-engineer-payload-antenna-team",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "System Development Engineer, Payload Antenna Team",
+        "source": "vanshb03",
+        "id": "0e1e16a4-2e22-40e8-a7f0-302319d3520a",
+        "date_posted": 1760784988,
+        "company_url": "",
+        "is_visible": true
     }
 ]
