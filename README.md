@@ -101,7 +101,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Tesla** | Sensing Software Engineer | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/252915?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | **Tesla** | Full Stack Software Engineer, Battery Optimization | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/252946?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | **NVIDIA** | New Grad 2026: CAD Engineer, Physical Design | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/CAD-Engineer--Physical-Design---New-College-Grad-2026_JR2005254?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
-| **Microsoft** | Software Engineer | Remote | <a href="https://jobs.careers.microsoft.com/global/en/job/1882254/Software-Engineer?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | **Gauntlet** | New Grad: Quant Research Engineer | <details><summary>**4 locations**</summary>New York City, NY</br>San Francisco, CA</br>Los Angeles, CA</br>Remote</details> | <a href="https://jobs.lever.co/gauntlet/05622c55-52bf-47a9-8d88-e83d70fc5bad?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | **Tesla** | Machine Learning Infrastructure Simulation Engineer, Optimus | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/252374?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | **NVIDIA** | New Grad 2025: Deep Learning Algorithm Engineer, Dynamo | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Deep-Learning-Algorithm-Engineer--Dynamo---New-College-Grad-2025_JR2001320-1?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
@@ -133,7 +132,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Veterans United Home Loans** | Associate Software Engineer | Remote, MO | <a href="https://veteransunited.wd1.myworkdayjobs.com/en-US/vuhl/job/Remote-MO/Associate-Software-Engineer_R5288?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | **NewsBreak** | New Grad: Software Engineer | Mountain View, CA | <a href="https://job-boards.greenhouse.io/newsbreak/jobs/4054592006?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | **Eventual** | New Grad: Software Engineer | San Francisco, CA | <a href="https://jobs.ashbyhq.com/eventualcomputing/becb5675-3480-4d2b-b126-2acad40fd088/application?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
-| **Sigma Computing** | New Grad: Software Engineer 🛂 | San Francisco, CA</br>New York, NY | <a href="https://job-boards.greenhouse.io/sigmacomputing/jobs/7313083003?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 16 |
 | **Duolingo** | New Grad: Software Engineer | Pittsburgh, PA | <a href="https://careers.duolingo.com/jobs/8155283002?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | **Duolingo** | New Grad: Data Scientist | Pittsburgh, PA | <a href="https://careers.duolingo.com/jobs/8162849002?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | **Planbase** | Founding Engineer (Full-Stack) 🇺🇸 | San Francisco, CA | <a href="https://www.workatastartup.com/jobs/81629?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
@@ -575,6 +573,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Qualcomm** | Embedded DSP Software Engineer | San Diego, CA | <a href="https://careers.qualcomm.com/careers/job/446704474013?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
 | **MERGE** | Associate Agentic Engineer 🛂 | Denver, CO | 🔒 | Oct 11 |
 | **Wolverine Trading** | C++ Software Engineer | Chicago, IL | 🔒 | Oct 09 |
+| **Microsoft** | Software Engineer | Remote | 🔒 | Oct 09 |
 | **Microsoft** | Software Engineer | Redmond, WA | 🔒 | Oct 09 |
 | **Nelnet** | Data Analyst I, Consumer Loan Analytics 🛂 | <details><summary>**4 locations**</summary>Lincoln, NE</br>Madison, WI</br>Brownsville, TX</br>Centennial, CO</details> | 🔒 | Oct 06 |
 | **Microsoft** | Software Engineer | Remote | 🔒 | Oct 06 |
@@ -611,6 +610,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Lucid Software** | Software Engineer | Salt Lake City, UT | 🔒 | Sep 17 |
 | **Fifth Third** | Quantitative Analyst I | Cincinnati, OH | 🔒 | Sep 17 |
 | **AV** | Software Engineer (Apps) I 🇺🇸 | Melbourne, FL | 🔒 | Sep 17 |
+| **Sigma Computing** | New Grad: Software Engineer 🛂 | San Francisco, CA</br>New York, NY | 🔒 | Sep 16 |
 | **TIAA** | Early Talent Rotational Program: Technology | Charlotte, NC</br>Dallas, TX</br>New York, NY | 🔒 | Sep 15 |
 | **NAVEX** | Associate Software Engineer | Lake Oswego, OR | 🔒 | Sep 15 |
 | **Light & Wonder** | Associate Software Engineer | Reno, NV</br>Las Vegas, NV | 🔒 | Sep 15 |
