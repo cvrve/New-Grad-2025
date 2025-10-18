@@ -11889,14 +11889,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758028094,
+        "date_updated": 1760785019,
         "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7313083003",
         "locations": [
             "San Francisco, CA",
             "New York, NY"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Sigma Computing",
         "title": "New Grad: Software Engineer",
         "source": "vanshb03",
@@ -13088,13 +13088,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759976753,
+        "date_updated": 1760785020,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1882254/Software-Engineer",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer",
         "source": "vanshb03",
