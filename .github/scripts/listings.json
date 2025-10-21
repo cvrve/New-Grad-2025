@@ -14257,5 +14257,104 @@
         "date_posted": 1760784988,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760994789,
+        "url": "https://amazon.jobs/en/jobs/3111761/software-engineer-i",
+        "locations": [
+            "Irvine, CA",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Twitch Interactive, Inc.",
+        "title": "Software Engineer I",
+        "source": "vanshb03",
+        "id": "d92422ef-ee94-463b-831b-7a780ad0b741",
+        "date_posted": 1760994789,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760994843,
+        "url": "https://www.amazon.jobs/en/jobs/3111750/systems-development-engineer-network-operations-oisl",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Systems Development Engineer, Network Operations OISL",
+        "source": "vanshb03",
+        "id": "a5178c88-4286-43b0-90ea-30a47cfc0982",
+        "date_posted": 1760994843,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760994852,
+        "url": "https://jobs.apple.com/en-us/details/200626941-0836/software-engineer-xcode-intelligence-experience",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apple",
+        "title": "Software Engineer, Xcode Intelligence Experience",
+        "source": "vanshb03",
+        "id": "6a87ee46-9f6e-4444-9c8e-2794493047ea",
+        "date_posted": 1760994852,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760995046,
+        "url": "https://www.boerboeltrading.com/jobs.html?gh_jid=5681668004",
+        "locations": [
+            "New York, NY",
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Boerboel",
+        "title": "New Grad: Quantitative Researcher",
+        "source": "vanshb03",
+        "id": "b2c5fe2e-840c-4ef5-80e4-a04ffb09527c",
+        "date_posted": 1760995046,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760995056,
+        "url": "https://www.boerboeltrading.com/jobs.html?gh_jid=5670371004",
+        "locations": [
+            "New York, NY",
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Boerboel",
+        "title": "New Grad: Developer",
+        "source": "vanshb03",
+        "id": "32153425-3af8-49c7-aa7e-fad23a8599d1",
+        "date_posted": 1760995056,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760995124,
+        "url": "https://jobs.apple.com/en-us/details/200626967-0157/is-t-early-career-engineering-program-manager-opportunities",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apple",
+        "title": "IS&T Early Career Engineering Program Manager",
+        "source": "vanshb03",
+        "id": "ced22751-52fa-437d-a81a-3c4c3470eacf",
+        "date_posted": 1760995124,
+        "company_url": "",
+        "is_visible": true
     }
 ]
