@@ -44,6 +44,12 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Twitch Interactive, Inc.** | Software Engineer I | Irvine, CA</br>San Francisco, CA | <a href="https://amazon.jobs/en/jobs/3111761/software-engineer-i?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
+| **Boerboel** | New Grad: Developer | New York, NY</br>Chicago, IL | <a href="https://www.boerboeltrading.com/jobs.html?gh_jid=5670371004&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
+| **Boerboel** | New Grad: Quantitative Researcher | New York, NY</br>Chicago, IL | <a href="https://www.boerboeltrading.com/jobs.html?gh_jid=5681668004&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
+| **Apple** | IS&T Early Career Engineering Program Manager | Austin, TX | <a href="https://jobs.apple.com/en-us/details/200626967-0157/is-t-early-career-engineering-program-manager-opportunities?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
+| **Apple** | Software Engineer, Xcode Intelligence Experience | Cupertino, CA | <a href="https://jobs.apple.com/en-us/details/200626941-0836/software-engineer-xcode-intelligence-experience?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
+| **Amazon** | Systems Development Engineer, Network Operations OISL 🇺🇸 | Redmond, WA | <a href="https://www.amazon.jobs/en/jobs/3111750/systems-development-engineer-network-operations-oisl?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | **Tesla** | Software Security Engineer, Energy Product Software | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/253636?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | **Tesla** | Backend Software Engineer, IT Data & Analytics | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/253673?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | **Tesla** | Backend Software Engineer, Optimus & Robotaxi | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/253715?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
