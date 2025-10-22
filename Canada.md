@@ -44,6 +44,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Wanderlog (W19)** | New Grad: Full-Stack Software Engineer | Remote</br>Toronto, Canada | <a href="https://www.workatastartup.com/jobs/83761?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **Quadient** | Software Engineer | Vancouver, Canada | <a href="https://careers.quadient.com/en/jobs/junior-software-engineer?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | **Infoblox** | Associate Data Engineer | Burnaby, Canada | <a href="https://efpv.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6828?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | **Clio** | Software Developer | Calgary, Canada | <a href="https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Calgary/Software-Developer_BF-REQ-3857?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
