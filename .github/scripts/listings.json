@@ -13529,13 +13529,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760482728,
+        "date_updated": 1761125800,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1848352/Software-Engineer",
         "locations": [
             "Multiple Locations"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -13545,13 +13545,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760482734,
+        "date_updated": 1761125800,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1872621/Software-Engineer",
         "locations": [
             "Multiple Locations"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -14354,6 +14354,72 @@
         "source": "vanshb03",
         "id": "ced22751-52fa-437d-a81a-3c4c3470eacf",
         "date_posted": 1760995124,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761125744,
+        "url": "https://www.workatastartup.com/jobs/83842",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Claim Health (X25)",
+        "title": "Founding Engineer",
+        "source": "vanshb03",
+        "id": "6cb3532c-762e-4ce1-abf6-86040ea4198b",
+        "date_posted": 1761125744,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761125749,
+        "url": "https://www.workatastartup.com/jobs/83760",
+        "locations": [
+            "San Francisco, CA",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wanderlog (W19)",
+        "title": "New Grad: Full-Stack Software Engineer",
+        "source": "vanshb03",
+        "id": "b5af3631-e05a-4d62-85a4-cc815d7a3ead",
+        "date_posted": 1761125749,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761125755,
+        "url": "https://www.workatastartup.com/jobs/83761",
+        "locations": [
+            "Remote",
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wanderlog (W19)",
+        "title": "New Grad: Full-Stack Software Engineer",
+        "source": "vanshb03",
+        "id": "da502a8c-4cde-4520-aa29-dd41f6ead64c",
+        "date_posted": 1761125755,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761125788,
+        "url": "https://www.workatastartup.com/jobs/80466",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Sixtyfour (X25)",
+        "title": "Founding Engineer, AI Research Agents (Full-Stack)",
+        "source": "vanshb03",
+        "id": "c742bbd9-ee7e-425f-b17f-fde5f1e4a532",
+        "date_posted": 1761125788,
         "company_url": "",
         "is_visible": true
     }
