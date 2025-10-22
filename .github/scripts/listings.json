@@ -14746,5 +14746,46 @@
         "company_url": "",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1761174684,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Washington---Bellevue/AI-Forward-Deployed-Engineer--New-Grad-_JR312405-1",
+        "company_name": "Salesforce",
+        "title": "AI Forward Deployed Engineer, Early Career",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Indianapolis, IN",
+            "Washington, DC",
+            "San Francisco, CA",
+            "Dallas, TX",
+            "Chicago, IL",
+            "New York, NY",
+            "Bellevue, WA",
+            "Atlanta, GA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "e82c8053-69b8-4693-8926-311c7813f2df",
+        "date_posted": 1761174684,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1761174684,
+        "url": "https://jobs.ashbyhq.com/Rose%20Rocket/c074b14e-ebe0-4a14-beb2-1419eca9d447/application",
+        "company_name": "Roserocket",
+        "title": "Junior Software Engineer",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "d05a9106-8bf1-45b0-8b79-e23a39de7837",
+        "date_posted": 1761174684,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Does Not Offer Sponsorship"
     }
 ]
