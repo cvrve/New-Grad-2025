@@ -14470,5 +14470,101 @@
         "date_posted": 1761126186,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761174508,
+        "url": "https://careers.adobe.com/us/en/job/ADOBUSR158465EXTERNALENUS/Software-Development-Engineer",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Adobe",
+        "title": "Software Development Engineer",
+        "source": "vanshb03",
+        "id": "3b29dba1-b2a0-44e1-9109-a26a675dcd6f",
+        "date_posted": 1761174508,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761174520,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1828357/Software-Engineer%E2%80%8B",
+        "locations": [
+            "Multiple Locations"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "ad7c0542-b913-4647-b187-a294497eee79",
+        "date_posted": 1761174520,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761174527,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1894673/Software-Engineer",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "de62160b-4c76-4a7a-b91f-f0f115672e90",
+        "date_posted": 1761174527,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761174533,
+        "url": "https://jobs.ashbyhq.com/zapier/63b14a57-064a-4617-bb8c-4a67c860e1e6",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zapier",
+        "title": "Software Engineer, Backend-leaning Full Stack or Backend",
+        "source": "vanshb03",
+        "id": "452bbe09-258b-470e-97bc-e3332e59d2ec",
+        "date_posted": 1761174533,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761174542,
+        "url": "https://jobs.intuit.com/job/-/-/27595/87369448720",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intuit",
+        "title": "Software Engineer 1",
+        "source": "vanshb03",
+        "id": "680db584-edb4-4dc5-8c59-5bfa3cbe5636",
+        "date_posted": 1761174542,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761174551,
+        "url": "https://boards.greenhouse.io/embed/job_app?for=xtxmarketstechnologies",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "XTX Markets",
+        "title": "Quant Analyst",
+        "source": "vanshb03",
+        "id": "ded1c973-c602-4368-a935-677186b3b37c",
+        "date_posted": 1761174551,
+        "company_url": "",
+        "is_visible": true
     }
 ]
