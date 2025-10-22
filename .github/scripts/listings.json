@@ -14787,5 +14787,101 @@
         "company_url": "",
         "is_visible": true,
         "sponsorship": "Does Not Offer Sponsorship"
+    },
+    {
+        "date_updated": 1761176344,
+        "url": "https://draftkings.wd1.myworkdayjobs.com/draftkings/job/Remote---US/Software-Engineer_JR13105-3",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DraftKings",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "e28323f6-364b-4c88-8ba6-b7d9ddbe8af5",
+        "date_posted": 1761176344,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761176355,
+        "url": "https://jobs.ashbyhq.com/elevenlabs/bed47ac1-9c5c-44ae-8965-3a4312706328",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ElevenLabs",
+        "title": "Growth Engineer - Mobile",
+        "source": "vanshb03",
+        "id": "d362b66a-4b12-4e6c-8ead-6fa255f3d179",
+        "date_posted": 1761176355,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761176393,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Alexandria-VA/Backend-Developer_R0228366",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Booz Allen Hamilton",
+        "title": "Backend Developer",
+        "source": "vanshb03",
+        "id": "56c39477-4672-471a-9c8f-c3511d992824",
+        "date_posted": 1761176393,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761176397,
+        "url": "https://nabancard.wd1.myworkdayjobs.com/nab/job/US---Remote/Associate-Product-Engineer_JR101530",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "North",
+        "title": "Associate Product Engineer",
+        "source": "vanshb03",
+        "id": "87a011d2-d09a-4ca9-bd5f-499ec93b0857",
+        "date_posted": 1761176397,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761176422,
+        "url": "https://jobs.lever.co/shieldai/8ed6bd48-2bf0-44a2-812d-7d8a2ab6b9f0",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shield AI",
+        "title": "Software Engineer I, Hardware Test",
+        "source": "vanshb03",
+        "id": "25757e09-7575-47e3-a0f4-d83f45f269a3",
+        "date_posted": 1761176422,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761176443,
+        "url": "https://uscareers-docusign.icims.com/jobs/27628/software-engineering/job",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Docusign",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "ef7061a2-0454-4364-a060-6dbb1e27871e",
+        "date_posted": 1761176443,
+        "company_url": "",
+        "is_visible": true
     }
 ]
