@@ -14422,5 +14422,53 @@
         "date_posted": 1761125788,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761126176,
+        "url": "https://www.workatastartup.com/jobs/83750",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Anthrogen",
+        "title": "Member of Technical Staff",
+        "source": "vanshb03",
+        "id": "2c1556ea-9f6f-45c8-a4e7-cf0cc86304a5",
+        "date_posted": 1761126176,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761126181,
+        "url": "https://www.workatastartup.com/jobs/75855",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Greenboard",
+        "title": "Full-Stack Software Engineer",
+        "source": "vanshb03",
+        "id": "230efbab-badb-41c9-83a2-7239f5b27a68",
+        "date_posted": 1761126181,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761126186,
+        "url": "https://www.workatastartup.com/jobs/83655",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Liva AI",
+        "title": "Founding Engineer",
+        "source": "vanshb03",
+        "id": "a45c30f4-af40-4169-ace1-5f808c60fb15",
+        "date_posted": 1761126186,
+        "company_url": "",
+        "is_visible": true
     }
 ]
