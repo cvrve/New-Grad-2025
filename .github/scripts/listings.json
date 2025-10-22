@@ -13916,13 +13916,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760650371,
+        "date_updated": 1761174578,
         "url": "https://job-boards.greenhouse.io/dagsterlabs/jobs/7497803003",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Dagster Labs",
         "title": "New Grad 2025: Software Engineer",
         "source": "vanshb03",
