@@ -14883,5 +14883,37 @@
         "date_posted": 1761176443,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761587480,
+        "url": "https://www.workatastartup.com/jobs/84154",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Planbase",
+        "title": "Founding Engineer (Full-Stack)",
+        "source": "vanshb03",
+        "id": "d753be18-703f-4ff9-a1b0-2f32957bd228",
+        "date_posted": 1761587480,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761587484,
+        "url": "https://www.workatastartup.com/jobs/76499",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Proception Inc",
+        "title": "Robotics Software Engineering - Real-Time Control & Embedded Systems",
+        "source": "vanshb03",
+        "id": "943c5596-d411-433e-8069-4e467a74bcd8",
+        "date_posted": 1761587484,
+        "company_url": "",
+        "is_visible": true
     }
 ]
