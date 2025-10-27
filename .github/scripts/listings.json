@@ -6376,13 +6376,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754558739,
+        "date_updated": 1761490754,
         "url": "https://job-boards.greenhouse.io/niantic/jobs/8108536002",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Niantic",
         "title": "Software Engineer, Client",
         "source": "vanshb03",
@@ -7623,7 +7623,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755122119,
+        "date_updated": 1761490754,
         "url": "https://job-boards.greenhouse.io/geotab/jobs/4556235008",
         "company_name": "Geotab",
         "title": "Software Developer(role says Sr on post but just apply twin)",
@@ -7633,7 +7633,7 @@
             "Oakville"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "Willjianger9",
         "id": "4bb06ca8-f121-4630-bdee-3fe962322bfd",
         "date_posted": 1755122119,
@@ -13868,13 +13868,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760650354,
+        "date_updated": 1761490756,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1891876/AI%2FML-Engineer",
         "locations": [
             "Multiple Locations"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "AI/ML Engineer",
         "source": "vanshb03",
@@ -14129,13 +14129,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760784955,
+        "date_updated": 1761490757,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1893324/Software-Engineer",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -14145,13 +14145,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760784960,
+        "date_updated": 1761490756,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1861303/Software-Engineer",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -14161,13 +14161,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760784965,
+        "date_updated": 1761490757,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1862715/Software-Engineer",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer",
         "source": "vanshb03",
