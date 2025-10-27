@@ -8760,13 +8760,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755918827,
+        "date_updated": 1761587568,
         "url": "https://job-boards.greenhouse.io/togetherai/jobs/4835292007",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Together AI",
         "title": "New Grad: Software Engineer",
         "source": "vanshb03",
