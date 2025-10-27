@@ -44,6 +44,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Proception Inc** | Robotics Software Engineering - Real-Time Control & Embedded Systems | Palo Alto, CA | <a href="https://www.workatastartup.com/jobs/76499?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
+| **Planbase** | Founding Engineer (Full-Stack) | San Francisco, CA | <a href="https://www.workatastartup.com/jobs/84154?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | **Zapier** | Software Engineer, Backend-leaning Full Stack or Backend | Remote | <a href="https://jobs.ashbyhq.com/zapier/63b14a57-064a-4617-bb8c-4a67c860e1e6?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **XTX Markets** | Quant Analyst | New York, NY | <a href="https://boards.greenhouse.io/embed/job_app?for=xtxmarketstechnologies&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **Wanderlog (W19)** | New Grad: Full-Stack Software Engineer | San Francisco, CA</br>Remote | <a href="https://www.workatastartup.com/jobs/83760?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
