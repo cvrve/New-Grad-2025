@@ -273,7 +273,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **ByteDance** | New Grad 2026: Machine Learning Graduate (eCommerce User Growth & Intelligent Marketing) | San Jose, CA | <a href="https://joinbytedance.com/search/7542657938525538578?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | **ByteDance** | New Grad 2026: Software Engineer (AI Applications) | San Jose, CA | <a href="https://joinbytedance.com/search/7540808448918079752?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | **Amazon** | System Dev Engineer I, Analytics ADC | Denver, CO | <a href="https://www.amazon.jobs/en/jobs/3066890/system-dev-engineer-i-analytics-adc?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
-| **Together AI** | New Grad: Software Engineer | San Francisco, CA | <a href="https://job-boards.greenhouse.io/togetherai/jobs/4835292007?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
 | **Together AI** | New Grad: Machine Learning / Research Engineer | San Francisco, CA | <a href="https://job-boards.greenhouse.io/togetherai/jobs/4835315007?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
 | **Tesla** | Machine Learning Engineer, Embodied Intelligence, Optimus | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/249027?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
 | **Tesla** | Electrical & Software Engineer, Circuit Board Test Automation | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/249182?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
@@ -712,6 +711,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **NVIDIA** | New Grad 2025: OEM Account Applications Engineer | Santa Clara, CA | 🔒 | Aug 28 |
 | **Microsoft** | Software Engineer | Multiple Locations, United States | 🔒 | Aug 28 |
 | **Microsoft** | Software Engineer | Redmond, WA | 🔒 | Aug 28 |
+| **Together AI** | New Grad: Software Engineer | San Francisco, CA | 🔒 | Aug 23 |
 | **Rockstar Games** | Associate Software Engineer (C++) | Manhattan, NY | 🔒 | Aug 22 |
 | **Gen** | Software Engineer | Mountain View, CA | 🔒 | Aug 21 |
 | **Zoom** | Software Engineer | Remote | 🔒 | Aug 17 |
