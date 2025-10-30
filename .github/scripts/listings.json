@@ -14915,5 +14915,183 @@
         "date_posted": 1761587484,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761840220,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Systems-Security-Engineer-I_R0028118",
+        "company_name": "Sierra Nevada Coporation",
+        "title": "Systems Security Engineer I",
+        "locations": [
+            "Lone Tree, CO"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "e0470859-5b9b-4a48-92c2-42c49928d1b4",
+        "date_posted": 1761840220,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1761840220,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN206-3939PriorityWay-3939-Priority-Way-Building-6-Indianapolis-IN-46240-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01791951",
+        "company_name": "RTX",
+        "title": "Software Engineer I",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "3247767c-05f0-4db3-b40e-8c2a562942b6",
+        "date_posted": 1761840220,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1761840220,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2026-Raytheon-Systems-Security-Engineer-I---Onsite---Tucson--AZ_01790331",
+        "company_name": "RTX",
+        "title": "New Grad 2026: Raytheon Systems Security Engineer I",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "7e1bd267-184c-49bc-96ef-482efa10babc",
+        "date_posted": 1761840220,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1761840220,
+        "url": "https://about.nextdoor.com/careers-list/?gh_jid=7264954",
+        "company_name": "Nextdoor",
+        "title": "New Grad 2026: Machine Learning Engineer, Machine Learning",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "481c9cef-f471-4f67-95e6-3672061f33d2",
+        "date_posted": 1761840220,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1761840220,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/FL915-St-Petersburg---Bldg-D-7401-22nd-Ave-N-Building-D-St-Petersburg-FL-33710-USA/Software-Engineer-I--Onsite-_01788093",
+        "company_name": "RTX",
+        "title": "Software Engineer 1",
+        "locations": [
+            "St. Petersburg, FL"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "656837ae-31ec-4071-9202-e8f7403b048a",
+        "date_posted": 1761840220,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1761840220,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad--Real-Time-Systems-_R029145",
+        "company_name": "Ciena",
+        "title": "New Grad: Embedded Software Engineer, Real-Time Systems",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "c11fe199-641c-4d91-8a86-f85fd1a29c77",
+        "date_posted": 1761840220,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1761840220,
+        "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8136092002",
+        "company_name": "Torc Robotics",
+        "title": "Machine Learning Engineer, I, App Engine (CUDA)",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "eb0ffd06-6fb7-42b3-8f83-db3761372bd4",
+        "date_posted": 1761840220,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1761840220,
+        "url": "https://morningstar.wd5.myworkdayjobs.com/en-US/Americas/job/Chicago/Associate-Quantitative-Analyst_REQ-053662-1",
+        "company_name": "Morningstar",
+        "title": "Associate Quantitative Analyst",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "5daebc88-85ba-4869-8566-8a3e821be487",
+        "date_posted": 1761840220,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1761840220,
+        "url": "https://jobs.lever.co/rover/206facd5-3dec-45a0-a76a-189cb2397d3e/",
+        "company_name": "Rover",
+        "title": "Software Engineer I, Expansions",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "69f233cd-ea00-4ea4-a751-70efd916733e",
+        "date_posted": 1761840220,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1761840220,
+        "url": "https://job-boards.greenhouse.io/extrahopnetworks/jobs/5649570004",
+        "company_name": "ExtraHop",
+        "title": "Software Engineer I",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "f4bb7047-8414-469f-ac8c-96b39010a9ac",
+        "date_posted": 1761840220,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1761840220,
+        "url": "https://www.amazon.jobs/en/jobs/3116902/2026-annapurna-labs-at-aws-early-career-us-silicon-ai-systems-innovation",
+        "company_name": "Annapurna Labs",
+        "title": "Silicon & AI Systems Innovation Engineer",
+        "locations": [
+            "Austin, TX",
+            "Seattle, WA",
+            "Cupertino, CA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "d37d585a-35c9-421d-bab7-dd6e8acf9d7c",
+        "date_posted": 1761840220,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Offers Sponsorship"
     }
 ]
