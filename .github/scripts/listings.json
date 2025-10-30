@@ -14488,13 +14488,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761174520,
+        "date_updated": 1761837760,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1828357/Software-Engineer%E2%80%8B",
         "locations": [
             "Multiple Locations"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -14504,13 +14504,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761174527,
+        "date_updated": 1761837761,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1894673/Software-Engineer",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer",
         "source": "vanshb03",
