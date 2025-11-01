@@ -15093,5 +15093,269 @@
         "company_url": "",
         "is_visible": true,
         "sponsorship": "Offers Sponsorship"
+    },
+    {
+        "date_updated": 1762019282,
+        "url": "https://www.amazon.jobs/en/jobs/3118657/adc-engineer-i-peet-adc",
+        "locations": [
+            "Arlington, VA",
+            "Herndon, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "ADC Engineer I, PEET ADC",
+        "source": "vanshb03",
+        "id": "45a241f9-2fd8-4a27-a24a-c4930bbc8b6b",
+        "date_posted": 1762019282,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762019330,
+        "url": "https://jobs.ashbyhq.com/Citizen%20Health/0f4048fa-da35-4112-9166-123440a2cb57",
+        "locations": [
+            "San Francisco, CA",
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citizen Health",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "eb9ecf43-2a5e-449e-8939-4440765d7fb3",
+        "date_posted": 1762019330,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762019334,
+        "url": "https://jobs.ashbyhq.com/zip/bec203f9-7919-479a-b021-c7871b7757e2",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zip",
+        "title": "New Grad 2026: Software Engineer",
+        "source": "vanshb03",
+        "id": "188bb1d5-1c1d-4d30-829e-b273c3b9a407",
+        "date_posted": 1762019334,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762019339,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/AI-and-ML-Infra-Software-Engineer--GPU-Clusters---New-College-Grad-2025_JR2006974",
+        "locations": [
+            "Santa Clara, CA",
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: AI and ML Infra Software Engineer, GPU Clusters",
+        "source": "vanshb03",
+        "id": "abbf4b5c-f16c-4e8b-8d36-0630855f2c8d",
+        "date_posted": 1762019339,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762019342,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Software-Engineer--GeForce-NOW-Low-Latency-Streaming-Technology---New-College-Grad-2025_JR2007180",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: Systems Software Engineer, GeForce NOW Low Latency Streaming Technology",
+        "source": "vanshb03",
+        "id": "e82034f4-17d7-4894-b29a-3023947644e6",
+        "date_posted": 1762019342,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762019346,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--AI-Infrastructure---New-College-Grad-2026_JR2007199",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2026: Software Engineer, AI Infrastructure",
+        "source": "vanshb03",
+        "id": "b9d24b2e-1779-467b-9b0f-d6f6a4e3342f",
+        "date_posted": 1762019346,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762019352,
+        "url": "https://www.tesla.com/careers/search/job/249570",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Machine Learning Engineer, Tesla Insurance",
+        "source": "vanshb03",
+        "id": "eca358f9-1b9b-444a-8640-96ef8609c3ee",
+        "date_posted": 1762019352,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762019358,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/AI-Forward-Deployed-Engineer--New-Grad-_JR312405-1",
+        "locations": [
+            "Remote",
+            "Bellevue, WA",
+            "Boston, MA",
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Salesforce",
+        "title": "AI Forward Deployed Engineer (Early Career)",
+        "source": "vanshb03",
+        "id": "db82133d-3df1-4ace-ac51-29fde6cf38c1",
+        "date_posted": 1762019358,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762019364,
+        "url": "https://www.metacareers.com/jobs/2578176955882259",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Meta",
+        "title": "Data Engineer, Analytics",
+        "source": "vanshb03",
+        "id": "662088f1-8755-42b7-ac2d-9fd8ace233d8",
+        "date_posted": 1762019364,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762019442,
+        "url": "https://jobs.ashbyhq.com/clipboard/b83ea62e-f143-4673-a741-3e98e7e083bd",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Clipboard Health",
+        "title": "Software Engineer, Backend",
+        "source": "vanshb03",
+        "id": "7f5b4f6e-aef2-4e7f-9348-959f58487d06",
+        "date_posted": 1762019442,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762019411,
+        "url": "https://job-boards.greenhouse.io/mozilla/jobs/7360226",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mozilla",
+        "title": "Backend Engineer, Websites & Marketing Technology",
+        "source": "vanshb03",
+        "id": "0310520e-a406-4515-994c-0dff1995235f",
+        "date_posted": 1762019411,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762019417,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1903967/Software-Engineer---Commerce-%2B-Ecosystems",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer - Commerce + Ecosystems",
+        "source": "vanshb03",
+        "id": "a44a230e-39d9-41ce-a5d5-768b0a382c24",
+        "date_posted": 1762019417,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762019419,
+        "url": "https://www.amazon.jobs/en/jobs/3116902/2026-annapurna-labs-at-aws-early-career-us-silicon-ai-systems-innovation",
+        "locations": [
+            "Austin, TX",
+            "Seattle, WA",
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "New Grad 2026: Annapurna Labs at AWS, Early Career (US) - Silicon & AI Systems Innovation",
+        "source": "vanshb03",
+        "id": "fccab612-ffa3-488f-a465-b21eac2fa896",
+        "date_posted": 1762019419,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762019426,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2025_JR2003018",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: ASIC Design Engineer",
+        "source": "vanshb03",
+        "id": "c7706007-df48-4615-9f53-b97280394214",
+        "date_posted": 1762019426,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762019430,
+        "url": "https://www.amazon.jobs/en/jobs/3117171/system-development-engineer-macos-mdm-kuiper-devices-systems",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "System Development Engineer, macOS MDM, Kuiper Devices & Systems",
+        "source": "vanshb03",
+        "id": "997094b6-7374-438f-a03f-fb7f27548680",
+        "date_posted": 1762019430,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762019433,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Software-Engineer---GeForce-NOW-Low-Latency-Streaming-Technology---New-Grad-2025_JR2006827",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: Systems Software Engineer, GeForce NOW Low Latency Streaming Technology",
+        "source": "vanshb03",
+        "id": "164ce651-cb32-4135-a64b-68d43c5b3cc3",
+        "date_posted": 1762019433,
+        "company_url": "",
+        "is_visible": true
     }
 ]
