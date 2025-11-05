@@ -881,7 +881,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1745661241,
+        "date_updated": 1762348974,
         "url": "https://boards.greenhouse.io/embed/job_app?token=4447610006",
         "company_name": "AppLovin",
         "title": "New Grad: Backend Infrastructure Engineer",
@@ -889,7 +889,7 @@
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "7160d222-a500-4e1f-94ac-c6e45c8ba607",
         "date_posted": 1745661241,
@@ -4503,14 +4503,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753043461,
+        "date_updated": 1762348974,
         "url": "https://job-boards.greenhouse.io/xai/jobs/4786668007",
         "locations": [
             "San Francisco, CA",
             "Palo Alto, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "xAI",
         "title": "AI Researcher & Engineer - Multimodal (Real-time Video)",
         "source": "vanshb03",
@@ -8550,7 +8550,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755818765,
+        "date_updated": 1762348975,
         "url": "https://jobs.lever.co/nominal/cc79d7f9-93b9-4410-8435-d92d2f427215",
         "locations": [
             "New York, NY",
@@ -8558,7 +8558,7 @@
             "Austin, TX"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Nominal",
         "title": "New Grad 2026: Software Engineer",
         "source": "vanshb03",
@@ -8744,13 +8744,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755918822,
+        "date_updated": 1762348975,
         "url": "https://job-boards.greenhouse.io/togetherai/jobs/4835315007",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Together AI",
         "title": "New Grad: Machine Learning / Research Engineer",
         "source": "vanshb03",
@@ -15045,14 +15045,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1761840220,
+        "date_updated": 1762348977,
         "url": "https://jobs.lever.co/rover/206facd5-3dec-45a0-a76a-189cb2397d3e/",
         "company_name": "Rover",
         "title": "Software Engineer I, Expansions",
         "locations": [
             "Seattle, WA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "69f233cd-ea00-4ea4-a751-70efd916733e",
         "date_posted": 1761840220,
@@ -15061,14 +15061,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1761840220,
+        "date_updated": 1762348976,
         "url": "https://job-boards.greenhouse.io/extrahopnetworks/jobs/5649570004",
         "company_name": "ExtraHop",
         "title": "Software Engineer I",
         "locations": [
             "Seattle, WA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "f4bb7047-8414-469f-ac8c-96b39010a9ac",
         "date_posted": 1761840220,
