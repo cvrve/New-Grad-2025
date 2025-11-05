@@ -15406,5 +15406,21 @@
         "date_posted": 1762349068,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762350784,
+        "url": "https://dell.wd1.myworkdayjobs.com/en-US/ExternalNonPublic/job/Dell-CSG-Software-Engineering-Rotation-Program_R277445",
+        "company_name": "Dell Technologies",
+        "title": "CSG Rotational Program",
+        "locations": [
+            "Round Rock, TX"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Admeen3581",
+        "id": "3181bd7b-bb8f-4993-a915-e0b01b73b4e4",
+        "date_posted": 1762350784,
+        "company_url": "",
+        "is_visible": true
     }
 ]
