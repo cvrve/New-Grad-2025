@@ -15357,5 +15357,54 @@
         "date_posted": 1762019433,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762349047,
+        "url": "https://job-boards.greenhouse.io/warp/jobs/4324888004",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Warp",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "80a88e54-5f35-4093-891d-af4b86158238",
+        "date_posted": 1762349047,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762349053,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/SONiC-Software-Design-Engineer--New-College-Grad-2025_JR2006947",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: SONiC Software Design Engineer",
+        "source": "vanshb03",
+        "id": "7bc203c7-4524-496e-a9a4-a550cc6a18a4",
+        "date_posted": 1762349053,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762349068,
+        "url": "https://job-boards.greenhouse.io/figma/jobs/5691911004",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Figma",
+        "title": "Software Engineer, Full Stack",
+        "source": "vanshb03",
+        "id": "d1022624-29fc-4feb-9e46-e6563e3681b0",
+        "date_posted": 1762349068,
+        "company_url": "",
+        "is_visible": true
     }
 ]
