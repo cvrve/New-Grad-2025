@@ -10602,22 +10602,6 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757346832,
-        "url": "https://careers.roblox.com/jobs/7167343",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Roblox",
-        "title": "Associate Product Manager",
-        "source": "vanshb03",
-        "id": "69bd4923-90ff-4df3-9ec8-ac5ec5ace470",
-        "date_posted": 1757346832,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1757346838,
         "url": "https://app.ripplematch.com/v2/public/job/c730fa3b",
         "locations": [
@@ -11692,22 +11676,6 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757825162,
-        "url": "https://jobs.ashbyhq.com/eliseai/1ffbd278-a5fe-443c-984f-521d61a97353",
-        "locations": [
-            "New York, NY"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "EliseAI",
-        "title": "New Grad 2026: Software Engineer",
-        "source": "vanshb03",
-        "id": "0074105b-98b2-4cc5-83af-f06e4757250b",
-        "date_posted": 1757825162,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1757827837,
         "url": "https://www.workatastartup.com/jobs/81629",
         "locations": [
@@ -12660,25 +12628,6 @@
         "active": false,
         "source": "vanshb03",
         "id": "6406bab1-418e-4e3d-a8cf-be0112d91398",
-        "date_posted": 1758917913,
-        "company_url": "",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "date_updated": 1758917913,
-        "url": "https://jobs.lever.co/gauntlet/05622c55-52bf-47a9-8d88-e83d70fc5bad",
-        "company_name": "Gauntlet Networks",
-        "title": "New Grad: Quant Research Engineer",
-        "locations": [
-            "San Francisco, CA",
-            "Los Angeles, CA",
-            "New York, NY",
-            "Remote"
-        ],
-        "active": true,
-        "source": "vanshb03",
-        "id": "369c6531-a8ab-42e3-8581-b66d24efed27",
         "date_posted": 1758917913,
         "company_url": "",
         "is_visible": true,
@@ -14440,22 +14389,6 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761126181,
-        "url": "https://www.workatastartup.com/jobs/75855",
-        "locations": [
-            "New York, NY"
-        ],
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "company_name": "Greenboard",
-        "title": "Full-Stack Software Engineer",
-        "source": "vanshb03",
-        "id": "230efbab-badb-41c9-83a2-7239f5b27a68",
-        "date_posted": 1761126181,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1761126186,
         "url": "https://www.workatastartup.com/jobs/83655",
         "locations": [
@@ -15293,24 +15226,6 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762019419,
-        "url": "https://www.amazon.jobs/en/jobs/3116902/2026-annapurna-labs-at-aws-early-career-us-silicon-ai-systems-innovation",
-        "locations": [
-            "Austin, TX",
-            "Seattle, WA",
-            "Cupertino, CA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Amazon",
-        "title": "New Grad 2026: Annapurna Labs at AWS, Early Career (US) - Silicon & AI Systems Innovation",
-        "source": "vanshb03",
-        "id": "fccab612-ffa3-488f-a465-b21eac2fa896",
-        "date_posted": 1762019419,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1762019426,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2025_JR2003018",
         "locations": [
@@ -15437,6 +15352,38 @@
         "source": "Admeen3581",
         "id": "fdd5238b-a605-428f-865b-78bdd3aaa00c",
         "date_posted": 1762350803,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762349312,
+        "url": "https://www.valkyrietrading.com/careers/junior-derivatives-trader-new-grad-entry-level/",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Valkyrie",
+        "title": "Derivatives Trader",
+        "source": "vanshb03",
+        "id": "cb1b0cdb-1909-4cdd-9bd7-63c2b69d9a5e",
+        "date_posted": 1762349312,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762349328,
+        "url": "https://www.jumptrading.com/hr/job?gh_jid=7362357",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jump Trading",
+        "title": "Campus Crypto Researcher",
+        "source": "vanshb03",
+        "id": "3035ddb8-9438-4dc9-9b51-94df134ce998",
+        "date_posted": 1762349328,
         "company_url": "",
         "is_visible": true
     }
