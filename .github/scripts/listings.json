@@ -15646,5 +15646,106 @@
     "date_posted": 1762782873,
     "company_url": "",
     "is_visible": true
+},
+{
+    "date_updated": 1762783069,
+    "url": "https://jobs.ashbyhq.com/Citizen%20Health/ab0cc0c1-7122-4ca2-8ac9-84d1812b22d4/application",
+    "company_name": "Citizen Health",
+    "title": "Software Engineer",
+    "locations": [
+        "San Francisco, CA",
+        "San Mateo, CA"
+    ],
+    "active": true,
+    "source": "vanshb03",
+    "id": "d72af5fa-9e5b-4690-aa66-9bdaf97b6e7d",
+    "date_posted": 1762783069,
+    "company_url": "",
+    "is_visible": true,
+    "sponsorship": "Other"
+},
+{
+    "date_updated": 1762783069,
+    "url": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Data-Engineer-I--AWS--Databricks--PySpark--Snowflake-_R-47919",
+    "company_name": "The Travelers Companies",
+    "title": "Data Engineer 1",
+    "locations": [
+        "Atlanta, GA"
+    ],
+    "active": true,
+    "source": "vanshb03",
+    "id": "1c06f5d6-d660-4ac8-863f-d2f380e5a20e",
+    "date_posted": 1762783069,
+    "company_url": "",
+    "is_visible": true,
+    "sponsorship": "Other"
+},
+{
+    "date_updated": 1762783069,
+    "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-I_RQ210148-1",
+    "company_name": "General Dynamics Information Technology",
+    "title": "Software Engineer I",
+    "locations": [
+        "Annapolis Junction, MD"
+    ],
+    "active": true,
+    "source": "vanshb03",
+    "id": "1ef7b944-6a96-493c-abd7-9e8b331a23d8",
+    "date_posted": 1762783069,
+    "company_url": "",
+    "is_visible": true,
+    "sponsorship": "Other"
+},
+{
+    "date_updated": 1762783069,
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000092424475",
+    "company_name": "ServiceNow",
+    "title": "Frontend Software Engineer",
+    "locations": [
+        "San Diego, CA"
+    ],
+    "active": true,
+    "source": "vanshb03",
+    "id": "9f3b8fba-5cb2-4aa7-803f-f83a6c76c96a",
+    "date_posted": 1762783069,
+    "company_url": "",
+    "is_visible": true,
+    "sponsorship": "Does Not Offer Sponsorship"
+},
+{
+    "date_updated": 1762783069,
+    "url": "https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman-Campus/Software-Developer_REQ_226365",
+    "company_name": "Rochester Regional Health",
+    "title": "Software Developer",
+    "locations": [
+        "Remote",
+        "Rochester, NY"
+    ],
+    "active": true,
+    "source": "vanshb03",
+    "id": "ffa904a4-2754-4814-b2cd-1983a22a98cf",
+    "date_posted": 1762783069,
+    "company_url": "",
+    "is_visible": true,
+    "sponsorship": "Offers Sponsorship"
+},
+{
+    "date_updated": 1762783069,
+    "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/San-Leandro-California-United-States-of-America/Software-Developer-Graduate--US_R011626",
+    "company_name": "AVEVA",
+    "title": "Software Developer",
+    "locations": [
+        "San Leandro, CA",
+        "Lake Forest, CA",
+        "Scottsdale, AZ",
+        "Philadelphia, PA"
+    ],
+    "active": true,
+    "source": "vanshb03",
+    "id": "bf915c8b-083f-4210-b273-150f81f1f8cc",
+    "date_posted": 1762783069,
+    "company_url": "",
+    "is_visible": true,
+    "sponsorship": "Offers Sponsorship"
 }
 ]
