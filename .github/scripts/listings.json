@@ -15386,5 +15386,53 @@
         "date_posted": 1762349328,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762782324,
+        "url": "https://careers.servicenow.com/jobs/744000092358511/software-engineer/",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ServiceNow",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "b4f866c4-f6b5-49a7-8681-64c5df20c82f",
+        "date_posted": 1762782324,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762782327,
+        "url": "https://www.ycombinator.com/companies/pointone/jobs/I2ShCi8-new-grad-software-engineer",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "PointOne",
+        "title": "New Grad 2025: Software Engineer",
+        "source": "vanshb03",
+        "id": "5df28567-332e-4099-98d5-2ebd8ad6f842",
+        "date_posted": 1762782327,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762782404,
+        "url": "https://www.workatastartup.com/jobs/84801",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "AgentMail",
+        "title": "Founding Engineer",
+        "source": "vanshb03",
+        "id": "877ac16b-6224-43fb-a0b1-ccbf4b36b442",
+        "date_posted": 1762782404,
+        "company_url": "",
+        "is_visible": true
     }
 ]
