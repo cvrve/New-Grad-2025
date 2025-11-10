@@ -203,7 +203,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Garmin** | Software Engineer I, Aviation Web Development | Chandler, AZ</br>Olathe, KS | <a href="https://careers.garmin.com/jobs/16774?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | **EliseAI** | Software Engineer | New York, NY | <a href="https://jobs.ashbyhq.com/eliseai/1ffbd278-a5fe-443c-984f-521d61a97353?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | **Dayton Freight Lines** | Entry Level Software Developer | Dayton, OH | <a href="https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
-| **BlackEdge Capital** | Quantitative Researcher | Chicago, IL | <a href="https://boards.greenhouse.io/embed/job_app?for=blackedgecapital&token=4600444005&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | **Adobe** | New Grad 2026: Software Engineer | San Jose, CA</br>Lehi, UT | <a href="https://careers.adobe.com/us/en/job/ADOBUSR159163EXTERNALENUS/2026-University-Graduate-Software-Engineer?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | **Adobe** | New Grad 2026: Software Engineer | San Jose, CA</br>Lehi, UT | <a href="https://careers.adobe.com/us/en/job/ADOBUSR159933EXTERNALENUS/2026-University-Graduate-Software-Engineer?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | **Tesla** | Software QA Engineer, Insurance | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/250710?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
@@ -244,7 +243,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **InQuery** | New Grad: Founding Engineer | New York, NY | <a href="https://www.workatastartup.com/jobs/81052?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Glean** | Software Engineer | Palo Alto, CA | <a href="https://job-boards.greenhouse.io/gleanwork/jobs/4592324005?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Figma** | Product Designer | San Francisco, CA</br>New York, NY | <a href="https://job-boards.greenhouse.io/figma/jobs/5616455004?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
-| **Figma** | Data Scientist | San Francisco, CA</br>New York, NY | <a href="https://job-boards.greenhouse.io/figma/jobs/5615025004?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Epsilon** | Associate, Software Engineer | Irving, TX | <a href="https://careers.publicisgroupe.com/jobs/121511?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Epsilon** | New Grad: Associate, Software Engineer | Chicago, IL | <a href="https://careers.publicisgroupe.com/jobs/121504?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Eluvio** | New Grad: Software Engineer, AI Core Apps | Berkeley, CA | <a href="https:/.workable.com/eluvio/j/A349A0D2AF?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
@@ -687,6 +685,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Salesforce** | Java Software Engineer AMTS | New York, NY | 🔒 | Sep 12 |
 | **Microsoft** | Software Engineer | Redmond, WA | 🔒 | Sep 12 |
 | **Booz Allen** | Junior Data Engineer | Arlington, VA | 🔒 | Sep 12 |
+| **BlackEdge Capital** | Quantitative Researcher | Chicago, IL | 🔒 | Sep 12 |
 | **Adobe** | New Grad: Junior Product Manager | San Francisco, CA</br>San Jose, CA | 🔒 | Sep 12 |
 | **RTX Corporation** | Software Engineer I, C/C++ Linux 🇺🇸 | Middletown, RI | 🔒 | Sep 11 |
 | **Jonas Software** | Full Stack Developer | Remote | 🔒 | Sep 10 |
@@ -701,6 +700,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **HubSpot** | Software Engineer 🛂 | Cambridge, MA</br>Remote | 🔒 | Sep 08 |
 | **Handshake AI** | Fullstack Engineer I (TypeScript focused) | San Francisco, CA</br>New York, NY | 🔒 | Sep 08 |
 | **Gander** | Founding Engineer | New York, NY</br>Remote | 🔒 | Sep 08 |
+| **Figma** | Data Scientist | San Francisco, CA</br>New York, NY | 🔒 | Sep 08 |
 | **Figma** | Associate Product Manager | San Francisco, CA</br>New York, NY | 🔒 | Sep 08 |
 | **Extra Space Storage** | Associate Software Engineer | Salt Lake City, UT | 🔒 | Sep 08 |
 | **Capital One** | Technology Development Program 🛂 | McLean, VA</br>Richmond, VA</br>Plano, TX | 🔒 | Sep 08 |
