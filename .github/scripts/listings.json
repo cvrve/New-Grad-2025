@@ -15434,5 +15434,217 @@
         "date_posted": 1762782404,
         "company_url": "",
         "is_visible": true
-    }
+    },
+    {
+    "date_updated": 1762782708,
+    "url": "https://careers.qualcomm.com/careers/job/446715361809",
+    "locations": [
+        "San Diego, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Qualcomm Innovation Center, Inc.",
+    "title": "Product Software Engineer",
+    "source": "vanshb03",
+    "id": "729ccd07-a9fc-430d-b984-3e1dfef1dd0e",
+    "date_posted": 1762782708,
+    "company_url": "",
+    "is_visible": true
+},
+{
+    "date_updated": 1762782713,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/GPU-Architecture-Engineer---New-College-Grad-2025_JR2002495",
+    "locations": [
+        "Santa Clara, CA",
+        "Austin, TX",
+        "Durham, NC"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "NVIDIA",
+    "title": "New Grad 2025: GPU Architecture Engineer",
+    "source": "vanshb03",
+    "id": "373327f3-6698-4e0e-8ee5-43ab19c42d02",
+    "date_posted": 1762782713,
+    "company_url": "",
+    "is_visible": true
+},
+{
+    "date_updated": 1762782718,
+    "url": "https://www.shopify.com/careers/software-engineers_c96af3a9-82a3-4c6a-9b86-1f7e6b376167",
+    "locations": [
+        "Remote"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Shopify",
+    "title": "Software Engineer",
+    "source": "vanshb03",
+    "id": "7d36b861-1cd0-422b-a84e-f7be26b74d21",
+    "date_posted": 1762782718,
+    "company_url": "",
+    "is_visible": true
+},
+{
+    "date_updated": 1762782723,
+    "url": "https://careers.adobe.com/us/en/job/ADOBUSR161750EXTERNALENUS/Software-Development-Engineer",
+    "locations": [
+        "San Jose, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Adobe",
+    "title": "Software Development Engineer",
+    "source": "vanshb03",
+    "id": "32293e38-03d1-4c27-8cc0-f4c8e11f4d9f",
+    "date_posted": 1762782723,
+    "company_url": "",
+    "is_visible": true
+},
+{
+    "date_updated": 1762782737,
+    "url": "https://www.tesla.com/careers/search/job/255247",
+    "locations": [
+        "East Liberty, OH"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Tesla",
+    "title": "In Vehicle Test Engineer, Steering, Vehicle Software",
+    "source": "vanshb03",
+    "id": "0da6ce36-5b73-41fe-a0f7-c25354d10d84",
+    "date_posted": 1762782737,
+    "company_url": "",
+    "is_visible": true
+},
+{
+    "date_updated": 1762782742,
+    "url": "https://www.tesla.com/careers/search/job/255357",
+    "locations": [
+        "Palo Alto, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Tesla",
+    "title": "AI Engineer, ML Inference Optimization, Autonomy & Robotics",
+    "source": "vanshb03",
+    "id": "9141175a-bdd7-4762-8194-d8187dada759",
+    "date_posted": 1762782742,
+    "company_url": "",
+    "is_visible": true
+},
+{
+    "date_updated": 1762782745,
+    "url": "https://www.tesla.com/careers/search/job/255342",
+    "locations": [
+        "Palo Alto, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Tesla",
+    "title": "Software Validation Engineer, AI Platforms",
+    "source": "vanshb03",
+    "id": "8f5be18b-0c20-445c-8e59-5238f4736cba",
+    "date_posted": 1762782745,
+    "company_url": "",
+    "is_visible": true
+},
+{
+    "date_updated": 1762782974,
+    "url": "https://jobs.apple.com/en-us/details/200630837-0836/aiml-resident-siri-agent-modeling",
+    "locations": [
+        "Cupertino, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Apple",
+    "title": "AIML Resident - Siri Agent Modeling",
+    "source": "vanshb03",
+    "id": "deea0807-8d58-4f33-a2ed-6d4410e44ae6",
+    "date_posted": 1762782974,
+    "company_url": "",
+    "is_visible": true
+},
+{
+    "date_updated": 1762782820,
+    "url": "https://jobs.apple.com/en-us/details/200630783-3337/aiml-resident-machine-learning-research",
+    "locations": [
+        "Seattle, WA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Apple",
+    "title": "AIML Resident - Machine Learning Research",
+    "source": "vanshb03",
+    "id": "e32bb931-029c-45bc-8dd1-fa4077b48f53",
+    "date_posted": 1762782820,
+    "company_url": "",
+    "is_visible": true
+},
+{
+    "date_updated": 1762782827,
+    "url": "https://jobs.apple.com/en-us/details/200630840-0836/aiml-resident-input-experience-nlp",
+    "locations": [
+        "Cupertino, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Apple",
+    "title": "AIML Resident - Input Experience NLP",
+    "source": "vanshb03",
+    "id": "10aea6c9-828d-41f1-b310-92773757b27d",
+    "date_posted": 1762782827,
+    "company_url": "",
+    "is_visible": true
+},
+{
+    "date_updated": 1762782865,
+    "url": "https://jobs.apple.com/en-us/details/200630798-3337/aiml-resident-knowledge-answer-quality-richness",
+    "locations": [
+        "Seattle, WA",
+        "Santa Clara, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Apple",
+    "title": "AIML Resident - Knowledge Answer Quality & Richness",
+    "source": "vanshb03",
+    "id": "0f450593-cdc9-4874-a31f-3c2931cb3824",
+    "date_posted": 1762782865,
+    "company_url": "",
+    "is_visible": true
+},
+{
+    "date_updated": 1762782869,
+    "url": "https://jobs.apple.com/en-us/details/200630794-3337/aiml-resident-data-operations-capacity-planning-analytics",
+    "locations": [
+        "Seattle, WA",
+        "Cupertino, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Apple",
+    "title": "AIML Resident - Data Operations Capacity Planning & Analytics",
+    "source": "vanshb03",
+    "id": "d9639ae4-9fb7-413c-950d-af40193f0194",
+    "date_posted": 1762782869,
+    "company_url": "",
+    "is_visible": true
+},
+{
+    "date_updated": 1762782873,
+    "url": "https://jobs.apple.com/en-us/details/200630834-3760/aiml-resident-robot-learning",
+    "locations": [
+        "Santa Clara, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Apple",
+    "title": "AIML Resident - Robot Learning",
+    "source": "vanshb03",
+    "id": "4d32b2e6-4059-4d84-8fb4-dafcdcf79039",
+    "date_posted": 1762782873,
+    "company_url": "",
+    "is_visible": true
+}
 ]
