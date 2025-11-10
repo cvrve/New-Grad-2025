@@ -44,6 +44,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **ServiceNow** | Software Engineer | Santa Clara, CA | <a href="https://careers.servicenow.com/jobs/744000092358511/software-engineer/?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
+| **PointOne** | New Grad 2025: Software Engineer 🇺🇸 | New York, NY | <a href="https://www.ycombinator.com/companies/pointone/jobs/I2ShCi8-new-grad-software-engineer?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
+| **AgentMail** | Founding Engineer | San Francisco, CA | <a href="https://www.workatastartup.com/jobs/84801?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | **Warp** | Software Engineer | Remote | <a href="https://job-boards.greenhouse.io/warp/jobs/4324888004?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | **Valkyrie** | Derivatives Trader 🛂 | Chicago, IL | <a href="https://www.valkyrietrading.com/careers/junior-derivatives-trader-new-grad-entry-level/?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | **NVIDIA** | New Grad 2025: SONiC Software Design Engineer | Redmond, WA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/SONiC-Software-Design-Engineer--New-College-Grad-2025_JR2006947?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
