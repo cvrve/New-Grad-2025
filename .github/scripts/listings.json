@@ -10700,14 +10700,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757347571,
+        "date_updated": 1762782448,
         "url": "https://job-boards.greenhouse.io/figma/jobs/5615025004",
         "locations": [
             "San Francisco, CA",
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Figma",
         "title": "Data Scientist",
         "source": "vanshb03",
@@ -11546,13 +11546,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757670909,
+        "date_updated": 1762782448,
         "url": "https://boards.greenhouse.io/embed/job_app?for=blackedgecapital&token=4600444005",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "BlackEdge Capital",
         "title": "Quantitative Researcher",
         "source": "vanshb03",
