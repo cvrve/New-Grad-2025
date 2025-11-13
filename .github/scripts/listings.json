@@ -9738,13 +9738,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756934953,
+        "date_updated": 1763014975,
         "url": "https://job-boards.greenhouse.io/2k/jobs/6688546003",
         "locations": [
             "Novato, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "2K Games",
         "title": "Engineering Graduate Program",
         "source": "vanshb03",
@@ -15436,316 +15436,316 @@
         "is_visible": true
     },
     {
-    "date_updated": 1762782708,
-    "url": "https://careers.qualcomm.com/careers/job/446715361809",
-    "locations": [
-        "San Diego, CA"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Qualcomm Innovation Center, Inc.",
-    "title": "Product Software Engineer",
-    "source": "vanshb03",
-    "id": "729ccd07-a9fc-430d-b984-3e1dfef1dd0e",
-    "date_posted": 1762782708,
-    "company_url": "",
-    "is_visible": true
-},
-{
-    "date_updated": 1762782713,
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/GPU-Architecture-Engineer---New-College-Grad-2025_JR2002495",
-    "locations": [
-        "Santa Clara, CA",
-        "Austin, TX",
-        "Durham, NC"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "NVIDIA",
-    "title": "New Grad 2025: GPU Architecture Engineer",
-    "source": "vanshb03",
-    "id": "373327f3-6698-4e0e-8ee5-43ab19c42d02",
-    "date_posted": 1762782713,
-    "company_url": "",
-    "is_visible": true
-},
-{
-    "date_updated": 1762782718,
-    "url": "https://www.shopify.com/careers/software-engineers_c96af3a9-82a3-4c6a-9b86-1f7e6b376167",
-    "locations": [
-        "Remote"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Shopify",
-    "title": "Software Engineer",
-    "source": "vanshb03",
-    "id": "7d36b861-1cd0-422b-a84e-f7be26b74d21",
-    "date_posted": 1762782718,
-    "company_url": "",
-    "is_visible": true
-},
-{
-    "date_updated": 1762782723,
-    "url": "https://careers.adobe.com/us/en/job/ADOBUSR161750EXTERNALENUS/Software-Development-Engineer",
-    "locations": [
-        "San Jose, CA"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Adobe",
-    "title": "Software Development Engineer",
-    "source": "vanshb03",
-    "id": "32293e38-03d1-4c27-8cc0-f4c8e11f4d9f",
-    "date_posted": 1762782723,
-    "company_url": "",
-    "is_visible": true
-},
-{
-    "date_updated": 1762782737,
-    "url": "https://www.tesla.com/careers/search/job/255247",
-    "locations": [
-        "East Liberty, OH"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Tesla",
-    "title": "In Vehicle Test Engineer, Steering, Vehicle Software",
-    "source": "vanshb03",
-    "id": "0da6ce36-5b73-41fe-a0f7-c25354d10d84",
-    "date_posted": 1762782737,
-    "company_url": "",
-    "is_visible": true
-},
-{
-    "date_updated": 1762782742,
-    "url": "https://www.tesla.com/careers/search/job/255357",
-    "locations": [
-        "Palo Alto, CA"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Tesla",
-    "title": "AI Engineer, ML Inference Optimization, Autonomy & Robotics",
-    "source": "vanshb03",
-    "id": "9141175a-bdd7-4762-8194-d8187dada759",
-    "date_posted": 1762782742,
-    "company_url": "",
-    "is_visible": true
-},
-{
-    "date_updated": 1762782745,
-    "url": "https://www.tesla.com/careers/search/job/255342",
-    "locations": [
-        "Palo Alto, CA"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Tesla",
-    "title": "Software Validation Engineer, AI Platforms",
-    "source": "vanshb03",
-    "id": "8f5be18b-0c20-445c-8e59-5238f4736cba",
-    "date_posted": 1762782745,
-    "company_url": "",
-    "is_visible": true
-},
-{
-    "date_updated": 1762782974,
-    "url": "https://jobs.apple.com/en-us/details/200630837-0836/aiml-resident-siri-agent-modeling",
-    "locations": [
-        "Cupertino, CA"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Apple",
-    "title": "AIML Resident - Siri Agent Modeling",
-    "source": "vanshb03",
-    "id": "deea0807-8d58-4f33-a2ed-6d4410e44ae6",
-    "date_posted": 1762782974,
-    "company_url": "",
-    "is_visible": true
-},
-{
-    "date_updated": 1762782820,
-    "url": "https://jobs.apple.com/en-us/details/200630783-3337/aiml-resident-machine-learning-research",
-    "locations": [
-        "Seattle, WA"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Apple",
-    "title": "AIML Resident - Machine Learning Research",
-    "source": "vanshb03",
-    "id": "e32bb931-029c-45bc-8dd1-fa4077b48f53",
-    "date_posted": 1762782820,
-    "company_url": "",
-    "is_visible": true
-},
-{
-    "date_updated": 1762782827,
-    "url": "https://jobs.apple.com/en-us/details/200630840-0836/aiml-resident-input-experience-nlp",
-    "locations": [
-        "Cupertino, CA"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Apple",
-    "title": "AIML Resident - Input Experience NLP",
-    "source": "vanshb03",
-    "id": "10aea6c9-828d-41f1-b310-92773757b27d",
-    "date_posted": 1762782827,
-    "company_url": "",
-    "is_visible": true
-},
-{
-    "date_updated": 1762782865,
-    "url": "https://jobs.apple.com/en-us/details/200630798-3337/aiml-resident-knowledge-answer-quality-richness",
-    "locations": [
-        "Seattle, WA",
-        "Santa Clara, CA"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Apple",
-    "title": "AIML Resident - Knowledge Answer Quality & Richness",
-    "source": "vanshb03",
-    "id": "0f450593-cdc9-4874-a31f-3c2931cb3824",
-    "date_posted": 1762782865,
-    "company_url": "",
-    "is_visible": true
-},
-{
-    "date_updated": 1762782869,
-    "url": "https://jobs.apple.com/en-us/details/200630794-3337/aiml-resident-data-operations-capacity-planning-analytics",
-    "locations": [
-        "Seattle, WA",
-        "Cupertino, CA"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Apple",
-    "title": "AIML Resident - Data Operations Capacity Planning & Analytics",
-    "source": "vanshb03",
-    "id": "d9639ae4-9fb7-413c-950d-af40193f0194",
-    "date_posted": 1762782869,
-    "company_url": "",
-    "is_visible": true
-},
-{
-    "date_updated": 1762782873,
-    "url": "https://jobs.apple.com/en-us/details/200630834-3760/aiml-resident-robot-learning",
-    "locations": [
-        "Santa Clara, CA"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Apple",
-    "title": "AIML Resident - Robot Learning",
-    "source": "vanshb03",
-    "id": "4d32b2e6-4059-4d84-8fb4-dafcdcf79039",
-    "date_posted": 1762782873,
-    "company_url": "",
-    "is_visible": true
-},
-{
-    "date_updated": 1762783069,
-    "url": "https://jobs.ashbyhq.com/Citizen%20Health/ab0cc0c1-7122-4ca2-8ac9-84d1812b22d4/application",
-    "company_name": "Citizen Health",
-    "title": "Software Engineer",
-    "locations": [
-        "San Francisco, CA",
-        "San Mateo, CA"
-    ],
-    "active": true,
-    "source": "vanshb03",
-    "id": "d72af5fa-9e5b-4690-aa66-9bdaf97b6e7d",
-    "date_posted": 1762783069,
-    "company_url": "",
-    "is_visible": true,
-    "sponsorship": "Other"
-},
-{
-    "date_updated": 1762783069,
-    "url": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Data-Engineer-I--AWS--Databricks--PySpark--Snowflake-_R-47919",
-    "company_name": "The Travelers Companies",
-    "title": "Data Engineer 1",
-    "locations": [
-        "Atlanta, GA"
-    ],
-    "active": true,
-    "source": "vanshb03",
-    "id": "1c06f5d6-d660-4ac8-863f-d2f380e5a20e",
-    "date_posted": 1762783069,
-    "company_url": "",
-    "is_visible": true,
-    "sponsorship": "Other"
-},
-{
-    "date_updated": 1762783069,
-    "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-I_RQ210148-1",
-    "company_name": "General Dynamics Information Technology",
-    "title": "Software Engineer I",
-    "locations": [
-        "Annapolis Junction, MD"
-    ],
-    "active": true,
-    "source": "vanshb03",
-    "id": "1ef7b944-6a96-493c-abd7-9e8b331a23d8",
-    "date_posted": 1762783069,
-    "company_url": "",
-    "is_visible": true,
-    "sponsorship": "Other"
-},
-{
-    "date_updated": 1762783069,
-    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000092424475",
-    "company_name": "ServiceNow",
-    "title": "Frontend Software Engineer",
-    "locations": [
-        "San Diego, CA"
-    ],
-    "active": true,
-    "source": "vanshb03",
-    "id": "9f3b8fba-5cb2-4aa7-803f-f83a6c76c96a",
-    "date_posted": 1762783069,
-    "company_url": "",
-    "is_visible": true,
-    "sponsorship": "Does Not Offer Sponsorship"
-},
-{
-    "date_updated": 1762783069,
-    "url": "https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman-Campus/Software-Developer_REQ_226365",
-    "company_name": "Rochester Regional Health",
-    "title": "Software Developer",
-    "locations": [
-        "Remote",
-        "Rochester, NY"
-    ],
-    "active": true,
-    "source": "vanshb03",
-    "id": "ffa904a4-2754-4814-b2cd-1983a22a98cf",
-    "date_posted": 1762783069,
-    "company_url": "",
-    "is_visible": true,
-    "sponsorship": "Offers Sponsorship"
-},
-{
-    "date_updated": 1762783069,
-    "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/San-Leandro-California-United-States-of-America/Software-Developer-Graduate--US_R011626",
-    "company_name": "AVEVA",
-    "title": "Software Developer",
-    "locations": [
-        "San Leandro, CA",
-        "Lake Forest, CA",
-        "Scottsdale, AZ",
-        "Philadelphia, PA"
-    ],
-    "active": true,
-    "source": "vanshb03",
-    "id": "bf915c8b-083f-4210-b273-150f81f1f8cc",
-    "date_posted": 1762783069,
-    "company_url": "",
-    "is_visible": true,
-    "sponsorship": "Offers Sponsorship"
-}
+        "date_updated": 1762782708,
+        "url": "https://careers.qualcomm.com/careers/job/446715361809",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm Innovation Center, Inc.",
+        "title": "Product Software Engineer",
+        "source": "vanshb03",
+        "id": "729ccd07-a9fc-430d-b984-3e1dfef1dd0e",
+        "date_posted": 1762782708,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762782713,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/GPU-Architecture-Engineer---New-College-Grad-2025_JR2002495",
+        "locations": [
+            "Santa Clara, CA",
+            "Austin, TX",
+            "Durham, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: GPU Architecture Engineer",
+        "source": "vanshb03",
+        "id": "373327f3-6698-4e0e-8ee5-43ab19c42d02",
+        "date_posted": 1762782713,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762782718,
+        "url": "https://www.shopify.com/careers/software-engineers_c96af3a9-82a3-4c6a-9b86-1f7e6b376167",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shopify",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "7d36b861-1cd0-422b-a84e-f7be26b74d21",
+        "date_posted": 1762782718,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762782723,
+        "url": "https://careers.adobe.com/us/en/job/ADOBUSR161750EXTERNALENUS/Software-Development-Engineer",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Adobe",
+        "title": "Software Development Engineer",
+        "source": "vanshb03",
+        "id": "32293e38-03d1-4c27-8cc0-f4c8e11f4d9f",
+        "date_posted": 1762782723,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762782737,
+        "url": "https://www.tesla.com/careers/search/job/255247",
+        "locations": [
+            "East Liberty, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "In Vehicle Test Engineer, Steering, Vehicle Software",
+        "source": "vanshb03",
+        "id": "0da6ce36-5b73-41fe-a0f7-c25354d10d84",
+        "date_posted": 1762782737,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762782742,
+        "url": "https://www.tesla.com/careers/search/job/255357",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "AI Engineer, ML Inference Optimization, Autonomy & Robotics",
+        "source": "vanshb03",
+        "id": "9141175a-bdd7-4762-8194-d8187dada759",
+        "date_posted": 1762782742,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762782745,
+        "url": "https://www.tesla.com/careers/search/job/255342",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Validation Engineer, AI Platforms",
+        "source": "vanshb03",
+        "id": "8f5be18b-0c20-445c-8e59-5238f4736cba",
+        "date_posted": 1762782745,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762782974,
+        "url": "https://jobs.apple.com/en-us/details/200630837-0836/aiml-resident-siri-agent-modeling",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apple",
+        "title": "AIML Resident - Siri Agent Modeling",
+        "source": "vanshb03",
+        "id": "deea0807-8d58-4f33-a2ed-6d4410e44ae6",
+        "date_posted": 1762782974,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762782820,
+        "url": "https://jobs.apple.com/en-us/details/200630783-3337/aiml-resident-machine-learning-research",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apple",
+        "title": "AIML Resident - Machine Learning Research",
+        "source": "vanshb03",
+        "id": "e32bb931-029c-45bc-8dd1-fa4077b48f53",
+        "date_posted": 1762782820,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762782827,
+        "url": "https://jobs.apple.com/en-us/details/200630840-0836/aiml-resident-input-experience-nlp",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apple",
+        "title": "AIML Resident - Input Experience NLP",
+        "source": "vanshb03",
+        "id": "10aea6c9-828d-41f1-b310-92773757b27d",
+        "date_posted": 1762782827,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762782865,
+        "url": "https://jobs.apple.com/en-us/details/200630798-3337/aiml-resident-knowledge-answer-quality-richness",
+        "locations": [
+            "Seattle, WA",
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apple",
+        "title": "AIML Resident - Knowledge Answer Quality & Richness",
+        "source": "vanshb03",
+        "id": "0f450593-cdc9-4874-a31f-3c2931cb3824",
+        "date_posted": 1762782865,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762782869,
+        "url": "https://jobs.apple.com/en-us/details/200630794-3337/aiml-resident-data-operations-capacity-planning-analytics",
+        "locations": [
+            "Seattle, WA",
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apple",
+        "title": "AIML Resident - Data Operations Capacity Planning & Analytics",
+        "source": "vanshb03",
+        "id": "d9639ae4-9fb7-413c-950d-af40193f0194",
+        "date_posted": 1762782869,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762782873,
+        "url": "https://jobs.apple.com/en-us/details/200630834-3760/aiml-resident-robot-learning",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apple",
+        "title": "AIML Resident - Robot Learning",
+        "source": "vanshb03",
+        "id": "4d32b2e6-4059-4d84-8fb4-dafcdcf79039",
+        "date_posted": 1762782873,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762783069,
+        "url": "https://jobs.ashbyhq.com/Citizen%20Health/ab0cc0c1-7122-4ca2-8ac9-84d1812b22d4/application",
+        "company_name": "Citizen Health",
+        "title": "Software Engineer",
+        "locations": [
+            "San Francisco, CA",
+            "San Mateo, CA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "d72af5fa-9e5b-4690-aa66-9bdaf97b6e7d",
+        "date_posted": 1762783069,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1762783069,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Data-Engineer-I--AWS--Databricks--PySpark--Snowflake-_R-47919",
+        "company_name": "The Travelers Companies",
+        "title": "Data Engineer 1",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "1c06f5d6-d660-4ac8-863f-d2f380e5a20e",
+        "date_posted": 1762783069,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1762783069,
+        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-I_RQ210148-1",
+        "company_name": "General Dynamics Information Technology",
+        "title": "Software Engineer I",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "1ef7b944-6a96-493c-abd7-9e8b331a23d8",
+        "date_posted": 1762783069,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1762783069,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000092424475",
+        "company_name": "ServiceNow",
+        "title": "Frontend Software Engineer",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "9f3b8fba-5cb2-4aa7-803f-f83a6c76c96a",
+        "date_posted": 1762783069,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Does Not Offer Sponsorship"
+    },
+    {
+        "date_updated": 1762783069,
+        "url": "https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman-Campus/Software-Developer_REQ_226365",
+        "company_name": "Rochester Regional Health",
+        "title": "Software Developer",
+        "locations": [
+            "Remote",
+            "Rochester, NY"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "ffa904a4-2754-4814-b2cd-1983a22a98cf",
+        "date_posted": 1762783069,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Offers Sponsorship"
+    },
+    {
+        "date_updated": 1762783069,
+        "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/San-Leandro-California-United-States-of-America/Software-Developer-Graduate--US_R011626",
+        "company_name": "AVEVA",
+        "title": "Software Developer",
+        "locations": [
+            "San Leandro, CA",
+            "Lake Forest, CA",
+            "Scottsdale, AZ",
+            "Philadelphia, PA"
+        ],
+        "active": true,
+        "source": "vanshb03",
+        "id": "bf915c8b-083f-4210-b273-150f81f1f8cc",
+        "date_posted": 1762783069,
+        "company_url": "",
+        "is_visible": true,
+        "sponsorship": "Offers Sponsorship"
+    }
 ]
