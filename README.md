@@ -306,7 +306,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Cape** | New Grad: Software Engineer | New York, NY</br>Washington, DC | <a href="https://jobs.ashbyhq.com/Cape/bd280ded-4298-47de-a186-1aebd1bd94b8?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | **Blue Origin** | Software Development Engineer I - Early Career & New Graduate Rotation | Seattle, WA</br>Kent, WA | <a href="https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Software-Development-Engineer-I---Early-Career---New-Graduate-Rotation--2025-2026-Starts-_R54894?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | **Atlassian** | New Grad 2026: Software Engineer | Seattle, WA | <a href="https://careers-americas.icims.com/jobs/20901/software-engineer%252c-2026-graduate-u.s./job?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
-| **2K Games** | Engineering Graduate Program | Novato, CA | <a href="https://job-boards.greenhouse.io/2k/jobs/6688546003?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | **TikTok** | New Grad 2026: AI/ML Software Engineer (Data Platform TikTok BP) | San Jose, CA | <a href="https://lifeattiktok.com/search/7541178634444589319?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | **Tesla** | Mobile App Developer, Frontend, Claims & Customer Support | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/249335?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | **Tesla** | Software Integration Engineer, Factory Firmware | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/249467?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
@@ -753,6 +752,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **CenturyLink** | Information Security Engineer I | Remote in USA | 🔒 | Sep 03 |
 | **Boeing** | F-22 Pilot Training Entry-Level Software Engineer - Simulation 🇺🇸 | Berkeley, MO | 🔒 | Sep 03 |
 | **Adobe** | 2026 University Graduate - Finance Data Scientist | SF</br>San Jose, CA | 🔒 | Sep 03 |
+| **2K Games** | Engineering Graduate Program | Novato, CA | 🔒 | Sep 03 |
 | **NVIDIA** | New Grad 2025: GPU Architecture Engineer | Santa Clara, CA</br>Austin, TX</br>Durham, NC | 🔒 | Aug 28 |
 | **NVIDIA** | New Grad 2025: OEM Account Applications Engineer | Santa Clara, CA | 🔒 | Aug 28 |
 | **Microsoft** | Software Engineer | Multiple Locations, United States | 🔒 | Aug 28 |
