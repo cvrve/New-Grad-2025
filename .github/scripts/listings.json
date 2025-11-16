@@ -15747,5 +15747,21 @@
         "company_url": "",
         "is_visible": true,
         "sponsorship": "Offers Sponsorship"
+    },
+    {
+        "date_updated": 1763252143,
+        "url": "https://www.imc.com/us/careers/jobs/4580755101",
+        "company_name": "IMC",
+        "title": "New Grad 2026: Software Engineer",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "ouckah",
+        "id": "7a690259-0c9e-4272-a776-bbdd464653a1",
+        "date_posted": 1763252143,
+        "company_url": "",
+        "is_visible": true
     }
 ]
