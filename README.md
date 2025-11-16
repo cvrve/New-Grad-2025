@@ -44,6 +44,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **SpaceX** | New Grad: Software Engineer | Redmond, WA | <a href="https://job-boards.greenhouse.io/spacex/jobs/8121675002?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | **IMC** | New Grad 2026: Software Engineer | Chicago, IL | <a href="https://www.imc.com/us/careers/jobs/4580755101?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | **The Travelers Companies** | Data Engineer 1 | Atlanta, GA | <a href="https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Data-Engineer-I--AWS--Databricks--PySpark--Snowflake-_R-47919?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | **Tesla** | Software Validation Engineer, AI Platforms | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/255342?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
