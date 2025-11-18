@@ -4649,13 +4649,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753369722,
+        "date_updated": 1763442791,
         "url": "https://www.ycombinator.com/companies/phonely/jobs/nSlxo4y-software-engineer-early-career",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Phonely",
         "title": "Software Engineer (Early Career)",
         "source": "vanshb03",
@@ -6959,14 +6959,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1755113970,
+        "date_updated": 1763442791,
         "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007&gh_src=",
         "company_name": "Anduril Industries",
         "title": "Early Career Software Engineer",
         "locations": [
             "Costa Mesa, CA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "28e49280-6352-46ce-9426-259596240748",
         "date_posted": 1755113970,
@@ -7171,14 +7171,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1755113970,
+        "date_updated": 1763442791,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/4824364007",
         "company_name": "Anduril",
         "title": "Early Career Software Engineer",
         "locations": [
             "Seattle, WA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "89f44120-f54c-47cb-bf54-e770d332eeb3",
         "date_posted": 1755113970,
@@ -7187,14 +7187,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1755113970,
+        "date_updated": 1763442791,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/4824378007",
         "company_name": "Anduril",
         "title": "Early Career Software Engineer",
         "locations": [
             "Atlanta, GA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "d438cdd8-4335-4e90-a7d4-9e2186e5301c",
         "date_posted": 1755113970,
@@ -15194,13 +15194,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762019411,
+        "date_updated": 1763442793,
         "url": "https://job-boards.greenhouse.io/mozilla/jobs/7360226",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Mozilla",
         "title": "Backend Engineer, Websites & Marketing Technology",
         "source": "vanshb03",
