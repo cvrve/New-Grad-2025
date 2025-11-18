@@ -9251,7 +9251,7 @@
         "sponsorship": "U.S. Citizenship is Required"
     },
     {
-        "date_updated": 1756872100,
+        "date_updated": 1763442843,
         "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Software-Development-Engineer-I---Early-Career---New-Graduate-Rotation--2025-2026-Starts-_R54894",
         "company_name": "Blue Origin",
         "title": "Software Development Engineer I - Early Career & New Graduate Rotation",
@@ -9259,7 +9259,7 @@
             "Seattle, WA",
             "Kent, WA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "b1d2679c-c73e-41b7-bf14-2a2312b3d2b7",
         "date_posted": 1756872100,
@@ -9819,14 +9819,14 @@
         "sponsorship": "Offers Sponsorship"
     },
     {
-        "date_updated": 1757068097,
+        "date_updated": 1763442853,
         "url": "https://bonterra.wd1.myworkdayjobs.com/en-US/bonterratech/job/Remote-United-States/EA-Data-Engineer-I--Services_R2025-0310",
         "company_name": "Bonterra",
         "title": "Data Engineer I, Services",
         "locations": [
             "Remote in USA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "7a438406-92be-46da-a62d-9812e2beea9b",
         "date_posted": 1757068097,
@@ -10339,14 +10339,14 @@
         "sponsorship": "Does Not Offer Sponsorship"
     },
     {
-        "date_updated": 1757306495,
+        "date_updated": 1763442859,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Aspire-Tech-Graduate-Security-Engineer-I_R101084",
         "company_name": "LexisNexis Risk Solutions",
         "title": "Aspire Tech Graduate Security Engineer I",
         "locations": [
             "Raleigh, NC"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "a00d9812-f6a7-4d2f-89fc-97c10e4cb5ab",
         "date_posted": 1757306495,
@@ -10419,14 +10419,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1757306633,
+        "date_updated": 1763442863,
         "url": "https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Minnetonka-MN-USA/Early-Careers-Rotational-Program---R-D-Engineer--AI-_250003743-1",
         "company_name": "VIAVI",
         "title": "Early Careers Rotational Program, R&D Engineer (AI)",
         "locations": [
             "Minnetonka, MN"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "53837e59-be03-45da-9349-76976a09ca6d",
         "date_posted": 1757306633,
@@ -10751,14 +10751,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757464542,
+        "date_updated": 1763442868,
         "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Milpitas-CA/New-Grad--Hardware-Engineer_R5410",
         "company_name": "Symbotic",
         "title": "New Grad: Hardware Engineer",
         "locations": [
             "Milpitas, CA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "8bf9e3ae-8d88-4597-bd45-3beb8c6dc18e",
         "date_posted": 1757464542,
@@ -10767,14 +10767,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1757464542,
+        "date_updated": 1763442872,
         "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Hardware-Engineer_R5411",
         "company_name": "Symbotic",
         "title": "New Grad-Hardware Engineer",
         "locations": [
             "Burlington, MA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "71add992-f2d1-4944-b2a3-49a7471a8b8f",
         "date_posted": 1757464542,
@@ -10880,7 +10880,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757465376,
+        "date_updated": 1763442877,
         "url": "https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Data-Engineer_BF-REQ-3192",
         "locations": [
             "Toronto, Canada",
@@ -10889,7 +10889,7 @@
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Clio",
         "title": "Data Engineer",
         "source": "vanshb03",
@@ -12051,13 +12051,13 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1758382918,
+        "date_updated": 1763442892,
         "url": "https://costar.wd1.myworkdayjobs.com/confidential/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R37014-1",
         "locations": [
             "San Diego, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "CoStar Group",
         "title": "Associate Software Engineer",
         "source": "vanshb03",
@@ -13021,13 +13021,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759976740,
+        "date_updated": 1763442911,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/CAD-Engineer--Physical-Design---New-College-Grad-2026_JR2005254",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "New Grad 2026: CAD Engineer, Physical Design",
         "source": "vanshb03",
@@ -13118,14 +13118,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760071576,
+        "date_updated": 1763442916,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Software-Engineer--CAD-Automation---New-College-Grad-2025_JR2005867",
         "locations": [
             "Santa Clara, CA",
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "New Grad 2025: Software Engineer, CAD Automation",
         "source": "vanshb03",
@@ -13152,13 +13152,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760208290,
+        "date_updated": 1763442921,
         "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Software-Engineering-AMTS_JR313404-2",
         "locations": [
             "Dallas, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Salesforce",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -13300,13 +13300,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760208382,
+        "date_updated": 1763442936,
         "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Software-Engineer_J-00328147",
         "locations": [
             "San Diego, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ASML",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -13316,13 +13316,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760208386,
+        "date_updated": 1763442940,
         "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/Software-Engineer_R0228061",
         "locations": [
             "Rome, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Booz Allen Hamilton",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -13348,13 +13348,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760208568,
+        "date_updated": 1763442945,
         "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R226913",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Capital One",
         "title": "New Grad: Software Engineer",
         "source": "vanshb03",
@@ -13412,13 +13412,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760208587,
+        "date_updated": 1763442959,
         "url": "https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Calgary/Software-Developer_BF-REQ-3857",
         "locations": [
             "Calgary, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Clio",
         "title": "Software Developer",
         "source": "vanshb03",
@@ -13574,14 +13574,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1760482769,
+        "date_updated": 1763442973,
         "url": "https://carislifesciences.wd12.myworkdayjobs.com/en-US/cls/job/Irving-TX--75063/Associate-Software-Engineer---Clinical-Systems--External-Apps-_JR104015",
         "company_name": "Caris",
         "title": "Associate Software Engineer, Clinical Systems",
         "locations": [
             "Irving, TX"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "e91173d3-b036-4e7f-a313-72b6b74d6e51",
         "date_posted": 1760482769,
@@ -13590,14 +13590,14 @@
         "sponsorship": "Does Not Offer Sponsorship"
     },
     {
-        "date_updated": 1760482769,
+        "date_updated": 1763442977,
         "url": "https://carislifesciences.wd12.myworkdayjobs.com/en-US/cls/job/Irving-TX--75063/Associate-Software-Engineer---Clinical-Systems--Lab-Ops-_JR104012-1",
         "company_name": "Caris",
         "title": "Associate Software Engineer, Clinical Systems",
         "locations": [
             "Irving, TX"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "74403e9b-cf9c-4844-a13f-ee3afe79f578",
         "date_posted": 1760482769,
@@ -13606,14 +13606,14 @@
         "sponsorship": "Does Not Offer Sponsorship"
     },
     {
-        "date_updated": 1760482769,
+        "date_updated": 1763442982,
         "url": "https://carislifesciences.wd12.myworkdayjobs.com/en-US/cls/job/Irving-TX--75063/Associate-Software-Engineer---Clinical-Systems--Digital-Path-_JR104014",
         "company_name": "Caris",
         "title": "Associate Software Engineer, Clinical Systems",
         "locations": [
             "Irving, TX"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "0da2fcde-db24-4952-aaf2-9e9ac2521397",
         "date_posted": 1760482769,
@@ -13686,14 +13686,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1760482769,
+        "date_updated": 1763442987,
         "url": "https://creditacceptance.wd5.myworkdayjobs.com/en-US/Credit_Acceptance/job/Michigan--Southfield-Office/Software-Engineer-I--Engineering_R13134",
         "company_name": "Credit Acceptance Careers",
         "title": "Software Engineer I - Engineering",
         "locations": [
             "Southfield, MI"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "e0e4a970-5c6e-4197-842b-50df316c4bd5",
         "date_posted": 1760482769,
@@ -13734,14 +13734,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1760482769,
+        "date_updated": 1763442992,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--Inference-and-Model-Optimization---New-College-Grad-2025_JR2004584",
         "company_name": "NVIDIA",
         "title": "New Grad 2025: Deep Learning Software Engineer, Inference and Model Optimization",
         "locations": [
             "Santa Clara, CA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "ca48b7fc-b444-49d5-b15b-247ff98fc831",
         "date_posted": 1760482769,
@@ -13750,13 +13750,13 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1760650230,
+        "date_updated": 1763442996,
         "url": "https://globalhr.wd5.myworkdayjobs.com/en-GB/rec_rtx_ext_gateway/job/MD440-8170-Maple-Lawn-Blvd-Fulton-MD-8170-Maple-Lawn-Boulevard---Fulton-MD-20759-USA/Software-Engineer-I--Onsite-_01801021",
         "locations": [
             "Fulton, MD"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Raytheon Technologies",
         "title": "Software Engineer I",
         "source": "vanshb03",
@@ -13881,14 +13881,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760650375,
+        "date_updated": 1763443011,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/AI-and-ML-Infra-Software-Engineer--GPU-Clusters---New-College-Grad-2026_JR2005097",
         "locations": [
             "Santa Clara, CA",
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "New Grad 2026: AI and ML Infra Software Engineer, GPU Clusters",
         "source": "vanshb03",
@@ -14126,7 +14126,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760784969,
+        "date_updated": 1763443015,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Compiler-Engineer--LLVM--New-College-Grad-2025_JR2005960",
         "locations": [
             "Santa Clara, CA",
@@ -14134,7 +14134,7 @@
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "New Grad 2025: Compiler Engineer, LLVM",
         "source": "vanshb03",
@@ -14533,14 +14533,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1761174604,
+        "date_updated": 1763443020,
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Associate-Software-Engineer_R10211419",
         "company_name": "Northrop Grumman",
         "title": "Associate Software Engineer",
         "locations": [
             "Aurora, CO"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "fbe78a6b-236a-45bd-9dca-ca651e3bcd11",
         "date_posted": 1761174604,
@@ -14566,14 +14566,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1761174604,
+        "date_updated": 1763443024,
         "url": "https://evolent.wd1.myworkdayjobs.com/External/job/Work-at-Home/Associate-Software-Engineer_JR-914584?source=Linkedin",
         "company_name": "Evolent",
         "title": "Associate Software Engineer",
         "locations": [
             "Remote"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "e580b31c-41ed-433d-a923-e3a880f35cc9",
         "date_posted": 1761174604,
@@ -14665,14 +14665,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1761174604,
+        "date_updated": 1763443029,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PA602-302-Science-Park-Road-Bldg-5C-302-Science-Park-Road-Building-5C-State-College-PA-16803-2214-USA/XMLNAME-2026-Full-time---Java-Software-Engineer-I---Onsite--PA-_01801904",
         "company_name": "RTX",
         "title": "New Grad 2026: Java Software Engineer I, Onsite",
         "locations": [
             "State College, PA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "091614c7-094c-47e0-93ae-5324356bd771",
         "date_posted": 1761174604,
@@ -14722,13 +14722,13 @@
         "sponsorship": "Does Not Offer Sponsorship"
     },
     {
-        "date_updated": 1761176344,
+        "date_updated": 1763443038,
         "url": "https://draftkings.wd1.myworkdayjobs.com/draftkings/job/Remote---US/Software-Engineer_JR13105-3",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "DraftKings",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -14754,13 +14754,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761176393,
+        "date_updated": 1763443043,
         "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Alexandria-VA/Backend-Developer_R0228366",
         "locations": [
             "Alexandria, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Booz Allen Hamilton",
         "title": "Backend Developer",
         "source": "vanshb03",
@@ -14770,13 +14770,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761176397,
+        "date_updated": 1763443047,
         "url": "https://nabancard.wd1.myworkdayjobs.com/nab/job/US---Remote/Associate-Product-Engineer_JR101530",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "North",
         "title": "Associate Product Engineer",
         "source": "vanshb03",
@@ -14850,14 +14850,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761840220,
+        "date_updated": 1763443052,
         "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Systems-Security-Engineer-I_R0028118",
         "company_name": "Sierra Nevada Coporation",
         "title": "Systems Security Engineer I",
         "locations": [
             "Lone Tree, CO"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "e0470859-5b9b-4a48-92c2-42c49928d1b4",
         "date_posted": 1761840220,
@@ -14866,14 +14866,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1761840220,
+        "date_updated": 1763443056,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN206-3939PriorityWay-3939-Priority-Way-Building-6-Indianapolis-IN-46240-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01791951",
         "company_name": "RTX",
         "title": "Software Engineer I",
         "locations": [
             "Indianapolis, IN"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "3247767c-05f0-4db3-b40e-8c2a562942b6",
         "date_posted": 1761840220,
@@ -14882,14 +14882,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1761840220,
+        "date_updated": 1763443061,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2026-Raytheon-Systems-Security-Engineer-I---Onsite---Tucson--AZ_01790331",
         "company_name": "RTX",
         "title": "New Grad 2026: Raytheon Systems Security Engineer I",
         "locations": [
             "Tucson, AZ"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "7e1bd267-184c-49bc-96ef-482efa10babc",
         "date_posted": 1761840220,
@@ -14914,14 +14914,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1761840220,
+        "date_updated": 1763443065,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/FL915-St-Petersburg---Bldg-D-7401-22nd-Ave-N-Building-D-St-Petersburg-FL-33710-USA/Software-Engineer-I--Onsite-_01788093",
         "company_name": "RTX",
         "title": "Software Engineer 1",
         "locations": [
             "St. Petersburg, FL"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "656837ae-31ec-4071-9202-e8f7403b048a",
         "date_posted": 1761840220,
@@ -14930,14 +14930,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1761840220,
+        "date_updated": 1763443070,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad--Real-Time-Systems-_R029145",
         "company_name": "Ciena",
         "title": "New Grad: Embedded Software Engineer, Real-Time Systems",
         "locations": [
             "Ottawa, ON, Canada"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "c11fe199-641c-4d91-8a86-f85fd1a29c77",
         "date_posted": 1761840220,
@@ -14962,14 +14962,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1761840220,
+        "date_updated": 1763443075,
         "url": "https://morningstar.wd5.myworkdayjobs.com/en-US/Americas/job/Chicago/Associate-Quantitative-Analyst_REQ-053662-1",
         "company_name": "Morningstar",
         "title": "Associate Quantitative Analyst",
         "locations": [
             "Chicago, IL"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "5daebc88-85ba-4869-8566-8a3e821be487",
         "date_posted": 1761840220,
@@ -15078,14 +15078,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762019339,
+        "date_updated": 1763443079,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/AI-and-ML-Infra-Software-Engineer--GPU-Clusters---New-College-Grad-2025_JR2006974",
         "locations": [
             "Santa Clara, CA",
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "New Grad 2025: AI and ML Infra Software Engineer, GPU Clusters",
         "source": "vanshb03",
@@ -15111,13 +15111,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762019346,
+        "date_updated": 1763443088,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--AI-Infrastructure---New-College-Grad-2026_JR2007199",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "New Grad 2026: Software Engineer, AI Infrastructure",
         "source": "vanshb03",
@@ -15258,13 +15258,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762019433,
+        "date_updated": 1763443102,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Software-Engineer---GeForce-NOW-Low-Latency-Streaming-Technology---New-Grad-2025_JR2006827",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "New Grad 2025: Systems Software Engineer, GeForce NOW Low Latency Streaming Technology",
         "source": "vanshb03",
@@ -15713,7 +15713,7 @@
         "sponsorship": "Does Not Offer Sponsorship"
     },
     {
-        "date_updated": 1762783069,
+        "date_updated": 1763443136,
         "url": "https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman-Campus/Software-Developer_REQ_226365",
         "company_name": "Rochester Regional Health",
         "title": "Software Developer",
@@ -15721,7 +15721,7 @@
             "Remote",
             "Rochester, NY"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "ffa904a4-2754-4814-b2cd-1983a22a98cf",
         "date_posted": 1762783069,
@@ -15730,7 +15730,7 @@
         "sponsorship": "Offers Sponsorship"
     },
     {
-        "date_updated": 1762783069,
+        "date_updated": 1763443141,
         "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/San-Leandro-California-United-States-of-America/Software-Developer-Graduate--US_R011626",
         "company_name": "AVEVA",
         "title": "Software Developer",
@@ -15740,7 +15740,7 @@
             "Scottsdale, AZ",
             "Philadelphia, PA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "bf915c8b-083f-4210-b273-150f81f1f8cc",
         "date_posted": 1762783069,
