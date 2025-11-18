@@ -15795,5 +15795,183 @@
         "date_posted": 1763252267,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763015037,
+        "url": "https://mastercard.wd1.myworkdayjobs.com/campusapplyonly/job/OFallon-Missouri/Software-Engineer-I--Launch-Program-2026_R-257329",
+        "locations": [
+            "O'Fallon, MO"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Mastercard",
+        "title": "Software Engineer I, Launch Program",
+        "source": "vanshb03",
+        "id": "85eace90-b913-4466-b2fe-50d95b5913d6",
+        "date_posted": 1763015037,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1763445555,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556619703",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "AI Engineer",
+        "source": "vanshb03",
+        "id": "918b8d55-10ec-4ae7-bc81-8d71ebf1d995",
+        "date_posted": 1763445555,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1763445563,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Low-Power-ASIC-Engineer---New-College-Grad-2026_JR2008185",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2026: Low Power ASIC Engineer",
+        "source": "vanshb03",
+        "id": "313fbdd5-f9a4-41e3-9ce5-d77adf5d359f",
+        "date_posted": 1763445563,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1763445590,
+        "url": "https://lumenalta.com/jobs/full-stack-engineer-storyblok-expert-full-stack-engineer-storyblok-expert-188",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lumenalta",
+        "title": "Full Stack Engineer",
+        "source": "vanshb03",
+        "id": "b923b15f-30eb-4386-8a4c-fda658465917",
+        "date_posted": 1763445590,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1763445593,
+        "url": "https://careers.circle.com/us/en/job/CIICIRUSJR100011EGEXTERNALENUS/New-Grad-Software-Engineer-Backend-2026",
+        "locations": [
+            "United States of America"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Circle",
+        "title": "New Grad 2026: Software Engineer, Backend",
+        "source": "vanshb03",
+        "id": "49a7d53a-eab0-4f53-827c-aa2b38c81596",
+        "date_posted": 1763445593,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1763445602,
+        "url": "https://stripe.com/jobs/listing/backend-engineer-secure-endpoint-access/7396672",
+        "locations": [
+            "South San Francisco, CA",
+            "Seattle, WA",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Stripe",
+        "title": "Backend Engineer, Secure Endpoint Access",
+        "source": "vanshb03",
+        "id": "12daae3d-ec80-4eee-9756-ce0dc3c491dd",
+        "date_posted": 1763445602,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1763445605,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/System-Software-Engineer--Robotics-Simulation---New-College-Grad-2026_JR2007876",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2026: System Software Engineer, Robotics Simulation",
+        "source": "vanshb03",
+        "id": "d3498654-e26d-4ee1-a59b-7ca167bc45bb",
+        "date_posted": 1763445605,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1763445622,
+        "url": "https://www.tesla.com/careers/search/job/227179",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Thermal Controls Engineer, Vehicle Software",
+        "source": "vanshb03",
+        "id": "1eb82216-a4a3-4ee8-8d82-ca45884a686f",
+        "date_posted": 1763445622,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1763445626,
+        "url": "https://www.amazon.jobs/en/jobs/3126885/software-engineer-i",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Software Engineer I",
+        "source": "vanshb03",
+        "id": "ca864e2e-3553-49df-a5c7-785ee52f7755",
+        "date_posted": 1763445626,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1763445632,
+        "url": "https://zoom.wd5.myworkdayjobs.com/Zoom/job/Remote--WA/Software-Development_R17786-1",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoom",
+        "title": "Frontend Engineer",
+        "source": "vanshb03",
+        "id": "4a5c811a-3124-420c-9b4c-00dcadd1fbc5",
+        "date_posted": 1763445632,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1763445637,
+        "url": "https://jobs.apple.com/en-us/details/200627852-3956/software-engineer-is-t-early-career",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apple",
+        "title": "Software Engineer, IS&T Early Career",
+        "source": "vanshb03",
+        "id": "ae6d2c02-2b2d-4a2b-a803-c4cd9eb0032a",
+        "date_posted": 1763445637,
+        "company_url": "",
+        "is_visible": true
     }
 ]
