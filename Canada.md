@@ -44,22 +44,18 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
-| **Ciena** | New Grad: Embedded Software Engineer, Real-Time Systems | Ottawa, ON, Canada | <a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad--Real-Time-Systems-_R029145?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | **Wanderlog (W19)** | New Grad: Full-Stack Software Engineer | Remote</br>Toronto, Canada | <a href="https://www.workatastartup.com/jobs/83761?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **Roserocket** | Junior Software Engineer 🛂 | Toronto, Canada | <a href="https://jobs.ashbyhq.com/Rose%20Rocket/c074b14e-ebe0-4a14-beb2-1419eca9d447/application?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **PepsiCo** | Junior Data Scientist | Mississauga, Canada | <a href="https://uscareers-pepsico.icims.com/jobs/415877/junior-data-scientist-%E2%80%93-new-grad/job?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **D2L** | New Grad 2026: Software Developer Rotation Program | <details><summary>**4 locations**</summary>Winnipeg, Canada</br>Toronto, Canada</br>Kitchener, Canada</br>Vancouver, Canada</details> | <a href="https://www.d2l.com/careers/jobs/?job_id=7336031&gh_jid=7336031&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **Quadient** | Software Engineer | Vancouver, Canada | <a href="https://careers.quadient.com/en/jobs/junior-software-engineer?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | **Infoblox** | Associate Data Engineer | Burnaby, Canada | <a href="https://efpv.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6828?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
-| **Clio** | Software Developer | Calgary, Canada | <a href="https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Calgary/Software-Developer_BF-REQ-3857?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | **Ciena** | New Grad: Software Engineer Packet Platform | Ottawa, Canada | <a href="https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Software-Engineer-Packet-Platform---New-Grad_R029137?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | **Ciena** | New Grad 2026: RLS Photonics Software Engineer | Ottawa, Canada | <a href="https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/RLS-Photonics-Software-Engineer---2026-New-Grads_R029181?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
-| **Capital One** | New Grad: Software Engineer | Toronto, Canada | <a href="https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R226913?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | **Ciena** | New Grad: Modem Hardware Engineer | Ottawa, ON, Canada | <a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Modem-Hardware---Engineer-New-Grad_R028721?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | **Ciena** | New Grad: Routing/IP Software Engineer | Ottawa, ON, Canada | <a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Engineer---New-Grad_R029033?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
 | **Atlassian** | New Grad 2026: Software Engineer | Canada | <a href="https://join.atlassian.com/atlassian-talent-community/jobs/20908?lang=en-us&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | **Tripadvisor** | Android Engineer | Ottawa, Canada | <a href="https://careers.tripadvisor.com/job?jobId=7234900&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
-| **Clio** | Data Engineer | <details><summary>**4 locations**</summary>Toronto, Canada</br>Calgary, Canada</br>Vancouver, Canada</br>Remote</details> | <a href="https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Data-Engineer_BF-REQ-3192?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | **Stripe** | Software Engineer - New Grad | Toronto, ON, Canada | <a href="https://stripe.com/jobs/search?gh_jid=7206505&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | **Qualcomm Canada ULC** | CPU Software Telemetry Tools Developer | Markham, Canada | <a href="https://careers.qualcomm.com/careers/job/446707442096?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | **Wanderlog** | Full-Stack Software Engineer | Remote, Canada | <a href="https://app.dover.com/wanderlog/8c09ee66-6444-42d4-b2dc-1029b2f9b23d?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 18 |
@@ -83,10 +79,14 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Oracle** | Software Developer - Rotational Program - NetSuite | Kitchiner, Canada | <a href="https://careers.oracle.com/jobs/#en/sites/jobsearch/job/264377?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 19 |
 | **Applied Systems** | Software Engineer | Toronto, Canada | <a href="https://canada-appliedsystems.icims.com/jobs/6506/software-engineer/job?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 14 |
 | **Amazon** | New Grad 2025: Software Development Engineer I | Vancouver, BC</br>Toronto, Canada | <a href="https://amazon.jobs/en/jobs/2855790/software-development-engineer-i-2025-computer-science?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 12 |
+| **Ciena** | New Grad: Embedded Software Engineer, Real-Time Systems | Ottawa, ON, Canada | 🔒 | Oct 30 |
+| **Clio** | Software Developer | Calgary, Canada | 🔒 | Oct 11 |
+| **Capital One** | New Grad: Software Engineer | Toronto, Canada | 🔒 | Oct 11 |
 | **Twilio** | Software Engineer, Early Career - Messaging API | Remote</br>Canada | 🔒 | Sep 13 |
 | **Motive** | Entry Level Backend Engineer | Remote</br>Canada | 🔒 | Sep 12 |
 | **TD Securities** | Machine Learning Engineer I | Toronto, ON, Canada | 🔒 | Sep 10 |
 | **TD** | Machine Learning Engineer I | Toronto, Canada | 🔒 | Sep 10 |
+| **Clio** | Data Engineer | <details><summary>**4 locations**</summary>Toronto, Canada</br>Calgary, Canada</br>Vancouver, Canada</br>Remote</details> | 🔒 | Sep 10 |
 | **Tenstorrent** | Software Engineer, AI Tools | <details><summary>**4 locations**</summary>Austin, TX</br>Santa Clara, CA</br>Toronto, Canada</br>Remote</details> | 🔒 | Aug 28 |
 | **Magna** | AI Engineer | Concord, Canada | 🔒 | Aug 19 |
 | **Lightspeed** | Software Developer | Montreal, Canada | 🔒 | Aug 19 |
