@@ -15973,5 +15973,140 @@
         "date_posted": 1763445637,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763445755,
+        "url": "https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/Madison-WI/IT-Software-Engineer---Entry-Level_R21980",
+        "locations": [
+            "Madison, WI",
+            "Lincoln, NE",
+            "Centennial, CO"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Nelnet",
+        "title": "IT Software Engineer",
+        "source": "vanshb03",
+        "id": "73a777e8-2ec7-435c-a8a2-41abbd29ca8b",
+        "date_posted": 1763445755,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1763445761,
+        "url": "https://www.databricks.com/company/careers/professional-services-operations/ai-tooling-program-engineer--8295414002",
+        "locations": [
+            "Northeast, United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Databricks",
+        "title": "AI Tooling Program Engineer",
+        "source": "vanshb03",
+        "id": "277851aa-d2fe-4633-812f-7d11025bd8ec",
+        "date_posted": 1763445761,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1763445767,
+        "url": "https://regions.wd5.myworkdayjobs.com/regions_careers/job/Atlanta-GA---Regions-Plaza-Office/Salesforce-Developer---Entry-Level--On-Site-_R97616",
+        "locations": [
+            "Atlanta, GA",
+            "Hoover, AL",
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Regions",
+        "title": "Salesforce Developer",
+        "source": "vanshb03",
+        "id": "22cc950f-7ebe-4871-aafd-d83a028876dc",
+        "date_posted": 1763445767,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1763445857,
+        "url": "https://www.workatastartup.com/jobs/85420",
+        "locations": [
+            "Kansas City, MO",
+            "Overland Park, KS",
+            "Olathe, KS"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "dScribe AI",
+        "title": "Founding Engineer",
+        "source": "vanshb03",
+        "id": "1743ce18-779e-45b8-bed3-65ac455d0e26",
+        "date_posted": 1763445857,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1763445861,
+        "url": "https://www.workatastartup.com/jobs/85445",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Phonely",
+        "title": "Forward Deployed Engineer",
+        "source": "vanshb03",
+        "id": "3dee5f20-812b-4224-b425-02fdf0b6e1cb",
+        "date_posted": 1763445861,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1763445866,
+        "url": "https://www.workatastartup.com/jobs/77829",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Poka Labs",
+        "title": "Founding Engineer",
+        "source": "vanshb03",
+        "id": "e7f1a88f-21f1-4d77-9fc7-6b9aacd4196e",
+        "date_posted": 1763445866,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1763445878,
+        "url": "https://www.workatastartup.com/jobs/85460",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wanderlog (W19)",
+        "title": "New Grad: Full-Stack Software Engineer",
+        "source": "vanshb03",
+        "id": "22c6766f-df59-43ee-822b-df2319b6cebd",
+        "date_posted": 1763445878,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1763445883,
+        "url": "https://www.workatastartup.com/jobs/85459",
+        "locations": [
+            "San Francisco, CA",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wanderlog (W19)",
+        "title": "New Grad: Full-Stack Software Engineer",
+        "source": "vanshb03",
+        "id": "689c1f1a-d1f6-4f75-941e-177d1ba816c2",
+        "date_posted": 1763445883,
+        "company_url": "",
+        "is_visible": true
     }
 ]
