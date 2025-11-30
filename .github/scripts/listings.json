@@ -16287,5 +16287,86 @@
         "date_posted": 1764545642,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764545682,
+        "url": "https://jobs.ashbyhq.com/yotta/b5202314-91e1-4940-b8a1-9be0e02d1db5",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Yotta Labs",
+        "title": "Research Engineer - Decentralized AI Systems",
+        "source": "vanshb03",
+        "id": "0ca586ff-d900-47dd-81e7-33157f7a073c",
+        "date_posted": 1764545682,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1764545710,
+        "url": "https://jobs.ashbyhq.com/evenup/575484a3-ed12-478f-a575-8db524f9cc96",
+        "locations": [
+            "San Francisco, CA",
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "EvenUp",
+        "title": "Backend Software Engineer, AI Document Generation (All Levels)",
+        "source": "vanshb03",
+        "id": "11ebe7db-b2f4-44c5-a90e-cae1ab100e42",
+        "date_posted": 1764545710,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1764545721,
+        "url": "https://job-boards.greenhouse.io/leagueinc/jobs/5723828004",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "League",
+        "title": "Software Engineer, Backend (Apps & Solutions)",
+        "source": "vanshb03",
+        "id": "bd3aaedf-9690-4796-8a34-51c44cbdbeab",
+        "date_posted": 1764545721,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1764545881,
+        "url": "https://www.workatastartup.com/jobs/86044",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Thera",
+        "title": "Founding Engineer",
+        "source": "vanshb03",
+        "id": "14c7b38e-5b75-49dd-80f5-6d4158e25726",
+        "date_posted": 1764545881,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1764545885,
+        "url": "https://www.workatastartup.com/jobs/85422",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Thera",
+        "title": "Founding Engineer",
+        "source": "vanshb03",
+        "id": "99555812-8faf-4a89-b91e-ea9ec3b2743d",
+        "date_posted": 1764545885,
+        "company_url": "",
+        "is_visible": true
     }
 ]
