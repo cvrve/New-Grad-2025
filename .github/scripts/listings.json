@@ -16108,5 +16108,184 @@
         "date_posted": 1763445883,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764545563,
+        "url": "https://joinbytedance.com/search/7542674819873081608",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2026: Machine Learning Graduate (eCommerce User Growth & Intelligent Marketing)",
+        "source": "vanshb03",
+        "id": "4f96c4b6-4d57-401d-97c4-93ce72ba6761",
+        "date_posted": 1764545563,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1764545569,
+        "url": "https://www.tesla.com/careers/search/job/256719",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer, Maps & Navigation Validation, Vehicle Software",
+        "source": "vanshb03",
+        "id": "16bd89a2-ae18-42c8-a6f8-c8c9d7fe045a",
+        "date_posted": 1764545569,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1764545573,
+        "url": "https://www.tesla.com/careers/search/job/256595",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer, AI Inference Codesign",
+        "source": "vanshb03",
+        "id": "670d8b80-15ef-4db2-8abe-ff8a8e4cd68a",
+        "date_posted": 1764545573,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1764545576,
+        "url": "https://www.tesla.com/careers/search/job/256730",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Robotics Systems Engineer, Optimus",
+        "source": "vanshb03",
+        "id": "4114af0c-63de-45ac-acf7-f4cce79d2451",
+        "date_posted": 1764545576,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1764545584,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/Software-Engineer---Early-Career_JR-202517310",
+        "locations": [
+            "Mountain View, CA",
+            "Austin, TX",
+            "Milford, MI",
+            "Warren, MI"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "General Motors",
+        "title": "Software Engineer - Early Career",
+        "source": "vanshb03",
+        "id": "73dde98c-273a-4eea-adef-1e6d1778541e",
+        "date_posted": 1764545584,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1764545588,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2026: Developer Technology Engineer, Public Sector",
+        "source": "vanshb03",
+        "id": "bb83f838-5027-41e5-8b1b-ce31637de54d",
+        "date_posted": 1764545588,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1764545594,
+        "url": "https://careers.withwaymo.com/jobs/software-engineer-ml-tools-mountain-view-california-united-states",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Waymo",
+        "title": "Software Engineer, ML Tools",
+        "source": "vanshb03",
+        "id": "cf8202da-86a5-44e4-9d97-d2687952ff97",
+        "date_posted": 1764545594,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1764545603,
+        "url": "https://jobs.ashbyhq.com/dune/f3846675-ec16-49df-840d-a428cb421e8c",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dune",
+        "title": "Data Engineer",
+        "source": "vanshb03",
+        "id": "4923d49b-7e0c-4f18-9400-89bf5e176898",
+        "date_posted": 1764545603,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1764545629,
+        "url": "https://www.amazon.jobs/en/jobs/3133994/system-development-engineer-robotics-integration-and-optimization-services",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "System Development Engineer, Robotics Integration and Optimization Services",
+        "source": "vanshb03",
+        "id": "abfe4bf4-3faf-4d28-93db-0b99cccec443",
+        "date_posted": 1764545629,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1764545634,
+        "url": "https://job-boards.greenhouse.io/affirm/jobs/7485072003",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Affirm",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "73855344-cece-41c9-bc0d-67c71a543bca",
+        "date_posted": 1764545634,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1764545642,
+        "url": "https://job-boards.greenhouse.io/affirm/jobs/7485068003",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Affirm",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "26cf13af-bd7c-4088-ac2a-2e9e940a4b38",
+        "date_posted": 1764545642,
+        "company_url": "",
+        "is_visible": true
     }
 ]
