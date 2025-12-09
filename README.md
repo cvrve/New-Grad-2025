@@ -44,6 +44,11 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Wanderlog** | Full-Stack Software Engineer 🇺🇸 | San Francisco, CA</br>Remote | <a href="https://www.workatastartup.com/jobs/86703?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
+| **Trellis AI** | Member of Technical Staff 🇺🇸 | San Francisco, CA | <a href="https://www.workatastartup.com/jobs/85607?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
+| **Planbase** | Founding Engineer (Full-Stack) | San Francisco, CA, US | <a href="https://www.workatastartup.com/jobs/86588?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
+| **Idler** | Software Engineer 🇺🇸 | San Francisco, CA | <a href="https://www.workatastartup.com/jobs/83889?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
+| **Emerge Career** | Founding Product Engineer | New York, NY | <a href="https://www.workatastartup.com/jobs/79286?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
 | **Yotta Labs** | Research Engineer - Decentralized AI Systems | Remote | <a href="https://jobs.ashbyhq.com/yotta/b5202314-91e1-4940-b8a1-9be0e02d1db5?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 30 |
 | **Waymo** | Software Engineer, ML Tools | Mountain View, CA | <a href="https://careers.withwaymo.com/jobs/software-engineer-ml-tools-mountain-view-california-united-states?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 30 |
 | **Thera** | Founding Engineer 🇺🇸 | New York, NY | <a href="https://www.workatastartup.com/jobs/85422?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 30 |
