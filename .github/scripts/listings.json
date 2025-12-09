@@ -13364,13 +13364,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760208574,
+        "date_updated": 1765308221,
         "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/RLS-Photonics-Software-Engineer---2026-New-Grads_R029181",
         "locations": [
             "Ottawa, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ciena",
         "title": "New Grad 2026: RLS Photonics Software Engineer",
         "source": "vanshb03",
@@ -13558,14 +13558,14 @@
         "sponsorship": "Does Not Offer Sponsorship"
     },
     {
-        "date_updated": 1760482769,
+        "date_updated": 1765308230,
         "url": "https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Associate-Software-QA-Engineer--Hybrid---Acton--MA-_REQ-2025-13185",
         "company_name": "Insulet Corporation",
         "title": "Associate Software QA Engineer",
         "locations": [
             "Acton, MA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "82c1c79b-cbb8-4699-8ec6-77f8d4366ed5",
         "date_posted": 1760482769,
@@ -15975,7 +15975,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1763445755,
+        "date_updated": 1765308283,
         "url": "https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/Madison-WI/IT-Software-Engineer---Entry-Level_R21980",
         "locations": [
             "Madison, WI",
@@ -15983,7 +15983,7 @@
             "Centennial, CO"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Nelnet",
         "title": "IT Software Engineer",
         "source": "vanshb03",
@@ -16174,7 +16174,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1764545584,
+        "date_updated": 1765308288,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/Software-Engineer---Early-Career_JR-202517310",
         "locations": [
             "Mountain View, CA",
@@ -16183,7 +16183,7 @@
             "Warren, MI"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "General Motors",
         "title": "Software Engineer - Early Career",
         "source": "vanshb03",
