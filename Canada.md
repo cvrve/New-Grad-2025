@@ -51,7 +51,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **D2L** | New Grad 2026: Software Developer Rotation Program | <details><summary>**4 locations**</summary>Winnipeg, Canada</br>Toronto, Canada</br>Kitchener, Canada</br>Vancouver, Canada</details> | <a href="https://www.d2l.com/careers/jobs/?job_id=7336031&gh_jid=7336031&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **Quadient** | Software Engineer | Vancouver, Canada | <a href="https://careers.quadient.com/en/jobs/junior-software-engineer?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | **Infoblox** | Associate Data Engineer | Burnaby, Canada | <a href="https://efpv.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6828?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
-| **Ciena** | New Grad 2026: RLS Photonics Software Engineer | Ottawa, Canada | <a href="https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/RLS-Photonics-Software-Engineer---2026-New-Grads_R029181?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | **Ciena** | New Grad: Modem Hardware Engineer | Ottawa, ON, Canada | <a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Modem-Hardware---Engineer-New-Grad_R028721?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | **Atlassian** | New Grad 2026: Software Engineer | Canada | <a href="https://join.atlassian.com/atlassian-talent-community/jobs/20908?lang=en-us&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | **Tripadvisor** | Android Engineer | Ottawa, Canada | <a href="https://careers.tripadvisor.com/job?jobId=7234900&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
@@ -80,6 +79,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Amazon** | New Grad 2025: Software Development Engineer I | Vancouver, BC</br>Toronto, Canada | <a href="https://amazon.jobs/en/jobs/2855790/software-development-engineer-i-2025-computer-science?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 12 |
 | **Ciena** | New Grad: Embedded Software Engineer, Real-Time Systems | Ottawa, ON, Canada | 🔒 | Oct 30 |
 | **Clio** | Software Developer | Calgary, Canada | 🔒 | Oct 11 |
+| **Ciena** | New Grad 2026: RLS Photonics Software Engineer | Ottawa, Canada | 🔒 | Oct 11 |
 | **Ciena** | New Grad: Software Engineer Packet Platform | Ottawa, Canada | 🔒 | Oct 11 |
 | **Capital One** | New Grad: Software Engineer | Toronto, Canada | 🔒 | Oct 11 |
 | **Ciena** | New Grad: Routing/IP Software Engineer | Ottawa, ON, Canada | 🔒 | Sep 26 |
