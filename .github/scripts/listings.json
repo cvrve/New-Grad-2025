@@ -9512,14 +9512,14 @@
         "sponsorship": "Offers Sponsorship"
     },
     {
-        "date_updated": 1756921579,
+        "date_updated": 1765307917,
         "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/6852163003",
         "company_name": "Freeform",
         "title": "Software Engineer",
         "locations": [
             "Los Angeles, CA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "3c26d91e-40b9-4d99-a84c-adb078047df4",
         "date_posted": 1756921579,
@@ -14491,7 +14491,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "XTX Markets",
         "title": "Quant Analyst",
         "source": "vanshb03",
@@ -16322,13 +16322,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1764545721,
+        "date_updated": 1765307919,
         "url": "https://job-boards.greenhouse.io/leagueinc/jobs/5723828004",
         "locations": [
             "United States"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "League",
         "title": "Software Engineer, Backend (Apps & Solutions)",
         "source": "vanshb03",
