@@ -44,6 +44,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Magical** | New Grad: Junior Software Engineer, AI | San Francisco, CA</br>Toronto, Canada | <a href="https://jobs.ashbyhq.com/magical/2c4734af-1ca2-423a-bb4e-29a7da894249?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
 | **Wanderlog** | Full-Stack Software Engineer 🇺🇸 | Toronto, Canada</br>Remote | <a href="https://www.workatastartup.com/jobs/86704?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
 | **EvenUp** | Backend Software Engineer, AI Document Generation (All Levels) | San Francisco, CA</br>Toronto, Canada | <a href="https://jobs.ashbyhq.com/evenup/575484a3-ed12-478f-a575-8db524f9cc96?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 30 |
 | **Wanderlog (W19)** | New Grad: Full-Stack Software Engineer | Remote</br>Toronto, Canada | <a href="https://www.workatastartup.com/jobs/83761?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |

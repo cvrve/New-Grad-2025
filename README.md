@@ -44,6 +44,13 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **WHOOP** | Software Engineer I, Backend | Boston, MA | <a href="https://jobs.lever.co/whoop/02b3ba78-ccb4-40a4-94b3-6b14c71eed9e?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
+| **Waymo** | WebRAD & Rider Support Full Stack SWE | Mountain View, CA | <a href="https://careers.withwaymo.com/jobs/webrad-rider-support-full-stack-swe-mountain-view-california-united-states?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
+| **Viasat** | Software Engineer, Broadband Networks | Carlsbad, CA | <a href="https://careers.viasat.com/jobs/4993?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
+| **Spotify** | Fullstack Engineer | New York, NY | <a href="https://jobs.lever.co/spotify/213ccab3-7bc8-4a63-957c-89bba89d2036?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
+| **Spotify** | Machine Learning Engineer | New York, NY</br>Boston, MA</br>Remote | <a href="https://jobs.lever.co/spotify/7032c810-478c-42fc-9807-25553e978343?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
+| **NVIDIA** | New Grad 2026: GPU and SoC Modelling Architect | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/GPU-and-SoC-Modelling-Architect---New-College-Grad-2026_JR2009934?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
+| **Capgemini** | Full Stack AI Engineer | New York, NY | <a href="https://careers.capgemini.com/job/New-York%2C-NY-Full-Stack-AI-Engineer-NY-10001/1275242401?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
 | **Wanderlog** | Full-Stack Software Engineer 🇺🇸 | San Francisco, CA</br>Remote | <a href="https://www.workatastartup.com/jobs/86703?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
 | **Trellis AI** | Member of Technical Staff 🇺🇸 | San Francisco, CA | <a href="https://www.workatastartup.com/jobs/85607?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
 | **Planbase** | Founding Engineer (Full-Stack) | San Francisco, CA, US | <a href="https://www.workatastartup.com/jobs/86588?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
