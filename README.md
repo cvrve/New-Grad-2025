@@ -123,8 +123,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Spot & Tango** | Jr. Software Engineer | New York, NY | <a href="https://www.spotandtango.com/careers?gh_jid=4620638005&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **SMX** | Junior Data Scientist | Patuxent River, MD | <a href="https://www.smxtech.com/careers/?gh_jid=7498313003&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **Sixtyfour (X25)** | Founding Engineer, AI Research Agents (Full-Stack) 🇺🇸 | San Francisco, CA | <a href="https://www.workatastartup.com/jobs/80466?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
-| **Shield AI** | Software Engineer I, Hardware Test | Dallas, TX | <a href="https://jobs.lever.co/shieldai/8ed6bd48-2bf0-44a2-812d-7d8a2ab6b9f0?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
-| **Shield AI** | Software Engineer I, Hardware Test | Dallas, TX | <a href="https://jobs.lever.co/shieldai/8ed6bd48-2bf0-44a2-812d-7d8a2ab6b9f0/apply?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **Salesforce** | AI Forward Deployed Engineer, Early Career | <details><summary>**10 locations**</summary>Boston, MA</br>Seattle, WA</br>Indianapolis, IN</br>Washington, DC</br>San Francisco, CA</br>Dallas, TX</br>Chicago, IL</br>New York, NY</br>Bellevue, WA</br>Atlanta, GA</details> | <a href="https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Washington---Bellevue/AI-Forward-Deployed-Engineer--New-Grad-_JR312405-1?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **Revionics** | New Grad: Machine Learning Engineer | Austin, TX</br>Atlanta, GA | <a href="https://revionics.com/about/careers/open-jobs?gh_jid=7172125&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **Qualtrics** | Software Engineer I, Digital Experience | Seattle, WA | <a href="https://www.qualtrics.com/careers/us/en/job/7340628?gh_jid=7340628&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
@@ -504,8 +502,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Palantir** | New Grad: Software Engineer | New York, NY | <a href="https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
 | **Palantir** | New Grad: Software Engineer | Seattle, WA | <a href="https://jobs.lever.co/palantir/dea9d3d5-75b2-4588-b7bd-585a47b79c8c?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
 | **Palantir** | New Grad: Software Engineer | Denver, CO | <a href="https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
-| **Palantir** | New Grad 2026: Forward Deployed Software Engineer | Washington, D.C. | <a href="https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
-| **Palantir** | New Grad 2026: Forward Deployed Software Engineer | New York, NY | <a href="https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
 | **Optiver** | New Grad 2026: Software Engineer | Austin, TX | <a href="https://optiver.com/working-at-optiver/career-opportunities/7986421002?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
 | **Optiver** | New Grad 2026: Software Engineer | Chicago, IL | <a href="https://optiver.com/working-at-optiver/career-opportunities/7986419002?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
 | **Optiver** | Graduate Quantitative Researcher | Austin, TX | <a href="https://optiver.com/working-at-optiver/career-opportunities/7967601002?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
@@ -639,6 +635,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Morningstar** | Associate Quantitative Analyst | Chicago, IL | 🔒 | Oct 30 |
 | **ExtraHop** | Software Engineer I | Seattle, WA | 🔒 | Oct 30 |
 | **XTX Markets** | Quant Analyst | New York, NY | 🔒 | Oct 22 |
+| **Shield AI** | Software Engineer I, Hardware Test | Dallas, TX | 🔒 | Oct 22 |
+| **Shield AI** | Software Engineer I, Hardware Test | Dallas, TX | 🔒 | Oct 22 |
 | **RTX** | New Grad 2026: Java Software Engineer I, Onsite | State College, PA | 🔒 | Oct 22 |
 | **Northrop Grumman** | Associate Software Engineer 🇺🇸 | Aurora, CO | 🔒 | Oct 22 |
 | **North** | Associate Product Engineer 🛂 | Remote | 🔒 | Oct 22 |
@@ -880,6 +878,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **NVIDIA** | New Grad 2025: Systems Software Engineer | Hillsboro, OR | 🔒 | Jul 14 |
 | **NVIDIA** | New Grad 2025: Hardware Applications Engineer, Datacenter | Santa Clara, CA | 🔒 | Jul 14 |
 | **Microsoft** | Software Engineer | Multiple Locations, United States | 🔒 | Jul 14 |
+| **Palantir** | New Grad 2026: Forward Deployed Software Engineer | New York, NY | 🔒 | Jul 05 |
+| **Palantir** | New Grad 2026: Forward Deployed Software Engineer | Washington, D.C. | 🔒 | Jul 05 |
 | **Palantir** | New Grad 2026: Forward Deployed Software Engineer | New York, NY | 🔒 | Jul 05 |
 | **NVIDIA** | New Grad 2025: ASIC Design Engineer | Santa Clara, CA | 🔒 | Jul 05 |
 | **Galatea Associates** | Software Engineer Associate 🛂 | <details><summary>**4 locations**</summary>Somerville, MA</br>St. Petersburg, FL</br>Durham, NC</br>London, UK</details> | 🔒 | Jul 05 |
