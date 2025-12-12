@@ -16466,5 +16466,136 @@
         "date_posted": 1765308454,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1765531847,
+        "url": "https://jobs.ashbyhq.com/magical/2c4734af-1ca2-423a-bb4e-29a7da894249",
+        "locations": [
+            "San Francisco, CA",
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Magical",
+        "title": "New Grad: Junior Software Engineer, AI",
+        "source": "vanshb03",
+        "id": "21105f1e-b540-44e8-9c66-152d8c5ec185",
+        "date_posted": 1765531847,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1765531858,
+        "url": "https://careers.capgemini.com/job/New-York%2C-NY-Full-Stack-AI-Engineer-NY-10001/1275242401",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Capgemini",
+        "title": "Full Stack AI Engineer",
+        "source": "vanshb03",
+        "id": "05d08d4f-1a25-4503-b8e9-bc5bfbe6fc51",
+        "date_posted": 1765531858,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1765531864,
+        "url": "https://careers.withwaymo.com/jobs/webrad-rider-support-full-stack-swe-mountain-view-california-united-states",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Waymo",
+        "title": "WebRAD & Rider Support Full Stack SWE",
+        "source": "vanshb03",
+        "id": "e5688a78-d12b-403b-a37b-fe58b1e30c5b",
+        "date_posted": 1765531864,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1765531872,
+        "url": "https://jobs.lever.co/spotify/7032c810-478c-42fc-9807-25553e978343",
+        "locations": [
+            "New York, NY",
+            "Boston, MA",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Spotify",
+        "title": "Machine Learning Engineer",
+        "source": "vanshb03",
+        "id": "4901a281-e10c-44e2-af4d-11d29e996140",
+        "date_posted": 1765531872,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1765531876,
+        "url": "https://jobs.lever.co/spotify/213ccab3-7bc8-4a63-957c-89bba89d2036",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Spotify",
+        "title": "Fullstack Engineer",
+        "source": "vanshb03",
+        "id": "fa03ed58-7e45-405b-ab9a-af10741962e8",
+        "date_posted": 1765531876,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1765531880,
+        "url": "https://jobs.lever.co/whoop/02b3ba78-ccb4-40a4-94b3-6b14c71eed9e",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "WHOOP",
+        "title": "Software Engineer I, Backend",
+        "source": "vanshb03",
+        "id": "c050c1ad-0d7e-4b86-b2fd-113f9badcdb6",
+        "date_posted": 1765531880,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1765531883,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/GPU-and-SoC-Modelling-Architect---New-College-Grad-2026_JR2009934",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2026: GPU and SoC Modelling Architect",
+        "source": "vanshb03",
+        "id": "edd2f929-2c2e-4426-a1e1-dddbe8a887d5",
+        "date_posted": 1765531883,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1765531888,
+        "url": "https://careers.viasat.com/jobs/4993",
+        "locations": [
+            "Carlsbad, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Viasat",
+        "title": "Software Engineer, Broadband Networks",
+        "source": "vanshb03",
+        "id": "3d686685-ac21-4c9c-ba68-2e0c4a6eb611",
+        "date_posted": 1765531888,
+        "company_url": "",
+        "is_visible": true
     }
 ]
