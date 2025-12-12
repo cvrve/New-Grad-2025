@@ -3576,13 +3576,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751749502,
+        "date_updated": 1765531591,
         "url": "https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Palantir",
         "title": "New Grad 2026: Forward Deployed Software Engineer",
         "source": "vanshb03",
@@ -3592,13 +3592,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751749513,
+        "date_updated": 1765531591,
         "url": "https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb",
         "locations": [
             "Washington, D.C."
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Palantir",
         "title": "New Grad 2026: Forward Deployed Software Engineer",
         "source": "vanshb03",
@@ -14633,14 +14633,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1761174604,
+        "date_updated": 1765531594,
         "url": "https://jobs.lever.co/shieldai/8ed6bd48-2bf0-44a2-812d-7d8a2ab6b9f0/apply",
         "company_name": "Shield AI",
         "title": "Software Engineer I, Hardware Test",
         "locations": [
             "Dallas, TX"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "12d887eb-7b63-4c08-a7cc-774ee18920d0",
         "date_posted": 1761174604,
@@ -14786,13 +14786,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761176422,
+        "date_updated": 1765531593,
         "url": "https://jobs.lever.co/shieldai/8ed6bd48-2bf0-44a2-812d-7d8a2ab6b9f0",
         "locations": [
             "Dallas, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Shield AI",
         "title": "Software Engineer I, Hardware Test",
         "source": "vanshb03",
@@ -16370,101 +16370,101 @@
         "is_visible": true
     },
     {
-    "date_updated": 1765308393,
-    "url": "https://www.workatastartup.com/jobs/86703",
-    "locations": [  
-        "San Francisco, CA",
-        "Remote"
-    ],
-    "sponsorship": "U.S. Citizenship is Required",
-    "active": true,
-    "company_name": "Wanderlog",
-    "title": "Full-Stack Software Engineer",
-    "source": "vanshb03",
-    "id": "0f67849b-7686-4726-8166-caadfb96f2f1",
-    "date_posted": 1765308393,
-    "company_url": "",
-    "is_visible": true
+        "date_updated": 1765308393,
+        "url": "https://www.workatastartup.com/jobs/86703",
+        "locations": [
+            "San Francisco, CA",
+            "Remote"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Wanderlog",
+        "title": "Full-Stack Software Engineer",
+        "source": "vanshb03",
+        "id": "0f67849b-7686-4726-8166-caadfb96f2f1",
+        "date_posted": 1765308393,
+        "company_url": "",
+        "is_visible": true
     },
     {
-    "date_updated": 1765308398,
-    "url": "https://www.workatastartup.com/jobs/86704",
-    "locations": [
-        "Toronto, Canada",
-        "Remote"
-    ],
-    "sponsorship": "U.S. Citizenship is Required",
-    "active": true,
-    "company_name": "Wanderlog",
-    "title": "Full-Stack Software Engineer",
-    "source": "vanshb03",
-    "id": "c2594497-e483-4d3a-bd23-5637c3309291",
-    "date_posted": 1765308398,
-    "company_url": "",
-    "is_visible": true
+        "date_updated": 1765308398,
+        "url": "https://www.workatastartup.com/jobs/86704",
+        "locations": [
+            "Toronto, Canada",
+            "Remote"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Wanderlog",
+        "title": "Full-Stack Software Engineer",
+        "source": "vanshb03",
+        "id": "c2594497-e483-4d3a-bd23-5637c3309291",
+        "date_posted": 1765308398,
+        "company_url": "",
+        "is_visible": true
     },
     {
-    "date_updated": 1765308434,
-    "url": "https://www.workatastartup.com/jobs/85607",
-    "locations": [
-        "San Francisco, CA"
-    ],
-    "sponsorship": "U.S. Citizenship is Required",
-    "active": true,
-    "company_name": "Trellis AI",
-    "title": "Member of Technical Staff",
-    "source": "vanshb03",
-    "id": "e99bdb61-cdaf-4577-bc02-17600d3c1c55",
-    "date_posted": 1765308434,
-    "company_url": "",
-    "is_visible": true
+        "date_updated": 1765308434,
+        "url": "https://www.workatastartup.com/jobs/85607",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Trellis AI",
+        "title": "Member of Technical Staff",
+        "source": "vanshb03",
+        "id": "e99bdb61-cdaf-4577-bc02-17600d3c1c55",
+        "date_posted": 1765308434,
+        "company_url": "",
+        "is_visible": true
     },
     {
-    "date_updated": 1765308438,
-    "url": "https://www.workatastartup.com/jobs/86588",
-    "locations": [
-        "San Francisco, CA, US"
-    ],
-    "sponsorship": "Offers Sponsorship",
-    "active": true,
-    "company_name": "Planbase",
-    "title": "Founding Engineer (Full-Stack)",
-    "source": "vanshb03",
-    "id": "63042833-1a34-425a-b049-5f4bcf41d4b0",
-    "date_posted": 1765308438,
-    "company_url": "",
-    "is_visible": true
+        "date_updated": 1765308438,
+        "url": "https://www.workatastartup.com/jobs/86588",
+        "locations": [
+            "San Francisco, CA, US"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Planbase",
+        "title": "Founding Engineer (Full-Stack)",
+        "source": "vanshb03",
+        "id": "63042833-1a34-425a-b049-5f4bcf41d4b0",
+        "date_posted": 1765308438,
+        "company_url": "",
+        "is_visible": true
     },
     {
-    "date_updated": 1765308442,
-    "url": "https://www.workatastartup.com/jobs/83889",
-    "locations": [
-        "San Francisco, CA"
-    ],
-    "sponsorship": "U.S. Citizenship is Required",
-    "active": true,
-    "company_name": "Idler",
-    "title": "Software Engineer",
-    "source": "vanshb03",
-    "id": "c60e336e-9c31-4cd5-886c-287ea9dc1c06",
-    "date_posted": 1765308442,
-    "company_url": "",
-    "is_visible": true
+        "date_updated": 1765308442,
+        "url": "https://www.workatastartup.com/jobs/83889",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Idler",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "c60e336e-9c31-4cd5-886c-287ea9dc1c06",
+        "date_posted": 1765308442,
+        "company_url": "",
+        "is_visible": true
     },
     {
-    "date_updated": 1765308454,
-    "url": "https://www.workatastartup.com/jobs/79286",
-    "locations": [
-        "New York, NY"
-    ],
-    "sponsorship": "Offers Sponsorship",
-    "active": true,
-    "company_name": "Emerge Career",
-    "title": "Founding Product Engineer",
-    "source": "vanshb03",
-    "id": "94972616-eb1a-4730-b274-66b3f3fd7dc1",
-    "date_posted": 1765308454,
-    "company_url": "",
-    "is_visible": true
+        "date_updated": 1765308454,
+        "url": "https://www.workatastartup.com/jobs/79286",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Emerge Career",
+        "title": "Founding Product Engineer",
+        "source": "vanshb03",
+        "id": "94972616-eb1a-4730-b274-66b3f3fd7dc1",
+        "date_posted": 1765308454,
+        "company_url": "",
+        "is_visible": true
     }
 ]
