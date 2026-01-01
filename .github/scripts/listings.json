@@ -178,7 +178,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1743854117,
+        "date_updated": 1767283134,
         "url": "https://jobs.careers.microsoft.com/us/en/job/1816830/Software-Engineer-Fullstack-Charlotte",
         "company_name": "Microsoft",
         "title": "Software Engineer, Fullstack",
@@ -186,7 +186,7 @@
             "Charlotte, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "65ab7eda-d316-4a8e-b2e5-06a691a5402d",
         "date_posted": 1743854117,
@@ -4536,13 +4536,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753043511,
+        "date_updated": 1767283134,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1844417/Site-Reliability-Engineer---CTJ---Top-Secret",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Site Reliability Engineer",
         "source": "vanshb03",
@@ -4569,13 +4569,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753369632,
+        "date_updated": 1767283134,
         "url": "https://job-boards.greenhouse.io/neuralink/jobs/6658884003",
         "locations": [
             "Fremont, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Neuralink",
         "title": "Software Engineer, Next Gen",
         "source": "vanshb03",
@@ -5243,13 +5243,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753910567,
+        "date_updated": 1767283134,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1851452/Software-Engineer",
         "locations": [
             "Multiple Locations, United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer I",
         "source": "vanshb03",
@@ -5259,13 +5259,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753910575,
+        "date_updated": 1767283134,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1853826/Software-Engineer---Azure-Data",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer - Azure Data",
         "source": "vanshb03",
@@ -9593,13 +9593,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756922194,
+        "date_updated": 1767283135,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1862399/Software-Engineer",
         "locations": [
             "Multiple Locations, United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -10078,13 +10078,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757306005,
+        "date_updated": 1767283135,
         "url": "https://job-boards.greenhouse.io/verkada/jobs/4835669007",
         "locations": [
             "San Mateo, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Verkada",
         "title": "New Grad 2026: Embedded Software Engineer",
         "source": "vanshb03",
@@ -11628,13 +11628,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757801262,
+        "date_updated": 1767283135,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1872822/Software-Engineer---CTJ---Poly",
         "locations": [
             "Reston, VA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer - CTJ - Poly",
         "source": "vanshb03",
@@ -12970,7 +12970,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759976727,
+        "date_updated": 1767283135,
         "url": "https://jobs.lever.co/gauntlet/05622c55-52bf-47a9-8d88-e83d70fc5bad",
         "locations": [
             "New York City, NY",
@@ -12979,7 +12979,7 @@
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Gauntlet",
         "title": "New Grad: Quant Research Engineer",
         "source": "vanshb03",
@@ -14946,14 +14946,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1761840220,
+        "date_updated": 1767283135,
         "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8136092002",
         "company_name": "Torc Robotics",
         "title": "Machine Learning Engineer, I, App Engine (CUDA)",
         "locations": [
             "Ann Arbor, MI"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "eb0ffd06-6fb7-42b3-8f83-db3761372bd4",
         "date_posted": 1761840220,
