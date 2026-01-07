@@ -16679,14 +16679,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1767284102,
+        "date_updated": 1767746085,
         "url": "https://jobs.lever.co/spotify/51cfd148-318d-4870-bf61-dc47a4572374",
         "locations": [
             "New York, NY",
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Spotify",
         "title": "Full Stack Engineer, Backstage Portal, Data Experience",
         "source": "vanshb03",
@@ -16696,13 +16696,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1767284109,
+        "date_updated": 1767746085,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556640131",
         "locations": [
             "United States"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer",
         "source": "vanshb03",
