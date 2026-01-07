@@ -44,6 +44,13 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **TikTok** | New Grad 2026: Research Scientist Graduate: TikTok Recommendation | San Jose, CA | <a href="https://lifeattiktok.com/search/7532216894792222994?spread=5MWH5CQ&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
+| **Spotify** | Full Stack Engineer, Backstage Portal, Data Experience | New York, NY</br>Remote | <a href="https://jobs.lever.co/spotify/51cfd148-318d-4870-bf61-dc47a4572374?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
+| **Sierra** | New Grad: Software Engineer, Agent | New York, NY | <a href="https://jobs.ashbyhq.com/Sierra/ce2ae656-714c-4a6c-a020-fe418f868075?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
+| **Sierra** | New Grad: Software Engineer, Agent | San Francisco, CA | <a href="https://jobs.ashbyhq.com/Sierra/6a75b530-b7bb-4439-bb67-37b4f2b75b96?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
+| **Microsoft** | Software Engineer 🇺🇸 | United States | <a href="https://apply.careers.microsoft.com/careers/job/1970393556640131?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
+| **ByteDance** | New Grad 2026: Backend Software Engineer Graduate | San Jose, CA | <a href="https://joinbytedance.com/search/7527678842316998919?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
+| **ByteDance** | New Grad 2026: Software Development Engineer in Test Graduate | San Jose, CA | <a href="https://joinbytedance.com/search/7532657573800659218?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
 | **WHOOP** | Software Engineer I, Backend | Boston, MA | <a href="https://jobs.lever.co/whoop/02b3ba78-ccb4-40a4-94b3-6b14c71eed9e?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
 | **Waymo** | WebRAD & Rider Support Full Stack SWE | Mountain View, CA | <a href="https://careers.withwaymo.com/jobs/webrad-rider-support-full-stack-swe-mountain-view-california-united-states?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
 | **Viasat** | Software Engineer, Broadband Networks | Carlsbad, CA | <a href="https://careers.viasat.com/jobs/4993?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
