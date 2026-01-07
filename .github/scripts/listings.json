@@ -16710,5 +16710,53 @@
         "date_posted": 1767284109,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1767746387,
+        "url": "https://www.workatastartup.com/jobs/88067",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Caddy",
+        "title": "Founding Engineer",
+        "source": "vanshb03",
+        "id": "5bbf0699-11ec-4ce2-b643-4036b17c1ebf",
+        "date_posted": 1767746387,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1767746391,
+        "url": "https://www.workatastartup.com/jobs/88025",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Planbase",
+        "title": "Founding Engineer",
+        "source": "vanshb03",
+        "id": "d38e3f8d-3b60-4d82-9818-aaff75c2592c",
+        "date_posted": 1767746391,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1767746394,
+        "url": "https://www.workatastartup.com/jobs/87443",
+        "locations": [
+            "San Francisco, CA, US"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Planbase",
+        "title": "Founding Product Engineer",
+        "source": "vanshb03",
+        "id": "81e4fe44-c95c-4367-8ae3-18e345169d67",
+        "date_posted": 1767746394,
+        "company_url": "",
+        "is_visible": true
     }
 ]
