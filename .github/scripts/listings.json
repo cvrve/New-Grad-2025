@@ -16887,5 +16887,37 @@
         "date_posted": 1767746879,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1767746997,
+        "url": "https://www.rentec.com/Careers.action?jobs=true&selectedPosition=researchScientist",
+        "locations": [
+            "East Setauket, NY"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Renaissance Technologies",
+        "title": "Research Scientist",
+        "source": "vanshb03",
+        "id": "d2acd2a3-15a7-4c1a-a8c1-39c8bf2843ea",
+        "date_posted": 1767746997,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1767747000,
+        "url": "https://www.rentec.com/Careers.action?jobs=true&selectedPosition=realtimeTradingProgrammer",
+        "locations": [
+            "East Setauket, NY"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Renaissance Technologies",
+        "title": "Real-Time Trading Programmer",
+        "source": "vanshb03",
+        "id": "e2287511-dba4-498b-827e-50ba46fdd8a5",
+        "date_posted": 1767747000,
+        "company_url": "",
+        "is_visible": true
     }
 ]
