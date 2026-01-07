@@ -16758,5 +16758,134 @@
         "date_posted": 1767746394,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1767746789,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556637693",
+        "locations": [
+            "United States, Multiple Locations"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "99e6edce-e573-47f8-a5bb-01f9739d76a6",
+        "date_posted": 1767746789,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1767746801,
+        "url": "https://lifeattiktok.com/search/7591947799615260933?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Software Engineer Graduate, Site Reliability Engineering",
+        "source": "vanshb03",
+        "id": "8e1561a5-e2fc-469b-b4ff-62be2b446dcc",
+        "date_posted": 1767746801,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1767746807,
+        "url": "https://stripe.com/jobs/listing/security-engineer-new-grad/7477571",
+        "locations": [
+            "Seattle, WA",
+            "South San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Stripe",
+        "title": "New Grad: Security Engineer",
+        "source": "vanshb03",
+        "id": "df0bdf50-8a5b-4ead-894e-4460fe523a96",
+        "date_posted": 1767746807,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1767746826,
+        "url": "https://careers.adobe.com/us/en/job/ADOBUSR160657EXTERNALENUS/2026-University-Graduate-Software-Development-Engineer",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Adobe",
+        "title": "Software Development Engineer",
+        "source": "vanshb03",
+        "id": "73c5c3e2-2230-4104-bc31-d0456412cb53",
+        "date_posted": 1767746826,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1767746831,
+        "url": "https://www.tesla.com/careers/search/job/259019",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "AI Engineer, Reinforcement Learning, Self-Driving",
+        "source": "vanshb03",
+        "id": "5e6831f9-2531-4f11-b951-968e71ee8a34",
+        "date_posted": 1767746831,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1767746835,
+        "url": "https://www.tesla.com/careers/search/job/259057",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer, Core Vehicle Fulfillment Experience",
+        "source": "vanshb03",
+        "id": "3de87955-812b-42ac-9a1d-e78522173016",
+        "date_posted": 1767746835,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1767746840,
+        "url": "https://university-uber.icims.com/jobs/152559/job?mobile=false&width=1069&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Uber",
+        "title": "New Grad 2026: Software Engineer I, Mobile",
+        "source": "vanshb03",
+        "id": "cbddd403-e23f-4e67-8bc4-ce270d98011c",
+        "date_posted": 1767746840,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1767746879,
+        "url": "https://university-uber.icims.com/jobs/152427/job",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Uber",
+        "title": "New Grad 2026: Software Engineer I",
+        "source": "vanshb03",
+        "id": "fffecdc9-204f-4a99-8cf1-65eb19f509e8",
+        "date_posted": 1767746879,
+        "company_url": "",
+        "is_visible": true
     }
 ]
