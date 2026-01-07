@@ -44,6 +44,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Planbase** | Founding Product Engineer | San Francisco, CA, US | <a href="https://www.workatastartup.com/jobs/87443?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 07 |
+| **Planbase** | Founding Engineer | San Francisco, CA | <a href="https://www.workatastartup.com/jobs/88025?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 07 |
+| **Caddy** | Founding Engineer 🇺🇸 | New York, NY | <a href="https://www.workatastartup.com/jobs/88067?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 07 |
 | **TikTok** | New Grad 2026: Research Scientist Graduate: TikTok Recommendation | San Jose, CA | <a href="https://lifeattiktok.com/search/7532216894792222994?spread=5MWH5CQ&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
 | **Sierra** | New Grad: Software Engineer, Agent | New York, NY | <a href="https://jobs.ashbyhq.com/Sierra/ce2ae656-714c-4a6c-a020-fe418f868075?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
 | **Sierra** | New Grad: Software Engineer, Agent | San Francisco, CA | <a href="https://jobs.ashbyhq.com/Sierra/6a75b530-b7bb-4439-bb67-37b4f2b75b96?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
