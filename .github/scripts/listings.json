@@ -16597,5 +16597,118 @@
         "date_posted": 1765531888,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1767284064,
+        "url": "https://jobs.ashbyhq.com/Sierra/6a75b530-b7bb-4439-bb67-37b4f2b75b96",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sierra",
+        "title": "New Grad: Software Engineer, Agent",
+        "source": "vanshb03",
+        "id": "063c73ea-6a18-4cd0-b970-f55a4e5f5461",
+        "date_posted": 1767284064,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1767284073,
+        "url": "https://jobs.ashbyhq.com/Sierra/ce2ae656-714c-4a6c-a020-fe418f868075",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sierra",
+        "title": "New Grad: Software Engineer, Agent",
+        "source": "vanshb03",
+        "id": "6f3dbf87-6fb7-44d0-ad2f-78206ebb7922",
+        "date_posted": 1767284073,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1767284081,
+        "url": "https://joinbytedance.com/search/7532657573800659218",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2026: Software Development Engineer in Test Graduate",
+        "source": "vanshb03",
+        "id": "e92caeec-09c4-4a82-8fed-86e2a7898367",
+        "date_posted": 1767284081,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1767284088,
+        "url": "https://joinbytedance.com/search/7527678842316998919",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2026: Backend Software Engineer Graduate",
+        "source": "vanshb03",
+        "id": "2cf8dd13-93b9-4fee-b268-7d0e45477680",
+        "date_posted": 1767284088,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1767284094,
+        "url": "https://lifeattiktok.com/search/7532216894792222994?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Research Scientist Graduate: TikTok Recommendation",
+        "source": "vanshb03",
+        "id": "bab2d11f-67ff-46f0-a5d9-8fc7e93c525a",
+        "date_posted": 1767284094,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1767284102,
+        "url": "https://jobs.lever.co/spotify/51cfd148-318d-4870-bf61-dc47a4572374",
+        "locations": [
+            "New York, NY",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Spotify",
+        "title": "Full Stack Engineer, Backstage Portal, Data Experience",
+        "source": "vanshb03",
+        "id": "4529bfc6-1fba-45d6-b0dd-7af4c5ecf307",
+        "date_posted": 1767284102,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1767284109,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556640131",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "e7efb0c8-5d02-40fd-9a13-46a9eb2685c1",
+        "date_posted": 1767284109,
+        "company_url": "",
+        "is_visible": true
     }
 ]
