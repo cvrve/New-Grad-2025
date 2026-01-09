@@ -16919,5 +16919,251 @@
         "date_posted": 1767747000,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1767995413,
+        "url": "https://www.ixl.com/company/careers?gh_jid=8364780002",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "IXL Learning",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "f56f6a1f-499d-459d-bdfb-0111694d0029",
+        "date_posted": 1767995413,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1767995419,
+        "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4749965101",
+        "locations": [
+            "Santa Monica, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "StubHub",
+        "title": "New Grad: Software Engineer I",
+        "source": "vanshb03",
+        "id": "35cf42a3-b608-4e00-835b-36a1e0e57285",
+        "date_posted": 1767995419,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1767995449,
+        "url": "https://www.tesla.com/careers/search/job/259428",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Fullstack Software Engineer, Energy Products Software",
+        "source": "vanshb03",
+        "id": "9c8cae3f-1ffc-48ac-8eeb-c517d2bb8a25",
+        "date_posted": 1767995449,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1767995452,
+        "url": "https://www.tesla.com/careers/search/job/259410",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Mobile App Build Engineer, Vehicle Software",
+        "source": "vanshb03",
+        "id": "b7b340a0-921f-4ec8-8416-43e221cf6d97",
+        "date_posted": 1767995452,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1767995456,
+        "url": "https://www.tesla.com/careers/search/job/259427",
+        "locations": [
+            "Palo Alto, California"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Security Engineer, Energy Product Software",
+        "source": "vanshb03",
+        "id": "89fe738d-13fc-4849-a50e-13ba54619c83",
+        "date_posted": 1767995456,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1767995459,
+        "url": "https://www.tesla.com/careers/search/job/233307",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "AI Engineer, Vision & Foundation Models, Optimus",
+        "source": "vanshb03",
+        "id": "8b5aa470-1439-4d44-a72b-b3d0e73b5725",
+        "date_posted": 1767995459,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1767995462,
+        "url": "https://www.tesla.com/careers/search/job/259300",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Integration Engineer, Suspension, Vehicle Software",
+        "source": "vanshb03",
+        "id": "b7a8d49b-d1e4-44f1-b910-8798e7d6a260",
+        "date_posted": 1767995462,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1767995465,
+        "url": "https://careers.twitch.com/en/career-posts/8347863002/",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Twitch",
+        "title": "Software Engineer, Creator Monetization",
+        "source": "vanshb03",
+        "id": "15d6a9ec-6b14-4157-b662-7f60a505aa46",
+        "date_posted": 1767995465,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1767995469,
+        "url": "https://careers.twitch.com/en/career-posts/8334351002/",
+        "locations": [
+            "San Francisco, CA",
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Twitch",
+        "title": "Software Engineer I",
+        "source": "vanshb03",
+        "id": "529a68e4-376b-4e25-8936-cc06593701ce",
+        "date_posted": 1767995469,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1767995471,
+        "url": "https://careers.twitch.com/en/career-posts/8360103002/",
+        "locations": [
+            "Seattle, WA",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Twitch",
+        "title": "Software Engineer I",
+        "source": "vanshb03",
+        "id": "442b0c92-4295-4c41-a739-f4f5798f159c",
+        "date_posted": 1767995471,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1767995476,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556630980",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer I",
+        "source": "vanshb03",
+        "id": "bf424026-3d57-4442-a128-8e94558d1612",
+        "date_posted": 1767995476,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1767995479,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556620955",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "ba91484e-7215-4148-93d8-896bd6954fc4",
+        "date_posted": 1767995479,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1767995484,
+        "url": "https://jobs.ashbyhq.com/cohere/110ba167-4efd-43b7-85d2-3ff719a28b0f",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY",
+            "Toronto, Canada",
+            "Montreal, Canada",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cohere",
+        "title": "Member of Technical Staff, MLE",
+        "source": "vanshb03",
+        "id": "582cb736-168c-43ff-a427-20037e5eaef2",
+        "date_posted": 1767995484,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1767995490,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556619827",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "2ea916a0-422c-4ee5-be66-b72525363fb0",
+        "date_posted": 1767995490,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1767995496,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556652607",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer: Azure One Fleet Platform",
+        "source": "vanshb03",
+        "id": "4d582ecd-b0dd-41e3-a247-41c32a06d24a",
+        "date_posted": 1767995496,
+        "company_url": "",
+        "is_visible": true
     }
 ]
