@@ -44,6 +44,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Cohere** | Member of Technical Staff, MLE | <details><summary>**5 locations**</summary>San Francisco, CA</br>New York, NY</br>Toronto, Canada</br>Montreal, Canada</br>Remote</details> | <a href="https://jobs.ashbyhq.com/cohere/110ba167-4efd-43b7-85d2-3ff719a28b0f?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 09 |
 | **Magical** | New Grad: Junior Software Engineer, AI | San Francisco, CA</br>Toronto, Canada | <a href="https://jobs.ashbyhq.com/magical/2c4734af-1ca2-423a-bb4e-29a7da894249?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
 | **Wanderlog** | Full-Stack Software Engineer 🇺🇸 | Toronto, Canada</br>Remote | <a href="https://www.workatastartup.com/jobs/86704?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
 | **EvenUp** | Backend Software Engineer, AI Document Generation (All Levels) | San Francisco, CA</br>Toronto, Canada | <a href="https://jobs.ashbyhq.com/evenup/575484a3-ed12-478f-a575-8db524f9cc96?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 30 |
