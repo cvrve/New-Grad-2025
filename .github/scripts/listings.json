@@ -16535,13 +16535,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1765531876,
+        "date_updated": 1767993673,
         "url": "https://jobs.lever.co/spotify/213ccab3-7bc8-4a63-957c-89bba89d2036",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Spotify",
         "title": "Fullstack Engineer",
         "source": "vanshb03",
@@ -16760,13 +16760,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1767746789,
+        "date_updated": 1767993674,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556637693",
         "locations": [
             "United States, Multiple Locations"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer",
         "source": "vanshb03",
