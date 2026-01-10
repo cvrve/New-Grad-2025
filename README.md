@@ -44,6 +44,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Unity Technologies** | Software Engineer 🛂 | Remote | <a href="https://unity.com/careers/positions/7435121?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 10 |
+| **Adobe** | Software Development Engineer | San Jose, CA | <a href="https://careers.adobe.com/us/en/job/ADOBUSR161061EXTERNALENUS/Software-Development-Engineer?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 10 |
 | **Twitch** | Software Engineer I | Seattle, WA</br>San Francisco, CA | <a href="https://careers.twitch.com/en/career-posts/8360103002/?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 09 |
 | **Twitch** | Software Engineer I | San Francisco, CA</br>Seattle, WA | <a href="https://careers.twitch.com/en/career-posts/8334351002/?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 09 |
 | **Twitch** | Software Engineer, Creator Monetization | San Francisco, CA | <a href="https://careers.twitch.com/en/career-posts/8347863002/?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 09 |
