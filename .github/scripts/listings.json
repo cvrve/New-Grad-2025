@@ -17165,5 +17165,37 @@
         "date_posted": 1767995496,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1768075329,
+        "url": "https://unity.com/careers/positions/7435121",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Unity Technologies",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "1012d9d9-80cf-4c48-b844-8d364a9dced4",
+        "date_posted": 1768075329,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1768075340,
+        "url": "https://careers.adobe.com/us/en/job/ADOBUSR161061EXTERNALENUS/Software-Development-Engineer",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Adobe",
+        "title": "Software Development Engineer",
+        "source": "vanshb03",
+        "id": "9271b22f-eb87-4afc-a02a-02179a53be1c",
+        "date_posted": 1768075340,
+        "company_url": "",
+        "is_visible": true
     }
 ]
