@@ -55,10 +55,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Tesla** | Mobile App Build Engineer, Vehicle Software | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/259410?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 09 |
 | **Tesla** | Fullstack Software Engineer, Energy Products Software | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/259428?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 09 |
 | **StubHub** | New Grad: Software Engineer I | Santa Monica, CA | <a href="https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4749965101?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 09 |
-| **Microsoft** | Software Engineer: Azure One Fleet Platform | United States | <a href="https://apply.careers.microsoft.com/careers/job/1970393556652607?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 09 |
-| **Microsoft** | Software Engineer | United States | <a href="https://apply.careers.microsoft.com/careers/job/1970393556619827?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 09 |
-| **Microsoft** | Software Engineer | United States | <a href="https://apply.careers.microsoft.com/careers/job/1970393556620955?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 09 |
-| **Microsoft** | Software Engineer I | United States | <a href="https://apply.careers.microsoft.com/careers/job/1970393556630980?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 09 |
 | **IXL Learning** | New Grad: Software Engineer | Raleigh, NC | <a href="https://www.ixl.com/company/careers?gh_jid=8364780002&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 09 |
 | **Uber** | New Grad 2026: Software Engineer I | San Francisco, CA | <a href="https://university-uber.icims.com/jobs/152427/job?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 07 |
 | **Uber** | New Grad 2026: Software Engineer I, Mobile | San Francisco, CA | <a href="https://university-uber.icims.com/jobs/152559/job?mobile=false&width=1069&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 07 |
@@ -631,6 +627,10 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Qualtrics** | Machine Learning Engineer I | Seattle, WA | <a href="https://www.qualtrics.com/careers/us/en/job/6774164/Machine-Learning-Engineer-I-Data-Insights?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
 | **Amazon** | System Development Engineer, Project Kuiper | Redmond, WA | <a href="https://www.amazon.jobs/en/jobs/2945843/system-development-engineer-project-kuiper?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
 | **Qualcomm** | Embedded DSP Software Engineer | San Diego, CA | <a href="https://careers.qualcomm.com/careers/job/446704474013?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
+| **Microsoft** | Software Engineer I | United States | 🔒 | Jan 09 |
+| **Microsoft** | Software Engineer | United States | 🔒 | Jan 09 |
+| **Microsoft** | Software Engineer | United States | 🔒 | Jan 09 |
+| **Microsoft** | Software Engineer: Azure One Fleet Platform | United States | 🔒 | Jan 09 |
 | **Microsoft** | Software Engineer 🇺🇸 | United States, Multiple Locations | 🔒 | Jan 07 |
 | **Spotify** | Full Stack Engineer, Backstage Portal, Data Experience | New York, NY</br>Remote | 🔒 | Jan 01 |
 | **Microsoft** | Software Engineer 🇺🇸 | United States | 🔒 | Jan 01 |
