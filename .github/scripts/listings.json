@@ -6747,14 +6747,14 @@
         "sponsorship": "Does Not Offer Sponsorship"
     },
     {
-        "date_updated": 1755113970,
+        "date_updated": 1769923603,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Scientist--Robotics-Research---New-College-Grad-2025_JR2001017",
         "company_name": "NVIDIA",
         "title": "Research Scientist, Robotics Research",
         "locations": [
             "Seattle, WA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "4b35d640-027a-4597-9d66-bd6eb42d4271",
         "date_posted": 1755113970,
@@ -6941,7 +6941,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1755113970,
+        "date_updated": 1769923608,
         "url": "https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Kansas-City-MO/Returning-New-Grad-Software-Engineer-I--Great-Lakes-Division--For-Current-Former-HNTB-Interns-Only_R-26770-1",
         "company_name": "HNTB",
         "title": "Returning New Grad Software Engineer I",
@@ -6950,7 +6950,7 @@
             "Kansas City, MO",
             "Overland Park, KS"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "45ca3c6f-4fc6-45e0-a76b-3024a0e72b01",
         "date_posted": 1755113970,
@@ -13184,7 +13184,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760208344,
+        "date_updated": 1769923617,
         "url": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Software-Development-Graduate_3152963",
         "locations": [
             "Spring, TX",
@@ -13194,7 +13194,7 @@
             "Vancouver, WA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "HP",
         "title": "Software Development Engineer",
         "source": "vanshb03",
@@ -14681,7 +14681,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1761174684,
+        "date_updated": 1769923632,
         "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Washington---Bellevue/AI-Forward-Deployed-Engineer--New-Grad-_JR312405-1",
         "company_name": "Salesforce",
         "title": "AI Forward Deployed Engineer, Early Career",
@@ -14697,7 +14697,7 @@
             "Bellevue, WA",
             "Atlanta, GA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "e82c8053-69b8-4693-8926-311c7813f2df",
         "date_posted": 1761174684,
@@ -15143,7 +15143,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762019358,
+        "date_updated": 1769923636,
         "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/AI-Forward-Deployed-Engineer--New-Grad-_JR312405-1",
         "locations": [
             "Remote",
@@ -15152,7 +15152,7 @@
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Salesforce",
         "title": "AI Forward Deployed Engineer (Early Career)",
         "source": "vanshb03",
@@ -15452,7 +15452,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762782713,
+        "date_updated": 1769923640,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/GPU-Architecture-Engineer---New-College-Grad-2025_JR2002495",
         "locations": [
             "Santa Clara, CA",
@@ -15460,7 +15460,7 @@
             "Durham, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "New Grad 2025: GPU Architecture Engineer",
         "source": "vanshb03",
@@ -16567,13 +16567,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1765531883,
+        "date_updated": 1769923654,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/GPU-and-SoC-Modelling-Architect---New-College-Grad-2026_JR2009934",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "New Grad 2026: GPU and SoC Modelling Architect",
         "source": "vanshb03",
