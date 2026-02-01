@@ -10094,13 +10094,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757306007,
+        "date_updated": 1769923542,
         "url": "https://job-boards.greenhouse.io/verkada/jobs/4835616007",
         "locations": [
             "San Mateo, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Verkada",
         "title": "New Grad 2026: Backend Software Engineer",
         "source": "vanshb03",
@@ -10110,13 +10110,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757306013,
+        "date_updated": 1769923536,
         "url": "https://job-boards.greenhouse.io/verkada/jobs/4855439007",
         "locations": [
             "San Mateo, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Verkada",
         "title": "New Grad 2026: Frontend Software Engineer",
         "source": "vanshb03",
@@ -10717,14 +10717,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757347576,
+        "date_updated": 1769923536,
         "url": "https://job-boards.greenhouse.io/figma/jobs/5616455004",
         "locations": [
             "San Francisco, CA",
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Figma",
         "title": "Product Designer",
         "source": "vanshb03",
@@ -15404,13 +15404,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762782327,
+        "date_updated": 1769923537,
         "url": "https://www.ycombinator.com/companies/pointone/jobs/I2ShCi8-new-grad-software-engineer",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "PointOne",
         "title": "New Grad 2025: Software Engineer",
         "source": "vanshb03",
@@ -15765,7 +15765,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1763252230,
+        "date_updated": 1769923536,
         "url": "https://job-boards.greenhouse.io/spacex/jobs/8121675002",
         "company_name": "SpaceX",
         "title": "New Grad: Software Engineer",
@@ -15773,7 +15773,7 @@
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "ouckah",
         "id": "e46c4659-b631-4e6a-b053-64d824c6e062",
         "date_posted": 1763252230,
