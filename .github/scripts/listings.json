@@ -17534,5 +17534,314 @@
         "date_posted": 1769926660,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1771169955,
+        "url": "https://jobs.lever.co/spotify/ad5ef898-b800-4213-a63e-e39a97df9cfb",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Spotify",
+        "title": "Site Reliability Engineer",
+        "source": "vanshb03",
+        "id": "661ee31d-aa38-43d4-aeb7-b7b3fb767033",
+        "date_posted": 1771169955,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1771169961,
+        "url": "https://jobs.apple.com/en-us/details/200646547-3956/software-engineer-customer-systems-is-t-early-career",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apple",
+        "title": "Software Engineer, Customer Systems",
+        "source": "vanshb03",
+        "id": "78d11bf6-a796-474d-99ef-9e36ac66327d",
+        "date_posted": 1771169961,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1771169964,
+        "url": "https://jobs.apple.com/en-us/details/200636915-0836/junior-ui-compositing-engineer",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apple",
+        "title": "Junior UI Compositing Engineer",
+        "source": "vanshb03",
+        "id": "d4441bb8-7d4b-44a1-994d-e10cc6f472e8",
+        "date_posted": 1771169964,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1771169971,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556753654",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Site Reliability Engineer",
+        "source": "vanshb03",
+        "id": "8df2a4c9-4670-4d84-af86-99c16a082390",
+        "date_posted": 1771169971,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1771169973,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/ASIC-RTL-Integration-and-Netlisting-Engineer---New-College-Grad-2026_JR2013172",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2026: ASIC RTL Integration and Netlisting Engineer",
+        "source": "vanshb03",
+        "id": "026fe2cb-3c98-4738-bf95-332dabf195f8",
+        "date_posted": 1771169973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1771169981,
+        "url": "https://www.tesla.com/careers/search/job/262815",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software QA Engineer, Document Systems",
+        "source": "vanshb03",
+        "id": "8255bf83-7a1a-4621-940a-a24b0879d221",
+        "date_posted": 1771169981,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1771169987,
+        "url": "https://www.tesla.com/careers/search/job/262739",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software QA Engineer, Update Systems Validation, Vehicle Software",
+        "source": "vanshb03",
+        "id": "b4f72a92-0f15-49a3-9c85-0877c3ffd2f3",
+        "date_posted": 1771169987,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1771169998,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556748514",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "0c2ce10a-6dfd-4b05-8db5-aa92953e2629",
+        "date_posted": 1771169998,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1771170003,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556640236",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "6aeb4a26-ce46-423c-b31a-5271872709b8",
+        "date_posted": 1771170003,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1771170007,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556640145",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "7467eab7-49d8-41eb-9550-cf00c3952f18",
+        "date_posted": 1771170007,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1771170009,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Formal-Verification-Engineer---New-College-Grad-2026_JR2013065",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2026: Formal Verification Engineer",
+        "source": "vanshb03",
+        "id": "d14c5ae0-88de-4c46-bde6-a3108628fa3b",
+        "date_posted": 1771170009,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1771170012,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/GPU-Power-Architect---New-College-Grad-2026_JR2012838",
+        "locations": [
+            "Santa Clara, CA",
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2026: GPU Power Architect",
+        "source": "vanshb03",
+        "id": "9914e1ff-7b5b-4f38-b117-4cbb0fdfe381",
+        "date_posted": 1771170012,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1771170016,
+        "url": "https://www.amazon.jobs/en/jobs/3177934/software-development-engineer-2026-us",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Software Development Engineer",
+        "source": "vanshb03",
+        "id": "f125c601-119f-4507-bc46-eaa173e1eb66",
+        "date_posted": 1771170016,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1771170021,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556668412",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Network Automation Engineer",
+        "source": "vanshb03",
+        "id": "c3d9e0fb-9581-45c0-ad71-fa109fa8568c",
+        "date_posted": 1771170021,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1771170023,
+        "url": "https://job-boards.greenhouse.io/airtable/jobs/8409376002",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Airtable",
+        "title": "New Grad 2026: Software Engineer",
+        "source": "vanshb03",
+        "id": "6067457b-b1d4-4400-972b-4483439a60f3",
+        "date_posted": 1771170023,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1771170029,
+        "url": "https://jobs.ashbyhq.com/ramp/6b9108d1-128d-4fd3-8465-fb514ea0e4c4",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ramp",
+        "title": "Design Engineer, Design Systems",
+        "source": "vanshb03",
+        "id": "0f4a2f08-6e91-40d8-8895-c8318e82811f",
+        "date_posted": 1771170029,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1771170032,
+        "url": "https://www.tesla.com/careers/search/job/262209",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Integration Engineer, Cell Manufacturing",
+        "source": "vanshb03",
+        "id": "a11ff3a8-0f57-4f06-ab9a-27da9dd9b4b7",
+        "date_posted": 1771170032,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1771170037,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556751379",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "93ffe0c2-6434-4876-bf6c-3e57b5f20d06",
+        "date_posted": 1771170037,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1771170039,
+        "url": "https://job-boards.greenhouse.io/earlytalentcerebras/jobs/7621174003",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cerebras Systems",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "e580659a-439e-4b31-83c8-46bee5eab713",
+        "date_posted": 1771170039,
+        "company_url": "",
+        "is_visible": true
     }
 ]
