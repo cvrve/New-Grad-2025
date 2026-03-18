@@ -17859,5 +17859,21 @@
         "date_posted": 1773873316,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1773873832,
+        "url": "https://jobs.lever.co/ivo/56746366-28dd-43e4-8457-ba7a17c43b57",
+        "company_name": "Ivo",
+        "title": "Software Engineer, Frontend",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "muskaan-bawa",
+        "id": "dcf1e018-e792-4d6d-9a0f-9d94f09751ad",
+        "date_posted": 1773873832,
+        "company_url": "",
+        "is_visible": true
     }
 ]
