@@ -17875,5 +17875,32 @@
         "date_posted": 1773873832,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1773879694,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/143333237156913862-software-engineer-ii/",
+        "company_name": "Google",
+        "title": "Software Engineer II, Early Career",
+        "locations": [
+            "Mountain View, CA",
+            "Kirkland, WA",
+            "Los Angeles, CA",
+            "Madison, WI",
+            "New York, NY",
+            "Palo Alto, CA",
+            "Pittsburgh, PA",
+            "Raleigh, NC",
+            "Durham, NC",
+            "San Bruno, CA",
+            "Seattle, WA",
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "382134ec-fc12-43fa-8ab7-1551d5fce28f",
+        "date_posted": 1773879694,
+        "company_url": "",
+        "is_visible": true
     }
 ]
