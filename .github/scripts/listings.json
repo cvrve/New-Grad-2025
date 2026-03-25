@@ -2016,7 +2016,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748405493,
+        "date_updated": 1774442803,
         "url": "https://boards.greenhouse.io/embed/job_app?for=aquaticcapitalmanagement&token=7997477002",
         "company_name": "Aquatic Capital Management",
         "title": "Research Engineer",
@@ -2025,7 +2025,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "1e847dad-0949-47e2-a6f9-23426147dd9d",
         "date_posted": 1748405493,
@@ -6359,14 +6359,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754558731,
+        "date_updated": 1774442804,
         "url": "https://jobs.lever.co/lumafield/0bdaed8e-3234-4073-afa6-410d1362fe25",
         "locations": [
             "Boston, MA",
             "Everett, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Lumafield",
         "title": "Embedded Software Engineer",
         "source": "vanshb03",
@@ -7493,13 +7493,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755115477,
+        "date_updated": 1774442804,
         "url": "https://job-boards.greenhouse.io/figureai/jobs/4589430006",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Figure",
         "title": "Embedded Systems Integration Engineer",
         "source": "vanshb03",
@@ -16273,13 +16273,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1764545642,
+        "date_updated": 1774442805,
         "url": "https://job-boards.greenhouse.io/affirm/jobs/7485068003",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Affirm",
         "title": "New Grad: Software Engineer",
         "source": "vanshb03",
@@ -16517,7 +16517,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1765531872,
+        "date_updated": 1774442805,
         "url": "https://jobs.lever.co/spotify/7032c810-478c-42fc-9807-25553e978343",
         "locations": [
             "New York, NY",
@@ -16525,7 +16525,7 @@
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Spotify",
         "title": "Machine Learning Engineer",
         "source": "vanshb03",
@@ -17584,13 +17584,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1771169971,
+        "date_updated": 1774442805,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556753654",
         "locations": [
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Site Reliability Engineer",
         "source": "vanshb03",
@@ -17648,13 +17648,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1771169998,
+        "date_updated": 1774442805,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556748514",
         "locations": [
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -17664,13 +17664,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1771170003,
+        "date_updated": 1774442805,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556640236",
         "locations": [
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -17680,13 +17680,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1771170007,
+        "date_updated": 1774442805,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556640145",
         "locations": [
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -17746,13 +17746,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1771170021,
+        "date_updated": 1774442805,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556668412",
         "locations": [
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Network Automation Engineer",
         "source": "vanshb03",
@@ -17762,14 +17762,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1771170023,
+        "date_updated": 1774442805,
         "url": "https://job-boards.greenhouse.io/airtable/jobs/8409376002",
         "locations": [
             "San Francisco, CA",
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Airtable",
         "title": "New Grad 2026: Software Engineer",
         "source": "vanshb03",
@@ -17813,13 +17813,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1771170037,
+        "date_updated": 1774442805,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556751379",
         "locations": [
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer",
         "source": "vanshb03",
