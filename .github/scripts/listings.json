@@ -17968,5 +17968,69 @@
         "date_posted": 1774482172,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1774482417,
+        "url": "https://jobs.supermicro.com/job/San-Jose-Software-Engineer-Cali/1376640400/?LinkedIn+Job+Slots=utm_source%3Dlinkedinjobpostings&jr_id=69c4408b6f4f855eeda6ac1e",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Supermicro",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "3931a52d-d124-4c4f-8804-686e20aa79bc",
+        "date_posted": 1774482417,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774482431,
+        "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/308-Sentinel-Drive-Annapolis-Junction-MD/Junior-Software-Engineer_7346?jr_id=69c462e6d5a1016e98db9713",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "AV",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "fbb6dc4b-7f17-404f-be6a-82ea9a95ea42",
+        "date_posted": 1774482431,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774482438,
+        "url": "https://phh.tbe.taleo.net/phh01/ats/careers/v2/viewRequisition?org=BASESOLU&cws=37&rid=330&src=LinkedIn&jr_id=69c44ae133eecf3107948246",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Base-2 Solutions",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "640d4319-ae07-4b4d-a2ae-ae8750e6e7ef",
+        "date_posted": 1774482438,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774482445,
+        "url": "https://finra.wd1.myworkdayjobs.com/FINRA/job/Woodbridge-NJ-Job-Posting/Software-Engineer_R-009806?jr_id=69c44b676f4f855eeda6be9d",
+        "locations": [
+            "Woodbridge, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "FINRA",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "979e5c6e-b396-4533-8e7e-4de006fa4188",
+        "date_posted": 1774482445,
+        "company_url": "",
+        "is_visible": true
     }
 ]
