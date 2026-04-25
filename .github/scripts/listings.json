@@ -18032,5 +18032,55 @@
         "date_posted": 1774482445,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1777085029,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--AI-Networking--New-College-Grad-2026_JR2017100",
+        "locations": [
+            "Santa Clara, CA",
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2026: Software Engineer, AI Networking, Masters",
+        "source": "vanshb03",
+        "id": "23ec7356-d6ba-45de-811a-646058b9ef0b",
+        "date_posted": 1777085029,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1777085056,
+        "url": "https://www.uber.com/global/en/careers/list/157785/",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Uber Technologies, Inc.",
+        "title": "Software Engineer I, Masters",
+        "source": "vanshb03",
+        "id": "a5fa0dcc-3004-4b66-9923-a70584647d7f",
+        "date_posted": 1777085056,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1777085066,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Solutions-Architect--Data-Processing---New-College-Grad-2026_JR2017017",
+        "locations": [
+            "Santa Clara, CA",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2026: Solutions Architect, Data Processing, Masters/PhD",
+        "source": "vanshb03",
+        "id": "6f24ef40-ffc2-4ce8-b809-28cabf727ecf",
+        "date_posted": 1777085066,
+        "company_url": "",
+        "is_visible": true
     }
 ]
