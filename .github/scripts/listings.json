@@ -18082,5 +18082,69 @@
         "date_posted": 1777085066,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1777085196,
+        "url": "https://remitly.wd5.myworkdayjobs.com/Remitly_Careers/job/Seattle-Washington-United-States/Software-Development-Engineer-1--Pricing-Platform_R_106145",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Remitly",
+        "title": "Software Development Engineer 1, Pricing Platform",
+        "source": "vanshb03",
+        "id": "4ce84df5-57e1-4be8-96cb-a0bb1c29c236",
+        "date_posted": 1777085196,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1777085202,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/en-GB/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Embedded-Software-Engineer-I_01840903",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Embedded Software Engineer I",
+        "source": "vanshb03",
+        "id": "d26f9a86-c7e9-4409-a2e0-99121faa70da",
+        "date_posted": 1777085202,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1777085209,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--FlashInfer---New-College-Grad-2026_JR2017076",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2026: Deep Learning Software Engineer, FlashInfer",
+        "source": "vanshb03",
+        "id": "eb83b40f-06d0-471d-a354-2b993ca7872d",
+        "date_posted": 1777085209,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1777085216,
+        "url": "https://lseg.wd3.myworkdayjobs.com/Careers/job/USA-St-Louis-795-Office-Pkwy/FGraduate-Site-Reliability-Engineer_R0119202",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "London Stock Exchange Group (LSEG)",
+        "title": "Site Reliability Engineer",
+        "source": "vanshb03",
+        "id": "8c49e4b0-a69e-4d8c-b47a-8af6aafb20e0",
+        "date_posted": 1777085216,
+        "company_url": "",
+        "is_visible": true
     }
 ]
