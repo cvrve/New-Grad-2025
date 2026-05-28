@@ -38,6 +38,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
  - 🔒 - Job application is closed
 
  > For Canadian new-grad roles, check out [Canada-New-Grad](https://github.com/cvrve/New-Grad/blob/dev/Canada.md).
+ > Supplemental Canada-wide student/recent-grad board: [Hanzilla Jobs](https://jobs.hanzilla.co/new-grad/) lists daily-updated Canadian new-grad, junior, internship, and co-op roles across tech plus adjacent fields.
 
 [⬇️ Jump to bottom ⬇️](https://github.com/cvrve/New-Grad#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
