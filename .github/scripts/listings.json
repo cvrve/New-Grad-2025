@@ -2785,7 +2785,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749297520,
+        "date_updated": 1783642923,
         "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/4749910007",
         "company_name": "TransMarket Group",
         "title": "Junior Algorithmic Trader",
@@ -2793,7 +2793,7 @@
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "61036364-f08a-45c9-884f-d9172f7d279d",
         "date_posted": 1749297520,
@@ -2817,7 +2817,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749297553,
+        "date_updated": 1783642923,
         "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/4749911007",
         "company_name": "TransMarket Group",
         "title": "Junior Quantitative Trader",
@@ -2825,7 +2825,7 @@
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "2251a96c-a962-4073-b7aa-06aad941eb96",
         "date_posted": 1749297553,
@@ -3624,13 +3624,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751750932,
+        "date_updated": 1783642923,
         "url": "https://jobs.lever.co/palantir/dea9d3d5-75b2-4588-b7bd-585a47b79c8c",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Palantir",
         "title": "New Grad: Software Engineer",
         "source": "vanshb03",
@@ -5605,7 +5605,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754382618,
+        "date_updated": 1783642924,
         "url": "https://job-boards.greenhouse.io/humeai/jobs/4856037008",
         "locations": [
             "New York, NY",
@@ -5613,7 +5613,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Hume AI",
         "title": "Product Manager, Growth",
         "source": "vanshb03",
@@ -9496,14 +9496,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1756921579,
+        "date_updated": 1783642924,
         "url": "https://jobs.lever.co/ivo/1629cbb2-c07c-4214-a1e2-b4e96c9cc66c",
         "company_name": "Ivo",
         "title": "Software Engineer",
         "locations": [
             "San Francisco, CA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "39031a82-c141-43ad-bbcc-f6d2bc02f9bd",
         "date_posted": 1756921579,
@@ -9966,14 +9966,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1757068097,
+        "date_updated": 1783642924,
         "url": "https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c",
         "company_name": "Valkyrie Trading",
         "title": "Junior Software Engineer",
         "locations": [
             "Chicago, IL"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "25a9a606-7ae0-4585-aa8c-6a6413691ea2",
         "date_posted": 1757068097,
@@ -10223,13 +10223,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757306204,
+        "date_updated": 1783642924,
         "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4592324005",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Glean",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -10554,13 +10554,13 @@
         "sponsorship": "Offers Sponsorship"
     },
     {
-        "date_updated": 1757346807,
+        "date_updated": 1783642924,
         "url": "https://jobs.lever.co/voleon/ce0bda1f-3d5a-44ac-8ab3-8578d49d344c",
         "locations": [
             "Berkeley, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Voleon",
         "title": "Associate Member of Trading Staff",
         "source": "vanshb03",
@@ -10848,13 +10848,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757465367,
+        "date_updated": 1783642924,
         "url": "https://job-boards.greenhouse.io/scaleai/jobs/4605996005",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Scale",
         "title": "New Grad: Software Engineer",
         "source": "vanshb03",
@@ -13236,13 +13236,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760208362,
+        "date_updated": 1783642924,
         "url": "https://job-boards.greenhouse.io/appian/jobs/7287884",
         "locations": [
             "McLean, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Appian",
         "title": "Product Engineer",
         "source": "vanshb03",
@@ -17536,13 +17536,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1771169955,
+        "date_updated": 1783642925,
         "url": "https://jobs.lever.co/spotify/ad5ef898-b800-4213-a63e-e39a97df9cfb",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Spotify",
         "title": "Site Reliability Engineer",
         "source": "vanshb03",
@@ -17829,13 +17829,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1771170039,
+        "date_updated": 1783642925,
         "url": "https://job-boards.greenhouse.io/earlytalentcerebras/jobs/7621174003",
         "locations": [
             "Sunnyvale, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cerebras Systems",
         "title": "New Grad: Software Engineer",
         "source": "vanshb03",
@@ -17845,7 +17845,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773873316,
+        "date_updated": 1783642925,
         "url": "https://jobs.lever.co/ivo/3ce9dc16-90fd-4b99-b4b9-dfd48ec1a50d",
         "company_name": "Ivo",
         "title": "Software Engineer, Backend",
@@ -17853,7 +17853,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "muskaan-bawa",
         "id": "522f8d79-2e31-47cb-ad24-6c2756fbb084",
         "date_posted": 1773873316,
@@ -17861,7 +17861,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773873832,
+        "date_updated": 1783642925,
         "url": "https://jobs.lever.co/ivo/56746366-28dd-43e4-8457-ba7a17c43b57",
         "company_name": "Ivo",
         "title": "Software Engineer, Frontend",
@@ -17869,7 +17869,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "muskaan-bawa",
         "id": "dcf1e018-e792-4d6d-9a0f-9d94f09751ad",
         "date_posted": 1773873832,
