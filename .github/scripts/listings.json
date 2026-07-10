@@ -18210,5 +18210,101 @@
         "date_posted": 1777085624,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1783638714,
+        "url": "https://job-boards.greenhouse.io/simplisafe/jobs/8049515",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SimpliSafe",
+        "title": "Software Engineer I",
+        "source": "vanshb03",
+        "id": "d8cea82b-20ee-4b0d-9c5c-299b0d31dd79",
+        "date_posted": 1783638714,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1783640550,
+        "url": "https://jobs.uber.com/en/jobs/160017/?_csid=BOBcQVO6jwRuNsBKbjoAZA&effect=&sm_flow_id=92Yhskrz&state=xlA80FxvL-2272sFxrCsxXWLk7KQR60tJLE43FsTxHI%3D",
+        "locations": [
+            "Seattle, Washington"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Uber Technologies, Inc.",
+        "title": "Software Engineer I",
+        "source": "vanshb03",
+        "id": "805b10d4-d4dd-455a-9401-0e512e692c42",
+        "date_posted": 1783640550,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1783640567,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/en-GB/REC_RTX_Ext_Gateway/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineer-I---Onsite-_01857157",
+        "locations": [
+            "Fullerton, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Software Engineer I",
+        "source": "vanshb03",
+        "id": "686447d0-da12-4dc6-9a6c-61b2383f8f15",
+        "date_posted": 1783640567,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1783640573,
+        "url": "https://job-boards.greenhouse.io/simplisafe/jobs/8049510",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SimpliSafe",
+        "title": "Software Engineer I",
+        "source": "vanshb03",
+        "id": "6a920c06-2a16-41ed-92a7-cc8664338cb7",
+        "date_posted": 1783640573,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1783640602,
+        "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Earth-City-MO/Software-Engineer-1--Backend-UI-and-AI-_2026-0018795",
+        "locations": [
+            "Earth City, MO"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "U.S. Bank",
+        "title": "Software Engineer 1 (Backend UI and AI)",
+        "source": "vanshb03",
+        "id": "1f28598c-3fa5-4ad3-a3a6-5e010f87b444",
+        "date_posted": 1783640602,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1783640608,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Entry-Level-Software-Developer_R-00186923",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Software Developer",
+        "source": "vanshb03",
+        "id": "61d259e9-2786-4194-8484-4282934a210b",
+        "date_posted": 1783640608,
+        "company_url": "",
+        "is_visible": true
     }
 ]
