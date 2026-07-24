@@ -18260,13 +18260,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1783640573,
+        "date_updated": 1784878794,
         "url": "https://job-boards.greenhouse.io/simplisafe/jobs/8049510",
         "locations": [
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "SimpliSafe",
         "title": "Software Engineer I",
         "source": "vanshb03",
