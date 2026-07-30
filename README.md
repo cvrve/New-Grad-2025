@@ -1,8 +1,5 @@
 # New Grad Positions by V
-Use this repo to share and keep track of entry-level software, tech, CS, PM, quant jobs for 2025 & 2026 new graduates.
-
-The list is maintained collaboratively by [WeCracked](https://wecracked.com/), and [Resumes.fyi](https://resumes.fyi/)!
-
+Use this repo to share and keep track of entry-level software, tech, CS, PM, quant jobs for 2026 & 2027 new graduates.
 
 :warning: Please note that this repository is exclusively for roles in the United States, Canada, or Remote positions :earth_americas:
 
