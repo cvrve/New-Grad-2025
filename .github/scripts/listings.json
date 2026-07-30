@@ -12264,7 +12264,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1785448040,
+        "date_updated": 1758841377,
         "url": "https://northmark.wd108.myworkdayjobs.com/en-US/NMS/job/Graduate-Program_R12714",
         "company_name": "NorthMark Strategies",
         "title": "New Grad: Software Engineer",
@@ -12272,7 +12272,7 @@
             "Dallas, TX"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
+        "active": true,
         "source": "TimothyNaumov",
         "id": "754cebef-41c8-4312-8b5a-4c8f81ac3d41",
         "date_posted": 1758841377,
@@ -13526,14 +13526,14 @@
         "sponsorship": "Offers Sponsorship"
     },
     {
-        "date_updated": 1785448041,
+        "date_updated": 1760482769,
         "url": "https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/XMLNAME-2026-Early-Career---Gen-AI---Data-Engineering-Analyst---United-States--Atlanta--GA--_JR2505609-1",
         "company_name": "AIG",
         "title": "Early Career Analyst, Gen AI, Data Engineering",
         "locations": [
             "Atlanta, GA"
         ],
-        "active": false,
+        "active": true,
         "source": "vanshb03",
         "id": "4031dc4a-ff3c-4ed5-9f1e-f2ec1906d73a",
         "date_posted": 1760482769,
@@ -13766,13 +13766,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1785448040,
+        "date_updated": 1760650256,
         "url": "https://groundswell.wd12.myworkdayjobs.com/groundswell/job/McLean-VA/Technical-Consultant--Campus-Recruiting-Entry-Level-_JR100868",
         "locations": [
             "McLean, VA"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "Groundswell",
         "title": "Technical Consultant",
         "source": "vanshb03",
@@ -15681,14 +15681,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1785448042,
+        "date_updated": 1762783069,
         "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-I_RQ210148-1",
         "company_name": "General Dynamics Information Technology",
         "title": "Software Engineer I",
         "locations": [
             "Annapolis Junction, MD"
         ],
-        "active": false,
+        "active": true,
         "source": "vanshb03",
         "id": "1ef7b944-6a96-493c-abd7-9e8b331a23d8",
         "date_posted": 1762783069,
@@ -17231,13 +17231,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1785448043,
+        "date_updated": 1769926587,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Power-Methodology-and-Modeling-Engineer---New-College-Grad-2026_JR2012047",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "NVIDIA",
         "title": "New Grad 2026: Power Methodology and Modeling Engineer",
         "source": "vanshb03",
@@ -17327,13 +17327,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1785448043,
+        "date_updated": 1769926609,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Deep-Learning-Software-Engineer--FlashInfer---New-College-Grad-2025_JR2002086",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "NVIDIA",
         "title": "New Grad 2025: Deep Learning Software Engineer, FlashInfer",
         "source": "vanshb03",
@@ -17600,13 +17600,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1785448044,
+        "date_updated": 1771169973,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/ASIC-RTL-Integration-and-Netlisting-Engineer---New-College-Grad-2026_JR2013172",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "NVIDIA",
         "title": "New Grad 2026: ASIC RTL Integration and Netlisting Engineer",
         "source": "vanshb03",
@@ -17713,14 +17713,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1785448043,
+        "date_updated": 1771170012,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/GPU-Power-Architect---New-College-Grad-2026_JR2012838",
         "locations": [
             "Santa Clara, CA",
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "NVIDIA",
         "title": "New Grad 2026: GPU Power Architect",
         "source": "vanshb03",
@@ -17954,13 +17954,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1785448043,
+        "date_updated": 1774482172,
         "url": "https://ultra.wd3.myworkdayjobs.com/en-GB/ultra-careers/job/Tampa-FL-United-States/Software-Engineer-1_REQ-11707-1",
         "locations": [
             "Tampa, FL"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
+        "active": true,
         "company_name": "Ultra Intelligence & Communications",
         "title": "Software Engineer 1",
         "source": "vanshb03",
@@ -17986,13 +17986,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1785448042,
+        "date_updated": 1774482431,
         "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/308-Sentinel-Drive-Annapolis-Junction-MD/Junior-Software-Engineer_7346?jr_id=69c462e6d5a1016e98db9713",
         "locations": [
             "Annapolis Junction, MD"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
+        "active": true,
         "company_name": "AV",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -18018,13 +18018,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1785448043,
+        "date_updated": 1774482445,
         "url": "https://finra.wd1.myworkdayjobs.com/FINRA/job/Woodbridge-NJ-Job-Posting/Software-Engineer_R-009806?jr_id=69c44b676f4f855eeda6be9d",
         "locations": [
             "Woodbridge, NJ"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "FINRA",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -18034,14 +18034,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1785448045,
+        "date_updated": 1777085029,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--AI-Networking--New-College-Grad-2026_JR2017100",
         "locations": [
             "Santa Clara, CA",
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "NVIDIA",
         "title": "New Grad 2026: Software Engineer, AI Networking, Masters",
         "source": "vanshb03",
@@ -18067,14 +18067,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1785448045,
+        "date_updated": 1777085066,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Solutions-Architect--Data-Processing---New-College-Grad-2026_JR2017017",
         "locations": [
             "Santa Clara, CA",
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "NVIDIA",
         "title": "New Grad 2026: Solutions Architect, Data Processing, Masters/PhD",
         "source": "vanshb03",
@@ -18084,13 +18084,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1785448044,
+        "date_updated": 1777085196,
         "url": "https://remitly.wd5.myworkdayjobs.com/Remitly_Careers/job/Seattle-Washington-United-States/Software-Development-Engineer-1--Pricing-Platform_R_106145",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "Remitly",
         "title": "Software Development Engineer 1, Pricing Platform",
         "source": "vanshb03",
@@ -18100,13 +18100,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1785448044,
+        "date_updated": 1777085202,
         "url": "https://globalhr.wd5.myworkdayjobs.com/en-GB/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Embedded-Software-Engineer-I_01840903",
         "locations": [
             "El Segundo, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
+        "active": true,
         "company_name": "RTX",
         "title": "Embedded Software Engineer I",
         "source": "vanshb03",
@@ -18116,13 +18116,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1785448046,
+        "date_updated": 1777085209,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--FlashInfer---New-College-Grad-2026_JR2017076",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "NVIDIA",
         "title": "New Grad 2026: Deep Learning Software Engineer, FlashInfer",
         "source": "vanshb03",
@@ -18132,13 +18132,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1785448046,
+        "date_updated": 1777085216,
         "url": "https://lseg.wd3.myworkdayjobs.com/Careers/job/USA-St-Louis-795-Office-Pkwy/FGraduate-Site-Reliability-Engineer_R0119202",
         "locations": [
             "St. Louis, MO"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "London Stock Exchange Group (LSEG)",
         "title": "Site Reliability Engineer",
         "source": "vanshb03",
@@ -18164,13 +18164,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1785448046,
+        "date_updated": 1777085567,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-QA-Engineer--New-College-Grad-2026_JR2016688",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "NVIDIA",
         "title": "New Grad 2026: Software QA Engineer",
         "source": "vanshb03",
@@ -18180,13 +18180,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1785448045,
+        "date_updated": 1777085618,
         "url": "https://globalhr.wd5.myworkdayjobs.com/en-GB/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/New-Grad-2026-Full-Time---Software-Engineer---Military-Avionics-FMS_01840038",
         "locations": [
             "Cedar Rapids, IA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
+        "active": true,
         "company_name": "Collins Aerospace",
         "title": "Software Engineer I",
         "source": "vanshb03",
@@ -18196,13 +18196,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1785448047,
+        "date_updated": 1777085624,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-AI-Engineer--Silicon-Co-Design-Group--New-College-Grad-2026_JR2015814",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "NVIDIA",
         "title": "New Grad 2026: Applied AI Engineer, Silicon Co-Design Group, Masters/PhD",
         "source": "vanshb03",
@@ -18244,13 +18244,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1785448045,
+        "date_updated": 1783640567,
         "url": "https://globalhr.wd5.myworkdayjobs.com/en-GB/REC_RTX_Ext_Gateway/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineer-I---Onsite-_01857157",
         "locations": [
             "Fullerton, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
+        "active": true,
         "company_name": "RTX",
         "title": "Software Engineer I",
         "source": "vanshb03",
@@ -18276,13 +18276,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1785448047,
+        "date_updated": 1783640602,
         "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Earth-City-MO/Software-Engineer-1--Backend-UI-and-AI-_2026-0018795",
         "locations": [
             "Earth City, MO"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
+        "active": true,
         "company_name": "U.S. Bank",
         "title": "Software Engineer 1 (Backend UI and AI)",
         "source": "vanshb03",
