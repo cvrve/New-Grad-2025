@@ -630,10 +630,10 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **RTX** | Embedded Software Engineer I 🇺🇸 | El Segundo, CA | 🔒 | Apr 25 |
 | **Remitly** | Software Development Engineer 1, Pricing Platform | Seattle, WA | 🔒 | Apr 25 |
 | **NVIDIA** | New Grad 2026: Applied AI Engineer, Silicon Co-Design Group, Masters/PhD | Santa Clara, CA | 🔒 | Apr 25 |
-| **NVIDIA** | New Grad 2026: Deep Learning Software Engineer, FlashInfer | Santa Clara, CA | 🔒 | Apr 25 |
-| **NVIDIA** | New Grad 2026: Software QA Engineer | Santa Clara, CA | 🔒 | Apr 25 |
 | **NVIDIA** | New Grad 2026: Software Engineer, AI Networking, Masters | Santa Clara, CA</br>Seattle, WA | 🔒 | Apr 25 |
 | **NVIDIA** | New Grad 2026: Solutions Architect, Data Processing, Masters/PhD | Santa Clara, CA</br>Remote | 🔒 | Apr 25 |
+| **NVIDIA** | New Grad 2026: Deep Learning Software Engineer, FlashInfer | Santa Clara, CA | 🔒 | Apr 25 |
+| **NVIDIA** | New Grad 2026: Software QA Engineer | Santa Clara, CA | 🔒 | Apr 25 |
 | **London Stock Exchange Group (LSEG)** | Site Reliability Engineer | St. Louis, MO | 🔒 | Apr 25 |
 | **Collins Aerospace** | Software Engineer I 🇺🇸 | Cedar Rapids, IA | 🔒 | Apr 25 |
 | **Ultra Intelligence & Communications** | Software Engineer 1 🇺🇸 | Tampa, FL | 🔒 | Mar 25 |
