@@ -18531,5 +18531,21 @@
         "date_posted": 1785529003,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1785529003,
+        "url": "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineering-VA-20171/1414531300/?ats=successfactors",
+        "locations": [
+            "Reston, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "L3Harris Technologies",
+        "title": "Software Engineering Associate",
+        "source": "vanshb03",
+        "id": "a68dc0db-f7ee-4e2b-b372-428f01a47d60",
+        "date_posted": 1785529003,
+        "company_url": "",
+        "is_visible": true
     }
 ]
