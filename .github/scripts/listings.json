@@ -18434,5 +18434,21 @@
         "date_posted": 1785529003,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1785529003,
+        "url": "https://careers.cisco.com/global/en/job/1449197",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cisco",
+        "title": "Software Engineer 1",
+        "source": "vanshb03",
+        "id": "8e5e3f80-e111-43ad-94e7-502828c21003",
+        "date_posted": 1785529003,
+        "company_url": "",
+        "is_visible": true
     }
 ]
