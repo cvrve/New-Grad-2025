@@ -18354,5 +18354,21 @@
         "date_posted": 1785529003,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1785529003,
+        "url": "https://careers.duke.edu/job/Durham-Analytics-Engineer-NC-27710/1414289400/?ats=successfactors",
+        "locations": [
+            "Durham, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Duke University",
+        "title": "Analytics Engineer",
+        "source": "vanshb03",
+        "id": "17310c9d-07e8-47a5-8ea1-a0ccb7245fc4",
+        "date_posted": 1785529003,
+        "company_url": "",
+        "is_visible": true
     }
 ]
