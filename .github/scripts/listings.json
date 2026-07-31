@@ -18418,5 +18418,21 @@
         "date_posted": 1785529003,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1785529003,
+        "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA--AI-Engineer_JR5108-1",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Axos Bank",
+        "title": "AI Engineer, Consumer IT AI Team",
+        "source": "vanshb03",
+        "id": "25974166-588f-4c25-b5f0-48c77f0248d7",
+        "date_posted": 1785529003,
+        "company_url": "",
+        "is_visible": true
     }
 ]
