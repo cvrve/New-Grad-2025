@@ -18450,5 +18450,21 @@
         "date_posted": 1785529003,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1785529003,
+        "url": "https://jobs.apple.com/en-us/details/200657382",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apple",
+        "title": "Cellular Power Optimization Software Engineer, Wireless Technologies & Ecosystems",
+        "source": "vanshb03",
+        "id": "b6b4d30c-35b1-4ffa-8fa6-7d0e21afe5dd",
+        "date_posted": 1785529003,
+        "company_url": "",
+        "is_visible": true
     }
 ]
