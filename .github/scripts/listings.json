@@ -18386,5 +18386,21 @@
         "date_posted": 1785529003,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1785529003,
+        "url": "https://www.esri.com/careers/5198108007?gh_jid=5198108007",
+        "locations": [
+            "West Redlands, Redlands, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Esri",
+        "title": "Product Engineer 1, ArcGIS Maps SDKs",
+        "source": "vanshb03",
+        "id": "730549f8-32b7-4dce-8fe9-f9d2ff6fac14",
+        "date_posted": 1785529003,
+        "company_url": "",
+        "is_visible": true
     }
 ]
