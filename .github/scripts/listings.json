@@ -18499,5 +18499,21 @@
         "date_posted": 1785529003,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1785529003,
+        "url": "https://ats.rippling.com/reverb-careers/jobs/25af40a7-e81c-4748-bac2-51e59e78196b",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Reverb",
+        "title": "Software Engineer, Shipping",
+        "source": "vanshb03",
+        "id": "d1e377c2-c603-4205-bfb8-8f72e79b46ec",
+        "date_posted": 1785529003,
+        "company_url": "",
+        "is_visible": true
     }
 ]
