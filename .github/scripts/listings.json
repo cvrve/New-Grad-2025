@@ -18482,5 +18482,22 @@
         "date_posted": 1785529003,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1785529003,
+        "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Leap-Software-Engineer_2132114",
+        "locations": [
+            "Westlake, TX",
+            "Durham, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fidelity Investments",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "1e7ede2c-e628-4eda-a241-801dd66a5474",
+        "date_posted": 1785529003,
+        "company_url": "",
+        "is_visible": true
     }
 ]
