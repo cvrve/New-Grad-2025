@@ -18579,5 +18579,38 @@
         "date_posted": 1785529003,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1785606896,
+        "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708724005",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Chicago Trading Company",
+        "title": "New Grad 2027: Quant Trading Associate",
+        "source": "vanshb03",
+        "id": "de40bf50-d5a1-4d59-9de3-0f5ac9219351",
+        "date_posted": 1785606896,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1785606902,
+        "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4709991005",
+        "locations": [
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Chicago Trading Company",
+        "title": "New Grad 2027: Associate Engineer",
+        "source": "vanshb03",
+        "id": "ff85c022-27e8-41b3-a013-b29faa128d82",
+        "date_posted": 1785606902,
+        "company_url": "",
+        "is_visible": true
     }
 ]
