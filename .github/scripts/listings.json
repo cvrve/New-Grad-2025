@@ -18612,5 +18612,21 @@
         "date_posted": 1785606902,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1785972488,
+        "url": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Quora",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "0d58d2ff-e7a1-4536-aaa2-810a10644e89",
+        "date_posted": 1785972488,
+        "company_url": "",
+        "is_visible": true
     }
 ]
