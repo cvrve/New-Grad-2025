@@ -51,16 +51,13 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **L3Harris Technologies** | Software Engineering Associate | Reston, VA | <a href="https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineering-VA-20171/1414531300/?ats=successfactors&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | **L3Harris Technologies** | Software Engineering Associate | Colorado Springs, CO | <a href="https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineering-CO-80925/1414513700/?ats=successfactors&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | **L3Harris Technologies** | Software Engineering Associate | Palm Bay, FL | <a href="https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineeriing-FL-32905/1414475800/?ats=successfactors&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
-| **Fidelity Investments** | Software Engineer | Westlake, TX</br>Durham, NC | <a href="https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Leap-Software-Engineer_2132114?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | **Esri** | Product Engineer 1, ArcGIS Maps SDKs | West Redlands, Redlands, CA | <a href="https://www.esri.com/careers/5198108007?gh_jid=5198108007&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | **Duke University** | Analytics Engineer | Durham, NC | <a href="https://careers.duke.edu/job/Durham-Analytics-Engineer-NC-27710/1414289400/?ats=successfactors&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | **Cisco** | Software Engineer 1 | San Jose, CA | <a href="https://careers.cisco.com/global/en/job/1449197?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
-| **Axos Bank** | AI Engineer, Consumer IT AI Team | San Diego, CA | <a href="https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA--AI-Engineer_JR5108-1?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | **Artera** | Software Developer Associate | Seattle, WA | <a href="https://jobs.lever.co/artera-2/eae88c70-fbf5-4525-890c-d3f9377418b0?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | **Apple** | Cellular Power Optimization Software Engineer, Wireless Technologies & Ecosystems | San Diego, CA | <a href="https://jobs.apple.com/en-us/details/200657382?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | **Amerisure** | Software Engineer 1 | Southfield, MI | <a href="https://osv-amerisure.wd5.myworkdayjobs.com/Amerisure/job/Farmington-Hills-MI/Software-Engineer-I_JR-002063?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | **Appian** | New Grad 2027: Software Engineer 🛂 | McLean, VA | <a href="https://careers.appian.com/jobs/8041241-software-engineer--2027-graduates-?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
-| **Appian** | New Grad 2027: Associate Solution Engineer 🇺🇸 | McLean, VA | <a href="https://job-boards.greenhouse.io/appian/jobs/8035750?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | **Uber Technologies, Inc.** | Software Engineer I | Seattle, Washington | <a href="https://jobs.uber.com/en/jobs/160017/?_csid=BOBcQVO6jwRuNsBKbjoAZA&effect=&sm_flow_id=92Yhskrz&state=xlA80FxvL-2272sFxrCsxXWLk7KQR60tJLE43FsTxHI%3D&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
 | **SimpliSafe** | Software Engineer I | Boston, MA | <a href="https://job-boards.greenhouse.io/simplisafe/jobs/8049515?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
 | **Uber Technologies, Inc.** | Software Engineer I, Masters | San Francisco, CA | <a href="https://www.uber.com/global/en/careers/list/157785/?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 25 |
@@ -86,7 +83,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Tesla** | Maps & Navigation Algorithms Engineer, Vehicle Controls | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/261137?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 01 |
 | **Tesla** | Test Engineer, Optimus | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/257746?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 01 |
 | **Profound** | New Grad: Software Engineer | New York City, NY</br>San Francisco, CA | <a href="https://www.tryprofound.com/careers/1d4a905b-7b91-4763-88dd-7abc7562fbcd?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 01 |
-| **NVIDIA** | New Grad 2026: ASIC Hardware Design Engineer | Austin, TX | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/ASIC-Hardware-Design-Engineer---New-College-Grad-2026_JR2011787?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 01 |
 | **Apple** | Software Engineer | Austin, TX | <a href="https://jobs.apple.com/en-us/details/200643885-0157/software-engineer-is-t-early-career-opportunities?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 01 |
 | **Apple** | Software Engineer | Sunnyvale, CA | <a href="https://jobs.apple.com/en-us/details/200643886-3956/software-engineer-is-t-early-career-opportunities?team=SFTWR&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 01 |
 | **Amazon** | Security Engineer I, Security Incident Response Team (SIRT) | Seattle, WA | <a href="https://www.amazon.jobs/en/jobs/3171130/security-engineer-i-security-incident-response-team-sirt-security-incident-response-team-sirt?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 01 |
@@ -641,6 +637,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Qualtrics** | Machine Learning Engineer I | Seattle, WA | <a href="https://www.qualtrics.com/careers/us/en/job/6774164/Machine-Learning-Engineer-I-Data-Insights?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
 | **Amazon** | System Development Engineer, Project Kuiper | Redmond, WA | <a href="https://www.amazon.jobs/en/jobs/2945843/system-development-engineer-project-kuiper?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
 | **Qualcomm** | Embedded DSP Software Engineer | San Diego, CA | <a href="https://careers.qualcomm.com/careers/job/446704474013?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
+| **Fidelity Investments** | Software Engineer | Westlake, TX</br>Durham, NC | 🔒 | Jul 31 |
+| **Axos Bank** | AI Engineer, Consumer IT AI Team | San Diego, CA | 🔒 | Jul 31 |
+| **Appian** | New Grad 2027: Associate Solution Engineer 🇺🇸 | McLean, VA | 🔒 | Jul 24 |
 | **U.S. Bank** | Software Engineer 1 (Backend UI and AI) 🛂 | Earth City, MO | 🔒 | Jul 09 |
 | **SimpliSafe** | Software Engineer I | Boston, MA | 🔒 | Jul 09 |
 | **RTX** | Software Engineer I 🇺🇸 | Fullerton, CA | 🔒 | Jul 09 |
@@ -670,6 +669,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Microsoft** | Software Engineer | United States | 🔒 | Feb 15 |
 | **Cerebras Systems** | New Grad: Software Engineer | Sunnyvale, CA | 🔒 | Feb 15 |
 | **Airtable** | New Grad 2026: Software Engineer | San Francisco, CA</br>New York, NY | 🔒 | Feb 15 |
+| **NVIDIA** | New Grad 2026: ASIC Hardware Design Engineer | Austin, TX | 🔒 | Feb 01 |
 | **NVIDIA** | New Grad 2026: Power Methodology and Modeling Engineer | Austin, TX | 🔒 | Feb 01 |
 | **NVIDIA** | New Grad 2025: Deep Learning Software Engineer, FlashInfer | Santa Clara, CA | 🔒 | Feb 01 |
 | **Microsoft** | Machine Learning Engineer | United States | 🔒 | Feb 01 |
